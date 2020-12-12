@@ -92,19 +92,11 @@ let app = new Vue({
             },
             {
                 "lv" : 50,
-                "genre" : "カウボーイ(EX)",
-                "song" : "Blue River",
-                "pf_rate" : 0.005025125628140704,
-                "fc_rate" : 0.05025125628140704,
-                "clear_rate" : 0.7638190954773869
-            },
-            {
-                "lv" : 50,
                 "genre" : "カウボーイ(UPPER)(EX)",
                 "song" : "Blue River",
-                "pf_rate" : 0.006711409395973154,
-                "fc_rate" : 0.053691275167785234,
-                "clear_rate" : 0.7718120805369127
+                "pf_rate" : 0.005,
+                "fc_rate" : 0.05,
+                "clear_rate" : 0.765
             },
             {
                 "lv" : 50,
