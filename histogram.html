@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <title>グラフ</title>
+</head>
+<body>
+    <h1>ヒストグラム</h1>
+    <canvas id="myHistogramChart"></canvas>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+
+    <script>
+        var ctx = document.getElementById("myHistogramChart").getContext('2d');
+        var dataValues = [148, 9, 10, 10, 10, 8, 14, 11, 10, 4, 8, 23];
+        var dataLabels = [0, 99.0, 99.1, 99.2, 99.3, 99.4, 99.5, 99.6, 99.7, 99.8, 99.9, 100, 101];
+        var myChart = new Chart(ctx, {
+            type: 'bar'
+            ,data: {
+                labels: dataLabels,
+                datasets: [
+                    {
+                        data: dataValues
+                        ,backgroundColor: 'rgba(255, 99, 132, 1)',
+                    }
+                ]
+            },
+            options: {
+                legend: {
+                    display: false
+                }
+                ,scales: {
+                    xAxes: [
+                        {
+                            display: false
+                            ,barPercentage: 1.3
+                            ,ticks: { max: 100 }
+                        }
+                        ,{
+                            display: true,
+                            ticks: {
+                                autoSkip: false,
+                                max: 101
+                            }
+                        }
+                    ]
+                    ,yAxes: [
+                        {
+                            ticks: { beginAtZero: true }
+                        }
+                    ]
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>
