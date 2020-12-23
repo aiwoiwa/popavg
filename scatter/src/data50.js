@@ -1,110 +1,166 @@
-const data50 =  [
-    {
-        "x" : 0.005747126436781609,
-        "y" : 0,
-        "genre" : "25 o'clock the WORLD(EX)",
-        "song" : "25 o'clock the WORLD"
-    },
-    {
-        "x" : 0.005263157894736842,
-        "y" : 0,
-        "genre" : "Chaos:Q(EX)",
-        "song" : "Chaos:Q"
-    },
-    {
-        "x" : 0.009569377990430622,
-        "y" : 0,
-        "genre" : "L-an!ma(EX)",
-        "song" : "L-an!ma"
-    },
-    {
-        "x" : 0.005555555555555556,
-        "y" : 0,
-        "genre" : "Popperz Chronicle(EX)",
-        "song" : "Popperz Chronicle"
-    },
-    {
-        "x" : 0.00684931506849315,
-        "y" : 0,
-        "genre" : "Popperz Chronicle(UPPER)(EX)",
-        "song" : "Popperz Chronicle"
-    },
-    {
-        "x" : 0.004784688995215311,
-        "y" : 0,
-        "genre" : "o†o(EX)",
-        "song" : "o†o"
-    },
-    {
-        "x" : 0.006060606060606061,
-        "y" : 0,
-        "genre" : "perditus†paradisus(UPPER)(EX)",
-        "song" : "perditus†paradisus"
-    },
-    {
-        "x" : 0.02304147465437788,
-        "y" : 0.004608294930875576,
-        "genre" : "НУМЛ(EX)",
-        "song" : "НУМЛ"
-    },
-    {
-        "x" : 0.024875621890547265,
-        "y" : 0.004975124378109453,
-        "genre" : "ふること(UPPER)(EX)",
-        "song" : "序"
-    },
-    {
-        "x" : 0.010752688172043012,
-        "y" : 0.010752688172043012,
-        "genre" : "インボルク(UPPER)(EX)",
-        "song" : "生命の焔纏いて"
-    },
-    {
-        "x" : 0.08583690987124463,
-        "y" : 0.017167381974248927,
-        "genre" : "エンジェリオン(EX)",
-        "song" : "生命の環を紡いで"
-    },
-    {
-        "x" : 0.052884615384615384,
-        "y" : 0.004807692307692308,
-        "genre" : "カウボーイ(UPPER)(EX)",
-        "song" : "Blue River"
-    },
-    {
-        "x" : 0.01507537688442211,
-        "y" : 0,
-        "genre" : "コアダストビート(UPPER)(EX)",
-        "song" : "真超深ＴＩＯＮ"
-    },
-    {
-        "x" : 0.004608294930875576,
-        "y" : 0,
-        "genre" : "サイレント(EX)",
-        "song" : "音楽"
-    },
-    {
-        "x" : 0.004545454545454545,
-        "y" : 0,
-        "genre" : "ダージュ(EX)",
-        "song" : "ピアノ協奏曲第１番”蠍火”"
-    },
-    {
-        "x" : 0.00881057268722467,
-        "y" : 0,
-        "genre" : "トイコンテンポラリー(EX)",
-        "song" : "シュレーディンガーの猫"
-    },
-    {
-        "x" : 0.009009009009009009,
-        "y" : 0,
-        "genre" : "ムラクモ(EX)",
-        "song" : "少年は空を辿る"
-    },
-    {
-        "x" : 0.004878048780487805,
-        "y" : 0.004878048780487805,
-        "genre" : "辿る君を超えて(EX)",
-        "song" : "辿る君を超えて"
-    }
-];
+const data50 = 
+[
+	{
+		"x" : 0.005681818181818182,
+		"y" : 0,
+		"genre" : "25 o'clock the WORLD(EX)",
+		"song" : "25 o'clock the WORLD",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.0051813471502590676,
+		"y" : 0,
+		"genre" : "Chaos:Q(EX)",
+		"song" : "Chaos:Q",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.009389671361502348,
+		"y" : 0,
+		"genre" : "L-an!ma(EX)",
+		"song" : "L-an!ma",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.005434782608695652,
+		"y" : 0,
+		"genre" : "Popperz Chronicle(EX)",
+		"song" : "Popperz Chronicle",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.006802721088435374,
+		"y" : 0,
+		"genre" : "Popperz Chronicle(UPPER)(EX)",
+		"song" : "Popperz Chronicle",
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.004672897196261682,
+		"y" : 0,
+		"genre" : "o†o(EX)",
+		"song" : "o†o",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.006024096385542169,
+		"y" : 0,
+		"genre" : "perditus†paradisus(UPPER)(EX)",
+		"song" : "perditus†paradisus",
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.02262443438914027,
+		"y" : 0.004524886877828055,
+		"genre" : "НУМЛ(EX)",
+		"song" : "НУМЛ",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.024390243902439025,
+		"y" : 0.004878048780487805,
+		"genre" : "ふること(UPPER)(EX)",
+		"song" : "序",
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.01020408163265306,
+		"y" : 0.01020408163265306,
+		"genre" : "インボルク(UPPER)(EX)",
+		"song" : "生命の焔纏いて",
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.08403361344537816,
+		"y" : 0.01680672268907563,
+		"genre" : "エンジェリオン(EX)",
+		"song" : "生命の環を紡いで",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.05188679245283019,
+		"y" : 0.0047169811320754715,
+		"genre" : "カウボーイ(UPPER)(EX)",
+		"song" : "Blue River",
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.01485148514851485,
+		"y" : 0,
+		"genre" : "コアダストビート(UPPER)(EX)",
+		"song" : "真超深ＴＩＯＮ",
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.004524886877828055,
+		"y" : 0,
+		"genre" : "サイレント(EX)",
+		"song" : "音楽",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.0044444444444444444,
+		"y" : 0,
+		"genre" : "ダージュ(EX)",
+		"song" : "ピアノ協奏曲第１番”蠍火”",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.008620689655172414,
+		"y" : 0,
+		"genre" : "トイコンテンポラリー(EX)",
+		"song" : "シュレーディンガーの猫",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.008849557522123894,
+		"y" : 0,
+		"genre" : "ムラクモ(EX)",
+		"song" : "少年は空を辿る",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	},
+	{
+		"x" : 0.004784688995215311,
+		"y" : 0.004784688995215311,
+		"genre" : "辿る君を超えて(EX)",
+		"song" : "辿る君を超えて",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isVisible" : true
+	}
+]
+; 
