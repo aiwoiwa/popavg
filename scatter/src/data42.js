@@ -1,7 +1,7 @@
 const data42 = 
 [
 	{
-		"x" : 0.5867346938775511,
+		"x" : 0.5918367346938775,
 		"y" : 0.4030612244897959,
 		"genre" : "*ハロー、プラネット。(EX)",
 		"song" : "*ハロー、プラネット。",
@@ -154,8 +154,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.7777777777777778,
-		"y" : 0.5555555555555556,
+		"x" : 0.8,
+		"y" : 0.6,
 		"genre" : "Russian Caravan Rhapsody(UPPER)(H)",
 		"song" : "Russian Caravan Rhapsody",
 		"difficulty" : "HYPER",
@@ -181,8 +181,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.5,
-		"y" : 0.3,
+		"x" : 0.5454545454545454,
+		"y" : 0.2727272727272727,
 		"genre" : "Swinging Skulls(H)",
 		"song" : "Swinging Skulls",
 		"difficulty" : "HYPER",
@@ -244,8 +244,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.7225806451612903,
-		"y" : 0.5419354838709678,
+		"x" : 0.7290322580645161,
+		"y" : 0.5483870967741935,
 		"genre" : "おーまい！らぶりー！すうぃーてぃ！だーりん！（DANCERUSH Style）(EX)",
 		"song" : "おーまい！らぶりー！すうぃーてぃ！だーりん！（DANCERUSH Style）",
 		"difficulty" : "EX",
@@ -298,8 +298,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.6933333333333334,
-		"y" : 0.43333333333333335,
+		"x" : 0.695364238410596,
+		"y" : 0.4304635761589404,
 		"genre" : "アリスサイド・キャスリング(EX)",
 		"song" : "アリスサイド・キャスリング",
 		"difficulty" : "EX",
@@ -748,8 +748,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.7692307692307693,
-		"y" : 0.6282051282051282,
+		"x" : 0.7682926829268293,
+		"y" : 0.6219512195121951,
 		"genre" : "ネバーデッド(EX)",
 		"song" : "Pharaoh★Love",
 		"difficulty" : "EX",
@@ -820,8 +820,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.7272727272727273,
-		"y" : 0.36363636363636365,
+		"x" : 0.6923076923076923,
+		"y" : 0.38461538461538464,
 		"genre" : "ハラショー！おにぎりサーカス団☆(H)",
 		"song" : "ハラショー！おにぎりサーカス団☆",
 		"difficulty" : "HYPER",
@@ -1000,8 +1000,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.8,
-		"y" : 0.4,
+		"x" : 0.8333333333333334,
+		"y" : 0.5,
 		"genre" : "ホピタスコピラ(H)",
 		"song" : "ホピタスコピラ",
 		"difficulty" : "HYPER",
@@ -1351,8 +1351,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.26666666666666666,
-		"y" : 0.2,
+		"x" : 0.29411764705882354,
+		"y" : 0.23529411764705882,
 		"genre" : "朧月覆う雲をも裂きぬ(H)",
 		"song" : "朧月覆う雲をも裂きぬ",
 		"difficulty" : "HYPER",
@@ -1522,8 +1522,8 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.46987951807228917,
-		"y" : 0.3253012048192771,
+		"x" : 0.47191011235955055,
+		"y" : 0.3258426966292135,
 		"genre" : "７７７ -chip sambass arrange-(EX)",
 		"song" : "７７７ -chip sambass arrange-",
 		"difficulty" : "EX",

@@ -145,8 +145,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1559633027522936,
-		"y" : 0.09174311926605505,
+		"x" : 0.17543859649122806,
+		"y" : 0.10526315789473684,
 		"genre" : "Russian Caravan Rhapsody(UPPER)(EX)",
 		"song" : "Russian Caravan Rhapsody",
 		"difficulty" : "EX",
@@ -379,7 +379,7 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.22594142259414227,
+		"x" : 0.2301255230125523,
 		"y" : 0.03347280334728033,
 		"genre" : "サイバーフラメンコ(EX)",
 		"song" : "hora de verdad",
@@ -442,8 +442,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.21100917431192662,
-		"y" : 0.11009174311926606,
+		"x" : 0.2100456621004566,
+		"y" : 0.1095890410958904,
 		"genre" : "トランスコア(UPPER)(EX)",
 		"song" : "FLOWER",
 		"difficulty" : "EX",
@@ -487,8 +487,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3969849246231156,
-		"y" : 0.18090452261306533,
+		"x" : 0.395,
+		"y" : 0.18,
 		"genre" : "ネオクラシカル・ヘヴィメタル(UPPER)(EX)",
 		"song" : "Aithon",
 		"difficulty" : "EX",
