@@ -213,8 +213,8 @@ const chg = () => {
         if(isChecked_CS13     )  all.forEach(arr => arr.filter(item => item.version === 'CS13').forEach(item => item.isVisible = true));
         if(isChecked_CS14     )  all.forEach(arr => arr.filter(item => item.version === 'CS14').forEach(item => item.isVisible = true));
         if(isChecked_CSBest   )  all.forEach(arr => arr.filter(item => item.version === 'CSBest').forEach(item => item.isVisible = true));
-        if(isChecked_PMP      )  all.forEach(arr => arr.filter(item => item.version === 'CSPMP').forEach(item => item.isVisible = true));
-        if(isChecked_PMP2     )  all.forEach(arr => arr.filter(item => item.version === 'CSPMP2').forEach(item => item.isVisible = true));
+        if(isChecked_PMP      )  all.forEach(arr => arr.filter(item => item.version === 'PMP').forEach(item => item.isVisible = true));
+        if(isChecked_PMP2     )  all.forEach(arr => arr.filter(item => item.version === 'PMP2').forEach(item => item.isVisible = true));
         if(isChecked_ee       )  all.forEach(arr => arr.filter(item => item.version === 'ee').forEach(item => item.isVisible = true));
         if(isChecked_ee2      )  all.forEach(arr => arr.filter(item => item.version === 'ee2').forEach(item => item.isVisible = true));
         if(isChecked_Hanken   )  all.forEach(arr => arr.filter(item => item.version === '版権').forEach(item => item.isVisible = true));
