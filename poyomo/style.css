@@ -1,0 +1,147 @@
+/* Katorisenkou:	#43A28C */	
+/* Soumen:			#FFFDF6 */
+/* Yukata:			#675F80 */
+/* Azami:			#CA66A3 */
+/* Furin-no-neiro:	#BEDFC2 */
+
+body {
+	background-color:black;
+}
+
+button{
+	padding: 5px 20px;
+	background-color: #e1e7eb;
+	border-radius: 5px;
+	border: 1px solid #9ea7ab;
+	font-size: 0.7em;
+	color: #1280af;
+}
+
+button:hover{
+	background: #bfdcf1;
+}
+
+button:active{
+	background: #94cdf9;
+}
+
+.clearfix::after {
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.main-container{
+	/* 複数列 */
+	width: 2750px; /* 135*総列数 ※110 = 105 + 5(margin-left) */
+}
+
+.main-item{
+	/* 1列 */
+	float: left;
+	margin-left: 5px;
+	padding: 0;
+	width: 105px; /* .bar-container: width + 2*/
+	background: black;
+}
+
+.bar-container{
+	/* 1小節 */
+	position: relative;
+	width: 103px;	/* .bar-note: width + .bar-num: width */
+	border: 1px solid darkgray;
+}
+
+.bar-container + .bar-container{
+	/* 1小節ごとの線の重なりをなくす */
+	border-top: none;
+}
+
+.bar-note{
+	/* 1小節内のノーツエリア */
+	float: left;
+	height: 80px;	
+	width: 77px;	/* 9*5 + 6*4 + 8*1(note間のスペース) = 77 */
+	margin: 0;
+	padding: 0;
+	line-style: none;
+	background-image: url("./img/popn/bar.png");
+	/* background: #FFFDF6; */
+}
+
+.bar-num{
+	/* 1小節内の小節番号エリア */
+	float: left;
+	margin-right: 0;
+	padding: 0;
+	height: 80px;	
+	width: 26px;
+	text-align: center;
+	font-size: 0.7em;
+	line-height: 80px;
+	background: gray;
+}
+
+.note {
+	position: absolute;
+}
+
+.bpm-line {
+	position: absolute;
+	width: 77px;
+	height: 1px;
+}
+
+.bpm-line-val {
+	position: absolute;
+	height: 10px;
+	font-size: 7px;
+	left: 77px;
+	color:rgb(0,255,0);
+	vertical-align: middle;
+	background-color: gray;
+}
+
+.l1 {
+	left:0px;
+}
+
+.l2 {
+	left:10px;
+}
+
+.l3 {
+	left:17px;
+}
+
+.l4 {
+	left:27px;
+}
+
+.l5 {
+	left:34px;
+}
+
+.l6 {
+	left:44px;
+}
+.l7 {
+	left:51px;
+}
+
+.l8 {
+	left:61px;
+}
+
+.l9 {
+	left:68px;
+}
+
+.combination {
+	/*	同時押し	*/
+}
+
+.is_not_processed {
+	/*	dummy	*/
+}

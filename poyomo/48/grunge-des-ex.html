@@ -1,0 +1,2607 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<title>グランヂデスEX</title>
+		<!--389261574-->
+		<link rel="stylesheet" type="text/css" href="./../style.css">
+		<link rel="stylesheet" type="text/css" href="./../jquery-ui-1.12.1/jquery-ui.min.css">
+		<script type="text/javascript" src="./../jquery-3.3.1.min.js" charset="utf-8"></script>
+		<script type="text/javascript" src="./../jquery-ui-1.12.1/jquery-ui.min.js" charset="utf-8"></script>
+		<script type="text/javascript" src="./../script.js" charset="utf-8"></script>
+		<style>
+			#sortable{
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+				width: auto;
+			}
+			#sortable div{
+				margin: 3px 3px 3px 0;
+				padding: 1px;
+				float: left;
+				width: 60px;
+				height: 20px;
+				font-size: 1em;
+				text-align: center;
+			}
+			#l1, #l9{
+				background-color: rgba(211, 209, 206, 0.5);
+			}
+			#l2, #l8{
+				background-color: rgba(251, 242,  15, 0.5);
+			}
+			#l3, #l7{
+				background-color: rgba(  5, 147,  36, 0.5);
+			}
+			#l4, #l6{
+				background-color: rgba( 21,  83, 220, 0.5);
+			}
+			#l5{
+				background-color: rgba(243,  28,  57, 0.5);
+			}
+		</style>
+	</head>
+	
+	<body>
+		<header>
+			<p style="color: white;">グランヂデスEX, ULTRA BUTTERFLY(坤剛力), Des-ROW・組 スペシアル</p>
+		</header>
+		
+		<main>
+			<div class="main-container clearfix">
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l8" style="top:15px">
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l7" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:56.6px">
+								<img class="note" data-def-lane="l6" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">4</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:15px">
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l9" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:56.6px">
+								<img class="note" data-def-lane="l7" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">3</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:15px">
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l7" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:56.6px">
+								<img class="note" data-def-lane="l6" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">2</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l6" style="top:15px">
+							<img class="note" data-def-lane="l4" style="top:35px">
+							<img class="bpm-line" src="./../img/popn/bpm.gif" style="top:79px">
+							<div class="bpm-line-val" style="top:75px;">140</div>
+						</div>
+						<div class="bar-num">1</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:15px">
+							<img class="note" data-def-lane="l9" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:48.3px">
+								<img class="note" data-def-lane="l7" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:56.6px">
+								<img class="note" data-def-lane="l5" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">8</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l8" style="top:0px">
+							<img class="note" data-def-lane="l4" style="top:15px">
+							<img class="note" data-def-lane="l9" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:48.3px">
+								<img class="note" data-def-lane="l7" style="top:48.3px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:56.6px">
+							<img class="note" data-def-lane="l2" style="top:57.6px">
+							<img class="note" data-def-lane="l9" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">7</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:15px">
+							<img class="note" data-def-lane="l9" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:48.3px">
+								<img class="note" data-def-lane="l7" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:56.6px">
+								<img class="note" data-def-lane="l5" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">6</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l1" style="top:5px">
+							<img class="note" data-def-lane="l6" style="top:15px">
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l9" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:56.6px">
+								<img class="note" data-def-lane="l7" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">5</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l4" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:56.6px">
+								<img class="note" data-def-lane="l6" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l2" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">12</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l7" style="top:5px">
+							<img class="note" data-def-lane="l4" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l8" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:56.6px">
+								<img class="note" data-def-lane="l5" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">11</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l4" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:56.6px">
+								<img class="note" data-def-lane="l3" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l2" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">10</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l8" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l5" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:45px">
+								<img class="note" data-def-lane="l6" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">9</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l7" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:25px">
+								<img class="note" data-def-lane="l5" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:48.3px">
+								<img class="note" data-def-lane="l6" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:56.6px">
+								<img class="note" data-def-lane="l3" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">16</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:5px">
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:48.3px">
+								<img class="note" data-def-lane="l9" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:56.6px">
+								<img class="note" data-def-lane="l8" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">15</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:48.3px">
+								<img class="note" data-def-lane="l9" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:56.6px">
+								<img class="note" data-def-lane="l7" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">14</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:0px">
+							<img class="note" data-def-lane="l7" style="top:5px">
+							<img class="note" data-def-lane="l3" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:48.3px">
+								<img class="note" data-def-lane="l3" style="top:48.3px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:56.6px">
+								<img class="note" data-def-lane="l5" style="top:56.6px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:61.6px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">13</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l7" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:65px">
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">20</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:0px">
+							<img class="note" data-def-lane="l8" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:65px">
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">19</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l9" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">18</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l8" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:20px">
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<img class="note" data-def-lane="l3" style="top:30px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:35px">
+								<img class="note" data-def-lane="l9" style="top:35px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:60px">
+							<img class="note" data-def-lane="l1" style="top:65px">
+							<img class="note" data-def-lane="l3" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l8" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">17</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:15px">
+								<img class="note" data-def-lane="l5" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l6" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l6" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:65px">
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">24</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:0px">
+							<img class="note" data-def-lane="l8" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:65px">
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">23</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l9" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">22</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l5" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l6" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l5" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:65px">
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">21</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:15px">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:35px">
+								<img class="note" data-def-lane="l7" style="top:35px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l5" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">28</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:55px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">27</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:35px">
+								<img class="note" data-def-lane="l7" style="top:35px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l5" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">26</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l3" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l2" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:35px">
+								<img class="note" data-def-lane="l9" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:50px">
+								<img class="note" data-def-lane="l5" style="top:50px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l6" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l7" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">25</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:35px">
+								<img class="note" data-def-lane="l5" style="top:35px">
+								<img class="note" data-def-lane="l7" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:55px">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">32</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:15px">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:55px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">31</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:15px">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:35px">
+								<img class="note" data-def-lane="l7" style="top:35px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">30</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:45px">
+								<img class="note" data-def-lane="l5" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:65px">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+						</div>
+						<div class="bar-num">29</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note" style="height: 40px;">
+							<img class="note" data-def-lane="l2" style="top:22.5px">
+							<img class="note" data-def-lane="l9" style="top:34.5px">
+						</div>
+						<div class="bar-num" style="height: 40px; line-height: 40px;">34</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="bpm-line" src="./../img/popn/bpm.gif" style="top:-2px">
+							<div class="bpm-line-val" style="top:-6px;">175</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:35px">
+							<img class="note" data-def-lane="l6" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:55px">
+							<img class="note" data-def-lane="l2" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">33</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l6" style="top:5px">
+							<img class="note" data-def-lane="l1" style="top:15px">
+							<img class="note" data-def-lane="l3" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:35px">
+								<img class="note" data-def-lane="l4" style="top:35px">
+								<img class="note" data-def-lane="l7" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:55px">
+							<img class="note" data-def-lane="l4" style="top:65px">
+						</div>
+						<div class="bar-num">38</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l1" style="top:5px">
+							<img class="note" data-def-lane="l2" style="top:15px">
+							<img class="note" data-def-lane="l6" style="top:25px">
+							<img class="note" data-def-lane="l6" style="top:55px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">37</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l7" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:35px">
+							<img class="note" data-def-lane="l5" style="top:55px">
+							<img class="note" data-def-lane="l2" style="top:65px">
+						</div>
+						<div class="bar-num">36</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l8" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:25px">
+							<img class="note" data-def-lane="l3" style="top:35px">
+							<img class="note" data-def-lane="l3" style="top:55px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">35</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l6" style="top:5px">
+							<img class="note" data-def-lane="l5" style="top:15px">
+							<img class="note" data-def-lane="l4" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:35px">
+								<img class="note" data-def-lane="l2" style="top:35px">
+								<img class="note" data-def-lane="l7" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:45px">
+							<img class="note" data-def-lane="l6" style="top:55px">
+							<img class="note" data-def-lane="l4" style="top:65px">
+							<img class="note" data-def-lane="l3" style="top:75px">
+						</div>
+						<div class="bar-num">42</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+								<img class="note" data-def-lane="l8" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:15px">
+							<img class="note" data-def-lane="l6" style="top:25px">
+							<img class="note" data-def-lane="l5" style="top:35px">
+							<img class="note" data-def-lane="l3" style="top:45px">
+							<img class="note" data-def-lane="l6" style="top:55px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l4" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">41</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l3" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<img class="note" data-def-lane="l5" style="top:35px">
+							<img class="note" data-def-lane="l5" style="top:55px">
+							<img class="note" data-def-lane="l2" style="top:65px">
+						</div>
+						<div class="bar-num">40</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:5px">
+							<img class="note" data-def-lane="l8" style="top:10px">
+							<img class="note" data-def-lane="l7" style="top:25px">
+							<img class="note" data-def-lane="l3" style="top:35px">
+							<img class="note" data-def-lane="l3" style="top:55px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">39</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:1.5px">
+							<img class="note" data-def-lane="l4" style="top:5px">
+							<img class="note" data-def-lane="l1" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l5" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:35px">
+								<img class="note" data-def-lane="l7" style="top:35px">
+								<img class="note" data-def-lane="l9" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:55px">
+							<img class="note" data-def-lane="l3" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l4" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">46</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l8" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:15px">
+							<img class="note" data-def-lane="l6" style="top:25px">
+							<img class="note" data-def-lane="l1" style="top:35px">
+							<img class="note" data-def-lane="l4" style="top:45px">
+							<img class="note" data-def-lane="l5" style="top:55px">
+							<img class="note" data-def-lane="l1" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">45</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:6.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:25px">
+							<img class="note" data-def-lane="l7" style="top:26.5px">
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<img class="note" data-def-lane="l3" style="top:45px">
+							<img class="note" data-def-lane="l8" style="top:55px">
+							<img class="note" data-def-lane="l3" style="top:65px">
+						</div>
+						<div class="bar-num">44</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l7" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:15px">
+							<img class="note" data-def-lane="l9" style="top:25px">
+							<img class="note" data-def-lane="l4" style="top:35px">
+							<img class="note" data-def-lane="l6" style="top:45px">
+							<img class="note" data-def-lane="l4" style="top:55px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l8" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">43</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:35px">
+								<img class="note" data-def-lane="l8" style="top:35px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:65px">
+								<img class="note" data-def-lane="l7" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:73.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">50</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l7" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:16.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:25px">
+								<img class="note" data-def-lane="l6" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:33.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:35px">
+								<img class="note" data-def-lane="l6" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:36.5px">
+							<img class="note" data-def-lane="l5" style="top:45px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:55px">
+								<img class="note" data-def-lane="l6" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:56.5px">
+								<img class="note" data-def-lane="l8" style="top:56.5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:65px">
+								<img class="note" data-def-lane="l5" style="top:65px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">49</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:-3.5px">
+								<img class="note" data-def-lane="l7" style="top:-3.5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:5.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l4" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:16.5px">
+							<img class="note" data-def-lane="l4" style="top:25px">
+							<img class="note" data-def-lane="l2" style="top:26.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:35px">
+								<img class="note" data-def-lane="l8" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:45px">
+							<img class="note" data-def-lane="l2" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:56.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:65px">
+								<img class="note" data-def-lane="l5" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:75px">
+						</div>
+						<div class="bar-num">48</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l1" style="top:-3.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l8" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:15px">
+							<img class="note" data-def-lane="l1" style="top:16.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:35px">
+								<img class="note" data-def-lane="l3" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:36.5px">
+							<img class="note" data-def-lane="l9" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:53.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:55px">
+								<img class="note" data-def-lane="l2" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">47</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l6" style="top:0px">
+							<img class="note" data-def-lane="l4" style="top:5px">
+							<img class="note" data-def-lane="l6" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:15px">
+								<img class="note" data-def-lane="l4" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:20px">
+							<img class="note" data-def-lane="l4" style="top:25px">
+							<img class="note" data-def-lane="l6" style="top:30px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:35px">
+								<img class="note" data-def-lane="l4" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:40px">
+							<img class="note" data-def-lane="l4" style="top:45px">
+							<img class="note" data-def-lane="l6" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:60px">
+							<img class="note" data-def-lane="l4" style="top:65px">
+							<img class="note" data-def-lane="l6" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l4" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">54</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:5px">
+								<img class="note" data-def-lane="l3" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:20px">
+							<img class="note" data-def-lane="l3" style="top:25px">
+							<img class="note" data-def-lane="l5" style="top:30px">
+							<img class="note" data-def-lane="l3" style="top:35px">
+							<img class="note" data-def-lane="l5" style="top:40px">
+							<img class="note" data-def-lane="l3" style="top:45px">
+							<img class="note" data-def-lane="l5" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:60px">
+							<img class="note" data-def-lane="l3" style="top:65px">
+							<img class="note" data-def-lane="l5" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">53</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:0px">
+							<img class="note" data-def-lane="l2" style="top:5px">
+							<img class="note" data-def-lane="l4" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:20px">
+							<img class="note" data-def-lane="l2" style="top:25px">
+							<img class="note" data-def-lane="l4" style="top:30px">
+							<img class="note" data-def-lane="l2" style="top:35px">
+							<img class="note" data-def-lane="l4" style="top:40px">
+							<img class="note" data-def-lane="l2" style="top:45px">
+							<img class="note" data-def-lane="l4" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:60px">
+							<img class="note" data-def-lane="l2" style="top:65px">
+							<img class="note" data-def-lane="l4" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">52</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l3" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:20px">
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<img class="note" data-def-lane="l3" style="top:30px">
+							<img class="note" data-def-lane="l1" style="top:35px">
+							<img class="note" data-def-lane="l3" style="top:40px">
+							<img class="note" data-def-lane="l1" style="top:45px">
+							<img class="note" data-def-lane="l3" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:60px">
+							<img class="note" data-def-lane="l1" style="top:65px">
+							<img class="note" data-def-lane="l3" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">51</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l8" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:20px">
+							<img class="note" data-def-lane="l5" style="top:25px">
+							<img class="note" data-def-lane="l4" style="top:35px">
+							<img class="note" data-def-lane="l6" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l4" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:50px">
+							<img class="note" data-def-lane="l4" style="top:55px">
+							<img class="note" data-def-lane="l6" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:65px">
+								<img class="note" data-def-lane="l5" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l4" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">58</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l9" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l7" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:30px">
+							<img class="note" data-def-lane="l7" style="top:35px">
+							<img class="note" data-def-lane="l9" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:50px">
+							<img class="note" data-def-lane="l7" style="top:55px">
+							<img class="note" data-def-lane="l9" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l7" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">57</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l8" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:30px">
+							<img class="note" data-def-lane="l6" style="top:35px">
+							<img class="note" data-def-lane="l8" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:50px">
+							<img class="note" data-def-lane="l6" style="top:55px">
+							<img class="note" data-def-lane="l8" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:70px">
+							
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">56</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l7" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:10px">
+							
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l5" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:30px">
+							<img class="note" data-def-lane="l5" style="top:35px">
+							<img class="note" data-def-lane="l7" style="top:40px">
+							
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:50px">
+							<img class="note" data-def-lane="l5" style="top:55px">
+							<img class="note" data-def-lane="l7" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">55</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l6" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l4" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:30px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:35px">
+								<img class="note" data-def-lane="l4" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:65px">
+								<img class="note" data-def-lane="l3" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">62</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:5px">
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">61</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:60px">
+							<img class="note" data-def-lane="l1" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">60</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">59</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l6" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:35px">
+								<img class="note" data-def-lane="l5" style="top:35px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:40px">
+								<img class="note" data-def-lane="l4" style="top:40px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:55px">
+								<img class="note" data-def-lane="l3" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:65px">
+								<img class="note" data-def-lane="l3" style="top:65px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">66</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:5px">
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">65</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:60px">
+							<img class="note" data-def-lane="l1" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">64</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:15px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l3" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">63</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:10px">
+								<img class="note" data-def-lane="l4" style="top:10px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:20px">
+								<img class="note" data-def-lane="l4" style="top:20px">
+								<img class="note" data-def-lane="l9" style="top:20px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:25px">
+								<img class="note" data-def-lane="l6" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:30px">
+							<img class="note" data-def-lane="l6" style="top:35px">
+							<img class="note" data-def-lane="l4" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:45px">
+								<img class="note" data-def-lane="l5" style="top:45px">
+								<img class="note" data-def-lane="l6" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:50px">
+							<img class="note" data-def-lane="l6" style="top:55px">
+							<img class="note" data-def-lane="l4" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l6" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">70</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l1" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l7" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l8" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:30px">
+							<img class="note" data-def-lane="l9" style="top:35px">
+							<img class="note" data-def-lane="l1" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:50px">
+							<img class="note" data-def-lane="l9" style="top:55px">
+							<img class="note" data-def-lane="l1" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">69</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:5px">
+								<img class="note" data-def-lane="l8" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l8" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:20px">
+								<img class="note" data-def-lane="l6" style="top:20px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:30px">
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<img class="note" data-def-lane="l2" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:50px">
+							<img class="note" data-def-lane="l8" style="top:55px">
+							<img class="note" data-def-lane="l2" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:65px">
+								<img class="note" data-def-lane="l8" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:75px">
+								<img class="note" data-def-lane="l8" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">68</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l3" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:5px">
+								<img class="note" data-def-lane="l7" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:30px">
+							<img class="note" data-def-lane="l7" style="top:35px">
+							<img class="note" data-def-lane="l3" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:50px">
+							<img class="note" data-def-lane="l7" style="top:55px">
+							<img class="note" data-def-lane="l3" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">67</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l6" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:20px">
+								<img class="note" data-def-lane="l4" style="top:20px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:25px">
+							<img class="note" data-def-lane="l4" style="top:30px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:35px">
+								<img class="note" data-def-lane="l6" style="top:35px">	
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:40px">
+								<img class="note" data-def-lane="l4" style="top:40px">	
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:50px">
+								<img class="note" data-def-lane="l4" style="top:50px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:55px">
+								<img class="note" data-def-lane="l6" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:60px">
+							<img class="note" data-def-lane="l6" style="top:65px">
+							<img class="note" data-def-lane="l4" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">74</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l1" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:5px">
+								<img class="note" data-def-lane="l9" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l8" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:25px">
+								<img class="note" data-def-lane="l9" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:30px">
+							<img class="note" data-def-lane="l9" style="top:35px">
+							<img class="note" data-def-lane="l1" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l9" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:50px">
+							<img class="note" data-def-lane="l9" style="top:55px">
+							<img class="note" data-def-lane="l1" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:65px">
+								<img class="note" data-def-lane="l9" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:75px">
+								<img class="note" data-def-lane="l9" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">73</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:5px">
+								<img class="note" data-def-lane="l8" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:20px">
+								<img class="note" data-def-lane="l2" style="top:20px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:25px">
+								<img class="note" data-def-lane="l8" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:30px">
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<img class="note" data-def-lane="l2" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:45px">
+								<img class="note" data-def-lane="l8" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:50px">
+							<img class="note" data-def-lane="l8" style="top:55px">
+							<img class="note" data-def-lane="l2" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:65px">
+								<img class="note" data-def-lane="l8" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:75px">
+								<img class="note" data-def-lane="l8" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">72</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l3" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:5px">
+								<img class="note" data-def-lane="l7" style="top:5px">
+								<img class="note" data-def-lane="l8" style="top:5px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:25px">
+								<img class="note" data-def-lane="l7" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:30px">
+							<img class="note" data-def-lane="l7" style="top:35px">
+							<img class="note" data-def-lane="l3" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:50px">
+							<img class="note" data-def-lane="l7" style="top:55px">
+							<img class="note" data-def-lane="l3" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:65px">
+								<img class="note" data-def-lane="l7" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:75px">
+								<img class="note" data-def-lane="l7" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">71</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l2" style="top:0px">
+							<img class="note" data-def-lane="l1" style="top:5px">
+							<img class="note" data-def-lane="l2" style="top:10px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+								<img class="note" data-def-lane="l2" style="top:20px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:30px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:35px">
+								<img class="note" data-def-lane="l6" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:65px">
+								<img class="note" data-def-lane="l4" style="top:65px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:70px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">78</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l4" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l6" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:75px">
+								<img class="note" data-def-lane="l4" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">77</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l3" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l1" style="top:16.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l5" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:55px">
+								<img class="note" data-def-lane="l9" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l8" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">76</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:5px">
+								<img class="note" data-def-lane="l6" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l7" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:25px">
+								<img class="note" data-def-lane="l6" style="top:25px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:45px">
+								<img class="note" data-def-lane="l7" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l6" style="top:55px">
+								<img class="note" data-def-lane="l8" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l7" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l5" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">75</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l8" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:5px">
+								<img class="note" data-def-lane="l5" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:15px">
+								<img class="note" data-def-lane="l9" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l6" style="top:25px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:35px">
+								<img class="note" data-def-lane="l8" style="top:35px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:40px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l4" style="top:45px">
+							</div>
+							<img class="note" data-def-lane="l3" style="top:50px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:55px">
+								<img class="note" data-def-lane="l5" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:65px">
+								<img class="note" data-def-lane="l4" style="top:65px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l3" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">82</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l5" style="top:5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l4" style="top:15px">
+								<img class="note" data-def-lane="l8" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l3" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:45px">
+								<img class="note" data-def-lane="l6" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l5" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l4" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">81</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l3" style="top:0px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l5" style="top:15px">
+								<img class="note" data-def-lane="l7" style="top:15px">
+							</div>
+							<img class="note" data-def-lane="l9" style="top:16.5px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:45px">
+								<img class="note" data-def-lane="l6" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:55px">
+								<img class="note" data-def-lane="l7" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l2" style="top:60px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:65px">
+								<img class="note" data-def-lane="l4" style="top:65px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l6" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">80</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:5px">
+								<img class="note" data-def-lane="l4" style="top:5px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l3" style="top:15px">
+								<img class="note" data-def-lane="l5" style="top:15px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:25px">
+								<img class="note" data-def-lane="l4" style="top:25px">
+							</div>
+							<img class="note" data-def-lane="l8" style="top:35px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:45px">
+								<img class="note" data-def-lane="l6" style="top:45px">
+							</div>
+							<div class="combination">
+								<img class="note" data-def-lane="l2" style="top:55px">
+								<img class="note" data-def-lane="l4" style="top:55px">
+							</div>
+							<img class="note" data-def-lane="l5" style="top:65px">
+							<div class="combination">
+								<img class="note" data-def-lane="l1" style="top:75px">
+								<img class="note" data-def-lane="l4" style="top:75px">
+							</div>
+						</div>
+						<div class="bar-num">79</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+						</div>
+						<div class="bar-num">d</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+						</div>
+						<div class="bar-num">c</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+						</div>
+						<div class="bar-num">b</div>
+					</div><!-- bar-container -->
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+						</div>
+						<div class="bar-num">a</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+					<div class="bar-container clearfix">
+						<div class="bar-note">
+							<img class="note" data-def-lane="l9" style="top:1.6px">
+							<img class="note" data-def-lane="l9" style="top:8.3px">
+							<img class="note" data-def-lane="l9" style="top:15px">
+
+							<img class="note" data-def-lane="l9" style="top:21.6px">
+							<img class="note" data-def-lane="l9" style="top:28.3px">
+							<img class="note" data-def-lane="l9" style="top:35px">
+
+							<img class="note" data-def-lane="l9" style="top:41.6px">
+							<img class="note" data-def-lane="l9" style="top:48.3px">
+							<img class="note" data-def-lane="l9" style="top:55px">
+
+							<img class="note" data-def-lane="l9" style="top:61.6px">
+							<img class="note" data-def-lane="l9" style="top:68.3px">
+							<img class="note" data-def-lane="l9" style="top:75px">
+
+							<img class="note" data-def-lane="l7" style="top:8.3px">
+							<img class="note" data-def-lane="l7" style="top:21.6px">
+							<img class="note" data-def-lane="l7" style="top:35px">
+							<img class="note" data-def-lane="l7" style="top:48.3px">
+							<img class="note" data-def-lane="l7" style="top:61.6px">
+							<img class="note" data-def-lane="l7" style="top:75px">
+
+							<img class="note" data-def-lane="l3" style="top:0px">
+							<img class="note" data-def-lane="l3" style="top:5px">
+							<img class="note" data-def-lane="l3" style="top:10px">
+							<img class="note" data-def-lane="l3" style="top:15px">
+
+							<img class="note" data-def-lane="l3" style="top:20px">
+							<img class="note" data-def-lane="l3" style="top:25px">
+							<img class="note" data-def-lane="l3" style="top:30px">
+							<img class="note" data-def-lane="l3" style="top:35px">
+
+							<img class="note" data-def-lane="l3" style="top:40px">
+							<img class="note" data-def-lane="l3" style="top:45px">
+							<img class="note" data-def-lane="l3" style="top:50px">
+							<img class="note" data-def-lane="l3" style="top:55px">
+
+							<img class="note" data-def-lane="l3" style="top:60px">
+							<img class="note" data-def-lane="l3" style="top:65px">
+							<img class="note" data-def-lane="l3" style="top:70px">
+							<img class="note" data-def-lane="l3" style="top:75px">
+
+							<img class="note" data-def-lane="l1" style="top:5px">
+							<img class="note" data-def-lane="l1" style="top:15px">
+
+							<img class="note" data-def-lane="l1" style="top:25px">
+							<img class="note" data-def-lane="l1" style="top:35px">
+
+							<img class="note" data-def-lane="l1" style="top:45px">
+							<img class="note" data-def-lane="l1" style="top:55px">
+
+							<img class="note" data-def-lane="l1" style="top:65px">
+							<img class="note" data-def-lane="l1" style="top:75px">
+						</div>
+						<div class="bar-num">99</div>
+					</div><!-- bar-container -->
+				</div><!-- main-item -->
+				<div class="main-item">
+			</div><!-- main-container -->
+		</main>
+		
+		<footer>
+			<p>
+				<button id="btn_d" value="[d]efault">DEFAULT</button>
+				<button id="btn_m" value="[m]irror">MIRROR</button>
+				<button id="btn_r" value="[r]andom">RANDOM</button>
+				<button id="btn_s-r" value="[s]-random">S-RANDOM</button>
+				<button id="btn_c" value="[c]ross">CROSS</button>
+				<button id="btn_c-m" value="[c]ross-mirror">CROSS-MIRROR</button>
+			</p>
+			<p>
+				<button id="btn_r-r" value="[r]-random">R-RANDOM</button>
+			</p>
+			<p>
+				<button id="btn_demo" value="[d]emo" onclick="location.href='./../phinajs/0/index.html'">DEMO</button>
+				<button id="btn_a-p" value="[a]ir-play" onclick="location.href='./../phinajs/1/index.html'">AIR-PLAY</button> 
+			</p>
+			<p>
+				<input type="number" id="txtOrder" maxlength="9">
+				<button id="btn_decide" value="[d]ecide">DECIDE</button>	
+			</p>
+			<p>
+				<div id="sortable">
+					<div class="ui-state-default" id="l1">1</div>
+					<div class="ui-state-default" id="l2">2</div>
+					<div class="ui-state-default" id="l3">3</div>
+					<div class="ui-state-default" id="l4">4</div>
+					<div class="ui-state-default" id="l5">5</div>
+					<div class="ui-state-default" id="l6">6</div>
+					<div class="ui-state-default" id="l7">7</div>
+					<div class="ui-state-default" id="l8">8</div>
+					<div class="ui-state-default" id="l9">9</div>
+				</div>
+			</p>
+		</footer>
+	</body>
+</html>
