@@ -7,6 +7,8 @@ const data50 =
 		"song" : "25 o'clock the WORLD",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -16,6 +18,8 @@ const data50 =
 		"song" : "Chaos:Q",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -25,6 +29,8 @@ const data50 =
 		"song" : "L-an!ma",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "LT",
 		"isVisible" : true
 	},
 	{
@@ -34,6 +40,8 @@ const data50 =
 		"song" : "Popperz Chronicle",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -43,6 +51,8 @@ const data50 =
 		"song" : "Popperz Chronicle",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -52,6 +62,8 @@ const data50 =
 		"song" : "o†o",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -61,6 +73,8 @@ const data50 =
 		"song" : "perditus†paradisus",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -70,6 +84,8 @@ const data50 =
 		"song" : "НУМЛ",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -79,6 +95,8 @@ const data50 =
 		"song" : "序",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -88,6 +106,8 @@ const data50 =
 		"song" : "生命の焔纏いて",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "解",
 		"isVisible" : true
 	},
 	{
@@ -97,6 +117,8 @@ const data50 =
 		"song" : "生命の環を紡いで",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -106,6 +128,8 @@ const data50 =
 		"song" : "Blue River",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -115,6 +139,8 @@ const data50 =
 		"song" : "真超深ＴＩＯＮ",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -124,6 +150,8 @@ const data50 =
 		"song" : "音楽",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "17",
 		"isVisible" : true
 	},
 	{
@@ -133,6 +161,8 @@ const data50 =
 		"song" : "ピアノ協奏曲第１番”蠍火”",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "20",
 		"isVisible" : true
 	},
 	{
@@ -142,6 +172,8 @@ const data50 =
 		"song" : "シュレーディンガーの猫",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "16",
 		"isVisible" : true
 	},
 	{
@@ -151,6 +183,8 @@ const data50 =
 		"song" : "少年は空を辿る",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "20",
 		"isVisible" : true
 	},
 	{
@@ -160,6 +194,8 @@ const data50 =
 		"song" : "辿る君を超えて",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	}
 ]

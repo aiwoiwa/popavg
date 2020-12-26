@@ -7,6 +7,8 @@ const data49 =
 		"song" : "24/7 Popperz",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -16,6 +18,8 @@ const data49 =
 		"song" : "BabeL ～MODEL DD101～",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -25,6 +29,8 @@ const data49 =
 		"song" : "Black Emperor",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -34,6 +40,8 @@ const data49 =
 		"song" : "C18H27NO3",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -43,6 +51,8 @@ const data49 =
 		"song" : "CHERNOBOG",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "écl",
 		"isVisible" : true
 	},
 	{
@@ -52,6 +62,8 @@ const data49 =
 		"song" : "DIAVOLO",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "LT",
 		"isVisible" : true
 	},
 	{
@@ -61,6 +73,8 @@ const data49 =
 		"song" : "Festum Duodecimum!",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -70,6 +84,8 @@ const data49 =
 		"song" : "INF-B《L-aste-R》",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -79,6 +95,8 @@ const data49 =
 		"song" : "Innocence",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "LT",
 		"isVisible" : true
 	},
 	{
@@ -88,6 +106,8 @@ const data49 =
 		"song" : "K∀MUY",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -97,6 +117,8 @@ const data49 =
 		"song" : "MADSPEED狂信道",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -106,6 +128,8 @@ const data49 =
 		"song" : "Prey",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -115,6 +139,8 @@ const data49 =
 		"song" : "QuoN",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "LT",
 		"isVisible" : true
 	},
 	{
@@ -124,6 +150,8 @@ const data49 =
 		"song" : "RINИE",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "LT",
 		"isVisible" : true
 	},
 	{
@@ -133,6 +161,8 @@ const data49 =
 		"song" : "SailRen",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -142,6 +172,8 @@ const data49 =
 		"song" : "Sky High",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -151,6 +183,8 @@ const data49 =
 		"song" : "StrayedCatz",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -160,6 +194,8 @@ const data49 =
 		"song" : "Timepiece phase II",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -169,6 +205,8 @@ const data49 =
 		"song" : "Triple Counter",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "écl",
 		"isVisible" : true
 	},
 	{
@@ -178,6 +216,8 @@ const data49 =
 		"song" : "Vinculum stellarum",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -187,6 +227,8 @@ const data49 =
 		"song" : "XROSS INFECTION",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -196,6 +238,8 @@ const data49 =
 		"song" : "moon_child",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -205,6 +249,8 @@ const data49 =
 		"song" : "perditus†paradisus",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -214,6 +260,8 @@ const data49 =
 		"song" : "the Chameleon",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -223,6 +271,8 @@ const data49 =
 		"song" : "trideca",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -232,6 +282,8 @@ const data49 =
 		"song" : "zeeros",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -241,6 +293,8 @@ const data49 =
 		"song" : "ΩVERSOUL",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -250,6 +304,8 @@ const data49 =
 		"song" : "天空の夜明け",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -259,6 +315,8 @@ const data49 =
 		"song" : "生命の焔纏いて",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -268,6 +326,8 @@ const data49 =
 		"song" : "悲しいね",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "CS6",
 		"isVisible" : true
 	},
 	{
@@ -277,6 +337,8 @@ const data49 =
 		"song" : "ブタパンチのテーマ",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "9",
 		"isVisible" : true
 	},
 	{
@@ -286,6 +348,8 @@ const data49 =
 		"song" : "Blue River",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "CS11",
 		"isVisible" : true
 	},
 	{
@@ -295,6 +359,8 @@ const data49 =
 		"song" : "想い出をありがとう",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "CS11",
 		"isVisible" : true
 	},
 	{
@@ -304,6 +370,8 @@ const data49 =
 		"song" : "Line Times",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "CS8",
 		"isVisible" : true
 	},
 	{
@@ -313,6 +381,8 @@ const data49 =
 		"song" : "Hell? or Heaven?",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "CS9",
 		"isVisible" : true
 	},
 	{
@@ -322,6 +392,8 @@ const data49 =
 		"song" : "ジオメトリック∮ティーパーティー",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "écl",
 		"isVisible" : true
 	},
 	{
@@ -331,6 +403,8 @@ const data49 =
 		"song" : "終末を追う者",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -340,6 +414,8 @@ const data49 =
 		"song" : "GALAXY FOREST 11.6&12 ",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "CSBest",
 		"isVisible" : true
 	},
 	{
@@ -349,6 +425,8 @@ const data49 =
 		"song" : "BabeL ～Next Story～",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "19",
 		"isVisible" : true
 	},
 	{
@@ -358,6 +436,8 @@ const data49 =
 		"song" : "Zirkfied",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -367,6 +447,8 @@ const data49 =
 		"song" : "アストライアの双皿",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -376,6 +458,8 @@ const data49 =
 		"song" : "neu",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "15",
 		"isVisible" : true
 	},
 	{
@@ -385,6 +469,8 @@ const data49 =
 		"song" : "Elemental Creation",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -394,6 +480,8 @@ const data49 =
 		"song" : "IX",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "SP",
 		"isVisible" : true
 	},
 	{
@@ -403,6 +491,8 @@ const data49 =
 		"song" : "Ubertreffen",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "14",
 		"isVisible" : true
 	},
 	{
@@ -412,6 +502,8 @@ const data49 =
 		"song" : "I'm on Fire",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "2",
 		"isVisible" : true
 	},
 	{
@@ -421,6 +513,8 @@ const data49 =
 		"song" : "Geiselhaus",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "17",
 		"isVisible" : true
 	},
 	{
@@ -430,6 +524,8 @@ const data49 =
 		"song" : "雫",
 		"difficulty" : "EX",
 		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -439,6 +535,8 @@ const data49 =
 		"song" : "uen",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "PMP2",
 		"isVisible" : true
 	},
 	{
@@ -448,6 +546,8 @@ const data49 =
 		"song" : "Remain",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "19",
 		"isVisible" : true
 	},
 	{
@@ -457,6 +557,8 @@ const data49 =
 		"song" : "Eine Haube ～聖地の果てにあるもの～",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "20",
 		"isVisible" : true
 	},
 	{
@@ -466,6 +568,8 @@ const data49 =
 		"song" : "恋歌疾風！かるたクイーンいろは",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "écl",
 		"isVisible" : true
 	},
 	{
@@ -475,6 +579,8 @@ const data49 =
 		"song" : "最小三倍完全数",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -484,6 +590,8 @@ const data49 =
 		"song" : "未完成ノ蒸氣驅動乙女",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -493,6 +601,8 @@ const data49 =
 		"song" : "激走！！ヤング☆ダンプ！",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "écl",
 		"isVisible" : true
 	},
 	{
@@ -502,6 +612,8 @@ const data49 =
 		"song" : "西馬込交通曲",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -511,6 +623,8 @@ const data49 =
 		"song" : "限界食堂",
 		"difficulty" : "EX",
 		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "pe",
 		"isVisible" : true
 	}
 ]
