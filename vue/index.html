@@ -5,34 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>vuejs</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href=".\app.css">
 </head>
 <body>
     <div id="app">
         <table class="table">
             <thead>
                 <tr>
-                    <th>lv</th>
-                    <th>genre</th>
-                    <th>song</th>
-                    <th>perfect</th>
-                    <th>fullcombo</th>
-                    <th>clear</th>
+                    <th @click="sortBy('lv')" :class="sortedClass('lv')">lv</th>
+                    <th @click="sortBy('genre')" :class="sortedClass('genre')">genre</th>
+                    <th @click="sortBy('song')" :class="sortedClass('song')">song</th>
+                    <th @click="sortBy('pf_rate')" :class="sortedClass('pf_rate')">perfect</th>
+                    <th @click="sortBy('fc_rate')" :class="sortedClass('fc_rate')">fullcombo</th>
+                    <th @click="sortBy('clear_rate')" :class="sortedClass('clear_rate')">clear</th>
                 </tr>
             </thead>
             <tbody>
-                <tr v-for="s in songs">
-                    <td>{{ s.lv }}</td>
-                    <td>{{ s.genre }}</td>
-                    <td>{{ s.song }}</td>
-                    <td>{{ s.pf_rate }}</td>
-                    <td>{{ s.fc_rate }}</td> 
-                    <td>{{ s.clear_rate }}</td>
+                <tr v-for="r in eventedAction">
+                    <td>{{ r.lv }}</td>
+                    <td>{{ r.genre }}</td>
+                    <td>{{ r.song }}</td>
+                    <td>{{ `${Math.floor(r.pf_rate*10000)/100}%` }}</td>
+                    <td>{{ `${Math.floor(r.fc_rate*10000)/100}%` }}</td> 
+                    <td>{{ `${Math.floor(r.clear_rate*10000)/100}%` }}</td>
                 </tr>
             </tbody>
         </table>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src=".\src\data.js"></script>
     <script src=".\index.js"></script>
 </body>
 </html>
