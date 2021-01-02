@@ -14,8 +14,8 @@ const app = new Vue({
           // ソート実施
           if(this.sort.key) {
             list.sort((a, b) => {
-              a = a[this.sort.key];
-              b = b[this.sort.key];
+              a = Number(a[this.sort.key]);
+              b = Number(b[this.sort.key]);
               return (a === b ? 0 : a > b ? 1 : -1) * (this.sort.isAsc ? 1 : -1);
             });
           }
