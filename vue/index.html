@@ -356,13 +356,32 @@
             </td>
         </tr>
     </table>
+    <table>
+        <tr>
+            <td>
+                表示切替:
+            </td>
+            <td>
+                <input id="rdbDispAll" name="rdbDisp" type="radio" checked="checked" onchange="chgDisp()">
+                <label for="rdbDispAll">ジャンル名 & 曲名</label>
+            </td>
+            <td>
+                <input id="rdbDispGenre" name="rdbDisp" type="radio" onchange="chgDisp()">
+                <label for="rdbDispGenre">ジャンル名</label>
+            </td>
+            <td>
+                <input id="rdbDispSong" name="rdbDisp" type="radio" onchange="chgDisp()">
+                <label for="rdbDispSong">曲名</label>
+            </td>
+        </tr>
+    </table>
+
     <div id="app">
         <table class="table">
             <thead>
                 <tr>
                     <th class="left lv" @click="sortBy('lv')" :class="sortedClass('lv')">Lv</th>
                     <th class="left version" @click="sortBy('version')" :class="sortedClass('version')">Ver</th>
-                    <th class="left" @click="sortBy('genre')" :class="sortedClass('genre')">Genre</th>
                     <th class="left" @click="sortBy('song')" :class="sortedClass('song')">Title</th>
                     <th class="right rate" @click="sortBy('pf_rate')" :class="sortedClass('pf_rate')">Perfect</th>
                     <th class="right rate" @click="sortBy('fc_rate')" :class="sortedClass('fc_rate')">Full Combo</th>
@@ -373,12 +392,31 @@
                 <tr v-for="item in sortedArr">
                     <td class="left">{{ item.lv }}</td>
                     <td class="left">{{ item.version }}</td>
-                    <td class="left">
+                    <td class="left" v-if="display === 'all' && item.genre === item.song">
+                        {{ item.song }}
+                        <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
+                        <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
+                    </td>
+                    <td class="left" v-else-if="display === 'all'">
+                        <div>
+                            {{ item.genre }}
+                            <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
+                            <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
+                        </div>
+                        <div>
+                            {{ item.song }}
+                        </div>
+                    </td>
+                    <td class="left" v-else-if="display === 'genre'">
                         {{ item.genre }}
                         <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
                         <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
                     </td>
-                    <td class="left">{{ item.song }}</td>
+                    <td class="left" v-else-if="display === 'song'">
+                        {{ item.song }}
+                        <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
+                        <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
+                    </td>
                     <td class="right rate">{{ item.pf_rate }}%</td>
                     <td class="right rate">{{ item.fc_rate }}%</td> 
                     <td class="right rate">{{ item.clear_rate }}%</td>

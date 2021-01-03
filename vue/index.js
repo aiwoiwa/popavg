@@ -2,6 +2,7 @@ const app = new Vue({
   el: '#app'
   ,data: {
       arr: data
+      ,display: 'all'
       ,sort: {
           key: ''
           ,isAsc: false
@@ -36,6 +37,9 @@ const app = new Vue({
     },
     sortedClass: function(key) {
       return this.sort.key === key ? `sorted ${this.sort.isAsc ? 'asc' : 'desc'}` : '';
+    },
+    setDisplay: function(key){
+      this.display = key;
     }
   }
 });
@@ -169,6 +173,16 @@ const chg = () => {
       data.filter(getVisibleSongs)
       .forEach(item => item.isVisible = (~checkedLvs.indexOf(item.lv) && ~checkedVers.indexOf(item.version)) ? true : false);
   }
+};
+
+const chgDisp = () => {
+  const [isChecked_DispGenre, isChecked_DispSong, isChecked_DispAll] = 
+    ['rdbDispGenre', 'rdbDispSong', 'rdbDispAll'].map(i => document.getElementById(i).checked);
+
+  app.setDisplay(isChecked_DispGenre ? 'genre'
+               : isChecked_DispSong ? 'song'
+               : isChecked_DispAll ? 'all'
+               : ''); 
 };
 
 const allCheck = (name, tf) => {

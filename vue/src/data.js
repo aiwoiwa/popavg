@@ -2823,7 +2823,7 @@ const data =
 	},
 	{
 		"lv" : 47,
-		"genre" : "♥LOVE² シュガ→♥ (かめりあ&amp;ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)",
+		"genre" : "♥LOVE² シュガ→♥ (かめりあ&ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)",
 		"song" : "♥LOVE² シュガ→♥ (かめりあ&ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)",
 		"pf_rate" : "4.50",
 		"fc_rate" : "16.50",
@@ -4669,7 +4669,7 @@ const data =
 	},
 	{
 		"lv" : 46,
-		"genre" : "EBONY &amp; IVORY",
+		"genre" : "EBONY & IVORY",
 		"song" : "EBONY & IVORY",
 		"pf_rate" : "27.03",
 		"fc_rate" : "46.35",
