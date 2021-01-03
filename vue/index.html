@@ -70,17 +70,17 @@
                 </tr>
             </thead>
             <tbody>
-                <tr v-for="r in eventedAction">
-                    <td class="left">{{ r.lv }}</td>
+                <tr v-for="item in sortedArr">
+                    <td class="left">{{ item.lv }}</td>
                     <td class="left">
-                        {{ r.genre }}
-                        <span :class="{'UPPER': r.isUPPER}">{{ r.isUPPER ? '(UPPER)' : '' }}</span>
-                        <span :class="r.difficulty">{{ `(${r.difficulty})` }}</span>
+                        {{ item.genre }}
+                        <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
+                        <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
                     </td>
-                    <td class="left">{{ r.song }}</td>
-                    <td class="right rate">{{ r.pf_rate }}%</td>
-                    <td class="right rate">{{ r.fc_rate }}%</td> 
-                    <td class="right rate">{{ r.clear_rate }}%</td>
+                    <td class="left">{{ item.song }}</td>
+                    <td class="right rate">{{ item.pf_rate }}%</td>
+                    <td class="right rate">{{ item.fc_rate }}%</td> 
+                    <td class="right rate">{{ item.clear_rate }}%</td>
                 </tr>
             </tbody>
         </table>
