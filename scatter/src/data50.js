@@ -1,7 +1,7 @@
 const data50 = 
 [
 	{
-		"x" : 0.005681818181818182,
+		"x" : 0.005319148936170213,
 		"y" : 0,
 		"genre" : "25 o'clock the WORLD(EX)",
 		"song" : "25 o'clock the WORLD",
@@ -34,7 +34,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.005434782608695652,
+		"x" : 0.005235602094240838,
 		"y" : 0,
 		"genre" : "Popperz Chronicle(EX)",
 		"song" : "Popperz Chronicle",
@@ -45,7 +45,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.006802721088435374,
+		"x" : 0.006711409395973154,
 		"y" : 0,
 		"genre" : "Popperz Chronicle(UPPER)(EX)",
 		"song" : "Popperz Chronicle",
@@ -56,7 +56,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.004672897196261682,
+		"x" : 0.004629629629629629,
 		"y" : 0,
 		"genre" : "o†o(EX)",
 		"song" : "o†o",
@@ -67,7 +67,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.006024096385542169,
+		"x" : 0.0058823529411764705,
 		"y" : 0,
 		"genre" : "perditus†paradisus(UPPER)(EX)",
 		"song" : "perditus†paradisus",
@@ -78,8 +78,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.02262443438914027,
-		"y" : 0.004524886877828055,
+		"x" : 0.02252252252252252,
+		"y" : 0.0045045045045045045,
 		"genre" : "НУМЛ(EX)",
 		"song" : "НУМЛ",
 		"difficulty" : "EX",
@@ -89,8 +89,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.024390243902439025,
-		"y" : 0.004878048780487805,
+		"x" : 0.024154589371980676,
+		"y" : 0.004830917874396135,
 		"genre" : "ふること(UPPER)(EX)",
 		"song" : "序",
 		"difficulty" : "EX",
@@ -100,8 +100,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.009523809523809525,
-		"y" : 0.009523809523809525,
+		"x" : 0.010869565217391304,
+		"y" : 0.005434782608695652,
 		"genre" : "インボルク(UPPER)(EX)",
 		"song" : "生命の焔纏いて",
 		"difficulty" : "EX",
@@ -122,8 +122,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.05660377358490566,
-		"y" : 0.0047169811320754715,
+		"x" : 0.056338028169014086,
+		"y" : 0.004694835680751174,
 		"genre" : "カウボーイ(UPPER)(EX)",
 		"song" : "Blue River",
 		"difficulty" : "EX",
@@ -144,7 +144,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.004524886877828055,
+		"x" : 0.0045045045045045045,
 		"y" : 0,
 		"genre" : "サイレント(EX)",
 		"song" : "音楽",
@@ -177,7 +177,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.008849557522123894,
+		"x" : 0.008771929824561403,
 		"y" : 0,
 		"genre" : "ムラクモ(EX)",
 		"song" : "少年は空を辿る",
@@ -188,8 +188,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.004784688995215311,
-		"y" : 0.004784688995215311,
+		"x" : 0.004761904761904762,
+		"y" : 0.004761904761904762,
 		"genre" : "辿る君を超えて(EX)",
 		"song" : "辿る君を超えて",
 		"difficulty" : "EX",
