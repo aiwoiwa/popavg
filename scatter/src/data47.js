@@ -443,7 +443,7 @@ const data47 =
 	{
 		"x" : 0.15942028985507245,
 		"y" : 0.043478260869565216,
-		"genre" : "♥LOVE² シュガ→♥ (かめりあ&amp;ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)(EX)",
+		"genre" : "♥LOVE² シュガ→♥ (かめりあ&ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)(EX)",
 		"song" : "♥LOVE² シュガ→♥ (かめりあ&ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)",
 		"difficulty" : "EX",
 		"isUPPER" : false,
