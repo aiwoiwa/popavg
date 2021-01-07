@@ -7,20 +7,22 @@
 </head>
 <body>
     <h1>データビジュアライゼーション</h1>
-    <table>
-        <tr>
-            <td>最終更新日:</td>
-            <td>2021/01/06 22:12</td>
-        </tr>
-        <tr>
-            <td>標本数:</td>
-            <td>281</td>
-        </tr>
-        <tr>
-            <td>平均:</td>
-            <td>94.98627686832741</td>
-        </tr>
-    </table>
+    <div id="app">
+        <table>
+            <tr>
+                <td>最終更新日:</td>
+                <td>{{ timestump }}</td>
+            </tr>
+            <tr>
+                <td>標本数:</td>
+                <td>{{ num_of_players }}</td>
+            </tr>
+            <tr>
+                <td>平均:</td>
+                <td>{{ avg_popn_class }}</td>
+            </tr>
+        </table>
+    </div>
     <nl>
         <li><a href=".\bar\index.html">棒グラフ</a></li>
         <li><a href=".\histogram\index.html">ヒストグラム</a></li>
@@ -29,6 +31,9 @@
         <li><a href=".\poyomo\48\grunge-des-ex.html">グランヂデス(EX)</a></li>
         <li><a href=".\poyomo\49\heavy-metal-ex.html">ヘビーメタル(EX)</a></li>
     </nl>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="./src/obj.js"></script>
+    <script src="./index.js"></script>
 </body>
 
 </html>
