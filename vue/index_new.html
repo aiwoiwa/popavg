@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: #252830;
+        }
+        table {
+            border-width: 0px;
+            border-color: #434857;
+            border-style: solid;
+            border-collapse: collapse;
+        }
+        th {
+            font-weight: bold;
+            color: #CFD2DA;
+            padding: 5px 20px 5px 5px;
+        }
+        th.lv {
+            width: 3em;
+        }
+        th.version {
+            width: 3em;
+        }
+        th.rate {
+            width: 8em;
+        }
+        tbody {
+            border-width: 1px 0px;
+            border-color: #434857;
+            border-style: solid;
+            color: #CFD2DA;
+        }
+        td {
+            padding: 5px;
+        }
+        td.rate {
+            color: #21EFEF;
+        }
+        .UPPER {
+            color: #DAB300;
+        }
+        .EX {
+            color: #FBA8C1;
+        }
+        .HYPER {
+            color: #EFEF51;
+        }
+        .NORMAL {
+            color: #21EFEF;
+        }
+        .left {
+            text-align: left;
+        }
+        .right {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Lv</th>
+                    <th>Ver</th>
+                    <th>Title</th>
+                    <th>Perfect</th>
+                    <th>Full Combo</th>
+                    <th>Clear</th>
+                </tr>
+            </thead>
+            <template v-for="item in items">
+                <tbody is="v-accordion" v-bind:i="item"></tbody>
+            </template>
+        </table>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+    <script src=".\src\data_new.js"></script>
+    <script src=".\index_new.js"></script>
+</body>
+</html>
