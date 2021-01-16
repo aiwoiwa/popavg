@@ -22,11 +22,13 @@ Vue.component('v-accordion', {
                     <i :class="['fa', isOpened ? 'fa-minus' : 'fa-plus']"></i>
                 </td>
             </tr>
-            <tr v-if='isOpened'>
-                <td colspan='7'>
-                    <canvas :id='"cvs_" + i.id'></canvas>
-                </td>
-            </tr>
+            <transition>
+                <tr v-if='isOpened'>
+                    <td colspan='7'>
+                        <canvas :id='"cvs_" + i.id'></canvas>
+                    </td>
+                </tr>
+            </transition>
         </tbody>
     `,
     methods: {

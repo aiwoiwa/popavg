@@ -7,11 +7,12 @@
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css" rel="stylesheet">
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+    <link href="./anim.css" rel="stylesheet">
     <style>
         body {
             background-color: #252830;
         }
-        table {
+        .app-table {
             border-width: 0px;
             border-color: #434857;
             border-style: solid;
@@ -22,15 +23,6 @@
             color: #CFD2DA;
             padding: 5px 20px 5px 5px;
         }
-        th.lv {
-            width: 3em;
-        }
-        th.version {
-            width: 3em;
-        }
-        th.rate {
-            width: 8em;
-        }
         tbody {
             border-width: 1px 0px;
             border-color: #434857;
@@ -38,7 +30,7 @@
             color: #CFD2DA;
         }
         td {
-            padding: 5px;
+            padding: 8px;
         }
         td.rate {
             color: #21EFEF;
@@ -55,6 +47,10 @@
         .NORMAL {
             color: #21EFEF;
         }
+        .app-center {
+            margin: 0 auto;
+            width: 50%;
+        }
         .left {
             text-align: left;
         }
@@ -64,16 +60,33 @@
     </style>
 </head>
 <body>
-    <div id="app">
-        <table class="table">
+    <div id="app" class="app-center">
+        <table class="app-table">
             <thead>
                 <tr>
-                    <th>Lv</th>
-                    <th>Ver</th>
-                    <th>Title</th>
-                    <th title="no good & bad">Perfect</th>
-                    <th title="no bad">Full Combo</th>
-                    <th>Clear</th>
+                    <th class="lv">
+                        Lv
+                        <i class="fa fa-sort"></i>
+                    </th>
+                    <th class="version">
+                        Ver
+                        <i class="fa fa-sort"></i>
+                    </th>
+                    <th class="rate">
+                        Title
+                        <i class="fa fa-sort"></i>
+                    </th>
+                    <th class="rate" title="no good & bad">
+                        Perfect
+                        <i class="fa fa-sort"></i>
+                    </th>
+                    <th class="rate" title="no bad">
+                        Full Combo<i class="fa fa-sort"></i>
+                    </th>
+                    <th class="rate">
+                        Clear
+                        <i class="fa fa-sort"></i>
+                    </th>
                     <th></th>
                 </tr>
             </thead>
