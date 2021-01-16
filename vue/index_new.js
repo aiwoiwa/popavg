@@ -18,9 +18,12 @@ Vue.component('v-accordion', {
                 <td class='right rate'>{{ i.pf_rate }}%</td>
                 <td class='right rate'>{{ i.fc_rate }}%</td>
                 <td class='right rate'>{{ i.clear_rate }}%</td>
+                <td>
+                    <i :class="['fa', isOpened ? 'fa-minus' : 'fa-plus']"></i>
+                </td>
             </tr>
             <tr v-if='isOpened'>
-                <td colspan='6'>
+                <td colspan='7'>
                     <canvas :id='"cvs_" + i.id'></canvas>
                 </td>
             </tr>
@@ -69,6 +72,12 @@ Vue.component('v-accordion', {
                   options: {
                     title: {
                       display: false,
+                    },
+                    legend: {
+                        position: 'right',
+                        labels: {
+                            fontColor: '#CFD2DA'
+                        }
                     }
                   }
                 });
