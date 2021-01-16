@@ -39,17 +39,17 @@ Vue.component('v-accordion', {
                     labels: ["Pf", "FC☆", "FC◇", "FC○", "Clear☆", "Clear◇", "Clear○", "Easy", "★", "◆", "●"],
                     datasets: [{
                         backgroundColor: [
-                            "#FFD700",
-                            "#C0C0C0",
-                            "#C0C0C0",
-                            "#C0C0C0",
-                            "#C47222",
-                            "#C47222",
-                            "#C47222",
-                            "#A9C087",
-                            "#3E3A39",
-                            "#3E3A39",
-                            "#3E3A39"
+                            "#ffd700",
+                            "#c0c0c0",
+                            "#c0c0c0",
+                            "#c0c0c0",
+                            "#cf622d",
+                            "#cf622d",
+                            "#cf622d",
+                            "#08d078",
+                            "#494967",
+                            "#494967",
+                            "#494967"
                         ],
                         data: [
                             this.i.num_of_perfect,
