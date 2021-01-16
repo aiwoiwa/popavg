@@ -78,7 +78,8 @@ Vue.component('v-accordion', {
                     legend: {
                         position: 'right',
                         labels: {
-                            fontColor: '#CFD2DA'
+                            fontColor: '#cfd2da',
+                            fontSize: 12,
                         }
                     }
                   }
