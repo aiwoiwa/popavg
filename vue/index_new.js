@@ -36,21 +36,33 @@ Vue.component('v-accordion', {
                 const pie = new Chart(ctx, {
                   type: 'pie',
                   data: {
-                    labels: ["Perfect", "FullCombo", "Clear", "Easy", "Failed"],
+                    labels: ["Pf", "FC☆", "FC◇", "FC○", "Clear☆", "Clear◇", "Clear○", "Easy", "★", "◆", "●"],
                     datasets: [{
                         backgroundColor: [
                             "#FFD700",
                             "#C0C0C0",
+                            "#C0C0C0",
+                            "#C0C0C0",
+                            "#C47222",
+                            "#C47222",
                             "#C47222",
                             "#A9C087",
+                            "#3E3A39",
+                            "#3E3A39",
                             "#3E3A39"
                         ],
                         data: [
                             this.i.num_of_perfect,
-                            this.i.num_of_fullCombo,
-                            this.i.num_of_clear - this.i.num_of_perfect - this.i.num_of_fullCombo,
+                            this.i.num_of_fullCombo_good_1_5,
+                            this.i.num_of_fullCombo_good_6_20,
+                            this.i.num_of_fullCombo_good_21_,
+                            this.i.num_of_clear_bad_1_5,
+                            this.i.num_of_clear_bad_6_20,
+                            this.i.num_of_clear_bad_21_,
                             this.i.num_of_easy,
-                            this.i.num_of_failed_gauge_16_15 + this.i.num_of_failed_gauge_14_12 + this.i.num_of_failed_gauge_11_0
+                            this.i.num_of_failed_gauge_16_15,
+                            this.i.num_of_failed_gauge_14_12,
+                            this.i.num_of_failed_gauge_11_0
                         ],
                     }]
                   },
