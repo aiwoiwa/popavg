@@ -41,7 +41,7 @@ Vue.component('v-accordion', {
                 const pie = new Chart(ctx, {
                   type: 'pie',
                   data: {
-                    labels: ["Pf", "FC☆", "FC◇", "FC○", "Clear☆", "Clear◇", "Clear○", "Easy", "★", "◆", "●"],
+                    labels: ["☆", "☆", "◇", "○", "☆", "◇", "○", "Easy", "★", "◆", "●"],
                     datasets: [{
                         backgroundColor: [
                             "#ffd700",
@@ -78,6 +78,7 @@ Vue.component('v-accordion', {
                     legend: {
                         position: 'right',
                         labels: {
+                            defaultFontFamily:"'meiryo', 'serif'",
                             fontColor: '#cfd2da',
                             fontSize: 12,
                         }
