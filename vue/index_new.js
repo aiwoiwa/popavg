@@ -1,98 +1,92 @@
-Vue.component('v-accordion', {
+const v_accordion_grid_tbody = {
+    template: '#v-accordion-grid-tbody-template',
     data: function() {
         return {
             isOpened: false,
         }
     },
-    props: ['i'],
-    template: `
-        <tbody>
-            <tr @click='switchShow()'>
-                <td class='left'>{{ i.lv }}</td>
-                <td class='left'>{{ i.version }}</td>
-                <td class='left'>
-                    {{ i.genre }}
-                    <span class='UPPER' v-if='i.isUPPER'>(UPPER)</span>
-                    <span :class='i.difficulty'>({{ i.difficulty }})</span>
-                </td>
-                <td class='right rate'>{{ i.pf_rate }}%</td>
-                <td class='right rate'>{{ i.fc_rate }}%</td>
-                <td class='right rate'>{{ i.clear_rate }}%</td>
-                <td>
-                    <i :class="['fa', isOpened ? 'fa-minus' : 'fa-plus']"></i>
-                </td>
-            </tr>
-            <transition>
-                <tr v-if='isOpened'>
-                    <td colspan='7'>
-                        <canvas :id='"cvs_" + i.id'></canvas>
-                    </td>
-                </tr>
-            </transition>
-        </tbody>
-    `,
+    props: {
+        item: Object,
+    },
     methods: {
-        switchShow: function(){
+        switchAccordion: function(){
             this.isOpened = !this.isOpened;
-            if(!this.isOpened) return;
+            if(this.isOpened) this.$parent.showDatail(this.item);
+        },
+    },
+};
 
+const v_accordion_grid = {
+    template: '#v-accordion-grid-template',
+    components: {
+        'v-accordion-grid-tbody': v_accordion_grid_tbody,
+    },
+    props: {
+        items: Array,
+    },
+    methods: {
+        showDatail: function(item){
             Vue.nextTick(() => {
-                const ctx = document.getElementById(`cvs_${this.i.id}`);
-                const pie = new Chart(ctx, {
-                  type: 'pie',
-                  data: {
-                    labels: ["☆", "☆", "◇", "○", "☆", "◇", "○", "Easy", "★", "◆", "●"],
-                    datasets: [{
-                        backgroundColor: [
-                            "#ffd700",
-                            "#c0c0c0",
-                            "#c0c0c0",
-                            "#c0c0c0",
-                            "#cf622d",
-                            "#cf622d",
-                            "#cf622d",
-                            "#08d078",
-                            "#494967",
-                            "#494967",
-                            "#494967"
-                        ],
-                        data: [
-                            this.i.num_of_perfect,
-                            this.i.num_of_fullCombo_good_1_5,
-                            this.i.num_of_fullCombo_good_6_20,
-                            this.i.num_of_fullCombo_good_21_,
-                            this.i.num_of_clear_bad_1_5,
-                            this.i.num_of_clear_bad_6_20,
-                            this.i.num_of_clear_bad_21_,
-                            this.i.num_of_easy,
-                            this.i.num_of_failed_gauge_16_15,
-                            this.i.num_of_failed_gauge_14_12,
-                            this.i.num_of_failed_gauge_11_0
-                        ],
-                    }]
-                  },
-                  options: {
-                    title: {
-                      display: false,
+                const canvas = document.getElementById(`canvas_${item.id}`);
+                new Chart(canvas, {
+                    type: 'pie',
+                    data: {
+                        labels: ["☆", "☆", "◇", "○", "☆", "◇", "○", "Easy", "★", "◆", "●"],
+                        datasets: [{
+                            backgroundColor: [
+                                "#ffd700",
+                                "#c0c0c0",
+                                "#c0c0c0",
+                                "#c0c0c0",
+                                "#cf622d",
+                                "#cf622d",
+                                "#cf622d",
+                                "#08d078",
+                                "#494967",
+                                "#494967",
+                                "#494967"
+                            ],
+                            data: [
+                                item.num_of_perfect,
+                                item.num_of_fullCombo_good_1_5,
+                                item.num_of_fullCombo_good_6_20,
+                                item.num_of_fullCombo_good_21_,
+                                item.num_of_clear_bad_1_5,
+                                item.num_of_clear_bad_6_20,
+                                item.num_of_clear_bad_21_,
+                                item.num_of_easy,
+                                item.num_of_failed_gauge_16_15,
+                                item.num_of_failed_gauge_14_12,
+                                item.num_of_failed_gauge_11_0
+                            ],
+                        }],
                     },
-                    legend: {
-                        position: 'right',
-                        labels: {
-                            defaultFontFamily:"'meiryo', 'serif'",
-                            fontColor: '#cfd2da',
-                            fontSize: 12,
-                        }
-                    }
-                  }
+                    options: {
+                        title: {
+                            display: false,
+                        },
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                defaultFontFamily:"'meiryo', 'serif'",
+                                fontColor: '#cfd2da',
+                                fontSize: 12,
+                            },
+                        },
+                    },
                 });
             });
-        }
+        },
     },
-});
+};
+
 
 const app = new Vue({
     el: '#app',
+    components: {
+        'v-accordion-grid': v_accordion_grid,
+    },
     data: {
-        items: data
+        gridItems: data,
     },
 });

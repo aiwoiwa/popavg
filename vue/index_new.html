@@ -8,60 +8,35 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css" rel="stylesheet">
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     <link href="./anim.css" rel="stylesheet">
-    <style>
-        body {
-            background-color: #252830;
-            font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
-        }
-        .app-table {
-            border-width: 0px;
-            border-color: #434857;
-            border-style: solid;
-            border-collapse: collapse;
-        }
-        th {
-            font-weight: bold;
-            color: #CFD2DA;
-            padding: 5px 20px 5px 5px;
-        }
-        tbody {
-            border-width: 1px 0px;
-            border-color: #434857;
-            border-style: solid;
-            color: #CFD2DA;
-        }
-        td {
-            padding: 8px;
-        }
-        td.rate {
-            color: #21EFEF;
-        }
-        .UPPER {
-            color: #DAB300;
-        }
-        .EX {
-            color: #FBA8C1;
-        }
-        .HYPER {
-            color: #EFEF51;
-        }
-        .NORMAL {
-            color: #21EFEF;
-        }
-        .app-center {
-            margin: 0 auto;
-            width: 768px; /*1100px; 950px; 768px;*/
-        }
-        .left {
-            text-align: left;
-        }
-        .right {
-            text-align: right;
-        }
-    </style>
-</head>
-<body>
-    <div id="app" class="app-center">
+    <link href="./style.css" rel="stylesheet">
+
+    <script type="text/x-template" id="v-accordion-grid-tbody-template">
+        <tbody>
+            <tr @click='switchAccordion()'>
+                <td class='left'>{{ item.lv }}</td>
+                <td class='left'>{{ item.version }}</td>
+                <td class='left'>
+                    {{ item.genre }}
+                    <span class='UPPER' v-if='item.isUPPER'>(UPPER)</span>
+                    <span :class='item.difficulty'>({{ item.difficulty }})</span>
+                </td>
+                <td class='right rate'>{{ item.pf_rate }}%</td>
+                <td class='right rate'>{{ item.fc_rate }}%</td>
+                <td class='right rate'>{{ item.clear_rate }}%</td>
+                <td>
+                    <i :class="['fa', isOpened ? 'fa-minus' : 'fa-plus']"></i>
+                </td>
+            </tr>
+            <transition>
+                <tr v-if='isOpened'>
+                    <td colspan='7'>
+                        <canvas :id="`canvas_${item.id}`"></canvas>
+                    </td>
+                </tr>
+            </transition>
+        </tbody>
+    </script>
+    <script type="text/x-template" id="v-accordion-grid-template">
         <table class="app-table">
             <thead>
                 <tr>
@@ -73,28 +48,40 @@
                         Ver
                         <i class="fa fa-sort"></i>
                     </th>
-                    <th class="rate">
+                    <th>
                         Title
                         <i class="fa fa-sort"></i>
                     </th>
-                    <th class="rate" title="no good & bad">
+                    <th class="center rate" title="no good & bad">
                         Perfect
                         <i class="fa fa-sort"></i>
                     </th>
-                    <th class="rate" title="no bad">
-                        Full Combo<i class="fa fa-sort"></i>
+                    <th class="center rate" title="no bad">
+                        Full<br/>Combo<i class="fa fa-sort"></i>
                     </th>
-                    <th class="rate">
+                    <th class="center rate">
                         Clear
                         <i class="fa fa-sort"></i>
                     </th>
-                    <th></th>
+                    <th class="icon"></th>
                 </tr>
             </thead>
-            <template v-for="item in items">
-                <tbody is="v-accordion" v-bind:i="item"></tbody>
-            </template>
+            <tbody is="v-accordion-grid-tbody"
+                v-for="item in items"
+                :key="`item_${item.id}`"
+                :item="item">
+            </tbody>
+            <tfoot>
+                <td colspan='7' class="right">
+                    最終更新日:2021/01/08 00:05:47
+                </td>
+            </tfoot>
         </table>
+    </script>
+</head>
+<body>
+    <div id="app" class="app-center">
+        <v-accordion-grid :items="gridItems"></v-accordion-grid>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
