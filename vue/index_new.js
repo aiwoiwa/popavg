@@ -9,7 +9,7 @@ const v_accordion_grid_tbody = {
         item: Object,
     },
     methods: {
-        switchAccordion: function(){
+        toggle: function(){
             this.isOpened = !this.isOpened;
             if(this.isOpened) this.$parent.showDatail(this.item);
         },

@@ -12,7 +12,7 @@
 
     <script type="text/x-template" id="v-accordion-grid-tbody-template">
         <tbody>
-            <tr @click='switchAccordion()'>
+            <tr @click='toggle()'>
                 <td class='left'>{{ item.lv }}</td>
                 <td class='left'>{{ item.version }}</td>
                 <td class='left'>
@@ -23,8 +23,11 @@
                 <td class='right rate'>{{ item.pf_rate }}%</td>
                 <td class='right rate'>{{ item.fc_rate }}%</td>
                 <td class='right rate'>{{ item.clear_rate }}%</td>
-                <td>
-                    <i :class="['fa', isOpened ? 'fa-minus' : 'fa-plus']"></i>
+                <td :class="{'-active': isOpened}">
+                    <span class="icon">
+                        <span class="icon__line"></span>
+                        <span class="icon__line"></span>
+                    </span>
                 </td>
             </tr>
             <transition>
