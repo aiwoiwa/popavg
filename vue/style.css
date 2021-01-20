@@ -21,7 +21,7 @@ body {
     bottom: 0;
     left: 0;
     margin: auto;
-    transition: transform 300ms ease;
+    transition: transform 200ms ease;
 }
 .icon__line:nth-child(1) {
     transform: rotate(90deg);
@@ -79,7 +79,7 @@ td.rate {
 
 .app-center {
     margin: 0 auto;
-    width: 950px; /*1100px; 950px; 768px;*/
+    width: 768px; /*1100px; 950px; 768px;*/
 }
 .left {
     text-align: left;
