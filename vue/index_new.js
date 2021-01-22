@@ -13,6 +13,26 @@ const v_accordion_grid_tbody = {
             this.isOpened = !this.isOpened;
             if(this.isOpened) this.$parent.showDatail(this.item);
         },
+        beforeEnter: function(el) {
+            console.log(el);
+            Vue.nextTick(() => {el.style.height='0'});
+            console.log(el.style.height);
+        },
+        enter: function(el) {
+            console.log(el);
+            Vue.nextTick(() => {el.style.height=`${el.scrollHeight}px`});
+            console.log(el.style.height);
+        },
+        beforeLeave: function(el) {
+            console.log(el);
+            Vue.nextTick(() => {el.style.height=`${el.scrollHeight}px`});
+            console.log(el.style.height);
+        },
+        leave: function(el) {
+            console.log(el);
+            Vue.nextTick(() => {el.style.height='0'});
+            console.log(el.style.height);
+        },
     },
 };
 
@@ -31,7 +51,7 @@ const v_accordion_grid = {
                 new Chart(canvas, {
                     type: 'pie',
                     data: {
-                        labels: ["☆", "☆", "◇", "○", "☆", "◇", "○", "Easy", "★", "◆", "●"],
+                        labels: ["★", "★", "◆", "●", "★", "◆", "●", "Easy", "★", "◆", "●"],
                         datasets: [{
                             backgroundColor: [
                                 "#ffd700",
@@ -65,10 +85,12 @@ const v_accordion_grid = {
                         title: {
                             display: false,
                         },
+                        animation: {
+                            duration: 0
+                        },
                         legend: {
                             position: 'right',
                             labels: {
-                                defaultFontFamily:"'meiryo', 'serif'",
                                 fontColor: '#cfd2da',
                                 fontSize: 12,
                             },

@@ -21,7 +21,7 @@ body {
     bottom: 0;
     left: 0;
     margin: auto;
-    transition: transform 200ms ease;
+    transition: transform 300ms ease;
 }
 .icon__line:nth-child(1) {
     transform: rotate(90deg);
@@ -31,6 +31,11 @@ body {
 }
 .-active .icon__line:nth-child(2) {
     transform: rotate(-180deg);
+}
+
+.js-accordion--target {
+    overflow: hidden;
+    transition: height 300ms ease-in-out;
 }
 
 .app-table {
@@ -60,8 +65,16 @@ tfoot {
 td {
     padding: 8px;
 }
+.no-padding {
+    padding: 0px;
+}
 td.rate {
     color: #21EFEF;
+}
+
+canvas {
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 .UPPER {

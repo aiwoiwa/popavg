@@ -30,13 +30,51 @@
                     </span>
                 </td>
             </tr>
-            <transition>
-                <tr v-if='isOpened'>
+            <tr>
+                <td colspan='7'
+                    class='no-padding'>
+                    <transition name="js-accordion"
+                                @before-enter="beforeEnter"
+                                @enter="enter"
+                                @before-leave="beforeLeave"
+                                @leave="leave">
+                        <div v-if='isOpened'
+                             class='js-accordion--target'>
+                            <canvas :id="`canvas_${item.id}`"></canvas>
+                        </div>
+                    </transition>        
+                </td>
+            </tr>
+            <!--
+            <transition name="js-accordion"
+                        @before-enter="beforeEnter"
+                        @enter="enter"
+                        @before-leave="beforeLeave"
+                        @leave="leave">
+                <tr>
                     <td colspan='7'>
-                        <canvas :id="`canvas_${item.id}`"></canvas>
+                        <div v-if='isOpened' class='js-accordion--target'>
+                            <canvas :id="`canvas_${item.id}`"></canvas>
+                        </div>
                     </td>
                 </tr>
             </transition>
+            -->
+            <!--
+            <transition name="js-accordion"
+                        @before-enter="beforeEnter"
+                        @enter="enter"
+                        @before-leave="beforeLeave"
+                        @leave="leave">
+                <tr>
+                    <td colspan='7'>
+                        <div v-if='isOpened' class='js-accordion--target'>
+                            <canvas :id="`canvas_${item.id}`"></canvas>
+                        </div>
+                    </td>
+                </tr>
+            </transition>
+            -->
         </tbody>
     </script>
     <script type="text/x-template" id="v-accordion-grid-template">
