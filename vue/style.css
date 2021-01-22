@@ -37,6 +37,34 @@ body {
     overflow: hidden;
     transition: height 300ms ease-in-out;
 }
+/* 透過アニメーション(不要なのでコメントアウト)
+.js-accordion-enter-active {
+    animation-duration: 100ms;
+    animation-fill-mode: both;
+    animation-name: js-accordion--anime__opened;
+}
+.js-accordion-leave-active {
+    animation-duration: 100s;
+    animation-fill-mode: both;
+    animation-name: js-accordion--anime__closed;
+}
+@keyframes js-accordion--anime__opened {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@keyframes js-accordion--anime__closed {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+*/
 
 .app-table {
     table-layout: fixed;
