@@ -14,24 +14,16 @@ const v_accordion_grid_tbody = {
             if(this.isOpened) this.$parent.showDatail(this.item);
         },
         beforeEnter: function(el) {
-            console.log(el);
             Vue.nextTick(() => {el.style.height='0'});
-            console.log(el.style.height);
         },
         enter: function(el) {
-            console.log(el);
             Vue.nextTick(() => {el.style.height=`${el.scrollHeight}px`});
-            console.log(el.style.height);
         },
         beforeLeave: function(el) {
-            console.log(el);
             Vue.nextTick(() => {el.style.height=`${el.scrollHeight}px`});
-            console.log(el.style.height);
         },
         leave: function(el) {
-            console.log(el);
             Vue.nextTick(() => {el.style.height='0'});
-            console.log(el.style.height);
         },
     },
 };
