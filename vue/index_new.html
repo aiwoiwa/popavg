@@ -7,12 +7,12 @@
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css" rel="stylesheet">
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
-    <link href="./anim.css" rel="stylesheet">
     <link href="./style.css" rel="stylesheet">
 
     <script type="text/x-template" id="v-accordion-grid-tbody-template">
         <tbody>
-            <tr @click='toggle()'>
+            <tr class="pointer"
+                @click='toggle()'>
                 <td class='left'>{{ item.lv }}</td>
                 <td class='left'>{{ item.version }}</td>
                 <td class='left'>
@@ -25,8 +25,8 @@
                 <td class='right rate'>{{ item.clear_rate }}%</td>
                 <td :class="{'-active': isOpened}">
                     <span class="icon">
-                        <span class="icon__line"></span>
-                        <span class="icon__line"></span>
+                        <span class="icon-line"></span>
+                        <span class="icon-line"></span>
                     </span>
                 </td>
             </tr>
@@ -39,7 +39,7 @@
                                 @before-leave="beforeLeave"
                                 @leave="leave">
                         <div v-if='isOpened'
-                             class='js-accordion--target'>
+                             class='js-accordion-target'>
                             <canvas :id="`canvas_${item.id}`"></canvas>
                         </div>
                     </transition>        
@@ -48,39 +48,66 @@
         </tbody>
     </script>
     <script type="text/x-template" id="v-accordion-grid-template">
-        <table class="app-table">
+        <table class="accordion-grid">
             <thead>
                 <tr>
-                    <th class="lv">
+                    <th class="pointer lv"
+                        @click="sortBy('lv')"
+                        :class="{ active: sortKey==='lv' }">
                         Lv
-                        <i class="fa fa-sort"></i>
+                        <span class="arrow"
+                              :class="sortOrders['lv'] > 0 ? 'asc' : 'desc'">
+                        </span>
                     </th>
-                    <th class="version">
+                    <th class="pointer version"
+                        @click="sortBy('version')"
+                        :class="{ active: sortKey==='version' }">
                         Ver
-                        <i class="fa fa-sort"></i>
+                        <span class="arrow"
+                              :class="sortOrders['version'] > 0 ? 'asc' : 'desc'">
+                        </span>
                     </th>
-                    <th>
+                    <th class="pointer"
+                        @click="sortBy('genre')"
+                        :class="{ active: sortKey==='genre' }">
                         Title
-                        <i class="fa fa-sort"></i>
+                        <span class="arrow"
+                              :class="sortOrders['genre'] > 0 ? 'asc' : 'desc'">
+                        </span>
                     </th>
-                    <th class="center rate" title="no good & bad">
+                    <th class="pointer center rate"
+                        title="no good & bad"
+                        @click="sortBy('pf_rate')"
+                        :class="{ active: sortKey==='pf_rate' }">
                         Perfect
-                        <i class="fa fa-sort"></i>
+                        <span class="arrow"
+                              :class="sortOrders['pf_rate'] > 0 ? 'asc' : 'desc'">
+                        </span>
                     </th>
-                    <th class="center rate" title="no bad">
-                        Full<br/>Combo<i class="fa fa-sort"></i>
+                    <th class="pointer center rate"
+                        title="no bad"
+                        @click="sortBy('fc_rate')"
+                        :class="{ active: sortKey==='fc_rate' }">
+                        Full<br/>Combo
+                        <span class="arrow"
+                              :class="sortOrders['fc_rate'] > 0 ? 'asc' : 'desc'">
+                        </span>
                     </th>
-                    <th class="center rate">
+                    <th class="pointer center rate"
+                        @click="sortBy('clear_rate')"
+                        :class="{ active: sortKey==='clear_rate' }">
                         Clear
-                        <i class="fa fa-sort"></i>
+                        <span class="arrow"
+                              :class="sortOrders['clear_rate'] > 0 ? 'asc' : 'desc'">
+                        </span>
                     </th>
                     <th class="icon"></th>
                 </tr>
             </thead>
             <tbody is="v-accordion-grid-tbody"
-                v-for="item in items"
-                :key="`item_${item.id}`"
-                :item="item">
+                   v-for="item in sortedItems"
+                   :key="`item_${item.id}`"
+                   :item="item">
             </tbody>
             <tfoot>
                 <td colspan='7' class="right">
@@ -92,7 +119,9 @@
 </head>
 <body>
     <div id="app" class="app-center">
-        <v-accordion-grid :items="gridItems"></v-accordion-grid>
+        <v-accordion-grid :items="gridItems"
+                          :columns="gridColumns">
+        </v-accordion-grid>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>

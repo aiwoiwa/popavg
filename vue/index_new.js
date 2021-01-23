@@ -33,8 +33,47 @@ const v_accordion_grid = {
     components: {
         'v-accordion-grid-tbody': v_accordion_grid_tbody,
     },
+    data: function() {
+        const sortOrders = {};
+        this.columns.forEach(function(key) {
+            sortOrders[key] = 1;
+        });
+        return {
+          sortKey: "",
+          sortOrders: sortOrders
+        };
+    },
     props: {
         items: Array,
+        columns: Array
+    },
+    computed: {
+        sortedItems: function() {
+            const sortKey = this.sortKey;
+            const order = this.sortOrders[sortKey] || 1;
+            let items = this.items;
+
+            console.log(sortKey);
+            console.log(order);
+
+            if (sortKey) {
+                console.log("a");
+                items = items.slice().sort(
+                    function(a, b) {
+                        if(~['lv', 'pf_rate', 'fc_rate', 'clear_rate'].indexOf(sortKey)){
+                            a = Number(a[sortKey]);
+                            b = Number(b[sortKey]);
+                        }else{
+                            a = a[sortKey];
+                            b = b[sortKey];    
+                        }
+                        return (a === b ? 0 : a > b ? 1 : -1) * order;
+                    }
+                );
+                console.log("b");
+            }
+            return items;
+        }
     },
     methods: {
         showDatail: function(item){
@@ -88,6 +127,10 @@ const v_accordion_grid = {
                 });
             });
         },
+        sortBy: function(key) {
+            this.sortKey = key;
+            this.sortOrders[key] = this.sortOrders[key] * -1;
+        },
     },
 };
 
@@ -99,5 +142,6 @@ const app = new Vue({
     },
     data: {
         gridItems: data,
+        gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate'],
     },
 });
