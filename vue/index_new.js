@@ -77,9 +77,6 @@ const v_accordion_grid = {
                         title: {
                             display: false,
                         },
-                        animation: {
-                            duration: 0
-                        },
                         legend: {
                             position: 'right',
                             labels: {
