@@ -40,7 +40,8 @@
                                 @leave="leave">
                         <div v-if='isOpened'
                              class='js-accordion-target'>
-                            <canvas :id="`canvas_${item.id}`"></canvas>
+                            <canvas :id="`canvas-pie-${item.id}`"></canvas>
+                            <canvas :id="`canvas-bar-${item.id}`"></canvas>
                         </div>
                     </transition>        
                 </td>
@@ -126,7 +127,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
-    <script src=".\src\data_new.js"></script>
+    <script src=".\src\data_new2.js"></script>
     <script src=".\index_new.js"></script>
 </body>
 </html>

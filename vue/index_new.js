@@ -53,11 +53,7 @@ const v_accordion_grid = {
             const order = this.sortOrders[sortKey] || 1;
             let items = this.items;
 
-            console.log(sortKey);
-            console.log(order);
-
             if (sortKey) {
-                console.log("a");
                 items = items.slice().sort(
                     function(a, b) {
                         if(~['lv', 'pf_rate', 'fc_rate', 'clear_rate'].indexOf(sortKey)){
@@ -70,7 +66,6 @@ const v_accordion_grid = {
                         return (a === b ? 0 : a > b ? 1 : -1) * order;
                     }
                 );
-                console.log("b");
             }
             return items;
         }
@@ -78,8 +73,8 @@ const v_accordion_grid = {
     methods: {
         showDatail: function(item){
             Vue.nextTick(() => {
-                const canvas = document.getElementById(`canvas_${item.id}`);
-                new Chart(canvas, {
+                const pie = document.getElementById(`canvas-pie-${item.id}`);
+                new Chart(pie, {
                     type: 'pie',
                     data: {
                         labels: ["★", "★", "◆", "●", "★", "◆", "●", "Easy", "★", "◆", "●"],
@@ -122,6 +117,68 @@ const v_accordion_grid = {
                                 fontColor: '#cfd2da',
                                 fontSize: 12,
                             },
+                        },
+                    },
+                });
+
+                const bar = document.getElementById(`canvas-bar-${item.id}`);
+                new Chart(bar, {
+                    type: 'bar',
+                    data: {
+                        labels: [
+                            "99.0未満",
+                            "99.0",
+                            "99.1",
+                            "99.2",
+                            "99.3",
+                            "99.4",
+                            "99.5",
+                            "99.6",
+                            "99.7",
+                            "99.8",
+                            "99.9",
+                            "100.0",
+                            "100.1",
+                            "100.2以上"
+                        ],
+                        datasets: [{
+                            data: item.avg_scores_group_by_popn_class.map(i => Math.round(i.avg)),
+                            backgroundColor: '#9fa5b5',
+                        }],
+                    },
+                    options: {
+                        title: {
+                            display: false,
+                        },
+                        legend: {
+                            display: false,
+                        },
+                        scales: {
+                            xAxes: [{
+                                ticks: {
+                                    fontColor: '#cfd2da',
+                                },
+                                display: true,
+                                stacked: false,
+                                gridLines: {
+                                    display: false,
+                                },
+                            }],
+                            yAxes: [{
+                                ticks: {
+                                    fontColor: '#cfd2da',
+                                    suggestedMax: 100000,
+                                    suggestedMin: 70000,
+                                    stepSize: 1000,
+                                    callback: function(val){
+                                        return  val
+                                    },
+                                },
+                                gridLines: {
+                                    drawBorder: false,
+                                    color: '#cfd2da',
+                                },
+                            }]
                         },
                     },
                 });
