@@ -46,7 +46,7 @@ th.active .arrow {
     bottom: 0;
     left: 0;
     margin: auto;
-    transition: transform 200ms ease;
+    transition: transform 300ms ease;
 }
 .icon-line:nth-child(1) {
     transform: rotate(90deg);
@@ -60,7 +60,7 @@ th.active .arrow {
 
 .js-accordion-target {
     overflow: hidden;
-    transition: height 200ms ease-in-out;
+    transition: height 300ms ease-in-out;
 }
 
 .pointer {
@@ -121,7 +121,7 @@ canvas {
 
 #app {
     margin: 0 auto;
-    width: 768px; /*1100px; 950px; 768px;*/
+    width: 950px; /*1100px; 950px; 768px;*/
 }
 .left {
     text-align: left;

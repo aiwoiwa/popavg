@@ -23,6 +23,7 @@
                 <td class='right rate'>{{ item.pf_rate }}%</td>
                 <td class='right rate'>{{ item.fc_rate }}%</td>
                 <td class='right rate'>{{ item.clear_rate }}%</td>
+                <td class='right rate'>{{ item.max }}</td>
                 <td :class="{'-active': isOpened}">
                     <span class="icon">
                         <span class="icon-line"></span>
@@ -31,7 +32,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan='7'
+                <td colspan='8'
                     class='no-padding'>
                     <transition name="js-accordion"
                                 @before-enter="beforeEnter"
@@ -41,7 +42,7 @@
                         <div v-if='isOpened'
                              class='js-accordion-target'>
                             <canvas :id="`canvas-pie-${item.id}`"></canvas>
-                            <canvas :id="`canvas-bar-${item.id}`"></canvas>
+                            <canvas :id="`canvas-line-${item.id}`"></canvas>
                         </div>
                     </transition>        
                 </td>
@@ -102,6 +103,14 @@
                               :class="sortOrders['clear_rate'] > 0 ? 'asc' : 'desc'">
                         </span>
                     </th>
+                    <th class="pointer center rate"
+                        @click="sortBy('max')"
+                        :class="{ active: sortKey==='max' }">
+                        Top<br/>Score
+                        <span class="arrow"
+                              :class="sortOrders['max'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
                     <th class="icon"></th>
                 </tr>
             </thead>
@@ -111,7 +120,7 @@
                    :item="item">
             </tbody>
             <tfoot>
-                <td colspan='7' class="right">
+                <td colspan='8' class="right">
                     最終更新日:2021/01/08 00:05:47
                 </td>
             </tfoot>

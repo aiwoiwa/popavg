@@ -56,7 +56,7 @@ const v_accordion_grid = {
             if (sortKey) {
                 items = items.slice().sort(
                     function(a, b) {
-                        if(~['lv', 'pf_rate', 'fc_rate', 'clear_rate'].indexOf(sortKey)){
+                        if(~['lv', 'pf_rate', 'fc_rate', 'clear_rate', 'max'].indexOf(sortKey)){
                             a = Number(a[sortKey]);
                             b = Number(b[sortKey]);
                         }else{
@@ -114,6 +114,7 @@ const v_accordion_grid = {
                         legend: {
                             position: 'right',
                             labels: {
+                                fontFamily: "'メイリオ',Meiryo,monospace,sans-serif",
                                 fontColor: '#cfd2da',
                                 fontSize: 12,
                             },
@@ -121,12 +122,11 @@ const v_accordion_grid = {
                     },
                 });
 
-                const bar = document.getElementById(`canvas-bar-${item.id}`);
-                new Chart(bar, {
-                    type: 'bar',
+                const line = document.getElementById(`canvas-line-${item.id}`);
+                new Chart(line, {
+                    type: 'line',
                     data: {
                         labels: [
-                            "99.0未満",
                             "99.0",
                             "99.1",
                             "99.2",
@@ -141,17 +141,36 @@ const v_accordion_grid = {
                             "100.1",
                             "100.2以上"
                         ],
-                        datasets: [{
-                            data: item.avg_scores_group_by_popn_class.map(i => Math.round(i.avg)),
-                            backgroundColor: '#9fa5b5',
-                        }],
+                        datasets: [
+                            {
+                                label: "max",
+                                data: item.avg_scores_group_by_popn_class.map(i => i.max),
+                                borderColor: '#ff6384',
+                            },
+                            {
+                                label: "median",
+                                data: item.avg_scores_group_by_popn_class.map(i => Math.round(i.median)),
+                                borderColor: '#4bc0c0',
+                            },
+                            {
+                                label: "avg",
+                                data: item.avg_scores_group_by_popn_class.map(i => Math.round(i.avg)),
+                                borderColor: '#ff9f40',
+                            },
+                        ],
                     },
                     options: {
                         title: {
                             display: false,
                         },
                         legend: {
-                            display: false,
+                            display: true,
+                            position: 'right',
+                            labels: {
+                                fontFamily: "'メイリオ',Meiryo,monospace,sans-serif",
+                                fontColor: '#cfd2da',
+                                fontSize: 12,
+                            },
                         },
                         scales: {
                             xAxes: [{
@@ -161,22 +180,21 @@ const v_accordion_grid = {
                                 display: true,
                                 stacked: false,
                                 gridLines: {
-                                    display: false,
+                                    color: '#9fa5b5',
                                 },
                             }],
                             yAxes: [{
                                 ticks: {
                                     fontColor: '#cfd2da',
                                     suggestedMax: 100000,
-                                    suggestedMin: 70000,
+                                    suggestedMin: 90000,
                                     stepSize: 1000,
                                     callback: function(val){
                                         return  val
                                     },
                                 },
                                 gridLines: {
-                                    drawBorder: false,
-                                    color: '#cfd2da',
+                                    color: '#9fa5b5',
                                 },
                             }]
                         },
@@ -185,6 +203,7 @@ const v_accordion_grid = {
             });
         },
         sortBy: function(key) {
+            console.log(key);
             this.sortKey = key;
             this.sortOrders[key] = this.sortOrders[key] * -1;
         },
@@ -199,6 +218,6 @@ const app = new Vue({
     },
     data: {
         gridItems: data,
-        gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate'],
+        gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'max'],
     },
 });
