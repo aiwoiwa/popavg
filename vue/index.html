@@ -1,432 +1,143 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>vuejs</title>
-    <link rel="stylesheet" href=".\app.css">
-    <style>
-        body {
-            background-color: #252830;
-        }
-        table {
-            border-width: 0px;
-            border-color: #434857;
-            border-style: solid;
-            border-collapse: collapse;
-        }
-        th {
-            font-weight: bold;
-            color: #CFD2DA;
-            padding: 5px 20px 5px 5px;
-        }
-        th.lv {
-            width: 3em;
-        }
-        th.version {
-            width: 3em;
-        }
-        th.rate {
-            width: 8em;
-        }
-        td {
-            border-width: 1px 0px;
-            border-color: #434857;
-            border-style: solid;
-            color: #CFD2DA;
-            padding: 5px;
-        }
-        td.rate {
-            color: #21EFEF;
-        }
-        .UPPER {
-            color: #DAB300;
-        }
-        .EX {
-            color: #FBA8C1;
-        }
-        .HYPER {
-            color: #EFEF51;
-        }
-        .NORMAL {
-            color: #21EFEF;
-        }
-        .left {
-            text-align: left;
-        }
-        .right {
-            text-align: right;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <tr>
-            <td>
-                難易度:
-            </td>
-            <td>
-                <input id="chkHYPER" name="chkDif" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkHYPER">HYPER</label>
-            </td>
-            <td>
-                <input id="chkEX" name="chkDif" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkEX">EX</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                譜面:
-            </td>
-            <td>
-                <input id="chkGeneral" name="chkFumen" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkGeneral">通常</label>
-            </td>
-            <td>
-                <input id="chkUPPER" name="chkFumen" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkUPPER">UPPER</label>
-            </td>
-            <td>
-                <input id="chkUra" name="chkFumen" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkUra">ウラ</label>
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="2">
-                Lv:
-            </td>
-            <td>
-                <input id="chkLv42" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv42">42</label>
-            </td>
-            <td>
-                <input id="chkLv43" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv43">43</label>
-            </td>
-            <td>
-                <input id="chkLv44" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv44">44</label>
-            </td>
-            <td>
-                <input id="chkLv45" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv45">45</label>
-            </td>
-            <td>
-                <input id="chkLv46" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv46">46</label>
-            </td>
-            <td>
-                <input id="chkLv47" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv47">47</label>
-            </td>
-            <td>
-                <input id="chkLv48" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv48">48</label>
-            </td>
-            <td>
-                <input id="chkLv49" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv49">49</label>
-            </td>
-            <td>
-                <input id="chkLv50" name="chkLv" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLv50">50</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input type="button" value="all check" onclick="allCheck('chkLv', true);">
-            </td>
-            <td>
-                <input type="button" value="all clear" onclick="allCheck('chkLv', false);">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td rowspan="7">
-                Ver:
-            </td>
-            <td>
-                <input id="chk1" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk1">1</label>
-            </td>
-            <td>
-                <input id="chk2" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk2">2</label>
-            </td>
-            <td>
-                <input id="chk3" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk3">3</label>
-            </td>
-            <td>
-                <input id="chk4" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk4">4</label>
-            </td>
-            <td>
-                <input id="chk5" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk5">5</label>
-            </td>
-            <td>
-                <input id="chk6" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk6">6</label>
-            </td>
-            <td>
-                <input id="chk7" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk7">7</label>
-            </td>
-            <td>
-                <input id="chk8" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk8">8</label>
-            </td>
-            <td>
-                <input id="chk9" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk9">9</label>
-            </td>
-            <td>
-                <input id="chk10" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk10">10</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input id="chk11" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk11">11</label>
-            </td>
-            <td>
-                <input id="chk12" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk12">12</label>
-            </td>
-            <td>
-                <input id="chk13" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk13">13</label>
-            </td>
-            <td>
-                <input id="chk14" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk14">14</label>
-            </td>
-            <td>
-                <input id="chk15" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk15">15</label>
-            </td>
-            <td>
-                <input id="chk16" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk16">16</label>
-            </td>
-            <td>
-                <input id="chk17" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk17">17</label>
-            </td>
-            <td>
-                <input id="chk18" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk18">18</label>
-            </td>
-            <td>
-                <input id="chk19" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk19">19</label>
-            </td>
-            <td>
-                <input id="chk20" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chk20">20</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input id="chkSP" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkSP">SP</label>
-            </td>
-            <td>
-                <input id="chkLT" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkLT">LT</label>
-            </td>
-            <td>
-                <input id="chkEcl" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkEcl">écl</label>
-            </td>
-            <td>
-                <input id="chkUsa" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkUsa">うさ</label>
-            </td>
-            <td>
-                <input id="chkPe" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkPe">pe</label>
-            </td>
-            <td>
-                <input id="chkRid" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkRid">解</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input id="chkCS1" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS1">CS1</label>
-            </td>
-            <td>
-                <input id="chkCS2" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS2">CS2</label>
-            </td>
-            <td>
-                <input id="chkCS3" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS3">CS3</label>
-            </td>
-            <td>
-                <input id="chkCS4" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS4">CS4</label>
-            </td>
-            <td>
-                <input id="chkCS5" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS5">CS5</label>
-            </td>
-            <td>
-                <input id="chkCS6" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS6">CS6</label>
-            </td>
-            <td>
-                <input id="chkCS7" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS7">CS7</label>
-            </td>
-            <td>
-                <input id="chkCS8" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS8">CS8</label>
-            </td>
-            <td>
-                <input id="chkCS9" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS9">CS9</label>
-            </td>
-            <td>
-                <input id="chkCS10" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS10">CS10</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input id="chkCS11" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS11">CS11</label>
-            </td>
-            <td>
-                <input id="chkCS12" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS12">CS12</label>
-            </td>
-            <td>
-                <input id="chkCS13" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS13">CS13</label>
-            </td>
-            <td>
-                <input id="chkCS14" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCS14">CS14</label>
-            </td>
-            <td>
-                <input id="chkCSBest" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkCSBest">CSBest</label>
-            </td>
-            <td>
-                <input id="chkPMP" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkPMP">PMP</label>
-            </td>
-            <td>
-                <input id="chkPMP2" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkPMP2">PMP2</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input id="chkee" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkee">ee</label>
-            </td>
-            <td>
-                <input id="chkee2" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkee2">ee2</label>
-            </td>
-            <td>
-                <input id="chkHanken" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkHanken">版権</label>
-            </td>
-            <td>
-                <input id="chkHankenRid" name="chkVer" type="checkbox" checked="checked" onchange="chg()">
-                <label for="chkHankenRid">解版</label>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <input type="button" value="all check" onclick="allCheck('chkVer', true);">
-            </td>
-            <td>
-                <input type="button" value="all clear" onclick="allCheck('chkVer', false);">
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td>
-                表示切替:
-            </td>
-            <td>
-                <input id="rdbDispAll" name="rdbDisp" type="radio" checked="checked" onchange="chgDisp()">
-                <label for="rdbDispAll">ジャンル名 & 曲名</label>
-            </td>
-            <td>
-                <input id="rdbDispGenre" name="rdbDisp" type="radio" onchange="chgDisp()">
-                <label for="rdbDispGenre">ジャンル名</label>
-            </td>
-            <td>
-                <input id="rdbDispSong" name="rdbDisp" type="radio" onchange="chgDisp()">
-                <label for="rdbDispSong">曲名</label>
-            </td>
-        </tr>
-    </table>
+    <title>rate</title>
 
-    <div id="app">
-        <table class="table">
+    <link rel="icon" href="./src/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="./src/apple-touch-icon.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css">
+    <link rel="stylesheet" href="./style.min.css">
+
+    <script type="text/x-template" id="v-accordion-grid-tbody-template">
+        <tbody>
+            <tr class="pointer"
+                @click='toggle()'>
+                <td class='left'>{{ item.lv }}</td>
+                <td class='left'>{{ item.version }}</td>
+                <td class='left'>
+                    {{ item.genre }}
+                    <span class='UPPER' v-if='item.isUPPER'>(UPPER)</span>
+                    <span :class='item.difficulty'>({{ item.difficulty }})</span>
+                </td>
+                <td class='right rate'>{{ item.pf_rate }}%</td>
+                <td class='right rate'>{{ item.fc_rate }}%</td>
+                <td class='right rate'>{{ item.clear_rate }}%</td>
+                <td class='right rate'>{{ item.max }}</td>
+                <td :class="{'-active': isOpened}">
+                    <span class="icon">
+                        <span class="icon-line"></span>
+                        <span class="icon-line"></span>
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan='8'
+                    class='no-padding'>
+                    <transition name="js-accordion"
+                                @before-enter="beforeEnter"
+                                @enter="enter"
+                                @before-leave="beforeLeave"
+                                @leave="leave">
+                        <div v-if='isOpened'
+                             class='js-accordion-target'>
+                            <canvas :id="`canvas-pie-${item.id}`"></canvas>
+                            <canvas :id="`canvas-line-${item.id}`"></canvas>
+                        </div>
+                    </transition>        
+                </td>
+            </tr>
+        </tbody>
+    </script>
+    <script type="text/x-template" id="v-accordion-grid-template">
+        <table class="accordion-grid">
             <thead>
                 <tr>
-                    <th class="left lv" @click="sortBy('lv')" :class="sortedClass('lv')">Lv</th>
-                    <th class="left version" @click="sortBy('version')" :class="sortedClass('version')">Ver</th>
-                    <th class="left" @click="sortBy('song')" :class="sortedClass('song')">Title</th>
-                    <th class="right rate" @click="sortBy('pf_rate')" :class="sortedClass('pf_rate')">Perfect</th>
-                    <th class="right rate" @click="sortBy('fc_rate')" :class="sortedClass('fc_rate')">Full Combo</th>
-                    <th class="right rate" @click="sortBy('clear_rate')" :class="sortedClass('clear_rate')">Clear</th>
+                    <th class="pointer lv"
+                        @click="sortBy('lv')"
+                        :class="{ active: sortKey==='lv' }">
+                        Lv
+                        <span class="arrow"
+                              :class="sortOrders['lv'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
+                    <th class="pointer version"
+                        @click="sortBy('version')"
+                        :class="{ active: sortKey==='version' }">
+                        Ver
+                        <span class="arrow"
+                              :class="sortOrders['version'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
+                    <th class="pointer"
+                        @click="sortBy('genre')"
+                        :class="{ active: sortKey==='genre' }">
+                        Title
+                        <span class="arrow"
+                              :class="sortOrders['genre'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
+                    <th class="pointer center rate"
+                        title="no good & bad"
+                        @click="sortBy('pf_rate')"
+                        :class="{ active: sortKey==='pf_rate' }">
+                        Perfect
+                        <span class="arrow"
+                              :class="sortOrders['pf_rate'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
+                    <th class="pointer center rate"
+                        title="no bad"
+                        @click="sortBy('fc_rate')"
+                        :class="{ active: sortKey==='fc_rate' }">
+                        Full<br/>Combo
+                        <span class="arrow"
+                              :class="sortOrders['fc_rate'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
+                    <th class="pointer center rate"
+                        @click="sortBy('clear_rate')"
+                        :class="{ active: sortKey==='clear_rate' }">
+                        Clear
+                        <span class="arrow"
+                              :class="sortOrders['clear_rate'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
+                    <th class="pointer center rate"
+                        @click="sortBy('max')"
+                        :class="{ active: sortKey==='max' }">
+                        Top<br/>Score
+                        <span class="arrow"
+                              :class="sortOrders['max'] > 0 ? 'asc' : 'desc'">
+                        </span>
+                    </th>
+                    <th class="icon"></th>
                 </tr>
             </thead>
-            <tbody>
-                <tr v-for="item in sortedArr">
-                    <td class="left">{{ item.lv }}</td>
-                    <td class="left">{{ item.version }}</td>
-                    <td class="left" v-if="display === 'all' && item.genre === item.song">
-                        {{ item.song }}
-                        <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
-                        <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
-                    </td>
-                    <td class="left" v-else-if="display === 'all'">
-                        <div>
-                            {{ item.genre }}
-                            <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
-                            <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
-                        </div>
-                        <div>
-                            {{ item.song }}
-                        </div>
-                    </td>
-                    <td class="left" v-else-if="display === 'genre'">
-                        {{ item.genre }}
-                        <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
-                        <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
-                    </td>
-                    <td class="left" v-else-if="display === 'song'">
-                        {{ item.song }}
-                        <span :class="{'UPPER': item.isUPPER}">{{ item.isUPPER ? '(UPPER)' : '' }}</span>
-                        <span :class="item.difficulty">{{ `(${item.difficulty})` }}</span>
-                    </td>
-                    <td class="right rate">{{ item.pf_rate }}%</td>
-                    <td class="right rate">{{ item.fc_rate }}%</td> 
-                    <td class="right rate">{{ item.clear_rate }}%</td>
-                </tr>
+            <tbody is="v-accordion-grid-tbody"
+                   v-for="item in sortedItems"
+                   :key="`item_${item.id}`"
+                   :item="item">
             </tbody>
+            <tfoot>
+                <td colspan='8' class="right">
+                    最終更新日:2021/01/08 00:05:47
+                </td>
+            </tfoot>
         </table>
+    </script>
+</head>
+<body>
+    <div id="app" class="app-center">
+        <v-accordion-grid :items="gridItems"
+                          :columns="gridColumns">
+        </v-accordion-grid>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src=".\src\data.js"></script>
-    <script src=".\index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+    <script src=".\src\data.min.js"></script>
+    <script src=".\index.min.js"></script>
 </body>
 </html>
