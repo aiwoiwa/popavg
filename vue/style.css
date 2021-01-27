@@ -3,6 +3,10 @@ body {
     font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+button {
+    background-color: #252830;
+}
+
 th.active {
     color: #fff;
 }

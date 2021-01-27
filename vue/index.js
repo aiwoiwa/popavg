@@ -185,7 +185,7 @@ const v_accordion_grid = {
     },
     props: {
         items: Array,
-        columns: Array
+        columns: Array,
     },
     computed: {
         sortedItems: function() {
@@ -218,7 +218,6 @@ const v_accordion_grid = {
     },
 };
 
-
 const app = new Vue({
     el: '#app',
     components: {
@@ -228,4 +227,13 @@ const app = new Vue({
         gridItems: null,
         gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'max'],
     },
+    methods: {
+        getData: function(lv) {
+            fetch(`https://aiwoiwa.github.io/popavg/vue/src/data${lv}.json`)
+            .then(response => response.json())
+            .then(data => this.gridItems = data);
+        },
+    },
 });
+
+app.getData(50);

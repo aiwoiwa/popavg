@@ -130,6 +130,20 @@
 </head>
 <body>
     <div id="app" class="app-center">
+        <table>
+            <tr>
+                <td>Lv</td>
+                <td><button type="button" v-on:click ="getData(42)">42</button></td>
+                <td><button type="button" v-on:click ="getData(43)">43</button></td>
+                <td><button type="button" v-on:click ="getData(44)">44</button></td>
+                <td><button type="button" v-on:click ="getData(45)">45</button></td>
+                <td><button type="button" v-on:click ="getData(46)">46</button></td>
+                <td><button type="button" v-on:click ="getData(47)">47</button></td>
+                <td><button type="button" v-on:click ="getData(48)">48</button></td>
+                <td><button type="button" v-on:click ="getData(49)">49</button></td>
+                <td><button type="button" v-on:click ="getData(50)">50</button></td>
+            </tr>
+        </table>
         <v-accordion-grid :items="gridItems"
                           :columns="gridColumns">
         </v-accordion-grid>
