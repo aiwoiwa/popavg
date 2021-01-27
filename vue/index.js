@@ -234,6 +234,7 @@ const app = new Vue({
             .then(data => this.gridItems = data);
         },
     },
+    mounted: function() {
+        this.getData(50);
+    },
 });
-
-app.getData(50);
