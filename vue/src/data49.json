@@ -1,0 +1,7640 @@
+[
+	{
+		"id" : 0,
+		"lv" : 49,
+		"genre" : "24/7 Popperz",
+		"song" : "24/7 Popperz",
+		"pf_rate" : "1.70",
+		"fc_rate" : "4.68",
+		"clear_rate" : "65.10",
+		"total" : 235,
+		"num_of_perfect" : 4,
+		"num_of_fullCombo" : 7,
+		"num_of_clear" : 153,
+		"num_of_fullCombo_good_1_5" : 4,
+		"num_of_fullCombo_good_6_20" : 2,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 11,
+		"num_of_clear_bad_1_5" : 35,
+		"num_of_clear_bad_6_20" : 85,
+		"num_of_clear_bad_21_" : 22,
+		"num_of_easy" : 16,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 5,
+		"num_of_failed_gauge_11_0" : 60,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94031,
+				"avg" : 90792.55555555556,
+				"min" : 88434,
+				"total" : 9,
+				"median" : 91096
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 93946,
+				"avg" : 91967.15384615384,
+				"min" : 88922,
+				"total" : 13,
+				"median" : 92015
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 94811,
+				"avg" : 93373.57142857143,
+				"min" : 92551,
+				"total" : 7,
+				"median" : 92990
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94378,
+				"avg" : 93275.36363636363,
+				"min" : 92034,
+				"total" : 11,
+				"median" : 93313
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 94591,
+				"avg" : 93589.22222222222,
+				"min" : 91936,
+				"total" : 9,
+				"median" : 93721
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 95937,
+				"avg" : 94256.84615384616,
+				"min" : 92704,
+				"total" : 13,
+				"median" : 94226
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96065,
+				"avg" : 94896.28571428571,
+				"min" : 93471,
+				"total" : 14,
+				"median" : 95027
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96778,
+				"avg" : 95410,
+				"min" : 94305,
+				"total" : 10,
+				"median" : 95654.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 95676,
+				"avg" : 95487,
+				"min" : 95146,
+				"total" : 3,
+				"median" : 95639
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96936,
+				"avg" : 95882.25,
+				"min" : 94658,
+				"total" : 8,
+				"median" : 95867
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97722,
+				"avg" : 96825.9,
+				"min" : 95657,
+				"total" : 10,
+				"median" : 96903
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97576,
+				"avg" : 97033.75,
+				"min" : 96717,
+				"total" : 4,
+				"median" : 96921
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99135,
+				"avg" : 97926,
+				"min" : 96138,
+				"total" : 11,
+				"median" : 97880
+			}
+		],
+		"max" : 99135
+	},
+	{
+		"id" : 1,
+		"lv" : 49,
+		"genre" : "BabeL ～MODEL DD101～",
+		"song" : "BabeL ～MODEL DD101～",
+		"pf_rate" : "0.90",
+		"fc_rate" : "3.16",
+		"clear_rate" : "62.44",
+		"total" : 221,
+		"num_of_perfect" : 2,
+		"num_of_fullCombo" : 5,
+		"num_of_clear" : 138,
+		"num_of_fullCombo_good_1_5" : 2,
+		"num_of_fullCombo_good_6_20" : 3,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 7,
+		"num_of_clear_bad_1_5" : 22,
+		"num_of_clear_bad_6_20" : 73,
+		"num_of_clear_bad_21_" : 36,
+		"num_of_easy" : 11,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 4,
+		"num_of_failed_gauge_11_0" : 65,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 91478,
+				"avg" : 90271.33333333333,
+				"min" : 88744,
+				"total" : 9,
+				"median" : 90592
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 93753,
+				"avg" : 87936.84615384616,
+				"min" : 46211,
+				"total" : 13,
+				"median" : 91413
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 93413,
+				"avg" : 92121,
+				"min" : 91454,
+				"total" : 7,
+				"median" : 91953
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94322,
+				"avg" : 92365.72727272728,
+				"min" : 90856,
+				"total" : 11,
+				"median" : 92392
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 93771,
+				"avg" : 92993.44444444444,
+				"min" : 91607,
+				"total" : 9,
+				"median" : 93331
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 94551,
+				"avg" : 93147.76923076923,
+				"min" : 90123,
+				"total" : 13,
+				"median" : 93483
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 95178,
+				"avg" : 94223.57142857143,
+				"min" : 93096,
+				"total" : 14,
+				"median" : 94322
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96492,
+				"avg" : 94997.3,
+				"min" : 93126,
+				"total" : 10,
+				"median" : 95058.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 95800,
+				"avg" : 95110,
+				"min" : 94058,
+				"total" : 3,
+				"median" : 95472
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96469,
+				"avg" : 95423.375,
+				"min" : 94252,
+				"total" : 8,
+				"median" : 95495
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 96973,
+				"avg" : 96385.4,
+				"min" : 95313,
+				"total" : 10,
+				"median" : 96653.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97249,
+				"avg" : 96773.5,
+				"min" : 95929,
+				"total" : 4,
+				"median" : 96958
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98938,
+				"avg" : 97800.63636363637,
+				"min" : 96369,
+				"total" : 11,
+				"median" : 97759
+			}
+		],
+		"max" : 98938
+	},
+	{
+		"id" : 2,
+		"lv" : 49,
+		"genre" : "Black Emperor",
+		"song" : "Black Emperor",
+		"pf_rate" : "2.18",
+		"fc_rate" : "7.86",
+		"clear_rate" : "95.63",
+		"total" : 229,
+		"num_of_perfect" : 5,
+		"num_of_fullCombo" : 13,
+		"num_of_clear" : 219,
+		"num_of_fullCombo_good_1_5" : 9,
+		"num_of_fullCombo_good_6_20" : 4,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 18,
+		"num_of_clear_bad_1_5" : 43,
+		"num_of_clear_bad_6_20" : 85,
+		"num_of_clear_bad_21_" : 73,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 6,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94613,
+				"avg" : 93123.44444444444,
+				"min" : 91169,
+				"total" : 9,
+				"median" : 93251
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94831,
+				"avg" : 93283.25,
+				"min" : 91850,
+				"total" : 12,
+				"median" : 93225
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 94600,
+				"avg" : 93930,
+				"min" : 93060,
+				"total" : 6,
+				"median" : 93892.5
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95763,
+				"avg" : 94642.90909090909,
+				"min" : 93020,
+				"total" : 11,
+				"median" : 94527
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95803,
+				"avg" : 93938,
+				"min" : 90773,
+				"total" : 8,
+				"median" : 94249.5
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96503,
+				"avg" : 95357.58333333333,
+				"min" : 93192,
+				"total" : 12,
+				"median" : 95485.5
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96972,
+				"avg" : 96099.85714285714,
+				"min" : 95082,
+				"total" : 14,
+				"median" : 96271.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96886,
+				"avg" : 95881.2,
+				"min" : 92961,
+				"total" : 10,
+				"median" : 96235.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97191,
+				"avg" : 96657.66666666667,
+				"min" : 95677,
+				"total" : 3,
+				"median" : 97105
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98235,
+				"avg" : 97382.25,
+				"min" : 96397,
+				"total" : 8,
+				"median" : 97475
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98162,
+				"avg" : 97299.88888888889,
+				"min" : 95102,
+				"total" : 9,
+				"median" : 97666
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98241,
+				"avg" : 98199.33333333333,
+				"min" : 98162,
+				"total" : 3,
+				"median" : 98195
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99345,
+				"avg" : 98687.72727272728,
+				"min" : 97951,
+				"total" : 11,
+				"median" : 98578
+			}
+		],
+		"max" : 99345
+	},
+	{
+		"id" : 3,
+		"lv" : 49,
+		"genre" : "C18H27NO3",
+		"song" : "C18H27NO3",
+		"pf_rate" : "7.08",
+		"fc_rate" : "13.33",
+		"clear_rate" : "89.58",
+		"total" : 240,
+		"num_of_perfect" : 17,
+		"num_of_fullCombo" : 15,
+		"num_of_clear" : 215,
+		"num_of_fullCombo_good_1_5" : 10,
+		"num_of_fullCombo_good_6_20" : 4,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 32,
+		"num_of_clear_bad_1_5" : 53,
+		"num_of_clear_bad_6_20" : 75,
+		"num_of_clear_bad_21_" : 55,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 16,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 97315,
+				"avg" : 96600.55555555556,
+				"min" : 95859,
+				"total" : 9,
+				"median" : 96939
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 97543,
+				"avg" : 96555.53846153847,
+				"min" : 94993,
+				"total" : 13,
+				"median" : 96510
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97409,
+				"avg" : 96619.85714285714,
+				"min" : 95691,
+				"total" : 7,
+				"median" : 96758
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 98140,
+				"avg" : 97197.3,
+				"min" : 96214,
+				"total" : 10,
+				"median" : 97415.5
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 98281,
+				"avg" : 97705.66666666667,
+				"min" : 97261,
+				"total" : 9,
+				"median" : 97617
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 98248,
+				"avg" : 97731.07692307692,
+				"min" : 96610,
+				"total" : 13,
+				"median" : 97879
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98617,
+				"avg" : 98106.42857142857,
+				"min" : 97362,
+				"total" : 14,
+				"median" : 98127
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98966,
+				"avg" : 98302.2,
+				"min" : 97295,
+				"total" : 10,
+				"median" : 98402.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98583,
+				"avg" : 98343.66666666667,
+				"min" : 98167,
+				"total" : 3,
+				"median" : 98281
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 99167,
+				"avg" : 98669.875,
+				"min" : 97953,
+				"total" : 8,
+				"median" : 98707.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99530,
+				"avg" : 98987.5,
+				"min" : 98409,
+				"total" : 10,
+				"median" : 99039.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 99187,
+				"avg" : 98942.25,
+				"min" : 98483,
+				"total" : 4,
+				"median" : 99049.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99758,
+				"avg" : 99345.45454545454,
+				"min" : 98684,
+				"total" : 11,
+				"median" : 99436
+			}
+		],
+		"max" : 99758
+	},
+	{
+		"id" : 4,
+		"lv" : 49,
+		"genre" : "CHERNOBOG",
+		"song" : "CHERNOBOG",
+		"pf_rate" : "0.42",
+		"fc_rate" : "3.78",
+		"clear_rate" : "94.95",
+		"total" : 238,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 8,
+		"num_of_clear" : 226,
+		"num_of_fullCombo_good_1_5" : 3,
+		"num_of_fullCombo_good_6_20" : 4,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 9,
+		"num_of_clear_bad_1_5" : 41,
+		"num_of_clear_bad_6_20" : 111,
+		"num_of_clear_bad_21_" : 65,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 8,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "écl",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95237,
+				"avg" : 94372.11111111111,
+				"min" : 93738,
+				"total" : 9,
+				"median" : 94137
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96048,
+				"avg" : 94733.23076923077,
+				"min" : 93498,
+				"total" : 13,
+				"median" : 94611
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96130,
+				"avg" : 95171.85714285714,
+				"min" : 94591,
+				"total" : 7,
+				"median" : 95195
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96288,
+				"avg" : 95387.27272727272,
+				"min" : 93910,
+				"total" : 11,
+				"median" : 95532
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96570,
+				"avg" : 95777.88888888889,
+				"min" : 95051,
+				"total" : 9,
+				"median" : 95580
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97463,
+				"avg" : 96228.92307692308,
+				"min" : 93910,
+				"total" : 13,
+				"median" : 96384
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97642,
+				"avg" : 96689.28571428571,
+				"min" : 95938,
+				"total" : 14,
+				"median" : 96725
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97491,
+				"avg" : 96867,
+				"min" : 96268,
+				"total" : 10,
+				"median" : 96824.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97195,
+				"avg" : 96100.33333333333,
+				"min" : 94756,
+				"total" : 3,
+				"median" : 96350
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97697,
+				"avg" : 97221.25,
+				"min" : 96096,
+				"total" : 8,
+				"median" : 97497.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98295,
+				"avg" : 97600.4,
+				"min" : 97154,
+				"total" : 10,
+				"median" : 97604.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98164,
+				"avg" : 97796.75,
+				"min" : 97553,
+				"total" : 4,
+				"median" : 97735
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99298,
+				"avg" : 98541.18181818182,
+				"min" : 98013,
+				"total" : 11,
+				"median" : 98481
+			}
+		],
+		"max" : 99298
+	},
+	{
+		"id" : 5,
+		"lv" : 49,
+		"genre" : "DIAVOLO",
+		"song" : "DIAVOLO",
+		"pf_rate" : "0.41",
+		"fc_rate" : "4.11",
+		"clear_rate" : "84.36",
+		"total" : 243,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 9,
+		"num_of_clear" : 205,
+		"num_of_fullCombo_good_1_5" : 1,
+		"num_of_fullCombo_good_6_20" : 2,
+		"num_of_fullCombo_good_21_" : 6,
+		"num_of_bad_0" : 10,
+		"num_of_clear_bad_1_5" : 24,
+		"num_of_clear_bad_6_20" : 84,
+		"num_of_clear_bad_21_" : 87,
+		"num_of_easy" : 13,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 6,
+		"num_of_failed_gauge_11_0" : 18,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "LT",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 91912,
+				"avg" : 90837.44444444444,
+				"min" : 89262,
+				"total" : 9,
+				"median" : 90710
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 92814,
+				"avg" : 91225.30769230769,
+				"min" : 88872,
+				"total" : 13,
+				"median" : 91536
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 93066,
+				"avg" : 92090.57142857143,
+				"min" : 90983,
+				"total" : 7,
+				"median" : 92254
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 93995,
+				"avg" : 92696.27272727272,
+				"min" : 91140,
+				"total" : 11,
+				"median" : 92595
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 94460,
+				"avg" : 92473.77777777778,
+				"min" : 90758,
+				"total" : 9,
+				"median" : 92069
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 95334,
+				"avg" : 93206.07692307692,
+				"min" : 92274,
+				"total" : 13,
+				"median" : 93203
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 94719,
+				"avg" : 93474.78571428571,
+				"min" : 91632,
+				"total" : 14,
+				"median" : 93609.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 95054,
+				"avg" : 93704.3,
+				"min" : 91229,
+				"total" : 10,
+				"median" : 93906.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 94719,
+				"avg" : 93458,
+				"min" : 91181,
+				"total" : 3,
+				"median" : 94474
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 95211,
+				"avg" : 94549.375,
+				"min" : 93859,
+				"total" : 8,
+				"median" : 94569
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 96516,
+				"avg" : 95314.4,
+				"min" : 94043,
+				"total" : 10,
+				"median" : 95341
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 95976,
+				"avg" : 95433.25,
+				"min" : 95000,
+				"total" : 4,
+				"median" : 95378.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 97984,
+				"avg" : 96539.36363636363,
+				"min" : 94863,
+				"total" : 11,
+				"median" : 96495
+			}
+		],
+		"max" : 97984
+	},
+	{
+		"id" : 6,
+		"lv" : 49,
+		"genre" : "Festum Duodecimum!",
+		"song" : "Festum Duodecimum!",
+		"pf_rate" : "1.84",
+		"fc_rate" : "6.91",
+		"clear_rate" : "88.01",
+		"total" : 217,
+		"num_of_perfect" : 4,
+		"num_of_fullCombo" : 11,
+		"num_of_clear" : 191,
+		"num_of_fullCombo_good_1_5" : 3,
+		"num_of_fullCombo_good_6_20" : 6,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 15,
+		"num_of_clear_bad_1_5" : 35,
+		"num_of_clear_bad_6_20" : 64,
+		"num_of_clear_bad_21_" : 77,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 17,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 90778,
+				"avg" : 86988.5,
+				"min" : 82952,
+				"total" : 8,
+				"median" : 87528.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 91341,
+				"avg" : 87527.90909090909,
+				"min" : 81811,
+				"total" : 11,
+				"median" : 88134
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 91904,
+				"avg" : 88315.6,
+				"min" : 84957,
+				"total" : 5,
+				"median" : 87779
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 91858,
+				"avg" : 89388.36363636363,
+				"min" : 84024,
+				"total" : 11,
+				"median" : 90161
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95080,
+				"avg" : 89938.625,
+				"min" : 85767,
+				"total" : 8,
+				"median" : 89556
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 92976,
+				"avg" : 90085.81818181818,
+				"min" : 83253,
+				"total" : 11,
+				"median" : 90300
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 93477,
+				"avg" : 91163.21428571429,
+				"min" : 87810,
+				"total" : 14,
+				"median" : 91410.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 95026,
+				"avg" : 92007.9,
+				"min" : 88997,
+				"total" : 10,
+				"median" : 92100.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 94001,
+				"avg" : 91662.33333333333,
+				"min" : 90439,
+				"total" : 3,
+				"median" : 90547
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 94564,
+				"avg" : 93765.42857142857,
+				"min" : 92274,
+				"total" : 7,
+				"median" : 93924
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 95574,
+				"avg" : 93558.11111111111,
+				"min" : 89545,
+				"total" : 9,
+				"median" : 93777
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 96268,
+				"avg" : 94945.75,
+				"min" : 92845,
+				"total" : 4,
+				"median" : 95335
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98164,
+				"avg" : 96195.54545454546,
+				"min" : 94764,
+				"total" : 11,
+				"median" : 96090
+			}
+		],
+		"max" : 98164
+	},
+	{
+		"id" : 7,
+		"lv" : 49,
+		"genre" : "INF-B《L-aste-R》",
+		"song" : "INF-B《L-aste-R》",
+		"pf_rate" : "2.18",
+		"fc_rate" : "7.86",
+		"clear_rate" : "89.51",
+		"total" : 229,
+		"num_of_perfect" : 5,
+		"num_of_fullCombo" : 13,
+		"num_of_clear" : 205,
+		"num_of_fullCombo_good_1_5" : 7,
+		"num_of_fullCombo_good_6_20" : 6,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 18,
+		"num_of_clear_bad_1_5" : 42,
+		"num_of_clear_bad_6_20" : 73,
+		"num_of_clear_bad_21_" : 72,
+		"num_of_easy" : 4,
+		"num_of_failed_gauge_16_15" : 7,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 12,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 92273,
+				"avg" : 91225.75,
+				"min" : 90205,
+				"total" : 8,
+				"median" : 90938
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 92932,
+				"avg" : 92146,
+				"min" : 89617,
+				"total" : 13,
+				"median" : 92641
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95000,
+				"avg" : 93581.14285714286,
+				"min" : 92025,
+				"total" : 7,
+				"median" : 93696
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94893,
+				"avg" : 93393.4,
+				"min" : 91147,
+				"total" : 10,
+				"median" : 93505.5
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 94745,
+				"avg" : 93642.375,
+				"min" : 90382,
+				"total" : 8,
+				"median" : 94110.5
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 95382,
+				"avg" : 94149.08333333333,
+				"min" : 90892,
+				"total" : 12,
+				"median" : 94507
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 95899,
+				"avg" : 95042.92857142857,
+				"min" : 94029,
+				"total" : 14,
+				"median" : 95180
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96104,
+				"avg" : 95581.7,
+				"min" : 94780,
+				"total" : 10,
+				"median" : 95598
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96416,
+				"avg" : 95618,
+				"min" : 95134,
+				"total" : 3,
+				"median" : 95304
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97131,
+				"avg" : 96380.5,
+				"min" : 95495,
+				"total" : 8,
+				"median" : 96327.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97740,
+				"avg" : 97142.6,
+				"min" : 96515,
+				"total" : 10,
+				"median" : 97213
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98378,
+				"avg" : 97246.5,
+				"min" : 96062,
+				"total" : 4,
+				"median" : 97273
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99313,
+				"avg" : 98034.63636363637,
+				"min" : 96317,
+				"total" : 11,
+				"median" : 98109
+			}
+		],
+		"max" : 99313
+	},
+	{
+		"id" : 8,
+		"lv" : 49,
+		"genre" : "Innocence",
+		"song" : "Innocence",
+		"pf_rate" : "1.67",
+		"fc_rate" : "10.04",
+		"clear_rate" : "92.05",
+		"total" : 239,
+		"num_of_perfect" : 4,
+		"num_of_fullCombo" : 20,
+		"num_of_clear" : 220,
+		"num_of_fullCombo_good_1_5" : 13,
+		"num_of_fullCombo_good_6_20" : 5,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 24,
+		"num_of_clear_bad_1_5" : 40,
+		"num_of_clear_bad_6_20" : 88,
+		"num_of_clear_bad_21_" : 68,
+		"num_of_easy" : 7,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 8,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "LT",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95476,
+				"avg" : 94414.33333333333,
+				"min" : 93396,
+				"total" : 9,
+				"median" : 94495
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96106,
+				"avg" : 93983.53846153847,
+				"min" : 92990,
+				"total" : 13,
+				"median" : 93900
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95714,
+				"avg" : 94572.28571428571,
+				"min" : 93151,
+				"total" : 7,
+				"median" : 94411
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96190,
+				"avg" : 95343.45454545454,
+				"min" : 93585,
+				"total" : 11,
+				"median" : 95406
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96540,
+				"avg" : 95315.44444444444,
+				"min" : 93949,
+				"total" : 9,
+				"median" : 95791
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97177,
+				"avg" : 95770.38461538461,
+				"min" : 94621,
+				"total" : 13,
+				"median" : 95707
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97934,
+				"avg" : 96447.07142857143,
+				"min" : 95175,
+				"total" : 14,
+				"median" : 96400
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97983,
+				"avg" : 97220,
+				"min" : 96337,
+				"total" : 10,
+				"median" : 97257.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97787,
+				"avg" : 96762,
+				"min" : 95616,
+				"total" : 3,
+				"median" : 96883
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98102,
+				"avg" : 97635.25,
+				"min" : 97030,
+				"total" : 8,
+				"median" : 97734.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98690,
+				"avg" : 97938.6,
+				"min" : 96918,
+				"total" : 10,
+				"median" : 97972.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98431,
+				"avg" : 98228,
+				"min" : 97948,
+				"total" : 4,
+				"median" : 98266.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99495,
+				"avg" : 98606,
+				"min" : 97794,
+				"total" : 11,
+				"median" : 98536
+			}
+		],
+		"max" : 99495
+	},
+	{
+		"id" : 9,
+		"lv" : 49,
+		"genre" : "K∀MUY",
+		"song" : "K∀MUY",
+		"pf_rate" : "0.85",
+		"fc_rate" : "1.27",
+		"clear_rate" : "77.02",
+		"total" : 235,
+		"num_of_perfect" : 2,
+		"num_of_fullCombo" : 1,
+		"num_of_clear" : 181,
+		"num_of_fullCombo_good_1_5" : 1,
+		"num_of_fullCombo_good_6_20" : 0,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 3,
+		"num_of_clear_bad_1_5" : 26,
+		"num_of_clear_bad_6_20" : 122,
+		"num_of_clear_bad_21_" : 30,
+		"num_of_easy" : 13,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 40,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95236,
+				"avg" : 94006.77777777778,
+				"min" : 92519,
+				"total" : 9,
+				"median" : 93977
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95836,
+				"avg" : 94757.46153846153,
+				"min" : 93137,
+				"total" : 13,
+				"median" : 94859
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96370,
+				"avg" : 95234.71428571429,
+				"min" : 94547,
+				"total" : 7,
+				"median" : 95104
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96382,
+				"avg" : 95604.72727272728,
+				"min" : 95140,
+				"total" : 11,
+				"median" : 95512
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96670,
+				"avg" : 95656.88888888889,
+				"min" : 94535,
+				"total" : 9,
+				"median" : 95500
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96928,
+				"avg" : 95919.15384615384,
+				"min" : 94229,
+				"total" : 13,
+				"median" : 95998
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97576,
+				"avg" : 96502.42857142857,
+				"min" : 95716,
+				"total" : 14,
+				"median" : 96493
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97702,
+				"avg" : 96672.4,
+				"min" : 95242,
+				"total" : 10,
+				"median" : 96994
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97636,
+				"avg" : 96910,
+				"min" : 96058,
+				"total" : 3,
+				"median" : 97036
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98440,
+				"avg" : 97399,
+				"min" : 96310,
+				"total" : 8,
+				"median" : 97453
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98350,
+				"avg" : 97705.6,
+				"min" : 96436,
+				"total" : 10,
+				"median" : 97969
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98314,
+				"avg" : 98165.5,
+				"min" : 98080,
+				"total" : 4,
+				"median" : 98134
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99352,
+				"avg" : 98576.90909090909,
+				"min" : 97612,
+				"total" : 11,
+				"median" : 98698
+			}
+		],
+		"max" : 99352
+	},
+	{
+		"id" : 10,
+		"lv" : 49,
+		"genre" : "MADSPEED狂信道",
+		"song" : "MADSPEED狂信道",
+		"pf_rate" : "1.63",
+		"fc_rate" : "4.37",
+		"clear_rate" : "68.30",
+		"total" : 183,
+		"num_of_perfect" : 3,
+		"num_of_fullCombo" : 5,
+		"num_of_clear" : 125,
+		"num_of_fullCombo_good_1_5" : 3,
+		"num_of_fullCombo_good_6_20" : 2,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 8,
+		"num_of_clear_bad_1_5" : 21,
+		"num_of_clear_bad_6_20" : 71,
+		"num_of_clear_bad_21_" : 25,
+		"num_of_easy" : 8,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 5,
+		"num_of_failed_gauge_11_0" : 42,
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 91992,
+				"avg" : 90778,
+				"min" : 87843,
+				"total" : 8,
+				"median" : 91160
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94295,
+				"avg" : 92471.08333333333,
+				"min" : 90024,
+				"total" : 12,
+				"median" : 92836.5
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 92861,
+				"avg" : 92373.5,
+				"min" : 91488,
+				"total" : 4,
+				"median" : 92572.5
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95218,
+				"avg" : 93602.66666666667,
+				"min" : 91512,
+				"total" : 9,
+				"median" : 93134
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 94513,
+				"avg" : 93669,
+				"min" : 92879,
+				"total" : 5,
+				"median" : 93633
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96275,
+				"avg" : 93962.66666666667,
+				"min" : 90170,
+				"total" : 12,
+				"median" : 94352.5
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 95893,
+				"avg" : 94370.85714285714,
+				"min" : 91828,
+				"total" : 14,
+				"median" : 94380
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96458,
+				"avg" : 93692.77777777778,
+				"min" : 89477,
+				"total" : 9,
+				"median" : 94702
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 94933,
+				"avg" : 94900.33333333333,
+				"min" : 94872,
+				"total" : 3,
+				"median" : 94896
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96877,
+				"avg" : 96087.16666666667,
+				"min" : 95255,
+				"total" : 6,
+				"median" : 96199.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97217,
+				"avg" : 96782,
+				"min" : 96051,
+				"total" : 5,
+				"median" : 96767
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97399,
+				"avg" : 96789.66666666667,
+				"min" : 95686,
+				"total" : 3,
+				"median" : 97284
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98815,
+				"avg" : 97989.63636363637,
+				"min" : 95996,
+				"total" : 11,
+				"median" : 98110
+			}
+		],
+		"max" : 98815
+	},
+	{
+		"id" : 11,
+		"lv" : 49,
+		"genre" : "Prey",
+		"song" : "Prey",
+		"pf_rate" : "4.66",
+		"fc_rate" : "20.33",
+		"clear_rate" : "95.76",
+		"total" : 236,
+		"num_of_perfect" : 11,
+		"num_of_fullCombo" : 37,
+		"num_of_clear" : 226,
+		"num_of_fullCombo_good_1_5" : 18,
+		"num_of_fullCombo_good_6_20" : 17,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 48,
+		"num_of_clear_bad_1_5" : 58,
+		"num_of_clear_bad_6_20" : 76,
+		"num_of_clear_bad_21_" : 44,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 7,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 93260,
+				"avg" : 92499.66666666667,
+				"min" : 91008,
+				"total" : 9,
+				"median" : 92703
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95456,
+				"avg" : 93891.66666666667,
+				"min" : 91743,
+				"total" : 12,
+				"median" : 93857
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96997,
+				"avg" : 94129.57142857143,
+				"min" : 91089,
+				"total" : 7,
+				"median" : 94245
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96174,
+				"avg" : 94572.90909090909,
+				"min" : 93058,
+				"total" : 11,
+				"median" : 94673
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95762,
+				"avg" : 94895,
+				"min" : 92945,
+				"total" : 9,
+				"median" : 95149
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96472,
+				"avg" : 95635.08333333333,
+				"min" : 94737,
+				"total" : 12,
+				"median" : 95677.5
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96553,
+				"avg" : 95739.78571428571,
+				"min" : 95004,
+				"total" : 14,
+				"median" : 95798.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97336,
+				"avg" : 96529,
+				"min" : 95891,
+				"total" : 10,
+				"median" : 96497
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97384,
+				"avg" : 96432,
+				"min" : 95762,
+				"total" : 3,
+				"median" : 96150
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97610,
+				"avg" : 96839.75,
+				"min" : 95512,
+				"total" : 8,
+				"median" : 97146.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98732,
+				"avg" : 97586.2,
+				"min" : 96384,
+				"total" : 10,
+				"median" : 97743.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98087,
+				"avg" : 97893,
+				"min" : 97675,
+				"total" : 4,
+				"median" : 97905
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99249,
+				"avg" : 98366.27272727272,
+				"min" : 96359,
+				"total" : 11,
+				"median" : 98547
+			}
+		],
+		"max" : 99249
+	},
+	{
+		"id" : 12,
+		"lv" : 49,
+		"genre" : "QuoN",
+		"song" : "QuoN",
+		"pf_rate" : "6.47",
+		"fc_rate" : "22.26",
+		"clear_rate" : "94.33",
+		"total" : 247,
+		"num_of_perfect" : 16,
+		"num_of_fullCombo" : 39,
+		"num_of_clear" : 233,
+		"num_of_fullCombo_good_1_5" : 27,
+		"num_of_fullCombo_good_6_20" : 9,
+		"num_of_fullCombo_good_21_" : 3,
+		"num_of_bad_0" : 55,
+		"num_of_clear_bad_1_5" : 62,
+		"num_of_clear_bad_6_20" : 70,
+		"num_of_clear_bad_21_" : 46,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 5,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "LT",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95454,
+				"avg" : 94358.44444444444,
+				"min" : 93471,
+				"total" : 9,
+				"median" : 94341
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95718,
+				"avg" : 94344.69230769231,
+				"min" : 90447,
+				"total" : 13,
+				"median" : 94650
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96284,
+				"avg" : 94714.28571428571,
+				"min" : 91166,
+				"total" : 7,
+				"median" : 95151
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96930,
+				"avg" : 95663,
+				"min" : 94782,
+				"total" : 11,
+				"median" : 95540
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96666,
+				"avg" : 96103.11111111111,
+				"min" : 95289,
+				"total" : 9,
+				"median" : 96225
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97193,
+				"avg" : 96365.69230769231,
+				"min" : 95770,
+				"total" : 13,
+				"median" : 96245
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98227,
+				"avg" : 96940.92857142857,
+				"min" : 96172,
+				"total" : 14,
+				"median" : 96854
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97621,
+				"avg" : 97149.6,
+				"min" : 96613,
+				"total" : 10,
+				"median" : 97144
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97193,
+				"avg" : 96938.33333333333,
+				"min" : 96501,
+				"total" : 3,
+				"median" : 97121
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98530,
+				"avg" : 97829.625,
+				"min" : 97285,
+				"total" : 8,
+				"median" : 97776
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98715,
+				"avg" : 98138.5,
+				"min" : 97252,
+				"total" : 10,
+				"median" : 98234
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98517,
+				"avg" : 98118.5,
+				"min" : 97555,
+				"total" : 4,
+				"median" : 98201
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99479,
+				"avg" : 98787.27272727272,
+				"min" : 97786,
+				"total" : 11,
+				"median" : 98754
+			}
+		],
+		"max" : 99479
+	},
+	{
+		"id" : 13,
+		"lv" : 49,
+		"genre" : "RINИE",
+		"song" : "RINИE",
+		"pf_rate" : "2.45",
+		"fc_rate" : "9.83",
+		"clear_rate" : "88.93",
+		"total" : 244,
+		"num_of_perfect" : 6,
+		"num_of_fullCombo" : 18,
+		"num_of_clear" : 217,
+		"num_of_fullCombo_good_1_5" : 11,
+		"num_of_fullCombo_good_6_20" : 5,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 24,
+		"num_of_clear_bad_1_5" : 47,
+		"num_of_clear_bad_6_20" : 85,
+		"num_of_clear_bad_21_" : 61,
+		"num_of_easy" : 10,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 15,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "LT",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 96358,
+				"avg" : 94970.88888888889,
+				"min" : 94130,
+				"total" : 9,
+				"median" : 94644
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96136,
+				"avg" : 94745.23076923077,
+				"min" : 94156,
+				"total" : 13,
+				"median" : 94736
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96130,
+				"avg" : 95391,
+				"min" : 94325,
+				"total" : 7,
+				"median" : 95270
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96397,
+				"avg" : 95832.45454545454,
+				"min" : 95270,
+				"total" : 11,
+				"median" : 95752
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96801,
+				"avg" : 96115.44444444444,
+				"min" : 94690,
+				"total" : 9,
+				"median" : 96228
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97478,
+				"avg" : 96731.23076923077,
+				"min" : 96039,
+				"total" : 13,
+				"median" : 96618
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98130,
+				"avg" : 97070.21428571429,
+				"min" : 96123,
+				"total" : 14,
+				"median" : 97136
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97680,
+				"avg" : 97224.8,
+				"min" : 96781,
+				"total" : 10,
+				"median" : 97113.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97478,
+				"avg" : 97065.66666666667,
+				"min" : 96651,
+				"total" : 3,
+				"median" : 97068
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98306,
+				"avg" : 97970.875,
+				"min" : 97537,
+				"total" : 8,
+				"median" : 97976.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98866,
+				"avg" : 98179.9,
+				"min" : 97374,
+				"total" : 10,
+				"median" : 98143
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98540,
+				"avg" : 98374.25,
+				"min" : 98241,
+				"total" : 4,
+				"median" : 98358
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99446,
+				"avg" : 98759.81818181818,
+				"min" : 98143,
+				"total" : 11,
+				"median" : 98605
+			}
+		],
+		"max" : 99446
+	},
+	{
+		"id" : 14,
+		"lv" : 49,
+		"genre" : "SailRen",
+		"song" : "SailRen",
+		"pf_rate" : "4.09",
+		"fc_rate" : "21.31",
+		"clear_rate" : "96.31",
+		"total" : 244,
+		"num_of_perfect" : 10,
+		"num_of_fullCombo" : 42,
+		"num_of_clear" : 235,
+		"num_of_fullCombo_good_1_5" : 24,
+		"num_of_fullCombo_good_6_20" : 17,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 52,
+		"num_of_clear_bad_1_5" : 55,
+		"num_of_clear_bad_6_20" : 88,
+		"num_of_clear_bad_21_" : 40,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 6,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95276,
+				"avg" : 94585.11111111111,
+				"min" : 93721,
+				"total" : 9,
+				"median" : 94600
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95618,
+				"avg" : 94821.53846153847,
+				"min" : 94014,
+				"total" : 13,
+				"median" : 94975
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95651,
+				"avg" : 94777.42857142857,
+				"min" : 93412,
+				"total" : 7,
+				"median" : 95138
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96506,
+				"avg" : 95400.72727272728,
+				"min" : 92907,
+				"total" : 11,
+				"median" : 95537
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96197,
+				"avg" : 95466.33333333333,
+				"min" : 94201,
+				"total" : 9,
+				"median" : 95732
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97092,
+				"avg" : 95974.76923076923,
+				"min" : 94087,
+				"total" : 13,
+				"median" : 96286
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97418,
+				"avg" : 96870.14285714286,
+				"min" : 96278,
+				"total" : 14,
+				"median" : 96909.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98037,
+				"avg" : 96970.1,
+				"min" : 96294,
+				"total" : 10,
+				"median" : 96954
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97728,
+				"avg" : 96861.66666666667,
+				"min" : 96172,
+				"total" : 3,
+				"median" : 96685
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97988,
+				"avg" : 97572.75,
+				"min" : 96156,
+				"total" : 8,
+				"median" : 97780.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98184,
+				"avg" : 97724.5,
+				"min" : 97263,
+				"total" : 10,
+				"median" : 97793
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98477,
+				"avg" : 98199.75,
+				"min" : 97768,
+				"total" : 4,
+				"median" : 98277
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99364,
+				"avg" : 98630.72727272728,
+				"min" : 97825,
+				"total" : 11,
+				"median" : 98648
+			}
+		],
+		"max" : 99364
+	},
+	{
+		"id" : 15,
+		"lv" : 49,
+		"genre" : "Sky High",
+		"song" : "Sky High",
+		"pf_rate" : "8.71",
+		"fc_rate" : "23.23",
+		"clear_rate" : "96.68",
+		"total" : 241,
+		"num_of_perfect" : 21,
+		"num_of_fullCombo" : 35,
+		"num_of_clear" : 233,
+		"num_of_fullCombo_good_1_5" : 21,
+		"num_of_fullCombo_good_6_20" : 12,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 56,
+		"num_of_clear_bad_1_5" : 63,
+		"num_of_clear_bad_6_20" : 69,
+		"num_of_clear_bad_21_" : 45,
+		"num_of_easy" : 1,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 5,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95540,
+				"avg" : 94606.22222222222,
+				"min" : 93091,
+				"total" : 9,
+				"median" : 94826
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96103,
+				"avg" : 95070.30769230769,
+				"min" : 94145,
+				"total" : 13,
+				"median" : 95088
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97236,
+				"avg" : 95518.14285714286,
+				"min" : 94053,
+				"total" : 7,
+				"median" : 95592
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96895,
+				"avg" : 96005.90909090909,
+				"min" : 95009,
+				"total" : 11,
+				"median" : 95900
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97151,
+				"avg" : 96287.22222222222,
+				"min" : 95108,
+				"total" : 9,
+				"median" : 96358
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97518,
+				"avg" : 96597.61538461539,
+				"min" : 95880,
+				"total" : 13,
+				"median" : 96417
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97773,
+				"avg" : 97025,
+				"min" : 95376,
+				"total" : 14,
+				"median" : 97229.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98205,
+				"avg" : 97588.3,
+				"min" : 96836,
+				"total" : 10,
+				"median" : 97671.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97622,
+				"avg" : 97231.66666666667,
+				"min" : 96673,
+				"total" : 3,
+				"median" : 97400
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98559,
+				"avg" : 98040.625,
+				"min" : 97328,
+				"total" : 8,
+				"median" : 98080.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98932,
+				"avg" : 98204.7,
+				"min" : 97046,
+				"total" : 10,
+				"median" : 98366
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98696,
+				"avg" : 98477,
+				"min" : 98356,
+				"total" : 4,
+				"median" : 98428
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99679,
+				"avg" : 98898.09090909091,
+				"min" : 97740,
+				"total" : 11,
+				"median" : 98998
+			}
+		],
+		"max" : 99679
+	},
+	{
+		"id" : 16,
+		"lv" : 49,
+		"genre" : "StrayedCatz",
+		"song" : "StrayedCatz",
+		"pf_rate" : "0.84",
+		"fc_rate" : "5.06",
+		"clear_rate" : "90.29",
+		"total" : 237,
+		"num_of_perfect" : 2,
+		"num_of_fullCombo" : 10,
+		"num_of_clear" : 214,
+		"num_of_fullCombo_good_1_5" : 5,
+		"num_of_fullCombo_good_6_20" : 4,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 12,
+		"num_of_clear_bad_1_5" : 48,
+		"num_of_clear_bad_6_20" : 99,
+		"num_of_clear_bad_21_" : 55,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 5,
+		"num_of_failed_gauge_11_0" : 10,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "écl",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 93652,
+				"avg" : 91880.55555555556,
+				"min" : 90007,
+				"total" : 9,
+				"median" : 92017
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94852,
+				"avg" : 92658.30769230769,
+				"min" : 90677,
+				"total" : 13,
+				"median" : 92680
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 94550,
+				"avg" : 93249.85714285714,
+				"min" : 92164,
+				"total" : 7,
+				"median" : 93431
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95139,
+				"avg" : 93435,
+				"min" : 91701,
+				"total" : 11,
+				"median" : 93357
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95154,
+				"avg" : 93772,
+				"min" : 91030,
+				"total" : 9,
+				"median" : 94167
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96266,
+				"avg" : 94196.76923076923,
+				"min" : 92739,
+				"total" : 13,
+				"median" : 94108
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 95574,
+				"avg" : 94717.5,
+				"min" : 93144,
+				"total" : 14,
+				"median" : 94830
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96156,
+				"avg" : 95532.6,
+				"min" : 94874,
+				"total" : 10,
+				"median" : 95736
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96148,
+				"avg" : 95215.66666666667,
+				"min" : 93910,
+				"total" : 3,
+				"median" : 95589
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96458,
+				"avg" : 95866.75,
+				"min" : 95007,
+				"total" : 8,
+				"median" : 95894.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97268,
+				"avg" : 96484.1,
+				"min" : 95346,
+				"total" : 10,
+				"median" : 96509
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97459,
+				"avg" : 97153.5,
+				"min" : 96723,
+				"total" : 4,
+				"median" : 97216
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98777,
+				"avg" : 97676.63636363637,
+				"min" : 96782,
+				"total" : 11,
+				"median" : 97606
+			}
+		],
+		"max" : 98777
+	},
+	{
+		"id" : 17,
+		"lv" : 49,
+		"genre" : "Timepiece phase II",
+		"song" : "Timepiece phase II",
+		"pf_rate" : "10.04",
+		"fc_rate" : "24.68",
+		"clear_rate" : "96.65",
+		"total" : 239,
+		"num_of_perfect" : 24,
+		"num_of_fullCombo" : 35,
+		"num_of_clear" : 231,
+		"num_of_fullCombo_good_1_5" : 23,
+		"num_of_fullCombo_good_6_20" : 10,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 59,
+		"num_of_clear_bad_1_5" : 78,
+		"num_of_clear_bad_6_20" : 62,
+		"num_of_clear_bad_21_" : 32,
+		"num_of_easy" : 1,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 5,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95694,
+				"avg" : 94950.25,
+				"min" : 94291,
+				"total" : 8,
+				"median" : 94925
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96738,
+				"avg" : 95648.76923076923,
+				"min" : 93559,
+				"total" : 13,
+				"median" : 95701
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97238,
+				"avg" : 95821.42857142857,
+				"min" : 94097,
+				"total" : 7,
+				"median" : 95940
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 97164,
+				"avg" : 96085.54545454546,
+				"min" : 94320,
+				"total" : 11,
+				"median" : 96238
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97477,
+				"avg" : 96210.88888888889,
+				"min" : 95194,
+				"total" : 9,
+				"median" : 95895
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97380,
+				"avg" : 96722.92307692308,
+				"min" : 95970,
+				"total" : 13,
+				"median" : 96686
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98201,
+				"avg" : 97199.78571428571,
+				"min" : 96082,
+				"total" : 14,
+				"median" : 97167.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98589,
+				"avg" : 97756.2,
+				"min" : 97067,
+				"total" : 10,
+				"median" : 97902.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98231,
+				"avg" : 97763.33333333333,
+				"min" : 97380,
+				"total" : 3,
+				"median" : 97679
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98634,
+				"avg" : 97985.625,
+				"min" : 97044,
+				"total" : 8,
+				"median" : 97992
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98485,
+				"avg" : 98139.9,
+				"min" : 97597,
+				"total" : 10,
+				"median" : 98279.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98873,
+				"avg" : 98555.5,
+				"min" : 98358,
+				"total" : 4,
+				"median" : 98495.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99597,
+				"avg" : 98975.18181818182,
+				"min" : 98029,
+				"total" : 11,
+				"median" : 99149
+			}
+		],
+		"max" : 99597
+	},
+	{
+		"id" : 18,
+		"lv" : 49,
+		"genre" : "Triple Counter",
+		"song" : "Triple Counter",
+		"pf_rate" : "3.43",
+		"fc_rate" : "12.87",
+		"clear_rate" : "87.55",
+		"total" : 233,
+		"num_of_perfect" : 8,
+		"num_of_fullCombo" : 22,
+		"num_of_clear" : 204,
+		"num_of_fullCombo_good_1_5" : 17,
+		"num_of_fullCombo_good_6_20" : 5,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 30,
+		"num_of_clear_bad_1_5" : 66,
+		"num_of_clear_bad_6_20" : 92,
+		"num_of_clear_bad_21_" : 16,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 4,
+		"num_of_failed_gauge_11_0" : 21,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "écl",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 97331,
+				"avg" : 96262.22222222222,
+				"min" : 95623,
+				"total" : 9,
+				"median" : 96038
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 97571,
+				"avg" : 96251.61538461539,
+				"min" : 95279,
+				"total" : 13,
+				"median" : 96155
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97246,
+				"avg" : 96897.42857142857,
+				"min" : 96415,
+				"total" : 7,
+				"median" : 97025
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 97753,
+				"avg" : 97116.45454545454,
+				"min" : 96032,
+				"total" : 11,
+				"median" : 97077
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97844,
+				"avg" : 97078.22222222222,
+				"min" : 96220,
+				"total" : 9,
+				"median" : 97201
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 98025,
+				"avg" : 97411.46153846153,
+				"min" : 96662,
+				"total" : 13,
+				"median" : 97480
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98675,
+				"avg" : 97891.92857142857,
+				"min" : 97266,
+				"total" : 14,
+				"median" : 97853.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98214,
+				"avg" : 98028.8,
+				"min" : 97740,
+				"total" : 10,
+				"median" : 98113
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98285,
+				"avg" : 97934.66666666667,
+				"min" : 97487,
+				"total" : 3,
+				"median" : 98032
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98733,
+				"avg" : 98395.625,
+				"min" : 98071,
+				"total" : 8,
+				"median" : 98334
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99207,
+				"avg" : 98726.8,
+				"min" : 98227,
+				"total" : 10,
+				"median" : 98723.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 99168,
+				"avg" : 98962,
+				"min" : 98837,
+				"total" : 4,
+				"median" : 98921.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99590,
+				"avg" : 99137.63636363637,
+				"min" : 98500,
+				"total" : 11,
+				"median" : 99110
+			}
+		],
+		"max" : 99590
+	},
+	{
+		"id" : 19,
+		"lv" : 49,
+		"genre" : "Vinculum stellarum",
+		"song" : "Vinculum stellarum",
+		"pf_rate" : "1.73",
+		"fc_rate" : "5.65",
+		"clear_rate" : "92.17",
+		"total" : 230,
+		"num_of_perfect" : 4,
+		"num_of_fullCombo" : 9,
+		"num_of_clear" : 212,
+		"num_of_fullCombo_good_1_5" : 4,
+		"num_of_fullCombo_good_6_20" : 4,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 13,
+		"num_of_clear_bad_1_5" : 54,
+		"num_of_clear_bad_6_20" : 74,
+		"num_of_clear_bad_21_" : 71,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 14,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95000,
+				"avg" : 93069.25,
+				"min" : 92519,
+				"total" : 8,
+				"median" : 92909.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94733,
+				"avg" : 93654.58333333333,
+				"min" : 91588,
+				"total" : 12,
+				"median" : 93853.5
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96041,
+				"avg" : 94139.14285714286,
+				"min" : 92252,
+				"total" : 7,
+				"median" : 94101
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95820,
+				"avg" : 94837.36363636363,
+				"min" : 93027,
+				"total" : 11,
+				"median" : 94680
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95611,
+				"avg" : 94847.25,
+				"min" : 93294,
+				"total" : 8,
+				"median" : 95168.5
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96184,
+				"avg" : 94530.92307692308,
+				"min" : 84082,
+				"total" : 13,
+				"median" : 95234
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96653,
+				"avg" : 95831,
+				"min" : 94192,
+				"total" : 14,
+				"median" : 95947
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96796,
+				"avg" : 96402.5,
+				"min" : 95989,
+				"total" : 10,
+				"median" : 96428.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96835,
+				"avg" : 96360,
+				"min" : 95416,
+				"total" : 3,
+				"median" : 96829
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97766,
+				"avg" : 96964.875,
+				"min" : 95957,
+				"total" : 8,
+				"median" : 97047
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98157,
+				"avg" : 97276.2,
+				"min" : 96588,
+				"total" : 10,
+				"median" : 97379
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98164,
+				"avg" : 97582.5,
+				"min" : 97037,
+				"total" : 4,
+				"median" : 97564.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99192,
+				"avg" : 98270.81818181818,
+				"min" : 97122,
+				"total" : 11,
+				"median" : 98131
+			}
+		],
+		"max" : 99192
+	},
+	{
+		"id" : 20,
+		"lv" : 49,
+		"genre" : "XROSS INFECTION",
+		"song" : "XROSS INFECTION",
+		"pf_rate" : "2.99",
+		"fc_rate" : "6.41",
+		"clear_rate" : "93.16",
+		"total" : 234,
+		"num_of_perfect" : 7,
+		"num_of_fullCombo" : 8,
+		"num_of_clear" : 218,
+		"num_of_fullCombo_good_1_5" : 5,
+		"num_of_fullCombo_good_6_20" : 3,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 15,
+		"num_of_clear_bad_1_5" : 53,
+		"num_of_clear_bad_6_20" : 70,
+		"num_of_clear_bad_21_" : 80,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 11,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95320,
+				"avg" : 94099.22222222222,
+				"min" : 93372,
+				"total" : 9,
+				"median" : 93788
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95940,
+				"avg" : 94416.30769230769,
+				"min" : 93108,
+				"total" : 13,
+				"median" : 94283
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95788,
+				"avg" : 94972.57142857143,
+				"min" : 93669,
+				"total" : 7,
+				"median" : 95056
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96811,
+				"avg" : 95191.5,
+				"min" : 93036,
+				"total" : 10,
+				"median" : 95322.5
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96937,
+				"avg" : 95429.375,
+				"min" : 93036,
+				"total" : 8,
+				"median" : 95584
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97214,
+				"avg" : 96253.08333333333,
+				"min" : 95082,
+				"total" : 12,
+				"median" : 96442
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97663,
+				"avg" : 97006.07142857143,
+				"min" : 95854,
+				"total" : 14,
+				"median" : 97187.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97610,
+				"avg" : 97123,
+				"min" : 96640,
+				"total" : 10,
+				"median" : 97181
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97524,
+				"avg" : 96967.33333333333,
+				"min" : 95874,
+				"total" : 3,
+				"median" : 97504
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98204,
+				"avg" : 97573,
+				"min" : 96983,
+				"total" : 8,
+				"median" : 97653
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99029,
+				"avg" : 98107.1,
+				"min" : 97115,
+				"total" : 10,
+				"median" : 98141.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98726,
+				"avg" : 98473.25,
+				"min" : 98270,
+				"total" : 4,
+				"median" : 98448.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99663,
+				"avg" : 98826.36363636363,
+				"min" : 97775,
+				"total" : 11,
+				"median" : 98924
+			}
+		],
+		"max" : 99663
+	},
+	{
+		"id" : 21,
+		"lv" : 49,
+		"genre" : "moon_child",
+		"song" : "moon_child",
+		"pf_rate" : "9.16",
+		"fc_rate" : "22.50",
+		"clear_rate" : "93.75",
+		"total" : 240,
+		"num_of_perfect" : 22,
+		"num_of_fullCombo" : 32,
+		"num_of_clear" : 225,
+		"num_of_fullCombo_good_1_5" : 19,
+		"num_of_fullCombo_good_6_20" : 11,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 54,
+		"num_of_clear_bad_1_5" : 61,
+		"num_of_clear_bad_6_20" : 82,
+		"num_of_clear_bad_21_" : 28,
+		"num_of_easy" : 4,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 7,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 96038,
+				"avg" : 95347.33333333333,
+				"min" : 94692,
+				"total" : 9,
+				"median" : 95307
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96500,
+				"avg" : 95439.23076923077,
+				"min" : 94676,
+				"total" : 13,
+				"median" : 95153
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97461,
+				"avg" : 95728.28571428571,
+				"min" : 93192,
+				"total" : 7,
+				"median" : 95769
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 97438,
+				"avg" : 96480.72727272728,
+				"min" : 95230,
+				"total" : 11,
+				"median" : 96661
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97530,
+				"avg" : 96651.66666666667,
+				"min" : 95630,
+				"total" : 9,
+				"median" : 96569
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97784,
+				"avg" : 96817.23076923077,
+				"min" : 95938,
+				"total" : 13,
+				"median" : 96761
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98015,
+				"avg" : 97450.78571428571,
+				"min" : 96261,
+				"total" : 14,
+				"median" : 97619
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98330,
+				"avg" : 97644,
+				"min" : 97123,
+				"total" : 10,
+				"median" : 97603
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98007,
+				"avg" : 97578.66666666667,
+				"min" : 96953,
+				"total" : 3,
+				"median" : 97776
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98776,
+				"avg" : 98311.875,
+				"min" : 97776,
+				"total" : 8,
+				"median" : 98341.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99053,
+				"avg" : 98418.1,
+				"min" : 97700,
+				"total" : 10,
+				"median" : 98488
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 99169,
+				"avg" : 98726.75,
+				"min" : 98100,
+				"total" : 4,
+				"median" : 98819
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99653,
+				"avg" : 99062.45454545454,
+				"min" : 98553,
+				"total" : 11,
+				"median" : 99023
+			}
+		],
+		"max" : 99653
+	},
+	{
+		"id" : 22,
+		"lv" : 49,
+		"genre" : "perditus†paradisus",
+		"song" : "perditus†paradisus",
+		"pf_rate" : "0.41",
+		"fc_rate" : "7.53",
+		"clear_rate" : "91.21",
+		"total" : 239,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 17,
+		"num_of_clear" : 218,
+		"num_of_fullCombo_good_1_5" : 3,
+		"num_of_fullCombo_good_6_20" : 11,
+		"num_of_fullCombo_good_21_" : 3,
+		"num_of_bad_0" : 18,
+		"num_of_clear_bad_1_5" : 57,
+		"num_of_clear_bad_6_20" : 83,
+		"num_of_clear_bad_21_" : 60,
+		"num_of_easy" : 9,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 9,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "LT",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 93195,
+				"avg" : 91479.66666666667,
+				"min" : 90533,
+				"total" : 9,
+				"median" : 91574
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 93308,
+				"avg" : 91920.38461538461,
+				"min" : 89219,
+				"total" : 13,
+				"median" : 91927
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 94396,
+				"avg" : 93155.85714285714,
+				"min" : 91521,
+				"total" : 7,
+				"median" : 92981
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95143,
+				"avg" : 93281,
+				"min" : 92201,
+				"total" : 11,
+				"median" : 93228
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 94556,
+				"avg" : 93724.88888888889,
+				"min" : 92494,
+				"total" : 9,
+				"median" : 93909
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 95843,
+				"avg" : 94042.76923076923,
+				"min" : 92141,
+				"total" : 13,
+				"median" : 94156
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 95256,
+				"avg" : 94507.35714285714,
+				"min" : 93042,
+				"total" : 14,
+				"median" : 94746
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 95443,
+				"avg" : 95121.7,
+				"min" : 94736,
+				"total" : 10,
+				"median" : 95120
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 95463,
+				"avg" : 94778.33333333333,
+				"min" : 93769,
+				"total" : 3,
+				"median" : 95103
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96604,
+				"avg" : 95910,
+				"min" : 95276,
+				"total" : 8,
+				"median" : 95937
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 96884,
+				"avg" : 96285,
+				"min" : 95603,
+				"total" : 10,
+				"median" : 96277
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97004,
+				"avg" : 96533.75,
+				"min" : 95456,
+				"total" : 4,
+				"median" : 96837.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98719,
+				"avg" : 97395.36363636363,
+				"min" : 95390,
+				"total" : 11,
+				"median" : 97384
+			}
+		],
+		"max" : 98719
+	},
+	{
+		"id" : 23,
+		"lv" : 49,
+		"genre" : "the Chameleon",
+		"song" : "the Chameleon",
+		"pf_rate" : "0.42",
+		"fc_rate" : "2.11",
+		"clear_rate" : "95.76",
+		"total" : 236,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 4,
+		"num_of_clear" : 226,
+		"num_of_fullCombo_good_1_5" : 1,
+		"num_of_fullCombo_good_6_20" : 3,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 5,
+		"num_of_clear_bad_1_5" : 50,
+		"num_of_clear_bad_6_20" : 108,
+		"num_of_clear_bad_21_" : 63,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 5,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94238,
+				"avg" : 93386.375,
+				"min" : 90921,
+				"total" : 8,
+				"median" : 93777.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95493,
+				"avg" : 94092.75,
+				"min" : 91789,
+				"total" : 12,
+				"median" : 94368.5
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95634,
+				"avg" : 94703,
+				"min" : 94118,
+				"total" : 7,
+				"median" : 94506
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95807,
+				"avg" : 95061.36363636363,
+				"min" : 93671,
+				"total" : 11,
+				"median" : 95273
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95700,
+				"avg" : 95066.22222222222,
+				"min" : 94325,
+				"total" : 9,
+				"median" : 95046
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96321,
+				"avg" : 94942.83333333333,
+				"min" : 92149,
+				"total" : 12,
+				"median" : 95340
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96915,
+				"avg" : 96087.57142857143,
+				"min" : 95200,
+				"total" : 14,
+				"median" : 95944
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97249,
+				"avg" : 96095.5,
+				"min" : 94626,
+				"total" : 10,
+				"median" : 96134
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97062,
+				"avg" : 96052,
+				"min" : 95086,
+				"total" : 3,
+				"median" : 96008
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97323,
+				"avg" : 96956.25,
+				"min" : 96495,
+				"total" : 8,
+				"median" : 96998.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97817,
+				"avg" : 96861.8,
+				"min" : 95614,
+				"total" : 10,
+				"median" : 97032
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97950,
+				"avg" : 97501.25,
+				"min" : 97129,
+				"total" : 4,
+				"median" : 97463
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98811,
+				"avg" : 97999.18181818182,
+				"min" : 96955,
+				"total" : 11,
+				"median" : 97937
+			}
+		],
+		"max" : 98811
+	},
+	{
+		"id" : 24,
+		"lv" : 49,
+		"genre" : "trideca",
+		"song" : "trideca",
+		"pf_rate" : "2.51",
+		"fc_rate" : "10.87",
+		"clear_rate" : "95.39",
+		"total" : 239,
+		"num_of_perfect" : 6,
+		"num_of_fullCombo" : 20,
+		"num_of_clear" : 228,
+		"num_of_fullCombo_good_1_5" : 10,
+		"num_of_fullCombo_good_6_20" : 9,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 26,
+		"num_of_clear_bad_1_5" : 69,
+		"num_of_clear_bad_6_20" : 90,
+		"num_of_clear_bad_21_" : 43,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 4,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 4,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "écl",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95277,
+				"avg" : 94472.22222222222,
+				"min" : 93052,
+				"total" : 9,
+				"median" : 95022
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95825,
+				"avg" : 94874.92307692308,
+				"min" : 94155,
+				"total" : 13,
+				"median" : 94814
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96092,
+				"avg" : 95190,
+				"min" : 93737,
+				"total" : 7,
+				"median" : 95401
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96086,
+				"avg" : 95636.72727272728,
+				"min" : 95061,
+				"total" : 11,
+				"median" : 95740
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96607,
+				"avg" : 95758.11111111111,
+				"min" : 94057,
+				"total" : 9,
+				"median" : 95825
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97116,
+				"avg" : 96217,
+				"min" : 94253,
+				"total" : 13,
+				"median" : 96314
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97410,
+				"avg" : 96638.21428571429,
+				"min" : 95740,
+				"total" : 14,
+				"median" : 96754
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97527,
+				"avg" : 96917.4,
+				"min" : 96366,
+				"total" : 10,
+				"median" : 96937
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96888,
+				"avg" : 96668.33333333333,
+				"min" : 96229,
+				"total" : 3,
+				"median" : 96888
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98173,
+				"avg" : 97461.25,
+				"min" : 96849,
+				"total" : 8,
+				"median" : 97445.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98323,
+				"avg" : 97795.4,
+				"min" : 97240,
+				"total" : 10,
+				"median" : 97811
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98336,
+				"avg" : 98003.25,
+				"min" : 97775,
+				"total" : 4,
+				"median" : 97951
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99210,
+				"avg" : 98449.90909090909,
+				"min" : 96940,
+				"total" : 11,
+				"median" : 98623
+			}
+		],
+		"max" : 99210
+	},
+	{
+		"id" : 25,
+		"lv" : 49,
+		"genre" : "zeeros",
+		"song" : "zeeros",
+		"pf_rate" : "1.47",
+		"fc_rate" : "8.82",
+		"clear_rate" : "91.66",
+		"total" : 204,
+		"num_of_perfect" : 3,
+		"num_of_fullCombo" : 15,
+		"num_of_clear" : 187,
+		"num_of_fullCombo_good_1_5" : 7,
+		"num_of_fullCombo_good_6_20" : 6,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 18,
+		"num_of_clear_bad_1_5" : 40,
+		"num_of_clear_bad_6_20" : 89,
+		"num_of_clear_bad_21_" : 40,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 9,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95366,
+				"avg" : 93634.875,
+				"min" : 92131,
+				"total" : 8,
+				"median" : 93423
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95341,
+				"avg" : 94040.16666666667,
+				"min" : 92687,
+				"total" : 12,
+				"median" : 94195
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 94577,
+				"avg" : 93859.83333333333,
+				"min" : 92003,
+				"total" : 6,
+				"median" : 94247
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96379,
+				"avg" : 95095.875,
+				"min" : 94062,
+				"total" : 8,
+				"median" : 95080
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96001,
+				"avg" : 94716.28571428571,
+				"min" : 93105,
+				"total" : 7,
+				"median" : 94875
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96757,
+				"avg" : 95230.83333333333,
+				"min" : 93765,
+				"total" : 12,
+				"median" : 95558.5
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97312,
+				"avg" : 96081.57142857143,
+				"min" : 95140,
+				"total" : 14,
+				"median" : 96154
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97208,
+				"avg" : 95927.1,
+				"min" : 94006,
+				"total" : 10,
+				"median" : 95820.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97232,
+				"avg" : 97063.33333333333,
+				"min" : 96790,
+				"total" : 3,
+				"median" : 97168
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97586,
+				"avg" : 96882.71428571429,
+				"min" : 95358,
+				"total" : 7,
+				"median" : 97224
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98334,
+				"avg" : 97270.375,
+				"min" : 95800,
+				"total" : 8,
+				"median" : 97264.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98551,
+				"avg" : 98001.66666666667,
+				"min" : 97538,
+				"total" : 3,
+				"median" : 97916
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99050,
+				"avg" : 98423.36363636363,
+				"min" : 97393,
+				"total" : 11,
+				"median" : 98600
+			}
+		],
+		"max" : 99050
+	},
+	{
+		"id" : 26,
+		"lv" : 49,
+		"genre" : "ΩVERSOUL",
+		"song" : "ΩVERSOUL",
+		"pf_rate" : "2.81",
+		"fc_rate" : "5.16",
+		"clear_rate" : "84.97",
+		"total" : 213,
+		"num_of_perfect" : 6,
+		"num_of_fullCombo" : 5,
+		"num_of_clear" : 181,
+		"num_of_fullCombo_good_1_5" : 4,
+		"num_of_fullCombo_good_6_20" : 1,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 11,
+		"num_of_clear_bad_1_5" : 46,
+		"num_of_clear_bad_6_20" : 103,
+		"num_of_clear_bad_21_" : 21,
+		"num_of_easy" : 7,
+		"num_of_failed_gauge_16_15" : 5,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 17,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95131,
+				"avg" : 94026.75,
+				"min" : 91839,
+				"total" : 8,
+				"median" : 94224.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96321,
+				"avg" : 95076.66666666667,
+				"min" : 93138,
+				"total" : 12,
+				"median" : 95417.5
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96360,
+				"avg" : 94601,
+				"min" : 92688,
+				"total" : 6,
+				"median" : 94967.5
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96295,
+				"avg" : 95362.27272727272,
+				"min" : 93382,
+				"total" : 11,
+				"median" : 95363
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96893,
+				"avg" : 95561.28571428571,
+				"min" : 92450,
+				"total" : 7,
+				"median" : 96173
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97016,
+				"avg" : 96114.66666666667,
+				"min" : 95028,
+				"total" : 12,
+				"median" : 96379
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97691,
+				"avg" : 96333.92857142857,
+				"min" : 94913,
+				"total" : 14,
+				"median" : 96388.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97652,
+				"avg" : 96348.7,
+				"min" : 94077,
+				"total" : 10,
+				"median" : 96539.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96205,
+				"avg" : 95879.33333333333,
+				"min" : 95401,
+				"total" : 3,
+				"median" : 96032
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98282,
+				"avg" : 97098.28571428571,
+				"min" : 93395,
+				"total" : 7,
+				"median" : 97659
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98868,
+				"avg" : 97284.875,
+				"min" : 95453,
+				"total" : 8,
+				"median" : 97369
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97935,
+				"avg" : 97667.33333333333,
+				"min" : 97170,
+				"total" : 3,
+				"median" : 97897
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99305,
+				"avg" : 98556.18181818182,
+				"min" : 97016,
+				"total" : 11,
+				"median" : 98662
+			}
+		],
+		"max" : 99305
+	},
+	{
+		"id" : 27,
+		"lv" : 49,
+		"genre" : "アンセム",
+		"song" : "天空の夜明け",
+		"pf_rate" : "3.65",
+		"fc_rate" : "15.85",
+		"clear_rate" : "95.52",
+		"total" : 246,
+		"num_of_perfect" : 9,
+		"num_of_fullCombo" : 30,
+		"num_of_clear" : 235,
+		"num_of_fullCombo_good_1_5" : 15,
+		"num_of_fullCombo_good_6_20" : 13,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 39,
+		"num_of_clear_bad_1_5" : 54,
+		"num_of_clear_bad_6_20" : 79,
+		"num_of_clear_bad_21_" : 63,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 9,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94660,
+				"avg" : 93452.33333333333,
+				"min" : 92588,
+				"total" : 9,
+				"median" : 93444
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95475,
+				"avg" : 93341.38461538461,
+				"min" : 91297,
+				"total" : 13,
+				"median" : 93288
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96025,
+				"avg" : 94331.85714285714,
+				"min" : 93750,
+				"total" : 7,
+				"median" : 94096
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95726,
+				"avg" : 94635,
+				"min" : 93362,
+				"total" : 11,
+				"median" : 94741
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96365,
+				"avg" : 95292.44444444444,
+				"min" : 94307,
+				"total" : 9,
+				"median" : 95414
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96365,
+				"avg" : 95460.92307692308,
+				"min" : 94232,
+				"total" : 13,
+				"median" : 95516
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96671,
+				"avg" : 95772.85714285714,
+				"min" : 93885,
+				"total" : 14,
+				"median" : 95937
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97724,
+				"avg" : 96670.7,
+				"min" : 95842,
+				"total" : 10,
+				"median" : 96711
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96915,
+				"avg" : 96369.33333333333,
+				"min" : 95638,
+				"total" : 3,
+				"median" : 96555
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97690,
+				"avg" : 97249.75,
+				"min" : 96779,
+				"total" : 8,
+				"median" : 97187
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98369,
+				"avg" : 97443.9,
+				"min" : 96745,
+				"total" : 10,
+				"median" : 97516.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97880,
+				"avg" : 97537,
+				"min" : 97099,
+				"total" : 4,
+				"median" : 97584.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99082,
+				"avg" : 98154.18181818182,
+				"min" : 96725,
+				"total" : 11,
+				"median" : 98267
+			}
+		],
+		"max" : 99082
+	},
+	{
+		"id" : 28,
+		"lv" : 49,
+		"genre" : "インボルク",
+		"song" : "生命の焔纏いて",
+		"pf_rate" : "11.06",
+		"fc_rate" : "24.59",
+		"clear_rate" : "91.39",
+		"total" : 244,
+		"num_of_perfect" : 27,
+		"num_of_fullCombo" : 33,
+		"num_of_clear" : 223,
+		"num_of_fullCombo_good_1_5" : 25,
+		"num_of_fullCombo_good_6_20" : 6,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 60,
+		"num_of_clear_bad_1_5" : 69,
+		"num_of_clear_bad_6_20" : 84,
+		"num_of_clear_bad_21_" : 10,
+		"num_of_easy" : 7,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 13,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 96692,
+				"avg" : 95522.44444444444,
+				"min" : 93435,
+				"total" : 9,
+				"median" : 95916
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96916,
+				"avg" : 95289.92307692308,
+				"min" : 93282,
+				"total" : 13,
+				"median" : 95205
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97634,
+				"avg" : 96331,
+				"min" : 95397,
+				"total" : 7,
+				"median" : 96269
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 97570,
+				"avg" : 96257,
+				"min" : 94506,
+				"total" : 11,
+				"median" : 96512
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97762,
+				"avg" : 96660.33333333333,
+				"min" : 95301,
+				"total" : 9,
+				"median" : 96692
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 98038,
+				"avg" : 96850.92307692308,
+				"min" : 95980,
+				"total" : 13,
+				"median" : 97038
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98596,
+				"avg" : 97442.64285714286,
+				"min" : 95525,
+				"total" : 14,
+				"median" : 97589
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98416,
+				"avg" : 97751.5,
+				"min" : 97166,
+				"total" : 10,
+				"median" : 97884
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98070,
+				"avg" : 97409.66666666667,
+				"min" : 96942,
+				"total" : 3,
+				"median" : 97217
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98839,
+				"avg" : 98198.125,
+				"min" : 97435,
+				"total" : 8,
+				"median" : 98189
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99128,
+				"avg" : 98443.2,
+				"min" : 97391,
+				"total" : 10,
+				"median" : 98647
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98980,
+				"avg" : 98677.25,
+				"min" : 97955,
+				"total" : 4,
+				"median" : 98887
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99743,
+				"avg" : 99110.72727272728,
+				"min" : 98358,
+				"total" : 11,
+				"median" : 99051
+			}
+		],
+		"max" : 99743
+	},
+	{
+		"id" : 29,
+		"lv" : 49,
+		"genre" : "オイパンク",
+		"song" : "悲しいね",
+		"pf_rate" : "0.80",
+		"fc_rate" : "4.04",
+		"clear_rate" : "95.54",
+		"total" : 247,
+		"num_of_perfect" : 2,
+		"num_of_fullCombo" : 8,
+		"num_of_clear" : 236,
+		"num_of_fullCombo_good_1_5" : 1,
+		"num_of_fullCombo_good_6_20" : 3,
+		"num_of_fullCombo_good_21_" : 4,
+		"num_of_bad_0" : 10,
+		"num_of_clear_bad_1_5" : 60,
+		"num_of_clear_bad_6_20" : 104,
+		"num_of_clear_bad_21_" : 62,
+		"num_of_easy" : 1,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 6,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "CS6",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 96060,
+				"avg" : 94597,
+				"min" : 93109,
+				"total" : 9,
+				"median" : 94621
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96256,
+				"avg" : 95057.76923076923,
+				"min" : 93670,
+				"total" : 13,
+				"median" : 95402
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 98536,
+				"avg" : 95442,
+				"min" : 92756,
+				"total" : 7,
+				"median" : 95597
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96780,
+				"avg" : 94849.81818181818,
+				"min" : 92743,
+				"total" : 11,
+				"median" : 95134
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96731,
+				"avg" : 95644.44444444444,
+				"min" : 94024,
+				"total" : 9,
+				"median" : 95609
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97621,
+				"avg" : 95935.69230769231,
+				"min" : 93853,
+				"total" : 13,
+				"median" : 96158
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97463,
+				"avg" : 96283.71428571429,
+				"min" : 95378,
+				"total" : 14,
+				"median" : 96134
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98048,
+				"avg" : 96910.6,
+				"min" : 95500,
+				"total" : 10,
+				"median" : 96926.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97975,
+				"avg" : 97670,
+				"min" : 97182,
+				"total" : 3,
+				"median" : 97853
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98182,
+				"avg" : 97720.625,
+				"min" : 97207,
+				"total" : 8,
+				"median" : 97798.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98378,
+				"avg" : 97723.9,
+				"min" : 97012,
+				"total" : 10,
+				"median" : 97761.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98000,
+				"avg" : 97939,
+				"min" : 97878,
+				"total" : 4,
+				"median" : 97939
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99524,
+				"avg" : 98424.18181818182,
+				"min" : 97451,
+				"total" : 11,
+				"median" : 98378
+			}
+		],
+		"max" : 99524
+	},
+	{
+		"id" : 30,
+		"lv" : 49,
+		"genre" : "オイパンク０",
+		"song" : "ブタパンチのテーマ",
+		"pf_rate" : "0.41",
+		"fc_rate" : "11.15",
+		"clear_rate" : "93.80",
+		"total" : 242,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 26,
+		"num_of_clear" : 227,
+		"num_of_fullCombo_good_1_5" : 6,
+		"num_of_fullCombo_good_6_20" : 6,
+		"num_of_fullCombo_good_21_" : 14,
+		"num_of_bad_0" : 27,
+		"num_of_clear_bad_1_5" : 58,
+		"num_of_clear_bad_6_20" : 79,
+		"num_of_clear_bad_21_" : 63,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 11,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "9",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94399,
+				"avg" : 92446.33333333333,
+				"min" : 90729,
+				"total" : 9,
+				"median" : 92393
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95311,
+				"avg" : 93834.91666666667,
+				"min" : 91960,
+				"total" : 12,
+				"median" : 93730.5
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96162,
+				"avg" : 94213.42857142857,
+				"min" : 93024,
+				"total" : 7,
+				"median" : 93791
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 97659,
+				"avg" : 94314.36363636363,
+				"min" : 91717,
+				"total" : 11,
+				"median" : 94103
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96033,
+				"avg" : 94785.11111111111,
+				"min" : 93206,
+				"total" : 9,
+				"median" : 94886
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 98221,
+				"avg" : 95128.15384615384,
+				"min" : 93434,
+				"total" : 13,
+				"median" : 94886
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97051,
+				"avg" : 95832.78571428571,
+				"min" : 93989,
+				"total" : 14,
+				"median" : 95839.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97697,
+				"avg" : 96808.6,
+				"min" : 95577,
+				"total" : 10,
+				"median" : 96971.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97006,
+				"avg" : 95858.33333333333,
+				"min" : 94726,
+				"total" : 3,
+				"median" : 95843
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98077,
+				"avg" : 97016,
+				"min" : 96048,
+				"total" : 8,
+				"median" : 97028
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99080,
+				"avg" : 97959.3,
+				"min" : 96010,
+				"total" : 10,
+				"median" : 98066
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98617,
+				"avg" : 98134.25,
+				"min" : 97401,
+				"total" : 4,
+				"median" : 98259.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99445,
+				"avg" : 98633.81818181818,
+				"min" : 97006,
+				"total" : 11,
+				"median" : 98624
+			}
+		],
+		"max" : 99445
+	},
+	{
+		"id" : 31,
+		"lv" : 49,
+		"genre" : "カウボーイ",
+		"song" : "Blue River",
+		"pf_rate" : "1.25",
+		"fc_rate" : "16.25",
+		"clear_rate" : "86.66",
+		"total" : 240,
+		"num_of_perfect" : 3,
+		"num_of_fullCombo" : 36,
+		"num_of_clear" : 208,
+		"num_of_fullCombo_good_1_5" : 9,
+		"num_of_fullCombo_good_6_20" : 18,
+		"num_of_fullCombo_good_21_" : 9,
+		"num_of_bad_0" : 39,
+		"num_of_clear_bad_1_5" : 66,
+		"num_of_clear_bad_6_20" : 81,
+		"num_of_clear_bad_21_" : 22,
+		"num_of_easy" : 8,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 20,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "CS11",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 96484,
+				"avg" : 94902.55555555556,
+				"min" : 93260,
+				"total" : 9,
+				"median" : 94847
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 97062,
+				"avg" : 95728.23076923077,
+				"min" : 93926,
+				"total" : 13,
+				"median" : 95855
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97467,
+				"avg" : 95776.85714285714,
+				"min" : 94293,
+				"total" : 7,
+				"median" : 95637
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96695,
+				"avg" : 96101.81818181818,
+				"min" : 94312,
+				"total" : 11,
+				"median" : 96303
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97790,
+				"avg" : 96460.88888888889,
+				"min" : 95556,
+				"total" : 9,
+				"median" : 96515
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97710,
+				"avg" : 96840.23076923077,
+				"min" : 95071,
+				"total" : 13,
+				"median" : 96782
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98077,
+				"avg" : 97330.85714285714,
+				"min" : 96079,
+				"total" : 14,
+				"median" : 97373.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98500,
+				"avg" : 97826.4,
+				"min" : 97187,
+				"total" : 10,
+				"median" : 97927
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98388,
+				"avg" : 97699.33333333333,
+				"min" : 97069,
+				"total" : 3,
+				"median" : 97641
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98805,
+				"avg" : 98285.25,
+				"min" : 97710,
+				"total" : 8,
+				"median" : 98334.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99047,
+				"avg" : 98469.8,
+				"min" : 98052,
+				"total" : 10,
+				"median" : 98496.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 99041,
+				"avg" : 98608.75,
+				"min" : 98220,
+				"total" : 4,
+				"median" : 98587
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99570,
+				"avg" : 99091.45454545454,
+				"min" : 98133,
+				"total" : 11,
+				"median" : 99135
+			}
+		],
+		"max" : 99570
+	},
+	{
+		"id" : 32,
+		"lv" : 49,
+		"genre" : "クラシック１１",
+		"song" : "想い出をありがとう",
+		"pf_rate" : "0.00",
+		"fc_rate" : "7.92",
+		"clear_rate" : "89.42",
+		"total" : 227,
+		"num_of_perfect" : 0,
+		"num_of_fullCombo" : 18,
+		"num_of_clear" : 203,
+		"num_of_fullCombo_good_1_5" : 0,
+		"num_of_fullCombo_good_6_20" : 1,
+		"num_of_fullCombo_good_21_" : 17,
+		"num_of_bad_0" : 18,
+		"num_of_clear_bad_1_5" : 29,
+		"num_of_clear_bad_6_20" : 64,
+		"num_of_clear_bad_21_" : 92,
+		"num_of_easy" : 4,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 19,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "CS11",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 89528,
+				"avg" : 81342,
+				"min" : 74052,
+				"total" : 9,
+				"median" : 79811
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 91434,
+				"avg" : 81705.27272727272,
+				"min" : 66994,
+				"total" : 11,
+				"median" : 82188
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 92387,
+				"avg" : 86930.14285714286,
+				"min" : 77801,
+				"total" : 7,
+				"median" : 89539
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 88785,
+				"avg" : 84670.54545454546,
+				"min" : 73068,
+				"total" : 11,
+				"median" : 85382
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 91434,
+				"avg" : 85942.55555555556,
+				"min" : 75748,
+				"total" : 9,
+				"median" : 87256
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 90806,
+				"avg" : 84839.69230769231,
+				"min" : 71099,
+				"total" : 13,
+				"median" : 85989
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 94607,
+				"avg" : 86393.38461538461,
+				"min" : 80303,
+				"total" : 13,
+				"median" : 84544
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 92251,
+				"avg" : 87925.2,
+				"min" : 83005,
+				"total" : 10,
+				"median" : 88753.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 93790,
+				"avg" : 91856.33333333333,
+				"min" : 90366,
+				"total" : 3,
+				"median" : 91413
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 94460,
+				"avg" : 92227.375,
+				"min" : 88314,
+				"total" : 8,
+				"median" : 92910.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 95424,
+				"avg" : 92666.6,
+				"min" : 90031,
+				"total" : 10,
+				"median" : 92805.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 93413,
+				"avg" : 92847.75,
+				"min" : 91549,
+				"total" : 4,
+				"median" : 93214.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 97832,
+				"avg" : 95845.36363636363,
+				"min" : 91654,
+				"total" : 11,
+				"median" : 96565
+			}
+		],
+		"max" : 97832
+	},
+	{
+		"id" : 33,
+		"lv" : 49,
+		"genre" : "クラシック８",
+		"song" : "Line Times",
+		"pf_rate" : "0.00",
+		"fc_rate" : "0.00",
+		"clear_rate" : "54.22",
+		"total" : 225,
+		"num_of_perfect" : 0,
+		"num_of_fullCombo" : 0,
+		"num_of_clear" : 122,
+		"num_of_fullCombo_good_1_5" : 0,
+		"num_of_fullCombo_good_6_20" : 0,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 0,
+		"num_of_clear_bad_1_5" : 0,
+		"num_of_clear_bad_6_20" : 8,
+		"num_of_clear_bad_21_" : 114,
+		"num_of_easy" : 15,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 28,
+		"num_of_failed_gauge_11_0" : 57,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "CS8",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 84420,
+				"avg" : 80877.5,
+				"min" : 74017,
+				"total" : 8,
+				"median" : 81832.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 86684,
+				"avg" : 82810.25,
+				"min" : 77874,
+				"total" : 12,
+				"median" : 83060
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 91296,
+				"avg" : 85814,
+				"min" : 82104,
+				"total" : 7,
+				"median" : 85377
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 87789,
+				"avg" : 83919.81818181818,
+				"min" : 78097,
+				"total" : 11,
+				"median" : 85069
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 88735,
+				"avg" : 85365.11111111111,
+				"min" : 81668,
+				"total" : 9,
+				"median" : 85632
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 89468,
+				"avg" : 85816.53846153847,
+				"min" : 82252,
+				"total" : 13,
+				"median" : 85387
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 90340,
+				"avg" : 87098.38461538461,
+				"min" : 83910,
+				"total" : 13,
+				"median" : 86939
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 90286,
+				"avg" : 87537.2,
+				"min" : 82061,
+				"total" : 10,
+				"median" : 87986
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 90361,
+				"avg" : 89687.66666666667,
+				"min" : 88490,
+				"total" : 3,
+				"median" : 90212
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 90701,
+				"avg" : 89651.375,
+				"min" : 87991,
+				"total" : 8,
+				"median" : 89797.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 91487,
+				"avg" : 90402.3,
+				"min" : 88597,
+				"total" : 10,
+				"median" : 90557.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 91785,
+				"avg" : 89874.5,
+				"min" : 87502,
+				"total" : 4,
+				"median" : 90105.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 95876,
+				"avg" : 92558.72727272728,
+				"min" : 90616,
+				"total" : 11,
+				"median" : 91753
+			}
+		],
+		"max" : 95876
+	},
+	{
+		"id" : 34,
+		"lv" : 49,
+		"genre" : "クラシック９",
+		"song" : "Hell? or Heaven?",
+		"pf_rate" : "0.43",
+		"fc_rate" : "3.05",
+		"clear_rate" : "84.27",
+		"total" : 229,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 6,
+		"num_of_clear" : 193,
+		"num_of_fullCombo_good_1_5" : 0,
+		"num_of_fullCombo_good_6_20" : 2,
+		"num_of_fullCombo_good_21_" : 4,
+		"num_of_bad_0" : 7,
+		"num_of_clear_bad_1_5" : 25,
+		"num_of_clear_bad_6_20" : 65,
+		"num_of_clear_bad_21_" : 96,
+		"num_of_easy" : 5,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 31,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "CS9",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 89083,
+				"avg" : 82304.44444444444,
+				"min" : 76679,
+				"total" : 9,
+				"median" : 81412
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 91350,
+				"avg" : 83013.83333333333,
+				"min" : 72887,
+				"total" : 12,
+				"median" : 84107.5
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 91933,
+				"avg" : 86781.83333333333,
+				"min" : 80743,
+				"total" : 6,
+				"median" : 87775
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 90260,
+				"avg" : 85112.72727272728,
+				"min" : 76034,
+				"total" : 11,
+				"median" : 86270
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 91425,
+				"avg" : 86181.55555555556,
+				"min" : 78587,
+				"total" : 9,
+				"median" : 87657
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 93358,
+				"avg" : 85902.69230769231,
+				"min" : 70297,
+				"total" : 13,
+				"median" : 87410
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 93866,
+				"avg" : 88038.76923076923,
+				"min" : 78884,
+				"total" : 13,
+				"median" : 88079
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 91078,
+				"avg" : 89701.1,
+				"min" : 87868,
+				"total" : 10,
+				"median" : 89789
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 92230,
+				"avg" : 91354.33333333333,
+				"min" : 90805,
+				"total" : 3,
+				"median" : 91028
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 93531,
+				"avg" : 91997.625,
+				"min" : 90396,
+				"total" : 8,
+				"median" : 91988.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 94213,
+				"avg" : 92578.3,
+				"min" : 90892,
+				"total" : 10,
+				"median" : 92688.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 94386,
+				"avg" : 92766,
+				"min" : 90929,
+				"total" : 4,
+				"median" : 92874.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 96517,
+				"avg" : 95179.36363636363,
+				"min" : 93395,
+				"total" : 11,
+				"median" : 95675
+			}
+		],
+		"max" : 96517
+	},
+	{
+		"id" : 35,
+		"lv" : 49,
+		"genre" : "ジオメトリック∮ティーパーティー",
+		"song" : "ジオメトリック∮ティーパーティー",
+		"pf_rate" : "0.42",
+		"fc_rate" : "3.38",
+		"clear_rate" : "88.13",
+		"total" : 236,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 7,
+		"num_of_clear" : 208,
+		"num_of_fullCombo_good_1_5" : 2,
+		"num_of_fullCombo_good_6_20" : 5,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 8,
+		"num_of_clear_bad_1_5" : 28,
+		"num_of_clear_bad_6_20" : 97,
+		"num_of_clear_bad_21_" : 75,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 6,
+		"num_of_failed_gauge_14_12" : 4,
+		"num_of_failed_gauge_11_0" : 12,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "écl",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 93686,
+				"avg" : 92398.22222222222,
+				"min" : 90449,
+				"total" : 9,
+				"median" : 92747
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94229,
+				"avg" : 92895.46153846153,
+				"min" : 90529,
+				"total" : 13,
+				"median" : 93049
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95214,
+				"avg" : 94089.85714285714,
+				"min" : 93190,
+				"total" : 7,
+				"median" : 94041
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94966,
+				"avg" : 94430.36363636363,
+				"min" : 93652,
+				"total" : 11,
+				"median" : 94550
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95522,
+				"avg" : 94366.55555555556,
+				"min" : 93364,
+				"total" : 9,
+				"median" : 94276
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 95998,
+				"avg" : 94776.84615384616,
+				"min" : 93512,
+				"total" : 13,
+				"median" : 94819
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96266,
+				"avg" : 95367.57142857143,
+				"min" : 94148,
+				"total" : 14,
+				"median" : 95529
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96689,
+				"avg" : 96093.5,
+				"min" : 95717,
+				"total" : 10,
+				"median" : 95975
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96367,
+				"avg" : 96083.33333333333,
+				"min" : 95871,
+				"total" : 3,
+				"median" : 96012
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96849,
+				"avg" : 96633,
+				"min" : 96286,
+				"total" : 8,
+				"median" : 96702
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97627,
+				"avg" : 96992.1,
+				"min" : 96085,
+				"total" : 10,
+				"median" : 96943
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97647,
+				"avg" : 97258.25,
+				"min" : 96756,
+				"total" : 4,
+				"median" : 97315
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98813,
+				"avg" : 97971.09090909091,
+				"min" : 97017,
+				"total" : 11,
+				"median" : 97982
+			}
+		],
+		"max" : 98813
+	},
+	{
+		"id" : 36,
+		"lv" : 49,
+		"genre" : "ジャッジメント",
+		"song" : "終末を追う者",
+		"pf_rate" : "3.29",
+		"fc_rate" : "12.34",
+		"clear_rate" : "93.82",
+		"total" : 243,
+		"num_of_perfect" : 8,
+		"num_of_fullCombo" : 22,
+		"num_of_clear" : 228,
+		"num_of_fullCombo_good_1_5" : 14,
+		"num_of_fullCombo_good_6_20" : 5,
+		"num_of_fullCombo_good_21_" : 3,
+		"num_of_bad_0" : 30,
+		"num_of_clear_bad_1_5" : 61,
+		"num_of_clear_bad_6_20" : 75,
+		"num_of_clear_bad_21_" : 62,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 5,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95291,
+				"avg" : 94073.77777777778,
+				"min" : 92314,
+				"total" : 9,
+				"median" : 94327
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95600,
+				"avg" : 93755.92307692308,
+				"min" : 91678,
+				"total" : 13,
+				"median" : 93580
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95613,
+				"avg" : 94900.71428571429,
+				"min" : 93954,
+				"total" : 7,
+				"median" : 95075
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96334,
+				"avg" : 95125.54545454546,
+				"min" : 93993,
+				"total" : 11,
+				"median" : 95134
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96465,
+				"avg" : 95529.66666666667,
+				"min" : 93639,
+				"total" : 9,
+				"median" : 95849
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97022,
+				"avg" : 96040.84615384616,
+				"min" : 94478,
+				"total" : 13,
+				"median" : 96111
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98222,
+				"avg" : 96657.57142857143,
+				"min" : 94262,
+				"total" : 14,
+				"median" : 96898
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97540,
+				"avg" : 96831.1,
+				"min" : 95659,
+				"total" : 10,
+				"median" : 96990
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97750,
+				"avg" : 96976.33333333333,
+				"min" : 96432,
+				"total" : 3,
+				"median" : 96747
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98544,
+				"avg" : 97494.625,
+				"min" : 96557,
+				"total" : 8,
+				"median" : 97334
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98747,
+				"avg" : 97842.9,
+				"min" : 96852,
+				"total" : 10,
+				"median" : 97891.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98203,
+				"avg" : 97730.5,
+				"min" : 97186,
+				"total" : 4,
+				"median" : 97766.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99449,
+				"avg" : 98564,
+				"min" : 97632,
+				"total" : 11,
+				"median" : 98688
+			}
+		],
+		"max" : 99449
+	},
+	{
+		"id" : 37,
+		"lv" : 49,
+		"genre" : "スクリーン",
+		"song" : "GALAXY FOREST 11.6&12 ",
+		"pf_rate" : "0.00",
+		"fc_rate" : "1.21",
+		"clear_rate" : "96.34",
+		"total" : 246,
+		"num_of_perfect" : 0,
+		"num_of_fullCombo" : 3,
+		"num_of_clear" : 237,
+		"num_of_fullCombo_good_1_5" : 0,
+		"num_of_fullCombo_good_6_20" : 1,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 3,
+		"num_of_clear_bad_1_5" : 13,
+		"num_of_clear_bad_6_20" : 121,
+		"num_of_clear_bad_21_" : 100,
+		"num_of_easy" : 4,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 4,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "CSBest",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 92954,
+				"avg" : 90591,
+				"min" : 89462,
+				"total" : 9,
+				"median" : 90126
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 92875,
+				"avg" : 90981.66666666667,
+				"min" : 88688,
+				"total" : 12,
+				"median" : 91003
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 93522,
+				"avg" : 92091.42857142857,
+				"min" : 90331,
+				"total" : 7,
+				"median" : 91958
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94360,
+				"avg" : 91501.72727272728,
+				"min" : 88815,
+				"total" : 11,
+				"median" : 91437
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 94755,
+				"avg" : 91837.33333333333,
+				"min" : 89636,
+				"total" : 9,
+				"median" : 91674
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 94865,
+				"avg" : 92630.23076923077,
+				"min" : 90742,
+				"total" : 13,
+				"median" : 92511
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 94265,
+				"avg" : 93065.42857142857,
+				"min" : 91469,
+				"total" : 14,
+				"median" : 93435.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 94913,
+				"avg" : 93585.7,
+				"min" : 92148,
+				"total" : 10,
+				"median" : 93585.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 94565,
+				"avg" : 94107,
+				"min" : 93428,
+				"total" : 3,
+				"median" : 94328
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 95955,
+				"avg" : 95074.5,
+				"min" : 94439,
+				"total" : 8,
+				"median" : 94999.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 96524,
+				"avg" : 95201.8,
+				"min" : 94012,
+				"total" : 10,
+				"median" : 95323.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 95766,
+				"avg" : 95366.75,
+				"min" : 94802,
+				"total" : 4,
+				"median" : 95449.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 97993,
+				"avg" : 96137.63636363637,
+				"min" : 93886,
+				"total" : 11,
+				"median" : 96018
+			}
+		],
+		"max" : 97993
+	},
+	{
+		"id" : 38,
+		"lv" : 49,
+		"genre" : "スケールアウト",
+		"song" : "BabeL ～Next Story～",
+		"pf_rate" : "0.42",
+		"fc_rate" : "6.32",
+		"clear_rate" : "81.01",
+		"total" : 237,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 14,
+		"num_of_clear" : 192,
+		"num_of_fullCombo_good_1_5" : 4,
+		"num_of_fullCombo_good_6_20" : 5,
+		"num_of_fullCombo_good_21_" : 5,
+		"num_of_bad_0" : 15,
+		"num_of_clear_bad_1_5" : 56,
+		"num_of_clear_bad_6_20" : 90,
+		"num_of_clear_bad_21_" : 31,
+		"num_of_easy" : 10,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 29,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "19",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 93957,
+				"avg" : 92846.77777777778,
+				"min" : 91019,
+				"total" : 9,
+				"median" : 92932
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94641,
+				"avg" : 93082.61538461539,
+				"min" : 90814,
+				"total" : 13,
+				"median" : 93149
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 94572,
+				"avg" : 94030.42857142857,
+				"min" : 93160,
+				"total" : 7,
+				"median" : 93986
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94948,
+				"avg" : 94434.09090909091,
+				"min" : 93456,
+				"total" : 11,
+				"median" : 94698
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95176,
+				"avg" : 94362.44444444444,
+				"min" : 93263,
+				"total" : 9,
+				"median" : 94527
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96879,
+				"avg" : 94748.07692307692,
+				"min" : 92101,
+				"total" : 13,
+				"median" : 95034
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96867,
+				"avg" : 95765.71428571429,
+				"min" : 94794,
+				"total" : 14,
+				"median" : 95720
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97027,
+				"avg" : 96115,
+				"min" : 95056,
+				"total" : 10,
+				"median" : 96243.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96480,
+				"avg" : 96294.33333333333,
+				"min" : 96156,
+				"total" : 3,
+				"median" : 96247
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97465,
+				"avg" : 96721.5,
+				"min" : 95484,
+				"total" : 8,
+				"median" : 96964
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97944,
+				"avg" : 97082.6,
+				"min" : 96446,
+				"total" : 10,
+				"median" : 96992.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97966,
+				"avg" : 97319.75,
+				"min" : 96924,
+				"total" : 4,
+				"median" : 97194.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99009,
+				"avg" : 98135.81818181818,
+				"min" : 97397,
+				"total" : 11,
+				"median" : 98041
+			}
+		],
+		"max" : 99009
+	},
+	{
+		"id" : 39,
+		"lv" : 49,
+		"genre" : "スペースレクイエム",
+		"song" : "Zirkfied",
+		"pf_rate" : "3.79",
+		"fc_rate" : "15.61",
+		"clear_rate" : "86.49",
+		"total" : 237,
+		"num_of_perfect" : 9,
+		"num_of_fullCombo" : 28,
+		"num_of_clear" : 205,
+		"num_of_fullCombo_good_1_5" : 14,
+		"num_of_fullCombo_good_6_20" : 8,
+		"num_of_fullCombo_good_21_" : 6,
+		"num_of_bad_0" : 37,
+		"num_of_clear_bad_1_5" : 63,
+		"num_of_clear_bad_6_20" : 92,
+		"num_of_clear_bad_21_" : 13,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 21,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95341,
+				"avg" : 93934.22222222222,
+				"min" : 92001,
+				"total" : 9,
+				"median" : 94359
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95899,
+				"avg" : 94380,
+				"min" : 93170,
+				"total" : 13,
+				"median" : 94243
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95815,
+				"avg" : 94596.28571428571,
+				"min" : 92488,
+				"total" : 7,
+				"median" : 94775
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 97063,
+				"avg" : 95388.09090909091,
+				"min" : 94139,
+				"total" : 11,
+				"median" : 95393
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96770,
+				"avg" : 95888.44444444444,
+				"min" : 94405,
+				"total" : 9,
+				"median" : 95977
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97498,
+				"avg" : 96075.92307692308,
+				"min" : 95269,
+				"total" : 13,
+				"median" : 95828
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97745,
+				"avg" : 96675,
+				"min" : 95178,
+				"total" : 14,
+				"median" : 96968.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97517,
+				"avg" : 96824.7,
+				"min" : 95763,
+				"total" : 10,
+				"median" : 96848.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97485,
+				"avg" : 96928,
+				"min" : 95847,
+				"total" : 3,
+				"median" : 97452
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98161,
+				"avg" : 97541.625,
+				"min" : 97030,
+				"total" : 8,
+				"median" : 97562.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98635,
+				"avg" : 97880.5,
+				"min" : 96848,
+				"total" : 10,
+				"median" : 97982
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98395,
+				"avg" : 97894.25,
+				"min" : 97030,
+				"total" : 4,
+				"median" : 98076
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99239,
+				"avg" : 98659.63636363637,
+				"min" : 97842,
+				"total" : 11,
+				"median" : 98589
+			}
+		],
+		"max" : 99239
+	},
+	{
+		"id" : 40,
+		"lv" : 49,
+		"genre" : "ゾディアックオラクル7",
+		"song" : "アストライアの双皿",
+		"pf_rate" : "0.80",
+		"fc_rate" : "9.27",
+		"clear_rate" : "93.54",
+		"total" : 248,
+		"num_of_perfect" : 2,
+		"num_of_fullCombo" : 21,
+		"num_of_clear" : 232,
+		"num_of_fullCombo_good_1_5" : 6,
+		"num_of_fullCombo_good_6_20" : 10,
+		"num_of_fullCombo_good_21_" : 5,
+		"num_of_bad_0" : 23,
+		"num_of_clear_bad_1_5" : 62,
+		"num_of_clear_bad_6_20" : 95,
+		"num_of_clear_bad_21_" : 52,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 10,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94198,
+				"avg" : 92247.44444444444,
+				"min" : 90138,
+				"total" : 9,
+				"median" : 92745
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95313,
+				"avg" : 93178.53846153847,
+				"min" : 91610,
+				"total" : 13,
+				"median" : 93003
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95300,
+				"avg" : 94017.42857142857,
+				"min" : 92739,
+				"total" : 7,
+				"median" : 94237
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94798,
+				"avg" : 93616.72727272728,
+				"min" : 91392,
+				"total" : 11,
+				"median" : 93709
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96838,
+				"avg" : 94631.11111111111,
+				"min" : 92805,
+				"total" : 9,
+				"median" : 94613
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97597,
+				"avg" : 95001.76923076923,
+				"min" : 93445,
+				"total" : 13,
+				"median" : 94910
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97577,
+				"avg" : 95777.5,
+				"min" : 93504,
+				"total" : 14,
+				"median" : 95686
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96990,
+				"avg" : 95881.3,
+				"min" : 95003,
+				"total" : 10,
+				"median" : 95590
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97201,
+				"avg" : 95333,
+				"min" : 93419,
+				"total" : 3,
+				"median" : 95379
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97782,
+				"avg" : 96351,
+				"min" : 95359,
+				"total" : 8,
+				"median" : 95986.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98059,
+				"avg" : 97065.5,
+				"min" : 95986,
+				"total" : 10,
+				"median" : 97105
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98171,
+				"avg" : 97567.25,
+				"min" : 97082,
+				"total" : 4,
+				"median" : 97508
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99108,
+				"avg" : 98002.36363636363,
+				"min" : 95854,
+				"total" : 11,
+				"median" : 97973
+			}
+		],
+		"max" : 99108
+	},
+	{
+		"id" : 41,
+		"lv" : 49,
+		"genre" : "ニエンテ",
+		"song" : "neu",
+		"pf_rate" : "1.21",
+		"fc_rate" : "7.28",
+		"clear_rate" : "84.21",
+		"total" : 247,
+		"num_of_perfect" : 3,
+		"num_of_fullCombo" : 15,
+		"num_of_clear" : 208,
+		"num_of_fullCombo_good_1_5" : 8,
+		"num_of_fullCombo_good_6_20" : 3,
+		"num_of_fullCombo_good_21_" : 4,
+		"num_of_bad_0" : 18,
+		"num_of_clear_bad_1_5" : 47,
+		"num_of_clear_bad_6_20" : 86,
+		"num_of_clear_bad_21_" : 57,
+		"num_of_easy" : 7,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 29,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "15",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95592,
+				"avg" : 94335,
+				"min" : 91958,
+				"total" : 9,
+				"median" : 94544
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96724,
+				"avg" : 94554.46153846153,
+				"min" : 92806,
+				"total" : 13,
+				"median" : 94749
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96619,
+				"avg" : 95561.14285714286,
+				"min" : 94760,
+				"total" : 7,
+				"median" : 95718
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96598,
+				"avg" : 95270.63636363637,
+				"min" : 94096,
+				"total" : 11,
+				"median" : 95144
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97066,
+				"avg" : 96085.11111111111,
+				"min" : 95244,
+				"total" : 9,
+				"median" : 96066
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97582,
+				"avg" : 96340.46153846153,
+				"min" : 94175,
+				"total" : 13,
+				"median" : 96519
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97756,
+				"avg" : 96825.92857142857,
+				"min" : 95276,
+				"total" : 14,
+				"median" : 96792.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97482,
+				"avg" : 96698.3,
+				"min" : 95271,
+				"total" : 10,
+				"median" : 96763.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97751,
+				"avg" : 97663.33333333333,
+				"min" : 97535,
+				"total" : 3,
+				"median" : 97704
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98009,
+				"avg" : 97546.25,
+				"min" : 96898,
+				"total" : 8,
+				"median" : 97645.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98852,
+				"avg" : 98035.8,
+				"min" : 96556,
+				"total" : 10,
+				"median" : 98032.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98004,
+				"avg" : 97822.25,
+				"min" : 97672,
+				"total" : 4,
+				"median" : 97806.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99268,
+				"avg" : 98389,
+				"min" : 96982,
+				"total" : 11,
+				"median" : 98578
+			}
+		],
+		"max" : 99268
+	},
+	{
+		"id" : 42,
+		"lv" : 49,
+		"genre" : "ハードルネッサンス",
+		"song" : "Elemental Creation",
+		"pf_rate" : "6.55",
+		"fc_rate" : "24.18",
+		"clear_rate" : "90.57",
+		"total" : 244,
+		"num_of_perfect" : 16,
+		"num_of_fullCombo" : 43,
+		"num_of_clear" : 221,
+		"num_of_fullCombo_good_1_5" : 24,
+		"num_of_fullCombo_good_6_20" : 17,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 59,
+		"num_of_clear_bad_1_5" : 67,
+		"num_of_clear_bad_6_20" : 82,
+		"num_of_clear_bad_21_" : 13,
+		"num_of_easy" : 8,
+		"num_of_failed_gauge_16_15" : 3,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 11,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 96130,
+				"avg" : 95192.33333333333,
+				"min" : 94280,
+				"total" : 9,
+				"median" : 95321
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96452,
+				"avg" : 95315.23076923077,
+				"min" : 93061,
+				"total" : 13,
+				"median" : 95391
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95928,
+				"avg" : 95668.71428571429,
+				"min" : 95435,
+				"total" : 7,
+				"median" : 95643
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96906,
+				"avg" : 96164.09090909091,
+				"min" : 95107,
+				"total" : 11,
+				"median" : 96243
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97070,
+				"avg" : 96600.88888888889,
+				"min" : 95827,
+				"total" : 9,
+				"median" : 96830
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97967,
+				"avg" : 96776.46153846153,
+				"min" : 95549,
+				"total" : 13,
+				"median" : 96767
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98017,
+				"avg" : 97136.92857142857,
+				"min" : 96231,
+				"total" : 14,
+				"median" : 97187
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97809,
+				"avg" : 96705.2,
+				"min" : 92291,
+				"total" : 10,
+				"median" : 97114
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97613,
+				"avg" : 97163,
+				"min" : 96616,
+				"total" : 3,
+				"median" : 97260
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98857,
+				"avg" : 97858.625,
+				"min" : 97140,
+				"total" : 8,
+				"median" : 97764.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98857,
+				"avg" : 98179.5,
+				"min" : 97380,
+				"total" : 10,
+				"median" : 98282
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98636,
+				"avg" : 98348.75,
+				"min" : 98125,
+				"total" : 4,
+				"median" : 98317
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99488,
+				"avg" : 98855.09090909091,
+				"min" : 97651,
+				"total" : 11,
+				"median" : 98762
+			}
+		],
+		"max" : 99488
+	},
+	{
+		"id" : 43,
+		"lv" : 49,
+		"genre" : "ブラッドメタル",
+		"song" : "IX",
+		"pf_rate" : "6.04",
+		"fc_rate" : "21.37",
+		"clear_rate" : "96.37",
+		"total" : 248,
+		"num_of_perfect" : 15,
+		"num_of_fullCombo" : 38,
+		"num_of_clear" : 239,
+		"num_of_fullCombo_good_1_5" : 27,
+		"num_of_fullCombo_good_6_20" : 10,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 53,
+		"num_of_clear_bad_1_5" : 65,
+		"num_of_clear_bad_6_20" : 71,
+		"num_of_clear_bad_21_" : 50,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 5,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "SP",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95196,
+				"avg" : 94431.33333333333,
+				"min" : 93812,
+				"total" : 9,
+				"median" : 94271
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95349,
+				"avg" : 94720.30769230769,
+				"min" : 93825,
+				"total" : 13,
+				"median" : 94936
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95854,
+				"avg" : 95307.85714285714,
+				"min" : 94291,
+				"total" : 7,
+				"median" : 95402
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 97258,
+				"avg" : 95784.90909090909,
+				"min" : 94557,
+				"total" : 11,
+				"median" : 95894
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96739,
+				"avg" : 95969.77777777778,
+				"min" : 95029,
+				"total" : 9,
+				"median" : 96021
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97504,
+				"avg" : 96576.07692307692,
+				"min" : 95874,
+				"total" : 13,
+				"median" : 96560
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97737,
+				"avg" : 96681.35714285714,
+				"min" : 96014,
+				"total" : 14,
+				"median" : 96583
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97684,
+				"avg" : 97066.7,
+				"min" : 96400,
+				"total" : 10,
+				"median" : 97095
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98323,
+				"avg" : 97296,
+				"min" : 96333,
+				"total" : 3,
+				"median" : 97232
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98057,
+				"avg" : 97824.75,
+				"min" : 97524,
+				"total" : 8,
+				"median" : 97927
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98709,
+				"avg" : 97994.7,
+				"min" : 96892,
+				"total" : 10,
+				"median" : 98083
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98742,
+				"avg" : 98349.25,
+				"min" : 98083,
+				"total" : 4,
+				"median" : 98286
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99620,
+				"avg" : 98731.81818181818,
+				"min" : 97638,
+				"total" : 11,
+				"median" : 98682
+			}
+		],
+		"max" : 99620
+	},
+	{
+		"id" : 44,
+		"lv" : 49,
+		"genre" : "プログレッシブバロック",
+		"song" : "Ubertreffen",
+		"pf_rate" : "3.71",
+		"fc_rate" : "12.80",
+		"clear_rate" : "92.14",
+		"total" : 242,
+		"num_of_perfect" : 9,
+		"num_of_fullCombo" : 22,
+		"num_of_clear" : 223,
+		"num_of_fullCombo_good_1_5" : 12,
+		"num_of_fullCombo_good_6_20" : 8,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 31,
+		"num_of_clear_bad_1_5" : 46,
+		"num_of_clear_bad_6_20" : 86,
+		"num_of_clear_bad_21_" : 60,
+		"num_of_easy" : 1,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 16,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "14",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94593,
+				"avg" : 92735.66666666667,
+				"min" : 90875,
+				"total" : 9,
+				"median" : 92523
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95039,
+				"avg" : 93835.58333333333,
+				"min" : 91343,
+				"total" : 12,
+				"median" : 94109
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96781,
+				"avg" : 94446,
+				"min" : 92070,
+				"total" : 7,
+				"median" : 94632
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95937,
+				"avg" : 94044.18181818182,
+				"min" : 92820,
+				"total" : 11,
+				"median" : 94015
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95960,
+				"avg" : 95168.66666666667,
+				"min" : 94398,
+				"total" : 9,
+				"median" : 95101
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96710,
+				"avg" : 95249.92307692308,
+				"min" : 94085,
+				"total" : 13,
+				"median" : 95171
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97007,
+				"avg" : 95735,
+				"min" : 94296,
+				"total" : 14,
+				"median" : 95718.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97390,
+				"avg" : 96431.7,
+				"min" : 94765,
+				"total" : 10,
+				"median" : 96628.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97531,
+				"avg" : 97067.33333333333,
+				"min" : 96250,
+				"total" : 3,
+				"median" : 97421
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98562,
+				"avg" : 97785.75,
+				"min" : 96398,
+				"total" : 8,
+				"median" : 97905.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99148,
+				"avg" : 97864.4,
+				"min" : 96546,
+				"total" : 10,
+				"median" : 97866.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98539,
+				"avg" : 98253.5,
+				"min" : 97531,
+				"total" : 4,
+				"median" : 98472
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99507,
+				"avg" : 98397.90909090909,
+				"min" : 96250,
+				"total" : 11,
+				"median" : 98335
+			}
+		],
+		"max" : 99507
+	},
+	{
+		"id" : 45,
+		"lv" : 49,
+		"genre" : "ヘビーメタル",
+		"song" : "I'm on Fire",
+		"pf_rate" : "0.00",
+		"fc_rate" : "0.00",
+		"clear_rate" : "51.78",
+		"total" : 224,
+		"num_of_perfect" : 0,
+		"num_of_fullCombo" : 0,
+		"num_of_clear" : 116,
+		"num_of_fullCombo_good_1_5" : 0,
+		"num_of_fullCombo_good_6_20" : 0,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 0,
+		"num_of_clear_bad_1_5" : 3,
+		"num_of_clear_bad_6_20" : 40,
+		"num_of_clear_bad_21_" : 73,
+		"num_of_easy" : 16,
+		"num_of_failed_gauge_16_15" : 6,
+		"num_of_failed_gauge_14_12" : 11,
+		"num_of_failed_gauge_11_0" : 75,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "2",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 92193,
+				"avg" : 87666.5,
+				"min" : 83689,
+				"total" : 8,
+				"median" : 87474
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95428,
+				"avg" : 89898.61538461539,
+				"min" : 81924,
+				"total" : 13,
+				"median" : 90151
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95142,
+				"avg" : 91096.85714285714,
+				"min" : 87000,
+				"total" : 7,
+				"median" : 91285
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 92504,
+				"avg" : 90373.27272727272,
+				"min" : 88428,
+				"total" : 11,
+				"median" : 90210
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 93033,
+				"avg" : 90708.11111111111,
+				"min" : 87016,
+				"total" : 9,
+				"median" : 90789
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 93739,
+				"avg" : 90987.36363636363,
+				"min" : 89252,
+				"total" : 11,
+				"median" : 91218
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 93378,
+				"avg" : 91349.57142857143,
+				"min" : 87647,
+				"total" : 14,
+				"median" : 91113
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 94126,
+				"avg" : 92367.6,
+				"min" : 89899,
+				"total" : 10,
+				"median" : 93344
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 94445,
+				"avg" : 93064,
+				"min" : 91184,
+				"total" : 3,
+				"median" : 93563
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 93899,
+				"avg" : 92909.125,
+				"min" : 90890,
+				"total" : 8,
+				"median" : 93293.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 95915,
+				"avg" : 93581.9,
+				"min" : 91697,
+				"total" : 10,
+				"median" : 93949
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 95378,
+				"avg" : 94564.75,
+				"min" : 94201,
+				"total" : 4,
+				"median" : 94340
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98159,
+				"avg" : 96146.90909090909,
+				"min" : 94016,
+				"total" : 11,
+				"median" : 95932
+			}
+		],
+		"max" : 98159
+	},
+	{
+		"id" : 46,
+		"lv" : 49,
+		"genre" : "メタリックオペラ",
+		"song" : "Geiselhaus",
+		"pf_rate" : "0.41",
+		"fc_rate" : "3.76",
+		"clear_rate" : "95.39",
+		"total" : 239,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 8,
+		"num_of_clear" : 228,
+		"num_of_fullCombo_good_1_5" : 1,
+		"num_of_fullCombo_good_6_20" : 5,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 9,
+		"num_of_clear_bad_1_5" : 41,
+		"num_of_clear_bad_6_20" : 98,
+		"num_of_clear_bad_21_" : 80,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 6,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "17",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95327,
+				"avg" : 93450.66666666667,
+				"min" : 92288,
+				"total" : 9,
+				"median" : 93207
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95158,
+				"avg" : 93654.46153846153,
+				"min" : 91282,
+				"total" : 13,
+				"median" : 93814
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95435,
+				"avg" : 93863.71428571429,
+				"min" : 92667,
+				"total" : 7,
+				"median" : 93389
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95867,
+				"avg" : 94581.09090909091,
+				"min" : 92957,
+				"total" : 11,
+				"median" : 94361
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95212,
+				"avg" : 94756.77777777778,
+				"min" : 93855,
+				"total" : 9,
+				"median" : 94888
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96731,
+				"avg" : 95051.61538461539,
+				"min" : 93652,
+				"total" : 13,
+				"median" : 95111
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96549,
+				"avg" : 95655.92857142857,
+				"min" : 94044,
+				"total" : 14,
+				"median" : 95796.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96792,
+				"avg" : 95946.2,
+				"min" : 95091,
+				"total" : 10,
+				"median" : 95799.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96853,
+				"avg" : 96261,
+				"min" : 95793,
+				"total" : 3,
+				"median" : 96137
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97542,
+				"avg" : 96919.625,
+				"min" : 95995,
+				"total" : 8,
+				"median" : 96964.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98217,
+				"avg" : 97128.5,
+				"min" : 95435,
+				"total" : 10,
+				"median" : 97349.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98156,
+				"avg" : 97330.75,
+				"min" : 96954,
+				"total" : 4,
+				"median" : 97106.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98879,
+				"avg" : 98184.45454545454,
+				"min" : 97508,
+				"total" : 11,
+				"median" : 98170
+			}
+		],
+		"max" : 98879
+	},
+	{
+		"id" : 47,
+		"lv" : 49,
+		"genre" : "ラメント",
+		"song" : "雫",
+		"pf_rate" : "3.16",
+		"fc_rate" : "7.69",
+		"clear_rate" : "82.35",
+		"total" : 221,
+		"num_of_perfect" : 7,
+		"num_of_fullCombo" : 10,
+		"num_of_clear" : 182,
+		"num_of_fullCombo_good_1_5" : 7,
+		"num_of_fullCombo_good_6_20" : 2,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 17,
+		"num_of_clear_bad_1_5" : 52,
+		"num_of_clear_bad_6_20" : 100,
+		"num_of_clear_bad_21_" : 13,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 1,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 29,
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 97190,
+				"avg" : 96246.875,
+				"min" : 94627,
+				"total" : 8,
+				"median" : 96274.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 97508,
+				"avg" : 96431.69230769231,
+				"min" : 94860,
+				"total" : 13,
+				"median" : 96569
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97365,
+				"avg" : 96543.16666666667,
+				"min" : 95857,
+				"total" : 6,
+				"median" : 96394.5
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 98103,
+				"avg" : 96975.54545454546,
+				"min" : 95889,
+				"total" : 11,
+				"median" : 97029
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 98122,
+				"avg" : 93429,
+				"min" : 68265,
+				"total" : 8,
+				"median" : 96747
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 98239,
+				"avg" : 97302.58333333333,
+				"min" : 96265,
+				"total" : 12,
+				"median" : 97342.5
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98576,
+				"avg" : 97595.07142857143,
+				"min" : 96873,
+				"total" : 14,
+				"median" : 97475
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98323,
+				"avg" : 97781.3,
+				"min" : 96737,
+				"total" : 10,
+				"median" : 98058
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97922,
+				"avg" : 97792.66666666667,
+				"min" : 97644,
+				"total" : 3,
+				"median" : 97812
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98563,
+				"avg" : 98072.375,
+				"min" : 96944,
+				"total" : 8,
+				"median" : 98210
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99177,
+				"avg" : 98358.11111111111,
+				"min" : 97650,
+				"total" : 9,
+				"median" : 98245
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98472,
+				"avg" : 98428.25,
+				"min" : 98349,
+				"total" : 4,
+				"median" : 98446
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99514,
+				"avg" : 99056.27272727272,
+				"min" : 98485,
+				"total" : 11,
+				"median" : 99113
+			}
+		],
+		"max" : 99514
+	},
+	{
+		"id" : 48,
+		"lv" : 49,
+		"genre" : "リナシタ",
+		"song" : "uen",
+		"pf_rate" : "0.41",
+		"fc_rate" : "1.23",
+		"clear_rate" : "71.19",
+		"total" : 243,
+		"num_of_perfect" : 1,
+		"num_of_fullCombo" : 2,
+		"num_of_clear" : 173,
+		"num_of_fullCombo_good_1_5" : 0,
+		"num_of_fullCombo_good_6_20" : 1,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 3,
+		"num_of_clear_bad_1_5" : 28,
+		"num_of_clear_bad_6_20" : 89,
+		"num_of_clear_bad_21_" : 53,
+		"num_of_easy" : 18,
+		"num_of_failed_gauge_16_15" : 8,
+		"num_of_failed_gauge_14_12" : 6,
+		"num_of_failed_gauge_11_0" : 38,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "PMP2",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 92886,
+				"avg" : 92179,
+				"min" : 91753,
+				"total" : 9,
+				"median" : 92040
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94633,
+				"avg" : 92941.76923076923,
+				"min" : 90940,
+				"total" : 13,
+				"median" : 93180
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95153,
+				"avg" : 93862.42857142857,
+				"min" : 92526,
+				"total" : 7,
+				"median" : 94053
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94880,
+				"avg" : 93576.72727272728,
+				"min" : 92280,
+				"total" : 11,
+				"median" : 93540
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95426,
+				"avg" : 94117.44444444444,
+				"min" : 92940,
+				"total" : 9,
+				"median" : 94120
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96873,
+				"avg" : 94552.53846153847,
+				"min" : 93573,
+				"total" : 13,
+				"median" : 94460
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96580,
+				"avg" : 94830.64285714286,
+				"min" : 93460,
+				"total" : 14,
+				"median" : 94893
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96786,
+				"avg" : 95452.4,
+				"min" : 93993,
+				"total" : 10,
+				"median" : 95740
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96113,
+				"avg" : 96028.66666666667,
+				"min" : 95960,
+				"total" : 3,
+				"median" : 96013
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96793,
+				"avg" : 96298.75,
+				"min" : 95173,
+				"total" : 8,
+				"median" : 96456
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97766,
+				"avg" : 96684.3,
+				"min" : 95640,
+				"total" : 10,
+				"median" : 96723
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97360,
+				"avg" : 97138,
+				"min" : 96806,
+				"total" : 4,
+				"median" : 97193
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98860,
+				"avg" : 97768.90909090909,
+				"min" : 96920,
+				"total" : 11,
+				"median" : 97920
+			}
+		],
+		"max" : 98860
+	},
+	{
+		"id" : 49,
+		"lv" : 49,
+		"genre" : "ルイナススピリチュアル",
+		"song" : "Remain",
+		"pf_rate" : "3.27",
+		"fc_rate" : "18.03",
+		"clear_rate" : "93.85",
+		"total" : 244,
+		"num_of_perfect" : 8,
+		"num_of_fullCombo" : 36,
+		"num_of_clear" : 229,
+		"num_of_fullCombo_good_1_5" : 21,
+		"num_of_fullCombo_good_6_20" : 13,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 44,
+		"num_of_clear_bad_1_5" : 73,
+		"num_of_clear_bad_6_20" : 78,
+		"num_of_clear_bad_21_" : 34,
+		"num_of_easy" : 5,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 7,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "19",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95757,
+				"avg" : 94670.66666666667,
+				"min" : 93740,
+				"total" : 9,
+				"median" : 94569
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96188,
+				"avg" : 94933.92307692308,
+				"min" : 93365,
+				"total" : 13,
+				"median" : 94744
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96682,
+				"avg" : 95418.71428571429,
+				"min" : 94011,
+				"total" : 7,
+				"median" : 95789
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96196,
+				"avg" : 95306.18181818182,
+				"min" : 93644,
+				"total" : 11,
+				"median" : 95701
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96578,
+				"avg" : 95652.33333333333,
+				"min" : 93875,
+				"total" : 9,
+				"median" : 96044
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 96913,
+				"avg" : 96014.07692307692,
+				"min" : 94976,
+				"total" : 13,
+				"median" : 96028
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97791,
+				"avg" : 96671.28571428571,
+				"min" : 95430,
+				"total" : 14,
+				"median" : 96606
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98341,
+				"avg" : 97120.7,
+				"min" : 96244,
+				"total" : 10,
+				"median" : 96969
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97129,
+				"avg" : 96881.33333333333,
+				"min" : 96578,
+				"total" : 3,
+				"median" : 96937
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98564,
+				"avg" : 97757.5,
+				"min" : 97192,
+				"total" : 8,
+				"median" : 97762.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98755,
+				"avg" : 97958.7,
+				"min" : 97145,
+				"total" : 10,
+				"median" : 97934
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98476,
+				"avg" : 98219,
+				"min" : 97918,
+				"total" : 4,
+				"median" : 98241
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99593,
+				"avg" : 98767.09090909091,
+				"min" : 98102,
+				"total" : 11,
+				"median" : 98708
+			}
+		],
+		"max" : 99593
+	},
+	{
+		"id" : 50,
+		"lv" : 49,
+		"genre" : "ヴェラム",
+		"song" : "Eine Haube ～聖地の果てにあるもの～",
+		"pf_rate" : "3.18",
+		"fc_rate" : "16.33",
+		"clear_rate" : "97.21",
+		"total" : 251,
+		"num_of_perfect" : 8,
+		"num_of_fullCombo" : 33,
+		"num_of_clear" : 244,
+		"num_of_fullCombo_good_1_5" : 14,
+		"num_of_fullCombo_good_6_20" : 18,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 41,
+		"num_of_clear_bad_1_5" : 70,
+		"num_of_clear_bad_6_20" : 91,
+		"num_of_clear_bad_21_" : 42,
+		"num_of_easy" : 3,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 3,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "20",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95602,
+				"avg" : 94679.88888888889,
+				"min" : 93727,
+				"total" : 9,
+				"median" : 94728
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95903,
+				"avg" : 94809.07692307692,
+				"min" : 93283,
+				"total" : 13,
+				"median" : 95030
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96310,
+				"avg" : 95413.85714285714,
+				"min" : 94548,
+				"total" : 7,
+				"median" : 95617
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96438,
+				"avg" : 95825.72727272728,
+				"min" : 95120,
+				"total" : 11,
+				"median" : 95888
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96731,
+				"avg" : 96032,
+				"min" : 95158,
+				"total" : 9,
+				"median" : 96069
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97439,
+				"avg" : 96313.30769230769,
+				"min" : 95504,
+				"total" : 13,
+				"median" : 96024
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97853,
+				"avg" : 96809.35714285714,
+				"min" : 95662,
+				"total" : 14,
+				"median" : 96859.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97665,
+				"avg" : 96929.3,
+				"min" : 96362,
+				"total" : 10,
+				"median" : 96953.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97786,
+				"avg" : 96802,
+				"min" : 95625,
+				"total" : 3,
+				"median" : 96995
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98305,
+				"avg" : 97623.75,
+				"min" : 97100,
+				"total" : 8,
+				"median" : 97624
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98140,
+				"avg" : 97782.7,
+				"min" : 97131,
+				"total" : 10,
+				"median" : 97838
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98591,
+				"avg" : 98147,
+				"min" : 97808,
+				"total" : 4,
+				"median" : 98094.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99254,
+				"avg" : 98475.63636363637,
+				"min" : 98004,
+				"total" : 11,
+				"median" : 98320
+			}
+		],
+		"max" : 99254
+	},
+	{
+		"id" : 51,
+		"lv" : 49,
+		"genre" : "恋歌疾風！かるたクイーンいろは",
+		"song" : "恋歌疾風！かるたクイーンいろは",
+		"pf_rate" : "9.46",
+		"fc_rate" : "25.92",
+		"clear_rate" : "92.18",
+		"total" : 243,
+		"num_of_perfect" : 23,
+		"num_of_fullCombo" : 40,
+		"num_of_clear" : 224,
+		"num_of_fullCombo_good_1_5" : 27,
+		"num_of_fullCombo_good_6_20" : 11,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 63,
+		"num_of_clear_bad_1_5" : 71,
+		"num_of_clear_bad_6_20" : 71,
+		"num_of_clear_bad_21_" : 19,
+		"num_of_easy" : 5,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 2,
+		"num_of_failed_gauge_11_0" : 10,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "écl",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95928,
+				"avg" : 95064.88888888889,
+				"min" : 94386,
+				"total" : 9,
+				"median" : 95040
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 96595,
+				"avg" : 95208,
+				"min" : 92605,
+				"total" : 13,
+				"median" : 95443
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96645,
+				"avg" : 95800.14285714286,
+				"min" : 94971,
+				"total" : 7,
+				"median" : 95928
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96966,
+				"avg" : 96337.27272727272,
+				"min" : 95720,
+				"total" : 11,
+				"median" : 96343
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 97652,
+				"avg" : 96652.77777777778,
+				"min" : 95525,
+				"total" : 9,
+				"median" : 96626
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97394,
+				"avg" : 96648.46153846153,
+				"min" : 94789,
+				"total" : 13,
+				"median" : 96733
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 98143,
+				"avg" : 97200.21428571429,
+				"min" : 95613,
+				"total" : 14,
+				"median" : 97293
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97860,
+				"avg" : 97422.4,
+				"min" : 96878,
+				"total" : 10,
+				"median" : 97431.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 97891,
+				"avg" : 97207.33333333333,
+				"min" : 95953,
+				"total" : 3,
+				"median" : 97778
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98426,
+				"avg" : 97905.25,
+				"min" : 97142,
+				"total" : 8,
+				"median" : 97913.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98867,
+				"avg" : 98370.8,
+				"min" : 97507,
+				"total" : 10,
+				"median" : 98501.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 99068,
+				"avg" : 98394.75,
+				"min" : 97904,
+				"total" : 4,
+				"median" : 98303.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99565,
+				"avg" : 98911.27272727272,
+				"min" : 97677,
+				"total" : 11,
+				"median" : 98904
+			}
+		],
+		"max" : 99565
+	},
+	{
+		"id" : 52,
+		"lv" : 49,
+		"genre" : "最小三倍完全数",
+		"song" : "最小三倍完全数",
+		"pf_rate" : "0.00",
+		"fc_rate" : "3.09",
+		"clear_rate" : "86.72",
+		"total" : 226,
+		"num_of_perfect" : 0,
+		"num_of_fullCombo" : 7,
+		"num_of_clear" : 196,
+		"num_of_fullCombo_good_1_5" : 4,
+		"num_of_fullCombo_good_6_20" : 2,
+		"num_of_fullCombo_good_21_" : 1,
+		"num_of_bad_0" : 7,
+		"num_of_clear_bad_1_5" : 17,
+		"num_of_clear_bad_6_20" : 92,
+		"num_of_clear_bad_21_" : 80,
+		"num_of_easy" : 8,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 4,
+		"num_of_failed_gauge_11_0" : 16,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 93523,
+				"avg" : 92744,
+				"min" : 90462,
+				"total" : 8,
+				"median" : 93035.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95357,
+				"avg" : 93474.07692307692,
+				"min" : 91870,
+				"total" : 13,
+				"median" : 93675
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 95393,
+				"avg" : 93990,
+				"min" : 92844,
+				"total" : 7,
+				"median" : 94129
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94722,
+				"avg" : 94138.18181818182,
+				"min" : 92844,
+				"total" : 11,
+				"median" : 94433
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 95444,
+				"avg" : 93825.44444444444,
+				"min" : 90808,
+				"total" : 9,
+				"median" : 94173
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 95667,
+				"avg" : 94047.5,
+				"min" : 90620,
+				"total" : 12,
+				"median" : 94115
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96014,
+				"avg" : 94988.64285714286,
+				"min" : 93306,
+				"total" : 14,
+				"median" : 94905.5
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 96801,
+				"avg" : 95700.6,
+				"min" : 93689,
+				"total" : 10,
+				"median" : 96010.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96389,
+				"avg" : 96158.33333333333,
+				"min" : 95819,
+				"total" : 3,
+				"median" : 96267
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97451,
+				"avg" : 95976.875,
+				"min" : 94144,
+				"total" : 8,
+				"median" : 96248.5
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98028,
+				"avg" : 96620.9,
+				"min" : 95718,
+				"total" : 10,
+				"median" : 96450.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97906,
+				"avg" : 97219.75,
+				"min" : 96057,
+				"total" : 4,
+				"median" : 97458
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98512,
+				"avg" : 97846,
+				"min" : 96303,
+				"total" : 11,
+				"median" : 98332
+			}
+		],
+		"max" : 98512
+	},
+	{
+		"id" : 53,
+		"lv" : 49,
+		"genre" : "未完成ノ蒸氣驅動乙女",
+		"song" : "未完成ノ蒸氣驅動乙女",
+		"pf_rate" : "2.10",
+		"fc_rate" : "8.43",
+		"clear_rate" : "94.93",
+		"total" : 237,
+		"num_of_perfect" : 5,
+		"num_of_fullCombo" : 15,
+		"num_of_clear" : 225,
+		"num_of_fullCombo_good_1_5" : 8,
+		"num_of_fullCombo_good_6_20" : 7,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 20,
+		"num_of_clear_bad_1_5" : 56,
+		"num_of_clear_bad_6_20" : 101,
+		"num_of_clear_bad_21_" : 48,
+		"num_of_easy" : 2,
+		"num_of_failed_gauge_16_15" : 0,
+		"num_of_failed_gauge_14_12" : 1,
+		"num_of_failed_gauge_11_0" : 9,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "うさ",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 94116,
+				"avg" : 93223.55555555556,
+				"min" : 91633,
+				"total" : 9,
+				"median" : 93516
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95191,
+				"avg" : 93708.76923076923,
+				"min" : 87750,
+				"total" : 13,
+				"median" : 94333
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 94566,
+				"avg" : 93173.33333333333,
+				"min" : 90558,
+				"total" : 6,
+				"median" : 93591.5
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 95383,
+				"avg" : 93943.63636363637,
+				"min" : 92008,
+				"total" : 11,
+				"median" : 93900
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96016,
+				"avg" : 94258.11111111111,
+				"min" : 91500,
+				"total" : 9,
+				"median" : 94608
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97225,
+				"avg" : 95403.53846153847,
+				"min" : 94033,
+				"total" : 13,
+				"median" : 95633
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 96658,
+				"avg" : 95513.92857142857,
+				"min" : 94650,
+				"total" : 14,
+				"median" : 95437
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 97216,
+				"avg" : 96246.2,
+				"min" : 95516,
+				"total" : 10,
+				"median" : 96058
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 96583,
+				"avg" : 96297,
+				"min" : 95800,
+				"total" : 3,
+				"median" : 96508
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 97766,
+				"avg" : 97088.25,
+				"min" : 96283,
+				"total" : 8,
+				"median" : 97079
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 97983,
+				"avg" : 97062.1,
+				"min" : 96283,
+				"total" : 10,
+				"median" : 96916.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98000,
+				"avg" : 97683,
+				"min" : 97325,
+				"total" : 4,
+				"median" : 97703.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98866,
+				"avg" : 98091.27272727272,
+				"min" : 96941,
+				"total" : 11,
+				"median" : 98050
+			}
+		],
+		"max" : 98866
+	},
+	{
+		"id" : 54,
+		"lv" : 49,
+		"genre" : "激走！！ヤング☆ダンプ！",
+		"song" : "激走！！ヤング☆ダンプ！",
+		"pf_rate" : "3.79",
+		"fc_rate" : "8.43",
+		"clear_rate" : "79.74",
+		"total" : 237,
+		"num_of_perfect" : 9,
+		"num_of_fullCombo" : 11,
+		"num_of_clear" : 189,
+		"num_of_fullCombo_good_1_5" : 8,
+		"num_of_fullCombo_good_6_20" : 0,
+		"num_of_fullCombo_good_21_" : 3,
+		"num_of_bad_0" : 20,
+		"num_of_clear_bad_1_5" : 67,
+		"num_of_clear_bad_6_20" : 73,
+		"num_of_clear_bad_21_" : 29,
+		"num_of_easy" : 9,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 4,
+		"num_of_failed_gauge_11_0" : 33,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "écl",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 96965,
+				"avg" : 96263.66666666667,
+				"min" : 95410,
+				"total" : 9,
+				"median" : 96179
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 97447,
+				"avg" : 95828.69230769231,
+				"min" : 94313,
+				"total" : 13,
+				"median" : 96091
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 97411,
+				"avg" : 96766.71428571429,
+				"min" : 95850,
+				"total" : 7,
+				"median" : 96807
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 98116,
+				"avg" : 96965.54545454546,
+				"min" : 95446,
+				"total" : 11,
+				"median" : 97253
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 98450,
+				"avg" : 97341.11111111111,
+				"min" : 96161,
+				"total" : 9,
+				"median" : 97353
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 98251,
+				"avg" : 97282,
+				"min" : 96068,
+				"total" : 13,
+				"median" : 97329
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 99119,
+				"avg" : 97845.07142857143,
+				"min" : 96696,
+				"total" : 14,
+				"median" : 97837
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98879,
+				"avg" : 97935,
+				"min" : 96467,
+				"total" : 10,
+				"median" : 97966
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98350,
+				"avg" : 98174,
+				"min" : 97863,
+				"total" : 3,
+				"median" : 98309
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98949,
+				"avg" : 98563.125,
+				"min" : 98180,
+				"total" : 8,
+				"median" : 98468
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 99454,
+				"avg" : 98741.9,
+				"min" : 98104,
+				"total" : 10,
+				"median" : 98747
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 99231,
+				"avg" : 98780.25,
+				"min" : 98579,
+				"total" : 4,
+				"median" : 98655.5
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99788,
+				"avg" : 99209.27272727272,
+				"min" : 98485,
+				"total" : 11,
+				"median" : 99307
+			}
+		],
+		"max" : 99788
+	},
+	{
+		"id" : 55,
+		"lv" : 49,
+		"genre" : "西馬込交通曲",
+		"song" : "西馬込交通曲",
+		"pf_rate" : "0.91",
+		"fc_rate" : "4.56",
+		"clear_rate" : "66.66",
+		"total" : 219,
+		"num_of_perfect" : 2,
+		"num_of_fullCombo" : 8,
+		"num_of_clear" : 146,
+		"num_of_fullCombo_good_1_5" : 5,
+		"num_of_fullCombo_good_6_20" : 3,
+		"num_of_fullCombo_good_21_" : 0,
+		"num_of_bad_0" : 10,
+		"num_of_clear_bad_1_5" : 30,
+		"num_of_clear_bad_6_20" : 88,
+		"num_of_clear_bad_21_" : 18,
+		"num_of_easy" : 10,
+		"num_of_failed_gauge_16_15" : 4,
+		"num_of_failed_gauge_14_12" : 3,
+		"num_of_failed_gauge_11_0" : 56,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 92192,
+				"avg" : 90060.375,
+				"min" : 85906,
+				"total" : 8,
+				"median" : 90609
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 94200,
+				"avg" : 91023.69230769231,
+				"min" : 86058,
+				"total" : 13,
+				"median" : 91332
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 93746,
+				"avg" : 92222.28571428571,
+				"min" : 90644,
+				"total" : 7,
+				"median" : 92040
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 94946,
+				"avg" : 92832.45454545454,
+				"min" : 91061,
+				"total" : 11,
+				"median" : 92571
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 93670,
+				"avg" : 92579,
+				"min" : 90669,
+				"total" : 9,
+				"median" : 93006
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 94251,
+				"avg" : 92552.08333333333,
+				"min" : 89835,
+				"total" : 12,
+				"median" : 92949.5
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 95085,
+				"avg" : 94036.64285714286,
+				"min" : 93272,
+				"total" : 14,
+				"median" : 93875
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 95994,
+				"avg" : 94813.1,
+				"min" : 93550,
+				"total" : 10,
+				"median" : 95009
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 95205,
+				"avg" : 94497.33333333333,
+				"min" : 93436,
+				"total" : 3,
+				"median" : 94851
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 96632,
+				"avg" : 95574.375,
+				"min" : 94883,
+				"total" : 8,
+				"median" : 95628
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 96809,
+				"avg" : 95675.77777777778,
+				"min" : 94036,
+				"total" : 9,
+				"median" : 95495
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 97277,
+				"avg" : 96669,
+				"min" : 95401,
+				"total" : 4,
+				"median" : 96999
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 98660,
+				"avg" : 97506,
+				"min" : 95375,
+				"total" : 11,
+				"median" : 97612
+			}
+		],
+		"max" : 98660
+	},
+	{
+		"id" : 56,
+		"lv" : 49,
+		"genre" : "限界食堂",
+		"song" : "限界食堂",
+		"pf_rate" : "8.96",
+		"fc_rate" : "21.97",
+		"clear_rate" : "85.20",
+		"total" : 223,
+		"num_of_perfect" : 20,
+		"num_of_fullCombo" : 29,
+		"num_of_clear" : 190,
+		"num_of_fullCombo_good_1_5" : 16,
+		"num_of_fullCombo_good_6_20" : 11,
+		"num_of_fullCombo_good_21_" : 2,
+		"num_of_bad_0" : 49,
+		"num_of_clear_bad_1_5" : 45,
+		"num_of_clear_bad_6_20" : 71,
+		"num_of_clear_bad_21_" : 25,
+		"num_of_easy" : 6,
+		"num_of_failed_gauge_16_15" : 2,
+		"num_of_failed_gauge_14_12" : 0,
+		"num_of_failed_gauge_11_0" : 25,
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"version" : "pe",
+		"avg_scores_group_by_popn_class" : [
+			{
+				"popn_class" : "099.00_<=_x_<_099.10",
+				"max" : 95769,
+				"avg" : 94448.375,
+				"min" : 93727,
+				"total" : 8,
+				"median" : 94363.5
+			},
+			{
+				"popn_class" : "099.10_<=_x_<_099.20",
+				"max" : 95828,
+				"avg" : 94707.30769230769,
+				"min" : 93041,
+				"total" : 13,
+				"median" : 95065
+			},
+			{
+				"popn_class" : "099.20_<=_x_<_099.30",
+				"max" : 96047,
+				"avg" : 95566.66666666667,
+				"min" : 95159,
+				"total" : 6,
+				"median" : 95544
+			},
+			{
+				"popn_class" : "099.30_<=_x_<_099.40",
+				"max" : 96751,
+				"avg" : 95571.81818181818,
+				"min" : 93615,
+				"total" : 11,
+				"median" : 95816
+			},
+			{
+				"popn_class" : "099.40_<=_x_<_099.50",
+				"max" : 96952,
+				"avg" : 96074.75,
+				"min" : 94798,
+				"total" : 8,
+				"median" : 96115
+			},
+			{
+				"popn_class" : "099.50_<=_x_<_099.60",
+				"max" : 97408,
+				"avg" : 96482.75,
+				"min" : 95408,
+				"total" : 12,
+				"median" : 96413.5
+			},
+			{
+				"popn_class" : "099.60_<=_x_<_099.70",
+				"max" : 97538,
+				"avg" : 96758.57142857143,
+				"min" : 95171,
+				"total" : 14,
+				"median" : 96911
+			},
+			{
+				"popn_class" : "099.70_<=_x_<_099.80",
+				"max" : 98414,
+				"avg" : 97190.6,
+				"min" : 96005,
+				"total" : 10,
+				"median" : 97280.5
+			},
+			{
+				"popn_class" : "099.80_<=_x_<_099.90",
+				"max" : 98029,
+				"avg" : 97082.33333333333,
+				"min" : 96284,
+				"total" : 3,
+				"median" : 96934
+			},
+			{
+				"popn_class" : "099.90_<=_x_<_100.00",
+				"max" : 98278,
+				"avg" : 97755.5,
+				"min" : 96917,
+				"total" : 8,
+				"median" : 97810
+			},
+			{
+				"popn_class" : "100.00_<=_x_<_100.10",
+				"max" : 98846,
+				"avg" : 98207.2,
+				"min" : 97674,
+				"total" : 10,
+				"median" : 98194.5
+			},
+			{
+				"popn_class" : "100.10_<=_x_<_100.20",
+				"max" : 98899,
+				"avg" : 98458.25,
+				"min" : 97988,
+				"total" : 4,
+				"median" : 98473
+			},
+			{
+				"popn_class" : "100.20_<=_x",
+				"max" : 99520,
+				"avg" : 98987,
+				"min" : 98088,
+				"total" : 11,
+				"median" : 99071
+			}
+		],
+		"max" : 99520
+	}
+]

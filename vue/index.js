@@ -225,7 +225,7 @@ const app = new Vue({
         'v-accordion-grid': v_accordion_grid,
     },
     data: {
-        gridItems: data,
+        gridItems: null,
         gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'max'],
     },
 });
