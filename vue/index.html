@@ -8,25 +8,24 @@
     <link rel="icon" href="./src/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="./src/apple-touch-icon.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css">
-    <link rel="stylesheet" href="./style.min.css">
+    <link rel="stylesheet" href="./style.css">
 
     <script type="text/x-template" id="v-accordion-grid-tbody-template">
         <tbody>
             <tr class="pointer"
                 @click='toggle()'>
-                <td class='left'>{{ item.lv }}</td>
                 <td class='left'>{{ item.version }}</td>
                 <td class='left'>
                     {{ item.genre }}
                     <span class='UPPER' v-if='item.isUPPER'>(UPPER)</span>
                     <span :class='item.difficulty'>({{ item.difficulty }})</span>
                 </td>
-                <td class='right rate'>{{ item.pf_rate }}%</td>
-                <td class='right rate'>{{ item.fc_rate }}%</td>
-                <td class='right rate'>{{ item.clear_rate }}%</td>
+                <td class='right rate percent'>{{ item.pf_rate }}</td>
+                <td class='right rate percent'>{{ item.fc_rate }}</td>
+                <td class='right rate percent'>{{ item.clear_rate }}</td>
                 <td class='right rate'>{{ item.max }}</td>
-                <td :class="{'-active': isOpened}">
-                    <span class="icon">
+                <td>
+                    <span :class="['icon', {'active': isOpened}]">
                         <span class="icon-line"></span>
                         <span class="icon-line"></span>
                     </span>
@@ -54,65 +53,57 @@
         <table class="accordion-grid">
             <thead>
                 <tr>
-                    <th class="pointer lv"
-                        @click="sortBy('lv')"
-                        :class="{ active: sortKey==='lv' }">
-                        Lv
-                        <span class="arrow"
-                              :class="sortOrders['lv'] > 0 ? 'asc' : 'desc'">
-                        </span>
-                    </th>
-                    <th class="pointer version"
-                        @click="sortBy('version')"
-                        :class="{ active: sortKey==='version' }">
+                    <th @click="sortBy('version')"
+                        :class="['indicator',
+                                 sortOrders['version'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='version'}]">
                         Ver
-                        <span class="arrow"
-                              :class="sortOrders['version'] > 0 ? 'asc' : 'desc'">
-                        </span>
                     </th>
-                    <th class="pointer"
-                        @click="sortBy('genre')"
-                        :class="{ active: sortKey==='genre' }">
+                    <th @click="sortBy('genre')"
+                        :class="['indicator',
+                                 sortOrders['genre'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='genre'}]">
                         Title
-                        <span class="arrow"
-                              :class="sortOrders['genre'] > 0 ? 'asc' : 'desc'">
-                        </span>
                     </th>
-                    <th class="pointer center rate"
+                    <th class="pointer "
                         title="no good & bad"
                         @click="sortBy('pf_rate')"
-                        :class="{ active: sortKey==='pf_rate' }">
+                        :class="['indicator',
+                                 'center',
+                                 'rate',
+                                 sortOrders['pf_rate'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='pf_rate'}]">
                         Perfect
-                        <span class="arrow"
-                              :class="sortOrders['pf_rate'] > 0 ? 'asc' : 'desc'">
-                        </span>
                     </th>
-                    <th class="pointer center rate"
+                    <th class="pointer "
                         title="no bad"
                         @click="sortBy('fc_rate')"
-                        :class="{ active: sortKey==='fc_rate' }">
+                        :class="['indicator',
+                                 'center',
+                                 'rate',
+                                 sortOrders['fc_rate'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='fc_rate'}]">
                         Full<br/>Combo
-                        <span class="arrow"
-                              :class="sortOrders['fc_rate'] > 0 ? 'asc' : 'desc'">
-                        </span>
                     </th>
-                    <th class="pointer center rate"
+                    <th class="pointer "
                         @click="sortBy('clear_rate')"
-                        :class="{ active: sortKey==='clear_rate' }">
+                        :class="['indicator',
+                                 'center',
+                                 'rate',
+                                 sortOrders['clear_rate'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='clear_rate'}]">
                         Clear
-                        <span class="arrow"
-                              :class="sortOrders['clear_rate'] > 0 ? 'asc' : 'desc'">
-                        </span>
                     </th>
-                    <th class="pointer center rate"
+                    <th class="pointer "
                         @click="sortBy('max')"
-                        :class="{ active: sortKey==='max' }">
+                        :class="['indicator',
+                                 'center',
+                                 'rate',
+                                 sortOrders['max'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='max'}]">
                         Top<br/>Score
-                        <span class="arrow"
-                              :class="sortOrders['max'] > 0 ? 'asc' : 'desc'">
-                        </span>
                     </th>
-                    <th class="icon"></th>
+                    <th></th>
                 </tr>
             </thead>
             <tbody is="v-accordion-grid-tbody"
@@ -121,7 +112,7 @@
                    :item="item">
             </tbody>
             <tfoot>
-                <td colspan='8' class="right">
+                <td colspan='7' class="right">
                     最終更新日:2021/01/08 00:05:47
                 </td>
             </tfoot>
@@ -151,6 +142,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
-    <script src=".\index.min.js"></script>
+    <script src=".\index.js"></script>
 </body>
 </html>
