@@ -14,7 +14,7 @@
         <tbody>
             <tr class="pointer"
                 @click='toggle()'>
-                <td class='left'>{{ item.version }}</td>
+                <td class='center'>{{ item.version }}</td>
                 <td class='left'>
                     {{ item.genre }}
                     <span class='UPPER' v-if='item.isUPPER'>(UPPER)</span>
@@ -65,8 +65,7 @@
                                  {active: sortKey==='genre'}]">
                         Title
                     </th>
-                    <th class="pointer "
-                        title="no good & bad"
+                    <th title="no good & no bad"
                         @click="sortBy('pf_rate')"
                         :class="['indicator',
                                  'center',
@@ -75,8 +74,7 @@
                                  {active: sortKey==='pf_rate'}]">
                         Perfect
                     </th>
-                    <th class="pointer "
-                        title="no bad"
+                    <th title="no bad"
                         @click="sortBy('fc_rate')"
                         :class="['indicator',
                                  'center',
@@ -85,8 +83,7 @@
                                  {active: sortKey==='fc_rate'}]">
                         Full<br/>Combo
                     </th>
-                    <th class="pointer "
-                        @click="sortBy('clear_rate')"
+                    <th @click="sortBy('clear_rate')"
                         :class="['indicator',
                                  'center',
                                  'rate',
@@ -94,8 +91,7 @@
                                  {active: sortKey==='clear_rate'}]">
                         Clear
                     </th>
-                    <th class="pointer "
-                        @click="sortBy('max')"
+                    <th @click="sortBy('max')"
                         :class="['indicator',
                                  'center',
                                  'rate',
@@ -123,16 +119,52 @@
     <div id="app" class="app-center">
         <table>
             <tr>
-                <td>Lv</td>
-                <td><button type="button" v-on:click ="getData(42)">42</button></td>
-                <td><button type="button" v-on:click ="getData(43)">43</button></td>
-                <td><button type="button" v-on:click ="getData(44)">44</button></td>
-                <td><button type="button" v-on:click ="getData(45)">45</button></td>
-                <td><button type="button" v-on:click ="getData(46)">46</button></td>
-                <td><button type="button" v-on:click ="getData(47)">47</button></td>
-                <td><button type="button" v-on:click ="getData(48)">48</button></td>
-                <td><button type="button" v-on:click ="getData(49)">49</button></td>
-                <td><button type="button" v-on:click ="getData(50)">50</button></td>
+                <th>Lv</th>
+                <td @click ="getData(42)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===42}]">
+                    42
+                </td>
+                <td @click ="getData(43)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===43}]">
+                    43
+                </td>
+                <td @click ="getData(44)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===44}]">
+                    44
+                </td>
+                <td @click ="getData(45)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===45}]">
+                    45
+                </td>
+                <td @click ="getData(46)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===46}]">
+                    46
+                </td>
+                <td @click ="getData(47)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===47}]">
+                    47
+                </td>
+                <td @click ="getData(48)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===48}]">
+                    48
+                </td>
+                <td @click ="getData(49)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===49}]">
+                    49
+                </td>
+                <td @click ="getData(50)"
+                    :class="['dataSrc-selector',
+                             {active: dataSrcKey===50}]">
+                    50
+                </td>
             </tr>
         </table>
         <v-accordion-grid :items="gridItems"

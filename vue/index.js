@@ -224,11 +224,13 @@ const app = new Vue({
         'v-accordion-grid': v_accordion_grid,
     },
     data: {
+        dataSrcKey: null, 
         gridItems: null,
         gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'max'],
     },
     methods: {
         getData: function(lv) {
+            this.dataSrcKey = lv;
             fetch(`https://aiwoiwa.github.io/popavg/vue/src/data${lv}.json`)
             .then(response => response.json())
             .then(data => this.gridItems = data);
