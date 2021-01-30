@@ -3,7 +3,8 @@ const v_accordion_grid_tbody = {
     data: function() {
         return {
             isOpened: false,
-            pie: null,
+            pie_medal: null,
+            pie_score: null,
             line: null,
         }
     },
@@ -17,18 +18,22 @@ const v_accordion_grid_tbody = {
                 this.showDatail();
             }else{
                 setTimeout(
-                    () => [this.pie, this.line].forEach(i => i.destroy())
+                    () => [
+                        this.pie_medal,
+                        this.pie_score,
+                        this.line
+                    ].forEach(i => i.destroy())
                     , 300
                 );
             }
         },
         showDatail: function(){
             Vue.nextTick(() => {
-                const canvas_for_pie = document.getElementById(`canvas-pie-${this.item.id}`);
-                this.pie = new Chart(canvas_for_pie, {
+                const canvas_for_pie_medal = document.getElementById(`canvas-pie-medal-${this.item.id}`);
+                this.pie_medal = new Chart(canvas_for_pie_medal, {
                     type: 'pie',
                     data: {
-                        labels: ["★", "★", "◆", "●", "★", "◆", "●", "Easy", "★", "◆", "●"],
+                        labels: ["★", "★", "◆", "●", "★", "◆", "●", "EASY", "★", "◆", "●"],
                         datasets: [{
                             backgroundColor: [
                                 "#ffd700",
@@ -52,9 +57,79 @@ const v_accordion_grid_tbody = {
                                 this.item.num_of_clear_6_bad_20,
                                 this.item.num_of_clear_21_bad,
                                 this.item.num_of_easy,
-                                this.item.num_of_failed_15_gauge,
-                                this.item.num_of_failed_12_gauge,
+                                this.item.num_of_failed_15_gauge_16,
+                                this.item.num_of_failed_12_gauge_14,
                                 this.item.num_of_failed_0_gauge
+                            ],
+                        }],
+                    },
+                    options: {
+                        title: {
+                            display: false,
+                        },
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                fontFamily: "'メイリオ',Meiryo,monospace,sans-serif",
+                                fontColor: '#cfd2da',
+                                fontSize: 12,
+                            },
+                        },
+                    },
+                });
+
+                const canvas_for_pie_score = document.getElementById(`canvas-pie-score-${this.item.id}`);
+                this.pie_medal = new Chart(canvas_for_pie_score, {
+                    type: 'pie',
+                    data: {
+                        labels: [
+                            "100k",
+                            "99k",
+                            "98k",
+                            "97k",
+                            "96k",
+                            "95k",
+                            "94k",
+                            "93k",
+                            "92k",
+                            "91k",
+                            "90k",
+                            "86k-89k",
+                            "82k-85k",
+                            "0k-81k",
+                        ],
+                        datasets: [{
+                            backgroundColor: [
+                                "#c7000b",
+                                "#d28300",
+                                "#d28300",
+                                "#dfd000",
+                                "#dfd000",
+                                "#dfd000",
+                                "#7baa17",
+                                "#7baa17",
+                                "#7baa17",
+                                "#7baa17",
+                                "#7baa17",
+                                "#00873c",
+                                "#00873c",
+                                "#008a83"
+                            ],
+                            data: [
+                                this.item.num_of_100k,
+                                this.item.num_of_99k,
+                                this.item.num_of_98k,
+                                this.item.num_of_97k,
+                                this.item.num_of_96k,
+                                this.item.num_of_95k,
+                                this.item.num_of_94k,
+                                this.item.num_of_93k,
+                                this.item.num_of_92k,
+                                this.item.num_of_91k,
+                                this.item.num_of_90k,
+                                this.item.num_of_86k_89k,
+                                this.item.num_of_82k_85k,
+                                this.item.num_of_0k_81k
                             ],
                         }],
                     },
@@ -196,7 +271,7 @@ const v_accordion_grid = {
             if (sortKey) {
                 items = items.slice().sort(
                     function(a, b) {
-                        if(~['lv', 'pf_rate', 'fc_rate', 'clear_rate', 'max'].indexOf(sortKey)){
+                        if(~['lv', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score'].indexOf(sortKey)){
                             a = Number(a[sortKey]);
                             b = Number(b[sortKey]);
                         }else{
@@ -226,7 +301,7 @@ const app = new Vue({
     data: {
         dataSrcKey: null, 
         gridItems: null,
-        gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'max'],
+        gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score', 'top_medal'],
     },
     methods: {
         getData: function(lv) {

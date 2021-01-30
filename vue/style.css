@@ -54,6 +54,30 @@ canvas {
 .NORMAL {
     color: #21efef;
 }
+.a {
+    color: #ffd700;
+}
+.b, .c, .d {
+    color: #c0c0c0;
+}
+.e, .f, .g {
+    color: #cf622d;
+}
+.k {
+    color: #08d078;
+}
+.l, .m, .n {
+    color: #494967;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.center {
+    text-align: center;
+}
 .left {
     text-align: left;
 }

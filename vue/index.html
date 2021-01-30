@@ -8,7 +8,7 @@
     <link rel="icon" href="./src/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="./src/apple-touch-icon.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style.min.css">
 
     <script type="text/x-template" id="v-accordion-grid-tbody-template">
         <tbody>
@@ -23,8 +23,16 @@
                 <td class='right rate percent'>{{ item.pf_rate }}</td>
                 <td class='right rate percent'>{{ item.fc_rate }}</td>
                 <td class='right rate percent'>{{ item.clear_rate }}</td>
-                <td class='right rate'>{{ item.max }}</td>
-                <td class='center'>{{ item.max }}</td>
+                <td class='right rate'>{{ item.top_score }}</td>
+                <td :class="['center', item.top_medal]">
+                    {{
+                        ~['a', 'b', 'e', 'l'].indexOf(item.top_medal) ? '★'
+                        : ~['c', 'f', 'm'].indexOf(item.top_medal) ? '◆'
+                        : ~['d', 'g', 'n'].indexOf(item.top_medal) ? '●'
+                        : ~['k'].indexOf(item.top_medal) ? 'EASY'
+                        : ''
+                    }}
+                </td>
                 <td>
                     <span :class="['icon', {'active': isOpened}]">
                         <span class="icon-line"></span>
@@ -42,7 +50,8 @@
                                 @leave="leave">
                         <div v-if='isOpened'
                              class='js-accordion-target'>
-                            <canvas :id="`canvas-pie-${item.id}`"></canvas>
+                            <canvas :id="`canvas-pie-medal-${item.id}`"></canvas>
+                            <canvas :id="`canvas-pie-score-${item.id}`"></canvas>
                             <canvas :id="`canvas-line-${item.id}`"></canvas>
                         </div>
                     </transition>        
@@ -92,19 +101,19 @@
                                  {active: sortKey==='clear_rate'}]">
                         Clear
                     </th>
-                    <th @click="sortBy('max')"
+                    <th @click="sortBy('top_score')"
                         :class="['indicator',
                                  'center',
                                  'rate',
-                                 sortOrders['max'] > 0 ? 'asc' : 'desc',
-                                 {active: sortKey==='max'}]">
+                                 sortOrders['top_score'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='top_score'}]">
                         Top<br/>Score
                     </th>
-                    <th @click="sortBy('max')"
+                    <th @click="sortBy('top_medal')"
                         :class="['indicator',
                                  'center',
-                                 sortOrders['max'] > 0 ? 'asc' : 'desc',
-                                 {active: sortKey==='max'}]">
+                                 sortOrders['top_medal'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='top_medal'}]">
                         Top<br/>Medal
                     </th>
                     <th></th>
@@ -182,6 +191,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
-    <script src=".\index.js"></script>
+    <script src="./index.min.js"></script>
 </body>
 </html>
