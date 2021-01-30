@@ -2,7 +2,7 @@
 	{
 		"id" : 0,
 		"lv" : 49,
-		"genre" : "24/7 Popperz(EX)",
+		"genre" : null,
 		"song" : "24/7 Popperz",
 		"pf_rate" : "1.70",
 		"fc_rate" : "0.00",
@@ -43,93 +43,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94031,
+				"avg_score" : 90792.55555555556,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 91096
+				"median_score" : 91096
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 93946,
+				"avg_score" : 91967.15384615384,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 92015
+				"median_score" : 92015
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 94811,
+				"avg_score" : 93373.57142857143,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 92990
+				"median_score" : 92990
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94378,
+				"avg_score" : 93275.36363636363,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 93313
+				"median_score" : 93313
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 94591,
+				"avg_score" : 93589.22222222222,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93721
+				"median_score" : 93721
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 95937,
+				"avg_score" : 94256.84615384616,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94226
+				"median_score" : 94226
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96065,
+				"avg_score" : 94896.28571428571,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 95027
+				"median_score" : 95027
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96778,
+				"avg_score" : 95410,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95654.5
+				"median_score" : 95654.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 95676,
+				"avg_score" : 95487,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 95639
+				"median_score" : 95639
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96936,
+				"avg_score" : 95882.25,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 95867
+				"median_score" : 95867
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97722,
+				"avg_score" : 96825.9,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96903
+				"median_score" : 96903
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97576,
+				"avg_score" : 97033.75,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 96921
+				"median_score" : 96921
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99135,
+				"avg_score" : 97926,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97880
+				"median_score" : 97880
 			}
 		],
 		"top_score" : 99135,
@@ -138,7 +151,7 @@
 	{
 		"id" : 1,
 		"lv" : 49,
-		"genre" : "BabeL ～MODEL DD101～(EX)",
+		"genre" : null,
 		"song" : "BabeL ～MODEL DD101～",
 		"pf_rate" : "0.90",
 		"fc_rate" : "0.00",
@@ -179,93 +192,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 91478,
+				"avg_score" : 90271.33333333333,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 90592
+				"median_score" : 90592
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 93753,
+				"avg_score" : 87936.84615384616,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 91413
+				"median_score" : 91413
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 93413,
+				"avg_score" : 92121,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 91953
+				"median_score" : 91953
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94322,
+				"avg_score" : 92365.72727272728,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 92392
+				"median_score" : 92392
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 93771,
+				"avg_score" : 92993.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93331
+				"median_score" : 93331
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 94551,
+				"avg_score" : 93147.76923076923,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 93483
+				"median_score" : 93483
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 95178,
+				"avg_score" : 94223.57142857143,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 94322
+				"median_score" : 94322
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96492,
+				"avg_score" : 94997.3,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95058.5
+				"median_score" : 95058.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 95800,
+				"avg_score" : 95110,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 95472
+				"median_score" : 95472
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96469,
+				"avg_score" : 95423.375,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 95495
+				"median_score" : 95495
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 96973,
+				"avg_score" : 96385.4,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96653.5
+				"median_score" : 96653.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97249,
+				"avg_score" : 96773.5,
 				"top_medal" : "c",
 				"total" : 4,
-				"median" : 96958
+				"median_score" : 96958
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98938,
+				"avg_score" : 97800.63636363637,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97759
+				"median_score" : 97759
 			}
 		],
 		"top_score" : 98938,
@@ -274,7 +300,7 @@
 	{
 		"id" : 2,
 		"lv" : 49,
-		"genre" : "Black Emperor(EX)",
+		"genre" : null,
 		"song" : "Black Emperor",
 		"pf_rate" : "2.18",
 		"fc_rate" : "0.00",
@@ -315,93 +341,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94613,
+				"avg_score" : 93123.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93251
+				"median_score" : 93251
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94831,
+				"avg_score" : 93283.25,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 93225
+				"median_score" : 93225
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 94600,
+				"avg_score" : 93930,
 				"top_medal" : "e",
 				"total" : 6,
-				"median" : 93892.5
+				"median_score" : 93892.5
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95763,
+				"avg_score" : 94642.90909090909,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94527
+				"median_score" : 94527
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95803,
+				"avg_score" : 93938,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 94249.5
+				"median_score" : 94249.5
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96503,
+				"avg_score" : 95357.58333333333,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 95485.5
+				"median_score" : 95485.5
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96972,
+				"avg_score" : 96099.85714285714,
 				"top_medal" : "c",
 				"total" : 14,
-				"median" : 96271.5
+				"median_score" : 96271.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96886,
+				"avg_score" : 95881.2,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96235.5
+				"median_score" : 96235.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97191,
+				"avg_score" : 96657.66666666667,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 97105
+				"median_score" : 97105
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98235,
+				"avg_score" : 97382.25,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97475
+				"median_score" : 97475
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98162,
+				"avg_score" : 97299.88888888889,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 97666
+				"median_score" : 97666
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98241,
+				"avg_score" : 98199.33333333333,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 98195
+				"median_score" : 98195
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99345,
+				"avg_score" : 98687.72727272728,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98578
+				"median_score" : 98578
 			}
 		],
 		"top_score" : 99345,
@@ -410,7 +449,7 @@
 	{
 		"id" : 3,
 		"lv" : 49,
-		"genre" : "C18H27NO3(EX)",
+		"genre" : null,
 		"song" : "C18H27NO3",
 		"pf_rate" : "7.08",
 		"fc_rate" : "0.00",
@@ -451,93 +490,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 97315,
+				"avg_score" : 96600.55555555556,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 96939
+				"median_score" : 96939
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 97543,
+				"avg_score" : 96555.53846153847,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96510
+				"median_score" : 96510
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97409,
+				"avg_score" : 96619.85714285714,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 96758
+				"median_score" : 96758
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 98140,
+				"avg_score" : 97197.3,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97415.5
+				"median_score" : 97415.5
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 98281,
+				"avg_score" : 97705.66666666667,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 97617
+				"median_score" : 97617
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 98248,
+				"avg_score" : 97731.07692307692,
 				"top_medal" : "a",
 				"total" : 13,
-				"median" : 97879
+				"median_score" : 97879
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98617,
+				"avg_score" : 98106.42857142857,
 				"top_medal" : "a",
 				"total" : 14,
-				"median" : 98127
+				"median_score" : 98127
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98966,
+				"avg_score" : 98302.2,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 98402.5
+				"median_score" : 98402.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98583,
+				"avg_score" : 98343.66666666667,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 98281
+				"median_score" : 98281
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 99167,
+				"avg_score" : 98669.875,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 98707.5
+				"median_score" : 98707.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99530,
+				"avg_score" : 98987.5,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 99039.5
+				"median_score" : 99039.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 99187,
+				"avg_score" : 98942.25,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 99049.5
+				"median_score" : 99049.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99758,
+				"avg_score" : 99345.45454545454,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99436
+				"median_score" : 99436
 			}
 		],
 		"top_score" : 99758,
@@ -546,7 +598,7 @@
 	{
 		"id" : 4,
 		"lv" : 49,
-		"genre" : "CHERNOBOG(EX)",
+		"genre" : null,
 		"song" : "CHERNOBOG",
 		"pf_rate" : "0.42",
 		"fc_rate" : "0.00",
@@ -587,93 +639,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95237,
+				"avg_score" : 94372.11111111111,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94137
+				"median_score" : 94137
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96048,
+				"avg_score" : 94733.23076923077,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 94611
+				"median_score" : 94611
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96130,
+				"avg_score" : 95171.85714285714,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 95195
+				"median_score" : 95195
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96288,
+				"avg_score" : 95387.27272727272,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95532
+				"median_score" : 95532
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96570,
+				"avg_score" : 95777.88888888889,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95580
+				"median_score" : 95580
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97463,
+				"avg_score" : 96228.92307692308,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96384
+				"median_score" : 96384
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97642,
+				"avg_score" : 96689.28571428571,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 96725
+				"median_score" : 96725
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97491,
+				"avg_score" : 96867,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96824.5
+				"median_score" : 96824.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97195,
+				"avg_score" : 96100.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 96350
+				"median_score" : 96350
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97697,
+				"avg_score" : 97221.25,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 97497.5
+				"median_score" : 97497.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98295,
+				"avg_score" : 97600.4,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97604.5
+				"median_score" : 97604.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98164,
+				"avg_score" : 97796.75,
 				"top_medal" : "d",
 				"total" : 4,
-				"median" : 97735
+				"median_score" : 97735
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99298,
+				"avg_score" : 98541.18181818182,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98481
+				"median_score" : 98481
 			}
 		],
 		"top_score" : 99298,
@@ -682,7 +747,7 @@
 	{
 		"id" : 5,
 		"lv" : 49,
-		"genre" : "DIAVOLO(EX)",
+		"genre" : null,
 		"song" : "DIAVOLO",
 		"pf_rate" : "0.41",
 		"fc_rate" : "0.00",
@@ -723,93 +788,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 91912,
+				"avg_score" : 90837.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 90710
+				"median_score" : 90710
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 92814,
+				"avg_score" : 91225.30769230769,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 91536
+				"median_score" : 91536
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 93066,
+				"avg_score" : 92090.57142857143,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 92254
+				"median_score" : 92254
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 93995,
+				"avg_score" : 92696.27272727272,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 92595
+				"median_score" : 92595
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 94460,
+				"avg_score" : 92473.77777777778,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 92069
+				"median_score" : 92069
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 95334,
+				"avg_score" : 93206.07692307692,
 				"top_medal" : "d",
 				"total" : 13,
-				"median" : 93203
+				"median_score" : 93203
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 94719,
+				"avg_score" : 93474.78571428571,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 93609.5
+				"median_score" : 93609.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 95054,
+				"avg_score" : 93704.3,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 93906.5
+				"median_score" : 93906.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 94719,
+				"avg_score" : 93458,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 94474
+				"median_score" : 94474
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 95211,
+				"avg_score" : 94549.375,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 94569
+				"median_score" : 94569
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 96516,
+				"avg_score" : 95314.4,
 				"top_medal" : "d",
 				"total" : 10,
-				"median" : 95341
+				"median_score" : 95341
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 95976,
+				"avg_score" : 95433.25,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 95378.5
+				"median_score" : 95378.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 97984,
+				"avg_score" : 96539.36363636363,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 96495
+				"median_score" : 96495
 			}
 		],
 		"top_score" : 97984,
@@ -818,7 +896,7 @@
 	{
 		"id" : 6,
 		"lv" : 49,
-		"genre" : "Festum Duodecimum!(EX)",
+		"genre" : null,
 		"song" : "Festum Duodecimum!",
 		"pf_rate" : "1.84",
 		"fc_rate" : "0.00",
@@ -859,93 +937,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 90778,
+				"avg_score" : 86988.5,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 87528.5
+				"median_score" : 87528.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 91341,
+				"avg_score" : 87527.90909090909,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 88134
+				"median_score" : 88134
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 91904,
+				"avg_score" : 88315.6,
 				"top_medal" : "f",
 				"total" : 5,
-				"median" : 87779
+				"median_score" : 87779
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 91858,
+				"avg_score" : 89388.36363636363,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 90161
+				"median_score" : 90161
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95080,
+				"avg_score" : 89938.625,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 89556
+				"median_score" : 89556
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 92976,
+				"avg_score" : 90085.81818181818,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 90300
+				"median_score" : 90300
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 93477,
+				"avg_score" : 91163.21428571429,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 91410.5
+				"median_score" : 91410.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 95026,
+				"avg_score" : 92007.9,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 92100.5
+				"median_score" : 92100.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 94001,
+				"avg_score" : 91662.33333333333,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 90547
+				"median_score" : 90547
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 94564,
+				"avg_score" : 93765.42857142857,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 93924
+				"median_score" : 93924
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 95574,
+				"avg_score" : 93558.11111111111,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 93777
+				"median_score" : 93777
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 96268,
+				"avg_score" : 94945.75,
 				"top_medal" : "c",
 				"total" : 4,
-				"median" : 95335
+				"median_score" : 95335
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98164,
+				"avg_score" : 96195.54545454546,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 96090
+				"median_score" : 96090
 			}
 		],
 		"top_score" : 98164,
@@ -954,7 +1045,7 @@
 	{
 		"id" : 7,
 		"lv" : 49,
-		"genre" : "INF-B《L-aste-R》(EX)",
+		"genre" : null,
 		"song" : "INF-B《L-aste-R》",
 		"pf_rate" : "2.18",
 		"fc_rate" : "0.00",
@@ -995,93 +1086,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 92273,
+				"avg_score" : 91225.75,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 90938
+				"median_score" : 90938
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 92932,
+				"avg_score" : 92146,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 92641
+				"median_score" : 92641
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95000,
+				"avg_score" : 93581.14285714286,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 93696
+				"median_score" : 93696
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94893,
+				"avg_score" : 93393.4,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 93505.5
+				"median_score" : 93505.5
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 94745,
+				"avg_score" : 93642.375,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 94110.5
+				"median_score" : 94110.5
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 95382,
+				"avg_score" : 94149.08333333333,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 94507
+				"median_score" : 94507
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 95899,
+				"avg_score" : 95042.92857142857,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 95180
+				"median_score" : 95180
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96104,
+				"avg_score" : 95581.7,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 95598
+				"median_score" : 95598
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96416,
+				"avg_score" : 95618,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 95304
+				"median_score" : 95304
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97131,
+				"avg_score" : 96380.5,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 96327.5
+				"median_score" : 96327.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97740,
+				"avg_score" : 97142.6,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97213
+				"median_score" : 97213
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98378,
+				"avg_score" : 97246.5,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97273
+				"median_score" : 97273
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99313,
+				"avg_score" : 98034.63636363637,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98109
+				"median_score" : 98109
 			}
 		],
 		"top_score" : 99313,
@@ -1090,7 +1194,7 @@
 	{
 		"id" : 8,
 		"lv" : 49,
-		"genre" : "Innocence(EX)",
+		"genre" : null,
 		"song" : "Innocence",
 		"pf_rate" : "1.67",
 		"fc_rate" : "0.00",
@@ -1131,93 +1235,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95476,
+				"avg_score" : 94414.33333333333,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 94495
+				"median_score" : 94495
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96106,
+				"avg_score" : 93983.53846153847,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 93900
+				"median_score" : 93900
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95714,
+				"avg_score" : 94572.28571428571,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 94411
+				"median_score" : 94411
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96190,
+				"avg_score" : 95343.45454545454,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95406
+				"median_score" : 95406
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96540,
+				"avg_score" : 95315.44444444444,
 				"top_medal" : "d",
 				"total" : 9,
-				"median" : 95791
+				"median_score" : 95791
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97177,
+				"avg_score" : 95770.38461538461,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95707
+				"median_score" : 95707
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97934,
+				"avg_score" : 96447.07142857143,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96400
+				"median_score" : 96400
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97983,
+				"avg_score" : 97220,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 97257.5
+				"median_score" : 97257.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97787,
+				"avg_score" : 96762,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 96883
+				"median_score" : 96883
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98102,
+				"avg_score" : 97635.25,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97734.5
+				"median_score" : 97734.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98690,
+				"avg_score" : 97938.6,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97972.5
+				"median_score" : 97972.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98431,
+				"avg_score" : 98228,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98266.5
+				"median_score" : 98266.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99495,
+				"avg_score" : 98606,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98536
+				"median_score" : 98536
 			}
 		],
 		"top_score" : 99495,
@@ -1226,7 +1343,7 @@
 	{
 		"id" : 9,
 		"lv" : 49,
-		"genre" : "K∀MUY(EX)",
+		"genre" : null,
 		"song" : "K∀MUY",
 		"pf_rate" : "0.85",
 		"fc_rate" : "0.00",
@@ -1267,93 +1384,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95236,
+				"avg_score" : 94006.77777777778,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93977
+				"median_score" : 93977
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95836,
+				"avg_score" : 94757.46153846153,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 94859
+				"median_score" : 94859
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96370,
+				"avg_score" : 95234.71428571429,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 95104
+				"median_score" : 95104
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96382,
+				"avg_score" : 95604.72727272728,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 95512
+				"median_score" : 95512
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96670,
+				"avg_score" : 95656.88888888889,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95500
+				"median_score" : 95500
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96928,
+				"avg_score" : 95919.15384615384,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 95998
+				"median_score" : 95998
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97576,
+				"avg_score" : 96502.42857142857,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 96493
+				"median_score" : 96493
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97702,
+				"avg_score" : 96672.4,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96994
+				"median_score" : 96994
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97636,
+				"avg_score" : 96910,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 97036
+				"median_score" : 97036
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98440,
+				"avg_score" : 97399,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 97453
+				"median_score" : 97453
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98350,
+				"avg_score" : 97705.6,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 97969
+				"median_score" : 97969
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98314,
+				"avg_score" : 98165.5,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 98134
+				"median_score" : 98134
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99352,
+				"avg_score" : 98576.90909090909,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98698
+				"median_score" : 98698
 			}
 		],
 		"top_score" : 99352,
@@ -1362,7 +1492,7 @@
 	{
 		"id" : 10,
 		"lv" : 49,
-		"genre" : "MADSPEED狂信道(UPPER)(EX)",
+		"genre" : null,
 		"song" : "MADSPEED狂信道",
 		"pf_rate" : "1.63",
 		"fc_rate" : "0.00",
@@ -1403,93 +1533,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 91992,
+				"avg_score" : 90778,
 				"top_medal" : "f",
 				"total" : 8,
-				"median" : 91160
+				"median_score" : 91160
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94295,
+				"avg_score" : 92471.08333333333,
 				"top_medal" : "f",
 				"total" : 12,
-				"median" : 92836.5
+				"median_score" : 92836.5
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 92861,
+				"avg_score" : 92373.5,
 				"top_medal" : "f",
 				"total" : 4,
-				"median" : 92572.5
+				"median_score" : 92572.5
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95218,
+				"avg_score" : 93602.66666666667,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93134
+				"median_score" : 93134
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 94513,
+				"avg_score" : 93669,
 				"top_medal" : "f",
 				"total" : 5,
-				"median" : 93633
+				"median_score" : 93633
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96275,
+				"avg_score" : 93962.66666666667,
 				"top_medal" : "c",
 				"total" : 12,
-				"median" : 94352.5
+				"median_score" : 94352.5
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 95893,
+				"avg_score" : 94370.85714285714,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 94380
+				"median_score" : 94380
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96458,
+				"avg_score" : 93692.77777777778,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 94702
+				"median_score" : 94702
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 94933,
+				"avg_score" : 94900.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 94896
+				"median_score" : 94896
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96877,
+				"avg_score" : 96087.16666666667,
 				"top_medal" : "e",
 				"total" : 6,
-				"median" : 96199.5
+				"median_score" : 96199.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97217,
+				"avg_score" : 96782,
 				"top_medal" : "e",
 				"total" : 5,
-				"median" : 96767
+				"median_score" : 96767
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97399,
+				"avg_score" : 96789.66666666667,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 97284
+				"median_score" : 97284
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98815,
+				"avg_score" : 97989.63636363637,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98110
+				"median_score" : 98110
 			}
 		],
 		"top_score" : 98815,
@@ -1498,7 +1641,7 @@
 	{
 		"id" : 11,
 		"lv" : 49,
-		"genre" : "Prey(EX)",
+		"genre" : null,
 		"song" : "Prey",
 		"pf_rate" : "4.66",
 		"fc_rate" : "0.00",
@@ -1539,93 +1682,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 93260,
+				"avg_score" : 92499.66666666667,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 92703
+				"median_score" : 92703
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95456,
+				"avg_score" : 93891.66666666667,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 93857
+				"median_score" : 93857
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96997,
+				"avg_score" : 94129.57142857143,
 				"top_medal" : "c",
 				"total" : 7,
-				"median" : 94245
+				"median_score" : 94245
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96174,
+				"avg_score" : 94572.90909090909,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94673
+				"median_score" : 94673
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95762,
+				"avg_score" : 94895,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 95149
+				"median_score" : 95149
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96472,
+				"avg_score" : 95635.08333333333,
 				"top_medal" : "b",
 				"total" : 12,
-				"median" : 95677.5
+				"median_score" : 95677.5
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96553,
+				"avg_score" : 95739.78571428571,
 				"top_medal" : "c",
 				"total" : 14,
-				"median" : 95798.5
+				"median_score" : 95798.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97336,
+				"avg_score" : 96529,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96497
+				"median_score" : 96497
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97384,
+				"avg_score" : 96432,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 96150
+				"median_score" : 96150
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97610,
+				"avg_score" : 96839.75,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97146.5
+				"median_score" : 97146.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98732,
+				"avg_score" : 97586.2,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97743.5
+				"median_score" : 97743.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98087,
+				"avg_score" : 97893,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 97905
+				"median_score" : 97905
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99249,
+				"avg_score" : 98366.27272727272,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98547
+				"median_score" : 98547
 			}
 		],
 		"top_score" : 99249,
@@ -1634,7 +1790,7 @@
 	{
 		"id" : 12,
 		"lv" : 49,
-		"genre" : "QuoN(EX)",
+		"genre" : null,
 		"song" : "QuoN",
 		"pf_rate" : "6.47",
 		"fc_rate" : "0.00",
@@ -1675,93 +1831,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95454,
+				"avg_score" : 94358.44444444444,
 				"top_medal" : "d",
 				"total" : 9,
-				"median" : 94341
+				"median_score" : 94341
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95718,
+				"avg_score" : 94344.69230769231,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94650
+				"median_score" : 94650
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96284,
+				"avg_score" : 94714.28571428571,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95151
+				"median_score" : 95151
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96930,
+				"avg_score" : 95663,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95540
+				"median_score" : 95540
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96666,
+				"avg_score" : 96103.11111111111,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 96225
+				"median_score" : 96225
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97193,
+				"avg_score" : 96365.69230769231,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96245
+				"median_score" : 96245
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98227,
+				"avg_score" : 96940.92857142857,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96854
+				"median_score" : 96854
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97621,
+				"avg_score" : 97149.6,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97144
+				"median_score" : 97144
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97193,
+				"avg_score" : 96938.33333333333,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 97121
+				"median_score" : 97121
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98530,
+				"avg_score" : 97829.625,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97776
+				"median_score" : 97776
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98715,
+				"avg_score" : 98138.5,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98234
+				"median_score" : 98234
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98517,
+				"avg_score" : 98118.5,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98201
+				"median_score" : 98201
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99479,
+				"avg_score" : 98787.27272727272,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98754
+				"median_score" : 98754
 			}
 		],
 		"top_score" : 99479,
@@ -1770,7 +1939,7 @@
 	{
 		"id" : 13,
 		"lv" : 49,
-		"genre" : "RINИE(EX)",
+		"genre" : null,
 		"song" : "RINИE",
 		"pf_rate" : "2.45",
 		"fc_rate" : "0.00",
@@ -1811,93 +1980,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 96358,
+				"avg_score" : 94970.88888888889,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94644
+				"median_score" : 94644
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96136,
+				"avg_score" : 94745.23076923077,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 94736
+				"median_score" : 94736
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96130,
+				"avg_score" : 95391,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 95270
+				"median_score" : 95270
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96397,
+				"avg_score" : 95832.45454545454,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95752
+				"median_score" : 95752
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96801,
+				"avg_score" : 96115.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 96228
+				"median_score" : 96228
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97478,
+				"avg_score" : 96731.23076923077,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96618
+				"median_score" : 96618
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98130,
+				"avg_score" : 97070.21428571429,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 97136
+				"median_score" : 97136
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97680,
+				"avg_score" : 97224.8,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 97113.5
+				"median_score" : 97113.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97478,
+				"avg_score" : 97065.66666666667,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 97068
+				"median_score" : 97068
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98306,
+				"avg_score" : 97970.875,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97976.5
+				"median_score" : 97976.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98866,
+				"avg_score" : 98179.9,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98143
+				"median_score" : 98143
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98540,
+				"avg_score" : 98374.25,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 98358
+				"median_score" : 98358
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99446,
+				"avg_score" : 98759.81818181818,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98605
+				"median_score" : 98605
 			}
 		],
 		"top_score" : 99446,
@@ -1906,7 +2088,7 @@
 	{
 		"id" : 14,
 		"lv" : 49,
-		"genre" : "SailRen(EX)",
+		"genre" : null,
 		"song" : "SailRen",
 		"pf_rate" : "4.09",
 		"fc_rate" : "0.00",
@@ -1947,93 +2129,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95276,
+				"avg_score" : 94585.11111111111,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94600
+				"median_score" : 94600
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95618,
+				"avg_score" : 94821.53846153847,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 94975
+				"median_score" : 94975
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95651,
+				"avg_score" : 94777.42857142857,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95138
+				"median_score" : 95138
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96506,
+				"avg_score" : 95400.72727272728,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95537
+				"median_score" : 95537
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96197,
+				"avg_score" : 95466.33333333333,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 95732
+				"median_score" : 95732
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97092,
+				"avg_score" : 95974.76923076923,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96286
+				"median_score" : 96286
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97418,
+				"avg_score" : 96870.14285714286,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96909.5
+				"median_score" : 96909.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98037,
+				"avg_score" : 96970.1,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96954
+				"median_score" : 96954
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97728,
+				"avg_score" : 96861.66666666667,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 96685
+				"median_score" : 96685
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97988,
+				"avg_score" : 97572.75,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97780.5
+				"median_score" : 97780.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98184,
+				"avg_score" : 97724.5,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97793
+				"median_score" : 97793
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98477,
+				"avg_score" : 98199.75,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98277
+				"median_score" : 98277
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99364,
+				"avg_score" : 98630.72727272728,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98648
+				"median_score" : 98648
 			}
 		],
 		"top_score" : 99364,
@@ -2042,7 +2237,7 @@
 	{
 		"id" : 15,
 		"lv" : 49,
-		"genre" : "Sky High(EX)",
+		"genre" : null,
 		"song" : "Sky High",
 		"pf_rate" : "8.71",
 		"fc_rate" : "0.00",
@@ -2083,93 +2278,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95540,
+				"avg_score" : 94606.22222222222,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94826
+				"median_score" : 94826
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96103,
+				"avg_score" : 95070.30769230769,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 95088
+				"median_score" : 95088
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97236,
+				"avg_score" : 95518.14285714286,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95592
+				"median_score" : 95592
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96895,
+				"avg_score" : 96005.90909090909,
 				"top_medal" : "b",
 				"total" : 11,
-				"median" : 95900
+				"median_score" : 95900
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97151,
+				"avg_score" : 96287.22222222222,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 96358
+				"median_score" : 96358
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97518,
+				"avg_score" : 96597.61538461539,
 				"top_medal" : "a",
 				"total" : 13,
-				"median" : 96417
+				"median_score" : 96417
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97773,
+				"avg_score" : 97025,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 97229.5
+				"median_score" : 97229.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98205,
+				"avg_score" : 97588.3,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97671.5
+				"median_score" : 97671.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97622,
+				"avg_score" : 97231.66666666667,
 				"top_medal" : "a",
 				"total" : 3,
-				"median" : 97400
+				"median_score" : 97400
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98559,
+				"avg_score" : 98040.625,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 98080.5
+				"median_score" : 98080.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98932,
+				"avg_score" : 98204.7,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98366
+				"median_score" : 98366
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98696,
+				"avg_score" : 98477,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98428
+				"median_score" : 98428
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99679,
+				"avg_score" : 98898.09090909091,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98998
+				"median_score" : 98998
 			}
 		],
 		"top_score" : 99679,
@@ -2178,7 +2386,7 @@
 	{
 		"id" : 16,
 		"lv" : 49,
-		"genre" : "StrayedCatz(EX)",
+		"genre" : null,
 		"song" : "StrayedCatz",
 		"pf_rate" : "0.84",
 		"fc_rate" : "0.00",
@@ -2219,93 +2427,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 93652,
+				"avg_score" : 91880.55555555556,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 92017
+				"median_score" : 92017
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94852,
+				"avg_score" : 92658.30769230769,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 92680
+				"median_score" : 92680
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 94550,
+				"avg_score" : 93249.85714285714,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 93431
+				"median_score" : 93431
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95139,
+				"avg_score" : 93435,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 93357
+				"median_score" : 93357
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95154,
+				"avg_score" : 93772,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94167
+				"median_score" : 94167
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96266,
+				"avg_score" : 94196.76923076923,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94108
+				"median_score" : 94108
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 95574,
+				"avg_score" : 94717.5,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 94830
+				"median_score" : 94830
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96156,
+				"avg_score" : 95532.6,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95736
+				"median_score" : 95736
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96148,
+				"avg_score" : 95215.66666666667,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 95589
+				"median_score" : 95589
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96458,
+				"avg_score" : 95866.75,
 				"top_medal" : "c",
 				"total" : 8,
-				"median" : 95894.5
+				"median_score" : 95894.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97268,
+				"avg_score" : 96484.1,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96509
+				"median_score" : 96509
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97459,
+				"avg_score" : 97153.5,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97216
+				"median_score" : 97216
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98777,
+				"avg_score" : 97676.63636363637,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97606
+				"median_score" : 97606
 			}
 		],
 		"top_score" : 98777,
@@ -2314,7 +2535,7 @@
 	{
 		"id" : 17,
 		"lv" : 49,
-		"genre" : "Timepiece phase II(EX)",
+		"genre" : null,
 		"song" : "Timepiece phase II",
 		"pf_rate" : "10.04",
 		"fc_rate" : "0.00",
@@ -2355,93 +2576,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95694,
+				"avg_score" : 94950.25,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 94925
+				"median_score" : 94925
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96738,
+				"avg_score" : 95648.76923076923,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 95701
+				"median_score" : 95701
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97238,
+				"avg_score" : 95821.42857142857,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95940
+				"median_score" : 95940
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 97164,
+				"avg_score" : 96085.54545454546,
 				"top_medal" : "c",
 				"total" : 11,
-				"median" : 96238
+				"median_score" : 96238
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97477,
+				"avg_score" : 96210.88888888889,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 95895
+				"median_score" : 95895
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97380,
+				"avg_score" : 96722.92307692308,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96686
+				"median_score" : 96686
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98201,
+				"avg_score" : 97199.78571428571,
 				"top_medal" : "a",
 				"total" : 14,
-				"median" : 97167.5
+				"median_score" : 97167.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98589,
+				"avg_score" : 97756.2,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97902.5
+				"median_score" : 97902.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98231,
+				"avg_score" : 97763.33333333333,
 				"top_medal" : "a",
 				"total" : 3,
-				"median" : 97679
+				"median_score" : 97679
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98634,
+				"avg_score" : 97985.625,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97992
+				"median_score" : 97992
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98485,
+				"avg_score" : 98139.9,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98279.5
+				"median_score" : 98279.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98873,
+				"avg_score" : 98555.5,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98495.5
+				"median_score" : 98495.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99597,
+				"avg_score" : 98975.18181818182,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99149
+				"median_score" : 99149
 			}
 		],
 		"top_score" : 99597,
@@ -2450,7 +2684,7 @@
 	{
 		"id" : 18,
 		"lv" : 49,
-		"genre" : "Triple Counter(EX)",
+		"genre" : null,
 		"song" : "Triple Counter",
 		"pf_rate" : "3.43",
 		"fc_rate" : "0.00",
@@ -2491,93 +2725,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 97331,
+				"avg_score" : 96262.22222222222,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 96038
+				"median_score" : 96038
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 97571,
+				"avg_score" : 96251.61538461539,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96155
+				"median_score" : 96155
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97246,
+				"avg_score" : 96897.42857142857,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 97025
+				"median_score" : 97025
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 97753,
+				"avg_score" : 97116.45454545454,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 97077
+				"median_score" : 97077
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97844,
+				"avg_score" : 97078.22222222222,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 97201
+				"median_score" : 97201
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 98025,
+				"avg_score" : 97411.46153846153,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 97480
+				"median_score" : 97480
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98675,
+				"avg_score" : 97891.92857142857,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 97853.5
+				"median_score" : 97853.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98214,
+				"avg_score" : 98028.8,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 98113
+				"median_score" : 98113
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98285,
+				"avg_score" : 97934.66666666667,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 98032
+				"median_score" : 98032
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98733,
+				"avg_score" : 98395.625,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 98334
+				"median_score" : 98334
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99207,
+				"avg_score" : 98726.8,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98723.5
+				"median_score" : 98723.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 99168,
+				"avg_score" : 98962,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98921.5
+				"median_score" : 98921.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99590,
+				"avg_score" : 99137.63636363637,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99110
+				"median_score" : 99110
 			}
 		],
 		"top_score" : 99590,
@@ -2586,7 +2833,7 @@
 	{
 		"id" : 19,
 		"lv" : 49,
-		"genre" : "Vinculum stellarum(EX)",
+		"genre" : null,
 		"song" : "Vinculum stellarum",
 		"pf_rate" : "1.73",
 		"fc_rate" : "0.00",
@@ -2627,93 +2874,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95000,
+				"avg_score" : 93069.25,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 92909.5
+				"median_score" : 92909.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94733,
+				"avg_score" : 93654.58333333333,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 93853.5
+				"median_score" : 93853.5
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96041,
+				"avg_score" : 94139.14285714286,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 94101
+				"median_score" : 94101
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95820,
+				"avg_score" : 94837.36363636363,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94680
+				"median_score" : 94680
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95611,
+				"avg_score" : 94847.25,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 95168.5
+				"median_score" : 95168.5
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96184,
+				"avg_score" : 94530.92307692308,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95234
+				"median_score" : 95234
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96653,
+				"avg_score" : 95831,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 95947
+				"median_score" : 95947
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96796,
+				"avg_score" : 96402.5,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96428.5
+				"median_score" : 96428.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96835,
+				"avg_score" : 96360,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 96829
+				"median_score" : 96829
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97766,
+				"avg_score" : 96964.875,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 97047
+				"median_score" : 97047
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98157,
+				"avg_score" : 97276.2,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97379
+				"median_score" : 97379
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98164,
+				"avg_score" : 97582.5,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97564.5
+				"median_score" : 97564.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99192,
+				"avg_score" : 98270.81818181818,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98131
+				"median_score" : 98131
 			}
 		],
 		"top_score" : 99192,
@@ -2722,7 +2982,7 @@
 	{
 		"id" : 20,
 		"lv" : 49,
-		"genre" : "XROSS INFECTION(EX)",
+		"genre" : null,
 		"song" : "XROSS INFECTION",
 		"pf_rate" : "2.99",
 		"fc_rate" : "0.00",
@@ -2763,93 +3023,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95320,
+				"avg_score" : 94099.22222222222,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93788
+				"median_score" : 93788
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95940,
+				"avg_score" : 94416.30769230769,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 94283
+				"median_score" : 94283
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95788,
+				"avg_score" : 94972.57142857143,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 95056
+				"median_score" : 95056
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96811,
+				"avg_score" : 95191.5,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95322.5
+				"median_score" : 95322.5
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96937,
+				"avg_score" : 95429.375,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 95584
+				"median_score" : 95584
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97214,
+				"avg_score" : 96253.08333333333,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 96442
+				"median_score" : 96442
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97663,
+				"avg_score" : 97006.07142857143,
 				"top_medal" : "c",
 				"total" : 14,
-				"median" : 97187.5
+				"median_score" : 97187.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97610,
+				"avg_score" : 97123,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 97181
+				"median_score" : 97181
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97524,
+				"avg_score" : 96967.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 97504
+				"median_score" : 97504
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98204,
+				"avg_score" : 97573,
 				"top_medal" : "c",
 				"total" : 8,
-				"median" : 97653
+				"median_score" : 97653
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99029,
+				"avg_score" : 98107.1,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 98141.5
+				"median_score" : 98141.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98726,
+				"avg_score" : 98473.25,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 98448.5
+				"median_score" : 98448.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99663,
+				"avg_score" : 98826.36363636363,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98924
+				"median_score" : 98924
 			}
 		],
 		"top_score" : 99663,
@@ -2858,7 +3131,7 @@
 	{
 		"id" : 21,
 		"lv" : 49,
-		"genre" : "moon_child(EX)",
+		"genre" : null,
 		"song" : "moon_child",
 		"pf_rate" : "9.16",
 		"fc_rate" : "0.00",
@@ -2899,93 +3172,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 96038,
+				"avg_score" : 95347.33333333333,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95307
+				"median_score" : 95307
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96500,
+				"avg_score" : 95439.23076923077,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95153
+				"median_score" : 95153
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97461,
+				"avg_score" : 95728.28571428571,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95769
+				"median_score" : 95769
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 97438,
+				"avg_score" : 96480.72727272728,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 96661
+				"median_score" : 96661
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97530,
+				"avg_score" : 96651.66666666667,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 96569
+				"median_score" : 96569
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97784,
+				"avg_score" : 96817.23076923077,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96761
+				"median_score" : 96761
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98015,
+				"avg_score" : 97450.78571428571,
 				"top_medal" : "a",
 				"total" : 14,
-				"median" : 97619
+				"median_score" : 97619
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98330,
+				"avg_score" : 97644,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97603
+				"median_score" : 97603
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98007,
+				"avg_score" : 97578.66666666667,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 97776
+				"median_score" : 97776
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98776,
+				"avg_score" : 98311.875,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 98341.5
+				"median_score" : 98341.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99053,
+				"avg_score" : 98418.1,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98488
+				"median_score" : 98488
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 99169,
+				"avg_score" : 98726.75,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98819
+				"median_score" : 98819
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99653,
+				"avg_score" : 99062.45454545454,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99023
+				"median_score" : 99023
 			}
 		],
 		"top_score" : 99653,
@@ -2994,7 +3280,7 @@
 	{
 		"id" : 22,
 		"lv" : 49,
-		"genre" : "perditus†paradisus(EX)",
+		"genre" : null,
 		"song" : "perditus†paradisus",
 		"pf_rate" : "0.41",
 		"fc_rate" : "0.00",
@@ -3035,93 +3321,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 93195,
+				"avg_score" : 91479.66666666667,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 91574
+				"median_score" : 91574
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 93308,
+				"avg_score" : 91920.38461538461,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 91927
+				"median_score" : 91927
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 94396,
+				"avg_score" : 93155.85714285714,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 92981
+				"median_score" : 92981
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95143,
+				"avg_score" : 93281,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 93228
+				"median_score" : 93228
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 94556,
+				"avg_score" : 93724.88888888889,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93909
+				"median_score" : 93909
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 95843,
+				"avg_score" : 94042.76923076923,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94156
+				"median_score" : 94156
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 95256,
+				"avg_score" : 94507.35714285714,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 94746
+				"median_score" : 94746
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 95443,
+				"avg_score" : 95121.7,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 95120
+				"median_score" : 95120
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 95463,
+				"avg_score" : 94778.33333333333,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 95103
+				"median_score" : 95103
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96604,
+				"avg_score" : 95910,
 				"top_medal" : "c",
 				"total" : 8,
-				"median" : 95937
+				"median_score" : 95937
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 96884,
+				"avg_score" : 96285,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96277
+				"median_score" : 96277
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97004,
+				"avg_score" : 96533.75,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 96837.5
+				"median_score" : 96837.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98719,
+				"avg_score" : 97395.36363636363,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97384
+				"median_score" : 97384
 			}
 		],
 		"top_score" : 98719,
@@ -3130,7 +3429,7 @@
 	{
 		"id" : 23,
 		"lv" : 49,
-		"genre" : "the Chameleon(EX)",
+		"genre" : null,
 		"song" : "the Chameleon",
 		"pf_rate" : "0.42",
 		"fc_rate" : "0.00",
@@ -3171,93 +3470,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94238,
+				"avg_score" : 93386.375,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 93777.5
+				"median_score" : 93777.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95493,
+				"avg_score" : 94092.75,
 				"top_medal" : "f",
 				"total" : 12,
-				"median" : 94368.5
+				"median_score" : 94368.5
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95634,
+				"avg_score" : 94703,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 94506
+				"median_score" : 94506
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95807,
+				"avg_score" : 95061.36363636363,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95273
+				"median_score" : 95273
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95700,
+				"avg_score" : 95066.22222222222,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95046
+				"median_score" : 95046
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96321,
+				"avg_score" : 94942.83333333333,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 95340
+				"median_score" : 95340
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96915,
+				"avg_score" : 96087.57142857143,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 95944
+				"median_score" : 95944
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97249,
+				"avg_score" : 96095.5,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96134
+				"median_score" : 96134
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97062,
+				"avg_score" : 96052,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 96008
+				"median_score" : 96008
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97323,
+				"avg_score" : 96956.25,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 96998.5
+				"median_score" : 96998.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97817,
+				"avg_score" : 96861.8,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 97032
+				"median_score" : 97032
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97950,
+				"avg_score" : 97501.25,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 97463
+				"median_score" : 97463
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98811,
+				"avg_score" : 97999.18181818182,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97937
+				"median_score" : 97937
 			}
 		],
 		"top_score" : 98811,
@@ -3266,7 +3578,7 @@
 	{
 		"id" : 24,
 		"lv" : 49,
-		"genre" : "trideca(EX)",
+		"genre" : null,
 		"song" : "trideca",
 		"pf_rate" : "2.51",
 		"fc_rate" : "0.00",
@@ -3307,93 +3619,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95277,
+				"avg_score" : 94472.22222222222,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95022
+				"median_score" : 95022
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95825,
+				"avg_score" : 94874.92307692308,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94814
+				"median_score" : 94814
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96092,
+				"avg_score" : 95190,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95401
+				"median_score" : 95401
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96086,
+				"avg_score" : 95636.72727272728,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95740
+				"median_score" : 95740
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96607,
+				"avg_score" : 95758.11111111111,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95825
+				"median_score" : 95825
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97116,
+				"avg_score" : 96217,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96314
+				"median_score" : 96314
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97410,
+				"avg_score" : 96638.21428571429,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96754
+				"median_score" : 96754
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97527,
+				"avg_score" : 96917.4,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96937
+				"median_score" : 96937
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96888,
+				"avg_score" : 96668.33333333333,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 96888
+				"median_score" : 96888
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98173,
+				"avg_score" : 97461.25,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97445.5
+				"median_score" : 97445.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98323,
+				"avg_score" : 97795.4,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97811
+				"median_score" : 97811
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98336,
+				"avg_score" : 98003.25,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 97951
+				"median_score" : 97951
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99210,
+				"avg_score" : 98449.90909090909,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98623
+				"median_score" : 98623
 			}
 		],
 		"top_score" : 99210,
@@ -3402,7 +3727,7 @@
 	{
 		"id" : 25,
 		"lv" : 49,
-		"genre" : "zeeros(EX)",
+		"genre" : null,
 		"song" : "zeeros",
 		"pf_rate" : "1.47",
 		"fc_rate" : "0.00",
@@ -3443,93 +3768,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95366,
+				"avg_score" : 93634.875,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 93423
+				"median_score" : 93423
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95341,
+				"avg_score" : 94040.16666666667,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 94195
+				"median_score" : 94195
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 94577,
+				"avg_score" : 93859.83333333333,
 				"top_medal" : "f",
 				"total" : 6,
-				"median" : 94247
+				"median_score" : 94247
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96379,
+				"avg_score" : 95095.875,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 95080
+				"median_score" : 95080
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96001,
+				"avg_score" : 94716.28571428571,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 94875
+				"median_score" : 94875
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96757,
+				"avg_score" : 95230.83333333333,
 				"top_medal" : "d",
 				"total" : 12,
-				"median" : 95558.5
+				"median_score" : 95558.5
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97312,
+				"avg_score" : 96081.57142857143,
 				"top_medal" : "c",
 				"total" : 14,
-				"median" : 96154
+				"median_score" : 96154
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97208,
+				"avg_score" : 95927.1,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95820.5
+				"median_score" : 95820.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97232,
+				"avg_score" : 97063.33333333333,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 97168
+				"median_score" : 97168
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97586,
+				"avg_score" : 96882.71428571429,
 				"top_medal" : "c",
 				"total" : 7,
-				"median" : 97224
+				"median_score" : 97224
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98334,
+				"avg_score" : 97270.375,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97264.5
+				"median_score" : 97264.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98551,
+				"avg_score" : 98001.66666666667,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 97916
+				"median_score" : 97916
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99050,
+				"avg_score" : 98423.36363636363,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98600
+				"median_score" : 98600
 			}
 		],
 		"top_score" : 99050,
@@ -3538,7 +3876,7 @@
 	{
 		"id" : 26,
 		"lv" : 49,
-		"genre" : "ΩVERSOUL(EX)",
+		"genre" : null,
 		"song" : "ΩVERSOUL",
 		"pf_rate" : "2.81",
 		"fc_rate" : "0.00",
@@ -3579,93 +3917,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95131,
+				"avg_score" : 94026.75,
 				"top_medal" : "f",
 				"total" : 8,
-				"median" : 94224.5
+				"median_score" : 94224.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96321,
+				"avg_score" : 95076.66666666667,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 95417.5
+				"median_score" : 95417.5
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96360,
+				"avg_score" : 94601,
 				"top_medal" : "e",
 				"total" : 6,
-				"median" : 94967.5
+				"median_score" : 94967.5
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96295,
+				"avg_score" : 95362.27272727272,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95363
+				"median_score" : 95363
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96893,
+				"avg_score" : 95561.28571428571,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 96173
+				"median_score" : 96173
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97016,
+				"avg_score" : 96114.66666666667,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 96379
+				"median_score" : 96379
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97691,
+				"avg_score" : 96333.92857142857,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 96388.5
+				"median_score" : 96388.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97652,
+				"avg_score" : 96348.7,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96539.5
+				"median_score" : 96539.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96205,
+				"avg_score" : 95879.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 96032
+				"median_score" : 96032
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98282,
+				"avg_score" : 97098.28571428571,
 				"top_medal" : "c",
 				"total" : 7,
-				"median" : 97659
+				"median_score" : 97659
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98868,
+				"avg_score" : 97284.875,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97369
+				"median_score" : 97369
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97935,
+				"avg_score" : 97667.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 97897
+				"median_score" : 97897
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99305,
+				"avg_score" : 98556.18181818182,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98662
+				"median_score" : 98662
 			}
 		],
 		"top_score" : 99305,
@@ -3715,93 +4066,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94660,
+				"avg_score" : 93452.33333333333,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 93444
+				"median_score" : 93444
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95475,
+				"avg_score" : 93341.38461538461,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 93288
+				"median_score" : 93288
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96025,
+				"avg_score" : 94331.85714285714,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 94096
+				"median_score" : 94096
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95726,
+				"avg_score" : 94635,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94741
+				"median_score" : 94741
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96365,
+				"avg_score" : 95292.44444444444,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 95414
+				"median_score" : 95414
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96365,
+				"avg_score" : 95460.92307692308,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 95516
+				"median_score" : 95516
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96671,
+				"avg_score" : 95772.85714285714,
 				"top_medal" : "d",
 				"total" : 14,
-				"median" : 95937
+				"median_score" : 95937
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97724,
+				"avg_score" : 96670.7,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96711
+				"median_score" : 96711
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96915,
+				"avg_score" : 96369.33333333333,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 96555
+				"median_score" : 96555
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97690,
+				"avg_score" : 97249.75,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97187
+				"median_score" : 97187
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98369,
+				"avg_score" : 97443.9,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97516.5
+				"median_score" : 97516.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97880,
+				"avg_score" : 97537,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97584.5
+				"median_score" : 97584.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99082,
+				"avg_score" : 98154.18181818182,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98267
+				"median_score" : 98267
 			}
 		],
 		"top_score" : 99082,
@@ -3851,93 +4215,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 96692,
+				"avg_score" : 95522.44444444444,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 95916
+				"median_score" : 95916
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96916,
+				"avg_score" : 95289.92307692308,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 95205
+				"median_score" : 95205
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97634,
+				"avg_score" : 96331,
 				"top_medal" : "c",
 				"total" : 7,
-				"median" : 96269
+				"median_score" : 96269
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 97570,
+				"avg_score" : 96257,
 				"top_medal" : "b",
 				"total" : 11,
-				"median" : 96512
+				"median_score" : 96512
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97762,
+				"avg_score" : 96660.33333333333,
 				"top_medal" : "a",
 				"total" : 9,
-				"median" : 96692
+				"median_score" : 96692
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 98038,
+				"avg_score" : 96850.92307692308,
 				"top_medal" : "a",
 				"total" : 13,
-				"median" : 97038
+				"median_score" : 97038
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98596,
+				"avg_score" : 97442.64285714286,
 				"top_medal" : "a",
 				"total" : 14,
-				"median" : 97589
+				"median_score" : 97589
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98416,
+				"avg_score" : 97751.5,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97884
+				"median_score" : 97884
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98070,
+				"avg_score" : 97409.66666666667,
 				"top_medal" : "a",
 				"total" : 3,
-				"median" : 97217
+				"median_score" : 97217
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98839,
+				"avg_score" : 98198.125,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 98189
+				"median_score" : 98189
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99128,
+				"avg_score" : 98443.2,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98647
+				"median_score" : 98647
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98980,
+				"avg_score" : 98677.25,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98887
+				"median_score" : 98887
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99743,
+				"avg_score" : 99110.72727272728,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99051
+				"median_score" : 99051
 			}
 		],
 		"top_score" : 99743,
@@ -3987,93 +4364,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 96060,
+				"avg_score" : 94597,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 94621
+				"median_score" : 94621
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96256,
+				"avg_score" : 95057.76923076923,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95402
+				"median_score" : 95402
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 98536,
+				"avg_score" : 95442,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95597
+				"median_score" : 95597
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96780,
+				"avg_score" : 94849.81818181818,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95134
+				"median_score" : 95134
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96731,
+				"avg_score" : 95644.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95609
+				"median_score" : 95609
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97621,
+				"avg_score" : 95935.69230769231,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96158
+				"median_score" : 96158
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97463,
+				"avg_score" : 96283.71428571429,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 96134
+				"median_score" : 96134
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98048,
+				"avg_score" : 96910.6,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96926.5
+				"median_score" : 96926.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97975,
+				"avg_score" : 97670,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 97853
+				"median_score" : 97853
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98182,
+				"avg_score" : 97720.625,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 97798.5
+				"median_score" : 97798.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98378,
+				"avg_score" : 97723.9,
 				"top_medal" : "d",
 				"total" : 10,
-				"median" : 97761.5
+				"median_score" : 97761.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98000,
+				"avg_score" : 97939,
 				"top_medal" : "c",
 				"total" : 4,
-				"median" : 97939
+				"median_score" : 97939
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99524,
+				"avg_score" : 98424.18181818182,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98378
+				"median_score" : 98378
 			}
 		],
 		"top_score" : 99524,
@@ -4123,93 +4513,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94399,
+				"avg_score" : 92446.33333333333,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 92393
+				"median_score" : 92393
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95311,
+				"avg_score" : 93834.91666666667,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 93730.5
+				"median_score" : 93730.5
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96162,
+				"avg_score" : 94213.42857142857,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 93791
+				"median_score" : 93791
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 97659,
+				"avg_score" : 94314.36363636363,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94103
+				"median_score" : 94103
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96033,
+				"avg_score" : 94785.11111111111,
 				"top_medal" : "d",
 				"total" : 9,
-				"median" : 94886
+				"median_score" : 94886
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 98221,
+				"avg_score" : 95128.15384615384,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 94886
+				"median_score" : 94886
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97051,
+				"avg_score" : 95832.78571428571,
 				"top_medal" : "d",
 				"total" : 14,
-				"median" : 95839.5
+				"median_score" : 95839.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97697,
+				"avg_score" : 96808.6,
 				"top_medal" : "d",
 				"total" : 10,
-				"median" : 96971.5
+				"median_score" : 96971.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97006,
+				"avg_score" : 95858.33333333333,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 95843
+				"median_score" : 95843
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98077,
+				"avg_score" : 97016,
 				"top_medal" : "d",
 				"total" : 8,
-				"median" : 97028
+				"median_score" : 97028
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99080,
+				"avg_score" : 97959.3,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 98066
+				"median_score" : 98066
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98617,
+				"avg_score" : 98134.25,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 98259.5
+				"median_score" : 98259.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99445,
+				"avg_score" : 98633.81818181818,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98624
+				"median_score" : 98624
 			}
 		],
 		"top_score" : 99445,
@@ -4259,93 +4662,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 96484,
+				"avg_score" : 94902.55555555556,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94847
+				"median_score" : 94847
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 97062,
+				"avg_score" : 95728.23076923077,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95855
+				"median_score" : 95855
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97467,
+				"avg_score" : 95776.85714285714,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95637
+				"median_score" : 95637
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96695,
+				"avg_score" : 96101.81818181818,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 96303
+				"median_score" : 96303
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97790,
+				"avg_score" : 96460.88888888889,
 				"top_medal" : "d",
 				"total" : 9,
-				"median" : 96515
+				"median_score" : 96515
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97710,
+				"avg_score" : 96840.23076923077,
 				"top_medal" : "d",
 				"total" : 13,
-				"median" : 96782
+				"median_score" : 96782
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98077,
+				"avg_score" : 97330.85714285714,
 				"top_medal" : "d",
 				"total" : 14,
-				"median" : 97373.5
+				"median_score" : 97373.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98500,
+				"avg_score" : 97826.4,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 97927
+				"median_score" : 97927
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98388,
+				"avg_score" : 97699.33333333333,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 97641
+				"median_score" : 97641
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98805,
+				"avg_score" : 98285.25,
 				"top_medal" : "c",
 				"total" : 8,
-				"median" : 98334.5
+				"median_score" : 98334.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99047,
+				"avg_score" : 98469.8,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 98496.5
+				"median_score" : 98496.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 99041,
+				"avg_score" : 98608.75,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 98587
+				"median_score" : 98587
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99570,
+				"avg_score" : 99091.45454545454,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99135
+				"median_score" : 99135
 			}
 		],
 		"top_score" : 99570,
@@ -4395,93 +4811,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 89528,
+				"avg_score" : 81342,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 79811
+				"median_score" : 79811
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 91434,
+				"avg_score" : 81705.27272727272,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 82188
+				"median_score" : 82188
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 92387,
+				"avg_score" : 86930.14285714286,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 89539
+				"median_score" : 89539
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 88785,
+				"avg_score" : 84670.54545454546,
 				"top_medal" : "d",
 				"total" : 11,
-				"median" : 85382
+				"median_score" : 85382
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 91434,
+				"avg_score" : 85942.55555555556,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 87256
+				"median_score" : 87256
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 90806,
+				"avg_score" : 84839.69230769231,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 85989
+				"median_score" : 85989
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 94607,
+				"avg_score" : 86393.38461538461,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 84544
+				"median_score" : 84544
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 92251,
+				"avg_score" : 87925.2,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 88753.5
+				"median_score" : 88753.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 93790,
+				"avg_score" : 91856.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 91413
+				"median_score" : 91413
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 94460,
+				"avg_score" : 92227.375,
 				"top_medal" : "d",
 				"total" : 8,
-				"median" : 92910.5
+				"median_score" : 92910.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 95424,
+				"avg_score" : 92666.6,
 				"top_medal" : "d",
 				"total" : 10,
-				"median" : 92805.5
+				"median_score" : 92805.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 93413,
+				"avg_score" : 92847.75,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 93214.5
+				"median_score" : 93214.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 97832,
+				"avg_score" : 95845.36363636363,
 				"top_medal" : "c",
 				"total" : 11,
-				"median" : 96565
+				"median_score" : 96565
 			}
 		],
 		"top_score" : 97832,
@@ -4531,93 +4960,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 84420,
+				"avg_score" : 80877.5,
 				"top_medal" : "g",
 				"total" : 8,
-				"median" : 81832.5
+				"median_score" : 81832.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 86684,
+				"avg_score" : 82810.25,
 				"top_medal" : "g",
 				"total" : 12,
-				"median" : 83060
+				"median_score" : 83060
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 91296,
+				"avg_score" : 85814,
 				"top_medal" : "g",
 				"total" : 7,
-				"median" : 85377
+				"median_score" : 85377
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 87789,
+				"avg_score" : 83919.81818181818,
 				"top_medal" : "g",
 				"total" : 11,
-				"median" : 85069
+				"median_score" : 85069
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 88735,
+				"avg_score" : 85365.11111111111,
 				"top_medal" : "g",
 				"total" : 9,
-				"median" : 85632
+				"median_score" : 85632
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 89468,
+				"avg_score" : 85816.53846153847,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 85387
+				"median_score" : 85387
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 90340,
+				"avg_score" : 87098.38461538461,
 				"top_medal" : "g",
 				"total" : 13,
-				"median" : 86939
+				"median_score" : 86939
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 90286,
+				"avg_score" : 87537.2,
 				"top_medal" : "g",
 				"total" : 10,
-				"median" : 87986
+				"median_score" : 87986
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 90361,
+				"avg_score" : 89687.66666666667,
 				"top_medal" : "f",
 				"total" : 3,
-				"median" : 90212
+				"median_score" : 90212
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 90701,
+				"avg_score" : 89651.375,
 				"top_medal" : "g",
 				"total" : 8,
-				"median" : 89797.5
+				"median_score" : 89797.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 91487,
+				"avg_score" : 90402.3,
 				"top_medal" : "f",
 				"total" : 10,
-				"median" : 90557.5
+				"median_score" : 90557.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 91785,
+				"avg_score" : 89874.5,
 				"top_medal" : "g",
 				"total" : 4,
-				"median" : 90105.5
+				"median_score" : 90105.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 95876,
+				"avg_score" : 92558.72727272728,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 91753
+				"median_score" : 91753
 			}
 		],
 		"top_score" : 95876,
@@ -4667,93 +5109,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 89083,
+				"avg_score" : 82304.44444444444,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 81412
+				"median_score" : 81412
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 91350,
+				"avg_score" : 83013.83333333333,
 				"top_medal" : "f",
 				"total" : 12,
-				"median" : 84107.5
+				"median_score" : 84107.5
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 91933,
+				"avg_score" : 86781.83333333333,
 				"top_medal" : "f",
 				"total" : 6,
-				"median" : 87775
+				"median_score" : 87775
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 90260,
+				"avg_score" : 85112.72727272728,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 86270
+				"median_score" : 86270
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 91425,
+				"avg_score" : 86181.55555555556,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 87657
+				"median_score" : 87657
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 93358,
+				"avg_score" : 85902.69230769231,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 87410
+				"median_score" : 87410
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 93866,
+				"avg_score" : 88038.76923076923,
 				"top_medal" : "d",
 				"total" : 13,
-				"median" : 88079
+				"median_score" : 88079
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 91078,
+				"avg_score" : 89701.1,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 89789
+				"median_score" : 89789
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 92230,
+				"avg_score" : 91354.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 91028
+				"median_score" : 91028
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 93531,
+				"avg_score" : 91997.625,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 91988.5
+				"median_score" : 91988.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 94213,
+				"avg_score" : 92578.3,
 				"top_medal" : "d",
 				"total" : 10,
-				"median" : 92688.5
+				"median_score" : 92688.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 94386,
+				"avg_score" : 92766,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 92874.5
+				"median_score" : 92874.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 96517,
+				"avg_score" : 95179.36363636363,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 95675
+				"median_score" : 95675
 			}
 		],
 		"top_score" : 96517,
@@ -4762,7 +5217,7 @@
 	{
 		"id" : 35,
 		"lv" : 49,
-		"genre" : "ジオメトリック∮ティーパーティー(EX)",
+		"genre" : null,
 		"song" : "ジオメトリック∮ティーパーティー",
 		"pf_rate" : "0.42",
 		"fc_rate" : "0.00",
@@ -4803,93 +5258,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 93686,
+				"avg_score" : 92398.22222222222,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 92747
+				"median_score" : 92747
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94229,
+				"avg_score" : 92895.46153846153,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 93049
+				"median_score" : 93049
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95214,
+				"avg_score" : 94089.85714285714,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 94041
+				"median_score" : 94041
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94966,
+				"avg_score" : 94430.36363636363,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 94550
+				"median_score" : 94550
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95522,
+				"avg_score" : 94366.55555555556,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94276
+				"median_score" : 94276
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 95998,
+				"avg_score" : 94776.84615384616,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94819
+				"median_score" : 94819
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96266,
+				"avg_score" : 95367.57142857143,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 95529
+				"median_score" : 95529
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96689,
+				"avg_score" : 96093.5,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95975
+				"median_score" : 95975
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96367,
+				"avg_score" : 96083.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 96012
+				"median_score" : 96012
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96849,
+				"avg_score" : 96633,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 96702
+				"median_score" : 96702
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97627,
+				"avg_score" : 96992.1,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96943
+				"median_score" : 96943
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97647,
+				"avg_score" : 97258.25,
 				"top_medal" : "c",
 				"total" : 4,
-				"median" : 97315
+				"median_score" : 97315
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98813,
+				"avg_score" : 97971.09090909091,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97982
+				"median_score" : 97982
 			}
 		],
 		"top_score" : 98813,
@@ -4939,93 +5407,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95291,
+				"avg_score" : 94073.77777777778,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94327
+				"median_score" : 94327
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95600,
+				"avg_score" : 93755.92307692308,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 93580
+				"median_score" : 93580
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95613,
+				"avg_score" : 94900.71428571429,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95075
+				"median_score" : 95075
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96334,
+				"avg_score" : 95125.54545454546,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95134
+				"median_score" : 95134
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96465,
+				"avg_score" : 95529.66666666667,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95849
+				"median_score" : 95849
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97022,
+				"avg_score" : 96040.84615384616,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96111
+				"median_score" : 96111
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98222,
+				"avg_score" : 96657.57142857143,
 				"top_medal" : "c",
 				"total" : 14,
-				"median" : 96898
+				"median_score" : 96898
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97540,
+				"avg_score" : 96831.1,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96990
+				"median_score" : 96990
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97750,
+				"avg_score" : 96976.33333333333,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 96747
+				"median_score" : 96747
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98544,
+				"avg_score" : 97494.625,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97334
+				"median_score" : 97334
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98747,
+				"avg_score" : 97842.9,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97891.5
+				"median_score" : 97891.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98203,
+				"avg_score" : 97730.5,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97766.5
+				"median_score" : 97766.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99449,
+				"avg_score" : 98564,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98688
+				"median_score" : 98688
 			}
 		],
 		"top_score" : 99449,
@@ -5075,93 +5556,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 92954,
+				"avg_score" : 90591,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 90126
+				"median_score" : 90126
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 92875,
+				"avg_score" : 90981.66666666667,
 				"top_medal" : "f",
 				"total" : 12,
-				"median" : 91003
+				"median_score" : 91003
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 93522,
+				"avg_score" : 92091.42857142857,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 91958
+				"median_score" : 91958
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94360,
+				"avg_score" : 91501.72727272728,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 91437
+				"median_score" : 91437
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 94755,
+				"avg_score" : 91837.33333333333,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 91674
+				"median_score" : 91674
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 94865,
+				"avg_score" : 92630.23076923077,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 92511
+				"median_score" : 92511
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 94265,
+				"avg_score" : 93065.42857142857,
 				"top_medal" : "f",
 				"total" : 14,
-				"median" : 93435.5
+				"median_score" : 93435.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 94913,
+				"avg_score" : 93585.7,
 				"top_medal" : "f",
 				"total" : 10,
-				"median" : 93585.5
+				"median_score" : 93585.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 94565,
+				"avg_score" : 94107,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 94328
+				"median_score" : 94328
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 95955,
+				"avg_score" : 95074.5,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 94999.5
+				"median_score" : 94999.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 96524,
+				"avg_score" : 95201.8,
 				"top_medal" : "d",
 				"total" : 10,
-				"median" : 95323.5
+				"median_score" : 95323.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 95766,
+				"avg_score" : 95366.75,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 95449.5
+				"median_score" : 95449.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 97993,
+				"avg_score" : 96137.63636363637,
 				"top_medal" : "c",
 				"total" : 11,
-				"median" : 96018
+				"median_score" : 96018
 			}
 		],
 		"top_score" : 97993,
@@ -5211,93 +5705,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 93957,
+				"avg_score" : 92846.77777777778,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 92932
+				"median_score" : 92932
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94641,
+				"avg_score" : 93082.61538461539,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 93149
+				"median_score" : 93149
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 94572,
+				"avg_score" : 94030.42857142857,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 93986
+				"median_score" : 93986
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94948,
+				"avg_score" : 94434.09090909091,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94698
+				"median_score" : 94698
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95176,
+				"avg_score" : 94362.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94527
+				"median_score" : 94527
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96879,
+				"avg_score" : 94748.07692307692,
 				"top_medal" : "d",
 				"total" : 13,
-				"median" : 95034
+				"median_score" : 95034
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96867,
+				"avg_score" : 95765.71428571429,
 				"top_medal" : "d",
 				"total" : 14,
-				"median" : 95720
+				"median_score" : 95720
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97027,
+				"avg_score" : 96115,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96243.5
+				"median_score" : 96243.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96480,
+				"avg_score" : 96294.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 96247
+				"median_score" : 96247
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97465,
+				"avg_score" : 96721.5,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 96964
+				"median_score" : 96964
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97944,
+				"avg_score" : 97082.6,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96992.5
+				"median_score" : 96992.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97966,
+				"avg_score" : 97319.75,
 				"top_medal" : "d",
 				"total" : 4,
-				"median" : 97194.5
+				"median_score" : 97194.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99009,
+				"avg_score" : 98135.81818181818,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98041
+				"median_score" : 98041
 			}
 		],
 		"top_score" : 99009,
@@ -5347,93 +5854,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95341,
+				"avg_score" : 93934.22222222222,
 				"top_medal" : "d",
 				"total" : 9,
-				"median" : 94359
+				"median_score" : 94359
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95899,
+				"avg_score" : 94380,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94243
+				"median_score" : 94243
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95815,
+				"avg_score" : 94596.28571428571,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 94775
+				"median_score" : 94775
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 97063,
+				"avg_score" : 95388.09090909091,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95393
+				"median_score" : 95393
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96770,
+				"avg_score" : 95888.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95977
+				"median_score" : 95977
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97498,
+				"avg_score" : 96075.92307692308,
 				"top_medal" : "d",
 				"total" : 13,
-				"median" : 95828
+				"median_score" : 95828
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97745,
+				"avg_score" : 96675,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96968.5
+				"median_score" : 96968.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97517,
+				"avg_score" : 96824.7,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96848.5
+				"median_score" : 96848.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97485,
+				"avg_score" : 96928,
 				"top_medal" : "a",
 				"total" : 3,
-				"median" : 97452
+				"median_score" : 97452
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98161,
+				"avg_score" : 97541.625,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97562.5
+				"median_score" : 97562.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98635,
+				"avg_score" : 97880.5,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97982
+				"median_score" : 97982
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98395,
+				"avg_score" : 97894.25,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 98076
+				"median_score" : 98076
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99239,
+				"avg_score" : 98659.63636363637,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98589
+				"median_score" : 98589
 			}
 		],
 		"top_score" : 99239,
@@ -5483,93 +6003,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94198,
+				"avg_score" : 92247.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 92745
+				"median_score" : 92745
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95313,
+				"avg_score" : 93178.53846153847,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 93003
+				"median_score" : 93003
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95300,
+				"avg_score" : 94017.42857142857,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 94237
+				"median_score" : 94237
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94798,
+				"avg_score" : 93616.72727272728,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 93709
+				"median_score" : 93709
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96838,
+				"avg_score" : 94631.11111111111,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 94613
+				"median_score" : 94613
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97597,
+				"avg_score" : 95001.76923076923,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 94910
+				"median_score" : 94910
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97577,
+				"avg_score" : 95777.5,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 95686
+				"median_score" : 95686
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96990,
+				"avg_score" : 95881.3,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 95590
+				"median_score" : 95590
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97201,
+				"avg_score" : 95333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 95379
+				"median_score" : 95379
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97782,
+				"avg_score" : 96351,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 95986.5
+				"median_score" : 95986.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98059,
+				"avg_score" : 97065.5,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97105
+				"median_score" : 97105
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98171,
+				"avg_score" : 97567.25,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97508
+				"median_score" : 97508
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99108,
+				"avg_score" : 98002.36363636363,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97973
+				"median_score" : 97973
 			}
 		],
 		"top_score" : 99108,
@@ -5619,93 +6152,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95592,
+				"avg_score" : 94335,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94544
+				"median_score" : 94544
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96724,
+				"avg_score" : 94554.46153846153,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 94749
+				"median_score" : 94749
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96619,
+				"avg_score" : 95561.14285714286,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95718
+				"median_score" : 95718
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96598,
+				"avg_score" : 95270.63636363637,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95144
+				"median_score" : 95144
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97066,
+				"avg_score" : 96085.11111111111,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 96066
+				"median_score" : 96066
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97582,
+				"avg_score" : 96340.46153846153,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96519
+				"median_score" : 96519
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97756,
+				"avg_score" : 96825.92857142857,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 96792.5
+				"median_score" : 96792.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97482,
+				"avg_score" : 96698.3,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96763.5
+				"median_score" : 96763.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97751,
+				"avg_score" : 97663.33333333333,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 97704
+				"median_score" : 97704
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98009,
+				"avg_score" : 97546.25,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 97645.5
+				"median_score" : 97645.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98852,
+				"avg_score" : 98035.8,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 98032.5
+				"median_score" : 98032.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98004,
+				"avg_score" : 97822.25,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 97806.5
+				"median_score" : 97806.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99268,
+				"avg_score" : 98389,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98578
+				"median_score" : 98578
 			}
 		],
 		"top_score" : 99268,
@@ -5755,93 +6301,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 96130,
+				"avg_score" : 95192.33333333333,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95321
+				"median_score" : 95321
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96452,
+				"avg_score" : 95315.23076923077,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95391
+				"median_score" : 95391
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95928,
+				"avg_score" : 95668.71428571429,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95643
+				"median_score" : 95643
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96906,
+				"avg_score" : 96164.09090909091,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 96243
+				"median_score" : 96243
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97070,
+				"avg_score" : 96600.88888888889,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 96830
+				"median_score" : 96830
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97967,
+				"avg_score" : 96776.46153846153,
 				"top_medal" : "a",
 				"total" : 13,
-				"median" : 96767
+				"median_score" : 96767
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98017,
+				"avg_score" : 97136.92857142857,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 97187
+				"median_score" : 97187
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97809,
+				"avg_score" : 96705.2,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97114
+				"median_score" : 97114
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97613,
+				"avg_score" : 97163,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 97260
+				"median_score" : 97260
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98857,
+				"avg_score" : 97858.625,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97764.5
+				"median_score" : 97764.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98857,
+				"avg_score" : 98179.5,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98282
+				"median_score" : 98282
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98636,
+				"avg_score" : 98348.75,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98317
+				"median_score" : 98317
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99488,
+				"avg_score" : 98855.09090909091,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98762
+				"median_score" : 98762
 			}
 		],
 		"top_score" : 99488,
@@ -5891,93 +6450,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95196,
+				"avg_score" : 94431.33333333333,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94271
+				"median_score" : 94271
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95349,
+				"avg_score" : 94720.30769230769,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94936
+				"median_score" : 94936
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95854,
+				"avg_score" : 95307.85714285714,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95402
+				"median_score" : 95402
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 97258,
+				"avg_score" : 95784.90909090909,
 				"top_medal" : "c",
 				"total" : 11,
-				"median" : 95894
+				"median_score" : 95894
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96739,
+				"avg_score" : 95969.77777777778,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 96021
+				"median_score" : 96021
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97504,
+				"avg_score" : 96576.07692307692,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96560
+				"median_score" : 96560
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97737,
+				"avg_score" : 96681.35714285714,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96583
+				"median_score" : 96583
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97684,
+				"avg_score" : 97066.7,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97095
+				"median_score" : 97095
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98323,
+				"avg_score" : 97296,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 97232
+				"median_score" : 97232
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98057,
+				"avg_score" : 97824.75,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97927
+				"median_score" : 97927
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98709,
+				"avg_score" : 97994.7,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98083
+				"median_score" : 98083
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98742,
+				"avg_score" : 98349.25,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98286
+				"median_score" : 98286
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99620,
+				"avg_score" : 98731.81818181818,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98682
+				"median_score" : 98682
 			}
 		],
 		"top_score" : 99620,
@@ -6027,93 +6599,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94593,
+				"avg_score" : 92735.66666666667,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 92523
+				"median_score" : 92523
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95039,
+				"avg_score" : 93835.58333333333,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 94109
+				"median_score" : 94109
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96781,
+				"avg_score" : 94446,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 94632
+				"median_score" : 94632
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95937,
+				"avg_score" : 94044.18181818182,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94015
+				"median_score" : 94015
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95960,
+				"avg_score" : 95168.66666666667,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 95101
+				"median_score" : 95101
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96710,
+				"avg_score" : 95249.92307692308,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 95171
+				"median_score" : 95171
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97007,
+				"avg_score" : 95735,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 95718.5
+				"median_score" : 95718.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97390,
+				"avg_score" : 96431.7,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96628.5
+				"median_score" : 96628.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97531,
+				"avg_score" : 97067.33333333333,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 97421
+				"median_score" : 97421
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98562,
+				"avg_score" : 97785.75,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97905.5
+				"median_score" : 97905.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99148,
+				"avg_score" : 97864.4,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97866.5
+				"median_score" : 97866.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98539,
+				"avg_score" : 98253.5,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 98472
+				"median_score" : 98472
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99507,
+				"avg_score" : 98397.90909090909,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98335
+				"median_score" : 98335
 			}
 		],
 		"top_score" : 99507,
@@ -6163,93 +6748,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 92193,
+				"avg_score" : 87666.5,
 				"top_medal" : "g",
 				"total" : 8,
-				"median" : 87474
+				"median_score" : 87474
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95428,
+				"avg_score" : 89898.61538461539,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 90151
+				"median_score" : 90151
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95142,
+				"avg_score" : 91096.85714285714,
 				"top_medal" : "g",
 				"total" : 7,
-				"median" : 91285
+				"median_score" : 91285
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 92504,
+				"avg_score" : 90373.27272727272,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 90210
+				"median_score" : 90210
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 93033,
+				"avg_score" : 90708.11111111111,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 90789
+				"median_score" : 90789
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 93739,
+				"avg_score" : 90987.36363636363,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 91218
+				"median_score" : 91218
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 93378,
+				"avg_score" : 91349.57142857143,
 				"top_medal" : "f",
 				"total" : 14,
-				"median" : 91113
+				"median_score" : 91113
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 94126,
+				"avg_score" : 92367.6,
 				"top_medal" : "f",
 				"total" : 10,
-				"median" : 93344
+				"median_score" : 93344
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 94445,
+				"avg_score" : 93064,
 				"top_medal" : "f",
 				"total" : 3,
-				"median" : 93563
+				"median_score" : 93563
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 93899,
+				"avg_score" : 92909.125,
 				"top_medal" : "f",
 				"total" : 8,
-				"median" : 93293.5
+				"median_score" : 93293.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 95915,
+				"avg_score" : 93581.9,
 				"top_medal" : "f",
 				"total" : 10,
-				"median" : 93949
+				"median_score" : 93949
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 95378,
+				"avg_score" : 94564.75,
 				"top_medal" : "f",
 				"total" : 4,
-				"median" : 94340
+				"median_score" : 94340
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98159,
+				"avg_score" : 96146.90909090909,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95932
+				"median_score" : 95932
 			}
 		],
 		"top_score" : 98159,
@@ -6299,93 +6897,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95327,
+				"avg_score" : 93450.66666666667,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 93207
+				"median_score" : 93207
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95158,
+				"avg_score" : 93654.46153846153,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 93814
+				"median_score" : 93814
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95435,
+				"avg_score" : 93863.71428571429,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 93389
+				"median_score" : 93389
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95867,
+				"avg_score" : 94581.09090909091,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94361
+				"median_score" : 94361
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95212,
+				"avg_score" : 94756.77777777778,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94888
+				"median_score" : 94888
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96731,
+				"avg_score" : 95051.61538461539,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95111
+				"median_score" : 95111
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96549,
+				"avg_score" : 95655.92857142857,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 95796.5
+				"median_score" : 95796.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96792,
+				"avg_score" : 95946.2,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95799.5
+				"median_score" : 95799.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96853,
+				"avg_score" : 96261,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 96137
+				"median_score" : 96137
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97542,
+				"avg_score" : 96919.625,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 96964.5
+				"median_score" : 96964.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98217,
+				"avg_score" : 97128.5,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 97349.5
+				"median_score" : 97349.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98156,
+				"avg_score" : 97330.75,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 97106.5
+				"median_score" : 97106.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98879,
+				"avg_score" : 98184.45454545454,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98170
+				"median_score" : 98170
 			}
 		],
 		"top_score" : 98879,
@@ -6435,93 +7046,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 97190,
+				"avg_score" : 96246.875,
 				"top_medal" : "f",
 				"total" : 8,
-				"median" : 96274.5
+				"median_score" : 96274.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 97508,
+				"avg_score" : 96431.69230769231,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96569
+				"median_score" : 96569
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97365,
+				"avg_score" : 96543.16666666667,
 				"top_medal" : "e",
 				"total" : 6,
-				"median" : 96394.5
+				"median_score" : 96394.5
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 98103,
+				"avg_score" : 96975.54545454546,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 97029
+				"median_score" : 97029
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 98122,
+				"avg_score" : 93429,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 96747
+				"median_score" : 96747
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 98239,
+				"avg_score" : 97302.58333333333,
 				"top_medal" : "c",
 				"total" : 12,
-				"median" : 97342.5
+				"median_score" : 97342.5
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98576,
+				"avg_score" : 97595.07142857143,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 97475
+				"median_score" : 97475
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98323,
+				"avg_score" : 97781.3,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 98058
+				"median_score" : 98058
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97922,
+				"avg_score" : 97792.66666666667,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 97812
+				"median_score" : 97812
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98563,
+				"avg_score" : 98072.375,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 98210
+				"median_score" : 98210
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99177,
+				"avg_score" : 98358.11111111111,
 				"top_medal" : "a",
 				"total" : 9,
-				"median" : 98245
+				"median_score" : 98245
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98472,
+				"avg_score" : 98428.25,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 98446
+				"median_score" : 98446
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99514,
+				"avg_score" : 99056.27272727272,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99113
+				"median_score" : 99113
 			}
 		],
 		"top_score" : 99514,
@@ -6571,93 +7195,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 92886,
+				"avg_score" : 92179,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 92040
+				"median_score" : 92040
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94633,
+				"avg_score" : 92941.76923076923,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 93180
+				"median_score" : 93180
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95153,
+				"avg_score" : 93862.42857142857,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 94053
+				"median_score" : 94053
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94880,
+				"avg_score" : 93576.72727272728,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 93540
+				"median_score" : 93540
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95426,
+				"avg_score" : 94117.44444444444,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94120
+				"median_score" : 94120
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96873,
+				"avg_score" : 94552.53846153847,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94460
+				"median_score" : 94460
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96580,
+				"avg_score" : 94830.64285714286,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 94893
+				"median_score" : 94893
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96786,
+				"avg_score" : 95452.4,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95740
+				"median_score" : 95740
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96113,
+				"avg_score" : 96028.66666666667,
 				"top_medal" : "d",
 				"total" : 3,
-				"median" : 96013
+				"median_score" : 96013
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96793,
+				"avg_score" : 96298.75,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 96456
+				"median_score" : 96456
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97766,
+				"avg_score" : 96684.3,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96723
+				"median_score" : 96723
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97360,
+				"avg_score" : 97138,
 				"top_medal" : "e",
 				"total" : 4,
-				"median" : 97193
+				"median_score" : 97193
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98860,
+				"avg_score" : 97768.90909090909,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97920
+				"median_score" : 97920
 			}
 		],
 		"top_score" : 98860,
@@ -6707,93 +7344,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95757,
+				"avg_score" : 94670.66666666667,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94569
+				"median_score" : 94569
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96188,
+				"avg_score" : 94933.92307692308,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94744
+				"median_score" : 94744
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96682,
+				"avg_score" : 95418.71428571429,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95789
+				"median_score" : 95789
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96196,
+				"avg_score" : 95306.18181818182,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95701
+				"median_score" : 95701
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96578,
+				"avg_score" : 95652.33333333333,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 96044
+				"median_score" : 96044
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 96913,
+				"avg_score" : 96014.07692307692,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96028
+				"median_score" : 96028
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97791,
+				"avg_score" : 96671.28571428571,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96606
+				"median_score" : 96606
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98341,
+				"avg_score" : 97120.7,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96969
+				"median_score" : 96969
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97129,
+				"avg_score" : 96881.33333333333,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 96937
+				"median_score" : 96937
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98564,
+				"avg_score" : 97757.5,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97762.5
+				"median_score" : 97762.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98755,
+				"avg_score" : 97958.7,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97934
+				"median_score" : 97934
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98476,
+				"avg_score" : 98219,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 98241
+				"median_score" : 98241
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99593,
+				"avg_score" : 98767.09090909091,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98708
+				"median_score" : 98708
 			}
 		],
 		"top_score" : 99593,
@@ -6843,93 +7493,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95602,
+				"avg_score" : 94679.88888888889,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94728
+				"median_score" : 94728
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95903,
+				"avg_score" : 94809.07692307692,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95030
+				"median_score" : 95030
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96310,
+				"avg_score" : 95413.85714285714,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95617
+				"median_score" : 95617
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96438,
+				"avg_score" : 95825.72727272728,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95888
+				"median_score" : 95888
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96731,
+				"avg_score" : 96032,
 				"top_medal" : "c",
 				"total" : 9,
-				"median" : 96069
+				"median_score" : 96069
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97439,
+				"avg_score" : 96313.30769230769,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96024
+				"median_score" : 96024
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97853,
+				"avg_score" : 96809.35714285714,
 				"top_medal" : "c",
 				"total" : 14,
-				"median" : 96859.5
+				"median_score" : 96859.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97665,
+				"avg_score" : 96929.3,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96953.5
+				"median_score" : 96953.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97786,
+				"avg_score" : 96802,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 96995
+				"median_score" : 96995
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98305,
+				"avg_score" : 97623.75,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97624
+				"median_score" : 97624
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98140,
+				"avg_score" : 97782.7,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97838
+				"median_score" : 97838
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98591,
+				"avg_score" : 98147,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98094.5
+				"median_score" : 98094.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99254,
+				"avg_score" : 98475.63636363637,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98320
+				"median_score" : 98320
 			}
 		],
 		"top_score" : 99254,
@@ -6938,7 +7601,7 @@
 	{
 		"id" : 51,
 		"lv" : 49,
-		"genre" : "恋歌疾風！かるたクイーンいろは(EX)",
+		"genre" : null,
 		"song" : "恋歌疾風！かるたクイーンいろは",
 		"pf_rate" : "9.46",
 		"fc_rate" : "0.00",
@@ -6979,93 +7642,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95928,
+				"avg_score" : 95064.88888888889,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95040
+				"median_score" : 95040
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 96595,
+				"avg_score" : 95208,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95443
+				"median_score" : 95443
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96645,
+				"avg_score" : 95800.14285714286,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 95928
+				"median_score" : 95928
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96966,
+				"avg_score" : 96337.27272727272,
 				"top_medal" : "c",
 				"total" : 11,
-				"median" : 96343
+				"median_score" : 96343
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 97652,
+				"avg_score" : 96652.77777777778,
 				"top_medal" : "b",
 				"total" : 9,
-				"median" : 96626
+				"median_score" : 96626
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97394,
+				"avg_score" : 96648.46153846153,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 96733
+				"median_score" : 96733
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 98143,
+				"avg_score" : 97200.21428571429,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 97293
+				"median_score" : 97293
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97860,
+				"avg_score" : 97422.4,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 97431.5
+				"median_score" : 97431.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 97891,
+				"avg_score" : 97207.33333333333,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 97778
+				"median_score" : 97778
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98426,
+				"avg_score" : 97905.25,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97913.5
+				"median_score" : 97913.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98867,
+				"avg_score" : 98370.8,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98501.5
+				"median_score" : 98501.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 99068,
+				"avg_score" : 98394.75,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98303.5
+				"median_score" : 98303.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99565,
+				"avg_score" : 98911.27272727272,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98904
+				"median_score" : 98904
 			}
 		],
 		"top_score" : 99565,
@@ -7074,7 +7750,7 @@
 	{
 		"id" : 52,
 		"lv" : 49,
-		"genre" : "最小三倍完全数(EX)",
+		"genre" : null,
 		"song" : "最小三倍完全数",
 		"pf_rate" : "0.00",
 		"fc_rate" : "0.00",
@@ -7115,93 +7791,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 93523,
+				"avg_score" : 92744,
 				"top_medal" : "f",
 				"total" : 8,
-				"median" : 93035.5
+				"median_score" : 93035.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95357,
+				"avg_score" : 93474.07692307692,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 93675
+				"median_score" : 93675
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 95393,
+				"avg_score" : 93990,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 94129
+				"median_score" : 94129
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94722,
+				"avg_score" : 94138.18181818182,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 94433
+				"median_score" : 94433
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 95444,
+				"avg_score" : 93825.44444444444,
 				"top_medal" : "f",
 				"total" : 9,
-				"median" : 94173
+				"median_score" : 94173
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 95667,
+				"avg_score" : 94047.5,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 94115
+				"median_score" : 94115
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96014,
+				"avg_score" : 94988.64285714286,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 94905.5
+				"median_score" : 94905.5
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 96801,
+				"avg_score" : 95700.6,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 96010.5
+				"median_score" : 96010.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96389,
+				"avg_score" : 96158.33333333333,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 96267
+				"median_score" : 96267
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97451,
+				"avg_score" : 95976.875,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 96248.5
+				"median_score" : 96248.5
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98028,
+				"avg_score" : 96620.9,
 				"top_medal" : "d",
 				"total" : 10,
-				"median" : 96450.5
+				"median_score" : 96450.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97906,
+				"avg_score" : 97219.75,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97458
+				"median_score" : 97458
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98512,
+				"avg_score" : 97846,
 				"top_medal" : "b",
 				"total" : 11,
-				"median" : 98332
+				"median_score" : 98332
 			}
 		],
 		"top_score" : 98512,
@@ -7210,7 +7899,7 @@
 	{
 		"id" : 53,
 		"lv" : 49,
-		"genre" : "未完成ノ蒸氣驅動乙女(EX)",
+		"genre" : null,
 		"song" : "未完成ノ蒸氣驅動乙女",
 		"pf_rate" : "2.10",
 		"fc_rate" : "0.00",
@@ -7251,93 +7940,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 94116,
+				"avg_score" : 93223.55555555556,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93516
+				"median_score" : 93516
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95191,
+				"avg_score" : 93708.76923076923,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 94333
+				"median_score" : 94333
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 94566,
+				"avg_score" : 93173.33333333333,
 				"top_medal" : "e",
 				"total" : 6,
-				"median" : 93591.5
+				"median_score" : 93591.5
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 95383,
+				"avg_score" : 93943.63636363637,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 93900
+				"median_score" : 93900
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96016,
+				"avg_score" : 94258.11111111111,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 94608
+				"median_score" : 94608
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97225,
+				"avg_score" : 95403.53846153847,
 				"top_medal" : "c",
 				"total" : 13,
-				"median" : 95633
+				"median_score" : 95633
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 96658,
+				"avg_score" : 95513.92857142857,
 				"top_medal" : "c",
 				"total" : 14,
-				"median" : 95437
+				"median_score" : 95437
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 97216,
+				"avg_score" : 96246.2,
 				"top_medal" : "c",
 				"total" : 10,
-				"median" : 96058
+				"median_score" : 96058
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 96583,
+				"avg_score" : 96297,
 				"top_medal" : "c",
 				"total" : 3,
-				"median" : 96508
+				"median_score" : 96508
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 97766,
+				"avg_score" : 97088.25,
 				"top_medal" : "b",
 				"total" : 8,
-				"median" : 97079
+				"median_score" : 97079
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 97983,
+				"avg_score" : 97062.1,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 96916.5
+				"median_score" : 96916.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98000,
+				"avg_score" : 97683,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 97703.5
+				"median_score" : 97703.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98866,
+				"avg_score" : 98091.27272727272,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 98050
+				"median_score" : 98050
 			}
 		],
 		"top_score" : 98866,
@@ -7346,7 +8048,7 @@
 	{
 		"id" : 54,
 		"lv" : 49,
-		"genre" : "激走！！ヤング☆ダンプ！(EX)",
+		"genre" : null,
 		"song" : "激走！！ヤング☆ダンプ！",
 		"pf_rate" : "3.79",
 		"fc_rate" : "0.00",
@@ -7387,93 +8089,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 96965,
+				"avg_score" : 96263.66666666667,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 96179
+				"median_score" : 96179
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 97447,
+				"avg_score" : 95828.69230769231,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 96091
+				"median_score" : 96091
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 97411,
+				"avg_score" : 96766.71428571429,
 				"top_medal" : "e",
 				"total" : 7,
-				"median" : 96807
+				"median_score" : 96807
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 98116,
+				"avg_score" : 96965.54545454546,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 97253
+				"median_score" : 97253
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 98450,
+				"avg_score" : 97341.11111111111,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 97353
+				"median_score" : 97353
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 98251,
+				"avg_score" : 97282,
 				"top_medal" : "b",
 				"total" : 13,
-				"median" : 97329
+				"median_score" : 97329
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 99119,
+				"avg_score" : 97845.07142857143,
 				"top_medal" : "d",
 				"total" : 14,
-				"median" : 97837
+				"median_score" : 97837
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98879,
+				"avg_score" : 97935,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 97966
+				"median_score" : 97966
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98350,
+				"avg_score" : 98174,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 98309
+				"median_score" : 98309
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98949,
+				"avg_score" : 98563.125,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 98468
+				"median_score" : 98468
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 99454,
+				"avg_score" : 98741.9,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98747
+				"median_score" : 98747
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 99231,
+				"avg_score" : 98780.25,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 98655.5
+				"median_score" : 98655.5
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99788,
+				"avg_score" : 99209.27272727272,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99307
+				"median_score" : 99307
 			}
 		],
 		"top_score" : 99788,
@@ -7482,7 +8197,7 @@
 	{
 		"id" : 55,
 		"lv" : 49,
-		"genre" : "西馬込交通曲(EX)",
+		"genre" : null,
 		"song" : "西馬込交通曲",
 		"pf_rate" : "0.91",
 		"fc_rate" : "0.00",
@@ -7523,93 +8238,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 92192,
+				"avg_score" : 90060.375,
 				"top_medal" : "f",
 				"total" : 8,
-				"median" : 90609
+				"median_score" : 90609
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 94200,
+				"avg_score" : 91023.69230769231,
 				"top_medal" : "f",
 				"total" : 13,
-				"median" : 91332
+				"median_score" : 91332
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 93746,
+				"avg_score" : 92222.28571428571,
 				"top_medal" : "f",
 				"total" : 7,
-				"median" : 92040
+				"median_score" : 92040
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 94946,
+				"avg_score" : 92832.45454545454,
 				"top_medal" : "f",
 				"total" : 11,
-				"median" : 92571
+				"median_score" : 92571
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 93670,
+				"avg_score" : 92579,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 93006
+				"median_score" : 93006
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 94251,
+				"avg_score" : 92552.08333333333,
 				"top_medal" : "e",
 				"total" : 12,
-				"median" : 92949.5
+				"median_score" : 92949.5
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 95085,
+				"avg_score" : 94036.64285714286,
 				"top_medal" : "e",
 				"total" : 14,
-				"median" : 93875
+				"median_score" : 93875
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 95994,
+				"avg_score" : 94813.1,
 				"top_medal" : "e",
 				"total" : 10,
-				"median" : 95009
+				"median_score" : 95009
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 95205,
+				"avg_score" : 94497.33333333333,
 				"top_medal" : "e",
 				"total" : 3,
-				"median" : 94851
+				"median_score" : 94851
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 96632,
+				"avg_score" : 95574.375,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 95628
+				"median_score" : 95628
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 96809,
+				"avg_score" : 95675.77777777778,
 				"top_medal" : "e",
 				"total" : 9,
-				"median" : 95495
+				"median_score" : 95495
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 97277,
+				"avg_score" : 96669,
 				"top_medal" : "b",
 				"total" : 4,
-				"median" : 96999
+				"median_score" : 96999
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 98660,
+				"avg_score" : 97506,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 97612
+				"median_score" : 97612
 			}
 		],
 		"top_score" : 98660,
@@ -7618,7 +8346,7 @@
 	{
 		"id" : 56,
 		"lv" : 49,
-		"genre" : "限界食堂(EX)",
+		"genre" : null,
 		"song" : "限界食堂",
 		"pf_rate" : "8.96",
 		"fc_rate" : "0.00",
@@ -7659,93 +8387,106 @@
 			{
 				"popn_class" : "099.00_<=_x_<_099.10",
 				"top_score" : 95769,
+				"avg_score" : 94448.375,
 				"top_medal" : "e",
 				"total" : 8,
-				"median" : 94363.5
+				"median_score" : 94363.5
 			},
 			{
 				"popn_class" : "099.10_<=_x_<_099.20",
 				"top_score" : 95828,
+				"avg_score" : 94707.30769230769,
 				"top_medal" : "e",
 				"total" : 13,
-				"median" : 95065
+				"median_score" : 95065
 			},
 			{
 				"popn_class" : "099.20_<=_x_<_099.30",
 				"top_score" : 96047,
+				"avg_score" : 95566.66666666667,
 				"top_medal" : "e",
 				"total" : 6,
-				"median" : 95544
+				"median_score" : 95544
 			},
 			{
 				"popn_class" : "099.30_<=_x_<_099.40",
 				"top_score" : 96751,
+				"avg_score" : 95571.81818181818,
 				"top_medal" : "e",
 				"total" : 11,
-				"median" : 95816
+				"median_score" : 95816
 			},
 			{
 				"popn_class" : "099.40_<=_x_<_099.50",
 				"top_score" : 96952,
+				"avg_score" : 96074.75,
 				"top_medal" : "c",
 				"total" : 8,
-				"median" : 96115
+				"median_score" : 96115
 			},
 			{
 				"popn_class" : "099.50_<=_x_<_099.60",
 				"top_score" : 97408,
+				"avg_score" : 96482.75,
 				"top_medal" : "a",
 				"total" : 12,
-				"median" : 96413.5
+				"median_score" : 96413.5
 			},
 			{
 				"popn_class" : "099.60_<=_x_<_099.70",
 				"top_score" : 97538,
+				"avg_score" : 96758.57142857143,
 				"top_medal" : "b",
 				"total" : 14,
-				"median" : 96911
+				"median_score" : 96911
 			},
 			{
 				"popn_class" : "099.70_<=_x_<_099.80",
 				"top_score" : 98414,
+				"avg_score" : 97190.6,
 				"top_medal" : "b",
 				"total" : 10,
-				"median" : 97280.5
+				"median_score" : 97280.5
 			},
 			{
 				"popn_class" : "099.80_<=_x_<_099.90",
 				"top_score" : 98029,
+				"avg_score" : 97082.33333333333,
 				"top_medal" : "b",
 				"total" : 3,
-				"median" : 96934
+				"median_score" : 96934
 			},
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"top_score" : 98278,
+				"avg_score" : 97755.5,
 				"top_medal" : "a",
 				"total" : 8,
-				"median" : 97810
+				"median_score" : 97810
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
 				"top_score" : 98846,
+				"avg_score" : 98207.2,
 				"top_medal" : "a",
 				"total" : 10,
-				"median" : 98194.5
+				"median_score" : 98194.5
 			},
 			{
 				"popn_class" : "100.10_<=_x_<_100.20",
 				"top_score" : 98899,
+				"avg_score" : 98458.25,
 				"top_medal" : "a",
 				"total" : 4,
-				"median" : 98473
+				"median_score" : 98473
 			},
 			{
 				"popn_class" : "100.20_<=_x",
 				"top_score" : 99520,
+				"avg_score" : 98987,
 				"top_medal" : "a",
 				"total" : 11,
-				"median" : 99071
+				"median_score" : 99071
 			}
 		],
 		"top_score" : 99520,

@@ -45,16 +45,16 @@ const v_accordion_grid_tbody = {
                             ],
                             data: [
                                 this.item.num_of_perfect,
-                                this.item.num_of_fullCombo_good_1_5,
-                                this.item.num_of_fullCombo_good_6_20,
-                                this.item.num_of_fullCombo_good_21_,
-                                this.item.num_of_clear_bad_1_5,
-                                this.item.num_of_clear_bad_6_20,
-                                this.item.num_of_clear_bad_21_,
+                                this.item.num_of_fullCombo_1_good_5,
+                                this.item.num_of_fullCombo_6_good_20,
+                                this.item.num_of_fullCombo_21_good,
+                                this.item.num_of_clear_1_bad_5,
+                                this.item.num_of_clear_6_bad_20,
+                                this.item.num_of_clear_21_bad,
                                 this.item.num_of_easy,
-                                this.item.num_of_failed_gauge_16_15,
-                                this.item.num_of_failed_gauge_14_12,
-                                this.item.num_of_failed_gauge_11_0
+                                this.item.num_of_failed_15_gauge,
+                                this.item.num_of_failed_12_gauge,
+                                this.item.num_of_failed_0_gauge
                             ],
                         }],
                     },
@@ -95,17 +95,17 @@ const v_accordion_grid_tbody = {
                         datasets: [
                             {
                                 label: "max",
-                                data: this.item.avg_scores_group_by_popn_class.map(i => i.max),
+                                data: this.item.avg_scores_group_by_popn_class.map(i => i.top_score),
                                 borderColor: '#ff6384',
                             },
                             {
                                 label: "median",
-                                data: this.item.avg_scores_group_by_popn_class.map(i => Math.round(i.median)),
+                                data: this.item.avg_scores_group_by_popn_class.map(i => Math.round(i.median_score)),
                                 borderColor: '#4bc0c0',
                             },
                             {
                                 label: "avg",
-                                data: this.item.avg_scores_group_by_popn_class.map(i => Math.round(i.avg)),
+                                data: this.item.avg_scores_group_by_popn_class.map(i => Math.round(i.avg_score)),
                                 borderColor: '#ff9f40',
                             },
                         ],

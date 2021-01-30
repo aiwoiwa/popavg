@@ -24,6 +24,7 @@
                 <td class='right rate percent'>{{ item.fc_rate }}</td>
                 <td class='right rate percent'>{{ item.clear_rate }}</td>
                 <td class='right rate'>{{ item.max }}</td>
+                <td class='center'>{{ item.max }}</td>
                 <td>
                     <span :class="['icon', {'active': isOpened}]">
                         <span class="icon-line"></span>
@@ -99,6 +100,13 @@
                                  {active: sortKey==='max'}]">
                         Top<br/>Score
                     </th>
+                    <th @click="sortBy('max')"
+                        :class="['indicator',
+                                 'center',
+                                 sortOrders['max'] > 0 ? 'asc' : 'desc',
+                                 {active: sortKey==='max'}]">
+                        Top<br/>Medal
+                    </th>
                     <th></th>
                 </tr>
             </thead>
@@ -108,7 +116,7 @@
                    :item="item">
             </tbody>
             <tfoot>
-                <td colspan='7' class="right">
+                <td colspan='8' class="right">
                     最終更新日:2021/01/08 00:05:47
                 </td>
             </tfoot>
