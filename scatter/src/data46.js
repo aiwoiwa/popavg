@@ -179,7 +179,7 @@ const data46 =
 	{
 		"x" : 0.4595744680851064,
 		"y" : 0.2680851063829787,
-		"genre" : "EBONY & IVORY(EX)",
+		"genre" : "EBONY &amp; IVORY(EX)",
 		"song" : "EBONY & IVORY",
 		"difficulty" : "EX",
 		"isUPPER" : false,
