@@ -16,7 +16,7 @@
                 @click='toggle()'>
                 <td class='center'>{{ item.version }}</td>
                 <td class='left'>
-                    {{ item.genre }}
+                    {{ item.genre ?? item.song }}
                     <span class='UPPER' v-if='item.isUPPER'>(UPPER)</span>
                     <span :class='item.difficulty'>({{ item.difficulty }})</span>
                 </td>
