@@ -26,11 +26,11 @@
                 <td class='right rate'>{{ item.top_score }}</td>
                 <td :class="['center', item.top_medal]">
                     {{
-                        ~['a', 'b', 'e', 'l'].indexOf(item.top_medal) ? '★'
-                        : ~['c', 'f', 'm'].indexOf(item.top_medal) ? '◆'
-                        : ~['d', 'g', 'n'].indexOf(item.top_medal) ? '●'
-                        : ~['k'].indexOf(item.top_medal) ? 'EASY'
-                        : ''
+                        ~[10, 9, 6, 2].indexOf(item.top_medal) ? '★'
+                      : ~[    8, 5, 1].indexOf(item.top_medal) ? '◆'
+                      : ~[    7, 4, 0].indexOf(item.top_medal) ? '●'
+                      : ~[       3   ].indexOf(item.top_medal) ? 'EASY'
+                      : ''
                     }}
                 </td>
                 <td>

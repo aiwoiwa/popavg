@@ -8,7 +8,7 @@
 		"difficulty" : "EX",
 		"ver" : "pe",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.53",
 		"clear_rate" : "35.63",
 		"distribution_of_medal" : [
 			0,
@@ -42,7 +42,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					88781,
 					88261,
@@ -51,7 +51,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90257,
 					87890,
@@ -60,7 +60,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					91716,
 					89796,
@@ -69,7 +69,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92543,
 					90229,
@@ -78,7 +78,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92129,
 					90201,
@@ -87,7 +87,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92537,
 					90883,
@@ -96,7 +96,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92319,
 					91652,
@@ -105,7 +105,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93951,
 					92255,
@@ -114,7 +114,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93186,
 					92733,
@@ -123,7 +123,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94287,
 					93253,
@@ -132,7 +132,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95455,
 					94469,
@@ -141,7 +141,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95354,
 					94625,
@@ -150,7 +150,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					97048,
 					96456,
@@ -160,7 +160,7 @@
 		],
 		"ver_order" : 25,
 		"top_score" : 97048,
-		"top_medal" : "c"
+		"top_medal" : 8
 	},
 	{
 		"id" : 1,
@@ -171,7 +171,7 @@
 		"difficulty" : "EX",
 		"ver" : "うさ",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.51",
 		"clear_rate" : "25.38",
 		"distribution_of_medal" : [
 			0,
@@ -205,7 +205,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					84330,
 					81688,
@@ -214,7 +214,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					85847,
 					80637,
@@ -223,7 +223,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					86415,
 					83773,
@@ -232,7 +232,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					86674,
 					83360,
@@ -241,7 +241,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					87834,
 					84833,
@@ -250,7 +250,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					88047,
 					86318,
@@ -259,7 +259,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					87570,
 					85235,
@@ -268,7 +268,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					88523,
 					86542,
@@ -277,7 +277,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					90786,
 					88696,
@@ -286,7 +286,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91125,
 					89543,
@@ -295,7 +295,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91527,
 					89489,
@@ -304,7 +304,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					90327,
 					90230,
@@ -313,7 +313,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					96944,
 					92475,
@@ -323,7 +323,7 @@
 		],
 		"ver_order" : 24,
 		"top_score" : 96944,
-		"top_medal" : "c"
+		"top_medal" : 8
 	},
 	{
 		"id" : 2,
@@ -334,7 +334,7 @@
 		"difficulty" : "EX",
 		"ver" : "LT",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.93",
 		"clear_rate" : "49.29",
 		"distribution_of_medal" : [
 			0,
@@ -368,7 +368,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					92457,
 					89934,
@@ -377,7 +377,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					92068,
 					90169,
@@ -386,7 +386,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					93295,
 					92162,
@@ -395,7 +395,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94033,
 					91138,
@@ -404,7 +404,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95062,
 					93223,
@@ -413,7 +413,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					94822,
 					93130,
@@ -422,7 +422,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94953,
 					93749,
@@ -431,7 +431,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95073,
 					94138,
@@ -440,7 +440,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95254,
 					94449,
@@ -449,7 +449,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95851,
 					95394,
@@ -458,7 +458,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96327,
 					95769,
@@ -467,7 +467,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96091,
 					95892,
@@ -476,7 +476,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "b",
+				"top_medal" : 9,
 				"scores" : [
 					98330,
 					96715,
@@ -486,7 +486,7 @@
 		],
 		"ver_order" : 22,
 		"top_score" : 98330,
-		"top_medal" : "b"
+		"top_medal" : 9
 	},
 	{
 		"id" : 3,
@@ -497,7 +497,7 @@
 		"difficulty" : "EX",
 		"ver" : "pe",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.52",
 		"clear_rate" : "44.50",
 		"distribution_of_medal" : [
 			0,
@@ -531,7 +531,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					89975,
 					85846,
@@ -540,7 +540,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					88349,
 					85533,
@@ -549,7 +549,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					90453,
 					89635,
@@ -558,7 +558,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92092,
 					89030,
@@ -567,7 +567,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					90552,
 					89432,
@@ -576,7 +576,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91484,
 					90828,
@@ -585,7 +585,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92257,
 					91252,
@@ -594,7 +594,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93736,
 					91767,
@@ -603,7 +603,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92141,
 					91503,
@@ -612,7 +612,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94085,
 					93221,
@@ -621,7 +621,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94815,
 					93803,
@@ -630,7 +630,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95079,
 					93527,
@@ -639,7 +639,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					96926,
 					95754,
@@ -649,7 +649,7 @@
 		],
 		"ver_order" : 25,
 		"top_score" : 96926,
-		"top_medal" : "d"
+		"top_medal" : 7
 	},
 	{
 		"id" : 4,
@@ -660,7 +660,7 @@
 		"difficulty" : "EX",
 		"ver" : "pe",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.67",
 		"clear_rate" : "23.48",
 		"distribution_of_medal" : [
 			0,
@@ -694,7 +694,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "n",
+				"top_medal" : 0,
 				"scores" : [
 					80685,
 					78737,
@@ -703,7 +703,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "n",
+				"top_medal" : 0,
 				"scores" : [
 					84766,
 					81475,
@@ -712,7 +712,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					87365,
 					84927,
@@ -721,7 +721,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					86812,
 					83233,
@@ -730,7 +730,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					87002,
 					85135,
@@ -739,7 +739,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90374,
 					86859,
@@ -748,7 +748,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					89210,
 					85250,
@@ -757,7 +757,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					88899,
 					86510,
@@ -766,7 +766,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					89504,
 					89314,
@@ -775,7 +775,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91475,
 					90582,
@@ -784,7 +784,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91832,
 					89605,
@@ -793,7 +793,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					91342,
 					90671,
@@ -802,7 +802,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					95746,
 					93100,
@@ -812,7 +812,7 @@
 		],
 		"ver_order" : 25,
 		"top_score" : 95746,
-		"top_medal" : "d"
+		"top_medal" : 7
 	},
 	{
 		"id" : 5,
@@ -823,7 +823,7 @@
 		"difficulty" : "EX",
 		"ver" : "うさ",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.46",
 		"clear_rate" : "21.29",
 		"distribution_of_medal" : [
 			0,
@@ -857,7 +857,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					87247,
 					86450,
@@ -866,7 +866,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91736,
 					88428,
@@ -875,7 +875,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					91397,
 					89481,
@@ -884,7 +884,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					91155,
 					89167,
@@ -893,7 +893,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92501,
 					89825,
@@ -902,7 +902,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92876,
 					90133,
@@ -911,7 +911,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					92095,
 					91422,
@@ -920,7 +920,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92901,
 					92111,
@@ -929,7 +929,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93528,
 					91787,
@@ -938,7 +938,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93595,
 					92383,
@@ -947,7 +947,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94689,
 					94093,
@@ -956,7 +956,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94992,
 					93862,
@@ -965,7 +965,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					97586,
 					95942,
@@ -975,7 +975,7 @@
 		],
 		"ver_order" : 24,
 		"top_score" : 97586,
-		"top_medal" : "d"
+		"top_medal" : 7
 	},
 	{
 		"id" : 6,
@@ -986,7 +986,7 @@
 		"difficulty" : "EX",
 		"ver" : "pe",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.58",
 		"clear_rate" : "40.00",
 		"distribution_of_medal" : [
 			0,
@@ -1020,7 +1020,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "m",
+				"top_medal" : 1,
 				"scores" : [
 					87508,
 					84438,
@@ -1029,7 +1029,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90698,
 					87644,
@@ -1038,7 +1038,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "k",
+				"top_medal" : 3,
 				"scores" : [
 					88592,
 					87196,
@@ -1047,7 +1047,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90431,
 					88303,
@@ -1056,7 +1056,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					89824,
 					89114,
@@ -1065,7 +1065,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92502,
 					90249,
@@ -1074,7 +1074,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92133,
 					90755,
@@ -1083,7 +1083,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92582,
 					91495,
@@ -1092,7 +1092,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					92911,
 					92236,
@@ -1101,7 +1101,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94239,
 					93257,
@@ -1110,7 +1110,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94795,
 					93277,
@@ -1119,7 +1119,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94693,
 					93686,
@@ -1128,7 +1128,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					97219,
 					95391,
@@ -1138,7 +1138,7 @@
 		],
 		"ver_order" : 25,
 		"top_score" : 97219,
-		"top_medal" : "c"
+		"top_medal" : 8
 	},
 	{
 		"id" : 7,
@@ -1149,7 +1149,7 @@
 		"difficulty" : "EX",
 		"ver" : "うさ",
 		"pf_rate" : "0.45",
-		"fc_rate" : "0.00",
+		"fc_rate" : "2.25",
 		"clear_rate" : "62.61",
 		"distribution_of_medal" : [
 			1,
@@ -1183,7 +1183,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92934,
 					91610,
@@ -1192,7 +1192,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92928,
 					92269,
@@ -1201,7 +1201,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93191,
 					92573,
@@ -1210,7 +1210,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94641,
 					93100,
@@ -1219,7 +1219,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					94257,
 					93925,
@@ -1228,7 +1228,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95862,
 					94567,
@@ -1237,7 +1237,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96120,
 					94894,
@@ -1246,7 +1246,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96126,
 					95401,
@@ -1255,7 +1255,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95724,
 					95719,
@@ -1264,7 +1264,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96985,
 					96278,
@@ -1273,7 +1273,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					97421,
 					96945,
@@ -1282,7 +1282,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					97272,
 					96550,
@@ -1291,7 +1291,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "a",
+				"top_medal" : 10,
 				"scores" : [
 					98693,
 					97495,
@@ -1301,7 +1301,7 @@
 		],
 		"ver_order" : 24,
 		"top_score" : 98693,
-		"top_medal" : "a"
+		"top_medal" : 10
 	},
 	{
 		"id" : 8,
@@ -1312,7 +1312,7 @@
 		"difficulty" : "EX",
 		"ver" : "pe",
 		"pf_rate" : "0.48",
-		"fc_rate" : "0.00",
+		"fc_rate" : "2.41",
 		"clear_rate" : "57.48",
 		"distribution_of_medal" : [
 			1,
@@ -1346,7 +1346,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91612,
 					90517,
@@ -1355,7 +1355,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93262,
 					91579,
@@ -1364,7 +1364,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					93916,
 					92391,
@@ -1373,7 +1373,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93224,
 					92227,
@@ -1382,7 +1382,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93578,
 					93267,
@@ -1391,7 +1391,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94673,
 					93643,
@@ -1400,7 +1400,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95348,
 					94316,
@@ -1409,7 +1409,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95882,
 					94488,
@@ -1418,7 +1418,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95539,
 					94733,
@@ -1427,7 +1427,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96574,
 					95128,
@@ -1436,7 +1436,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96530,
 					96040,
@@ -1445,7 +1445,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					97342,
 					96239,
@@ -1454,7 +1454,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "a",
+				"top_medal" : 10,
 				"scores" : [
 					98665,
 					97777,
@@ -1464,7 +1464,7 @@
 		],
 		"ver_order" : 25,
 		"top_score" : 98665,
-		"top_medal" : "a"
+		"top_medal" : 10
 	},
 	{
 		"id" : 9,
@@ -1475,7 +1475,7 @@
 		"difficulty" : "EX",
 		"ver" : "解",
 		"pf_rate" : "0.54",
-		"fc_rate" : "0.00",
+		"fc_rate" : "1.08",
 		"clear_rate" : "47.82",
 		"distribution_of_medal" : [
 			1,
@@ -1509,7 +1509,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					92860,
 					91803,
@@ -1518,7 +1518,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95172,
 					91673,
@@ -1527,7 +1527,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94087,
 					92117,
@@ -1536,7 +1536,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95121,
 					93770,
@@ -1545,7 +1545,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95104,
 					94222,
@@ -1554,7 +1554,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95539,
 					94691,
@@ -1563,7 +1563,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96461,
 					95382,
@@ -1572,7 +1572,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96382,
 					95206,
@@ -1581,7 +1581,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96517,
 					95551,
@@ -1590,7 +1590,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					97456,
 					96068,
@@ -1599,7 +1599,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					97738,
 					97252,
@@ -1608,7 +1608,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					97591,
 					97199,
@@ -1617,7 +1617,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "a",
+				"top_medal" : 10,
 				"scores" : [
 					99576,
 					98530,
@@ -1627,7 +1627,7 @@
 		],
 		"ver_order" : 26,
 		"top_score" : 99576,
-		"top_medal" : "a"
+		"top_medal" : 10
 	},
 	{
 		"id" : 10,
@@ -1638,7 +1638,7 @@
 		"difficulty" : "EX",
 		"ver" : "SP",
 		"pf_rate" : "1.68",
-		"fc_rate" : "0.00",
+		"fc_rate" : "8.40",
 		"clear_rate" : "73.10",
 		"distribution_of_medal" : [
 			4,
@@ -1672,7 +1672,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					94245,
 					92589,
@@ -1681,7 +1681,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					94612,
 					92475,
@@ -1690,7 +1690,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94132,
 					93832,
@@ -1699,7 +1699,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95602,
 					94217,
@@ -1708,7 +1708,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					95381,
 					94358,
@@ -1717,7 +1717,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96127,
 					94663,
@@ -1726,7 +1726,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					96263,
 					95707,
@@ -1735,7 +1735,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					96218,
 					95828,
@@ -1744,7 +1744,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					96144,
 					95890,
@@ -1753,7 +1753,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					97184,
 					96803,
@@ -1762,7 +1762,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "b",
+				"top_medal" : 9,
 				"scores" : [
 					97478,
 					97159,
@@ -1771,7 +1771,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "b",
+				"top_medal" : 9,
 				"scores" : [
 					98168,
 					97249,
@@ -1780,7 +1780,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "a",
+				"top_medal" : 10,
 				"scores" : [
 					99033,
 					97942,
@@ -1790,7 +1790,7 @@
 		],
 		"ver_order" : 21,
 		"top_score" : 99033,
-		"top_medal" : "a"
+		"top_medal" : 10
 	},
 	{
 		"id" : 11,
@@ -1801,7 +1801,7 @@
 		"difficulty" : "EX",
 		"ver" : "pe",
 		"pf_rate" : "0.46",
-		"fc_rate" : "0.00",
+		"fc_rate" : "5.63",
 		"clear_rate" : "75.11",
 		"distribution_of_medal" : [
 			1,
@@ -1835,7 +1835,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94428,
 					91023,
@@ -1844,7 +1844,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96226,
 					93059,
@@ -1853,7 +1853,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95833,
 					93470,
@@ -1862,7 +1862,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95464,
 					93958,
@@ -1871,7 +1871,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					96339,
 					94833,
@@ -1880,7 +1880,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95809,
 					95267,
@@ -1889,7 +1889,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					97470,
 					95568,
@@ -1898,7 +1898,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					97654,
 					96339,
@@ -1907,7 +1907,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					97291,
 					97184,
@@ -1916,7 +1916,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					98059,
 					97086,
@@ -1925,7 +1925,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					98440,
 					97330,
@@ -1934,7 +1934,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					98553,
 					98220,
@@ -1943,7 +1943,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "a",
+				"top_medal" : 10,
 				"scores" : [
 					99535,
 					98619,
@@ -1953,7 +1953,7 @@
 		],
 		"ver_order" : 25,
 		"top_score" : 99535,
-		"top_medal" : "a"
+		"top_medal" : 10
 	},
 	{
 		"id" : 12,
@@ -1964,7 +1964,7 @@
 		"difficulty" : "EX",
 		"ver" : "pe",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "1.48",
 		"clear_rate" : "55.44",
 		"distribution_of_medal" : [
 			0,
@@ -1998,7 +1998,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					92866,
 					91725,
@@ -2007,7 +2007,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93200,
 					92522,
@@ -2016,7 +2016,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94133,
 					93105,
@@ -2025,7 +2025,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94133,
 					93555,
@@ -2034,7 +2034,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94944,
 					93944,
@@ -2043,7 +2043,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95127,
 					94094,
@@ -2052,7 +2052,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95722,
 					94739,
@@ -2061,7 +2061,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96044,
 					95322,
@@ -2070,7 +2070,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96311,
 					95850,
@@ -2079,7 +2079,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96750,
 					96228,
@@ -2088,7 +2088,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					97194,
 					96667,
@@ -2097,7 +2097,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96894,
 					96877,
@@ -2106,7 +2106,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "b",
+				"top_medal" : 9,
 				"scores" : [
 					98583,
 					97994,
@@ -2116,7 +2116,7 @@
 		],
 		"ver_order" : 25,
 		"top_score" : 98583,
-		"top_medal" : "b"
+		"top_medal" : 9
 	},
 	{
 		"id" : 13,
@@ -2127,7 +2127,7 @@
 		"difficulty" : "EX",
 		"ver" : "17",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.45",
 		"clear_rate" : "38.73",
 		"distribution_of_medal" : [
 			0,
@@ -2161,7 +2161,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					88372,
 					87313,
@@ -2170,7 +2170,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90784,
 					88300,
@@ -2179,7 +2179,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90607,
 					89797,
@@ -2188,7 +2188,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90751,
 					89699,
@@ -2197,7 +2197,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					91601,
 					91317,
@@ -2206,7 +2206,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93287,
 					90366,
@@ -2215,7 +2215,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					92575,
 					91500,
@@ -2224,7 +2224,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92751,
 					92078,
@@ -2233,7 +2233,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92267,
 					92117,
@@ -2242,7 +2242,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93980,
 					93147,
@@ -2251,7 +2251,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94725,
 					93327,
@@ -2260,7 +2260,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94947,
 					93555,
@@ -2269,7 +2269,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					96300,
 					94372,
@@ -2279,7 +2279,7 @@
 		],
 		"ver_order" : 17,
 		"top_score" : 96300,
-		"top_medal" : "d"
+		"top_medal" : 7
 	},
 	{
 		"id" : 14,
@@ -2290,7 +2290,7 @@
 		"difficulty" : "EX",
 		"ver" : "20",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.44",
 		"clear_rate" : "40.88",
 		"distribution_of_medal" : [
 			0,
@@ -2324,7 +2324,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					88244,
 					87095,
@@ -2333,7 +2333,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					90613,
 					89234,
@@ -2342,7 +2342,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					92224,
 					89815,
@@ -2351,7 +2351,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91313,
 					90145,
@@ -2360,7 +2360,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91570,
 					90798,
@@ -2369,7 +2369,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93524,
 					90660,
@@ -2378,7 +2378,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92897,
 					91534,
@@ -2387,7 +2387,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93980,
 					92251,
@@ -2396,7 +2396,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93095,
 					92739,
@@ -2405,7 +2405,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95445,
 					92980,
@@ -2414,7 +2414,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95155,
 					93633,
@@ -2423,7 +2423,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94996,
 					94600,
@@ -2432,7 +2432,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "d",
+				"top_medal" : 7,
 				"scores" : [
 					97155,
 					95148,
@@ -2442,7 +2442,7 @@
 		],
 		"ver_order" : 20,
 		"top_score" : 97155,
-		"top_medal" : "d"
+		"top_medal" : 7
 	},
 	{
 		"id" : 15,
@@ -2453,7 +2453,7 @@
 		"difficulty" : "EX",
 		"ver" : "16",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.86",
 		"clear_rate" : "65.94",
 		"distribution_of_medal" : [
 			0,
@@ -2487,7 +2487,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94016,
 					92414,
@@ -2496,7 +2496,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94845,
 					93398,
@@ -2505,7 +2505,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96275,
 					94405,
@@ -2514,7 +2514,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					95297,
 					94576,
@@ -2523,7 +2523,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95400,
 					94319,
@@ -2532,7 +2532,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96024,
 					94599,
@@ -2541,7 +2541,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96024,
 					95372,
@@ -2550,7 +2550,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					96430,
 					95643,
@@ -2559,7 +2559,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96453,
 					96413,
@@ -2568,7 +2568,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					97545,
 					96298,
@@ -2577,7 +2577,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					98054,
 					96850,
@@ -2586,7 +2586,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					97122,
 					96825,
@@ -2595,7 +2595,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "c",
+				"top_medal" : 8,
 				"scores" : [
 					98855,
 					97883,
@@ -2605,7 +2605,7 @@
 		],
 		"ver_order" : 16,
 		"top_score" : 98855,
-		"top_medal" : "c"
+		"top_medal" : 8
 	},
 	{
 		"id" : 16,
@@ -2616,7 +2616,7 @@
 		"difficulty" : "EX",
 		"ver" : "20",
 		"pf_rate" : "0.00",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.87",
 		"clear_rate" : "55.26",
 		"distribution_of_medal" : [
 			0,
@@ -2650,7 +2650,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91567,
 					89573,
@@ -2659,7 +2659,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92730,
 					90595,
@@ -2668,7 +2668,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94011,
 					92297,
@@ -2677,7 +2677,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92825,
 					91460,
@@ -2686,7 +2686,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93707,
 					91988,
@@ -2695,7 +2695,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					94803,
 					92011,
@@ -2704,7 +2704,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94207,
 					93396,
@@ -2713,7 +2713,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95376,
 					93780,
@@ -2722,7 +2722,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95078,
 					94623,
@@ -2731,7 +2731,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96382,
 					95382,
@@ -2740,7 +2740,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96477,
 					95351,
@@ -2749,7 +2749,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					96471,
 					95685,
@@ -2758,7 +2758,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "b",
+				"top_medal" : 9,
 				"scores" : [
 					98196,
 					96887,
@@ -2768,7 +2768,7 @@
 		],
 		"ver_order" : 20,
 		"top_score" : 98196,
-		"top_medal" : "b"
+		"top_medal" : 9
 	},
 	{
 		"id" : 17,
@@ -2779,7 +2779,7 @@
 		"difficulty" : "EX",
 		"ver" : "うさ",
 		"pf_rate" : "0.47",
-		"fc_rate" : "0.00",
+		"fc_rate" : "0.47",
 		"clear_rate" : "47.14",
 		"distribution_of_medal" : [
 			1,
@@ -2813,7 +2813,7 @@
 		"group_by_popn_class" : [
 			{
 				"popn_class" : "99.0",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					89431,
 					87675,
@@ -2822,7 +2822,7 @@
 			},
 			{
 				"popn_class" : "99.1",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					91985,
 					89020,
@@ -2831,7 +2831,7 @@
 			},
 			{
 				"popn_class" : "99.2",
-				"top_medal" : "g",
+				"top_medal" : 4,
 				"scores" : [
 					91903,
 					89824,
@@ -2840,7 +2840,7 @@
 			},
 			{
 				"popn_class" : "99.3",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92768,
 					90213,
@@ -2849,7 +2849,7 @@
 			},
 			{
 				"popn_class" : "99.4",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					92888,
 					91351,
@@ -2858,7 +2858,7 @@
 			},
 			{
 				"popn_class" : "99.5",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					93358,
 					91728,
@@ -2867,7 +2867,7 @@
 			},
 			{
 				"popn_class" : "99.6",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					93708,
 					92699,
@@ -2876,7 +2876,7 @@
 			},
 			{
 				"popn_class" : "99.7",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94447,
 					93361,
@@ -2885,7 +2885,7 @@
 			},
 			{
 				"popn_class" : "99.8",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94152,
 					93249,
@@ -2894,7 +2894,7 @@
 			},
 			{
 				"popn_class" : "99.9",
-				"top_medal" : "f",
+				"top_medal" : 5,
 				"scores" : [
 					94513,
 					94158,
@@ -2903,7 +2903,7 @@
 			},
 			{
 				"popn_class" : "100.0",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95929,
 					94803,
@@ -2912,7 +2912,7 @@
 			},
 			{
 				"popn_class" : "100.1",
-				"top_medal" : "e",
+				"top_medal" : 6,
 				"scores" : [
 					95951,
 					95700,
@@ -2921,7 +2921,7 @@
 			},
 			{
 				"popn_class" : "100.2gte",
-				"top_medal" : "a",
+				"top_medal" : 10,
 				"scores" : [
 					98408,
 					96783,
@@ -2931,6 +2931,6 @@
 		],
 		"ver_order" : 24,
 		"top_score" : 98408,
-		"top_medal" : "a"
+		"top_medal" : 10
 	}
 ]
