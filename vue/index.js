@@ -224,7 +224,7 @@ const v_accordion_grid = {
     data: function() {
         const sortOrders = {};
         this.columns.forEach(function(key) {
-            sortOrders[key] = 1;
+            sortOrders[key] = -1;
         });
         return {
           sortKey: "",
@@ -238,6 +238,8 @@ const v_accordion_grid = {
     computed: {
         sortedItems: function() {
             const sortKey = this.sortKey;
+            console.log(this.sortOrders[sortKey]);
+            console.log(this.sortOrders[sortKey] || 1);
             const order = this.sortOrders[sortKey] || 1;
             let items = this.items;
 

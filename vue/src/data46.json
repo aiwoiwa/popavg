@@ -2610,7 +2610,7 @@
 	{
 		"id" : 16,
 		"lv" : 46,
-		"genre" : "EBONY &amp; IVORY",
+		"genre" : null,
 		"song" : "EBONY & IVORY",
 		"isUPPER" : false,
 		"difficulty" : "EX",
