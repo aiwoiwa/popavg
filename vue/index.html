@@ -24,13 +24,18 @@
                 <td class='right rate percent'>{{ item.fc_rate }}</td>
                 <td class='right rate percent'>{{ item.clear_rate }}</td>
                 <td class='right rate'>{{ item.top_score }}</td>
-                <td :class="['center', item.top_medal]">
+                <td :class="['center',
+                             item.top_medal >= 10 ? 'perfect'
+                             : item.top_medal >= 7 ? 'fullCombo'
+                             : item.top_medal >= 4 ? 'easy'
+                             : item.top_medal >= 3 ? 'clear'
+                             : 'failed']">
                     {{
                         ~[10, 9, 6, 2].indexOf(item.top_medal) ? '★'
                       : ~[    8, 5, 1].indexOf(item.top_medal) ? '◆'
                       : ~[    7, 4, 0].indexOf(item.top_medal) ? '●'
                       : ~[       3   ].indexOf(item.top_medal) ? 'EASY'
-                      : ''
+                      : item.top_medal
                     }}
                 </td>
                 <td>

@@ -42,6 +42,7 @@ canvas {
 .no-padding {
     padding: 0px;
 }
+
 .UPPER {
     color: #dab300;
 }
@@ -54,30 +55,23 @@ canvas {
 .NORMAL {
     color: #21efef;
 }
-.a {
+
+.perfect {
     color: #ffd700;
 }
-.b, .c, .d {
+.fullCombo {
     color: #c0c0c0;
 }
-.e, .f, .g {
+.clear {
     color: #cf622d;
 }
-.k {
+.easy {
     color: #08d078;
 }
-.l, .m, .n {
+.failed {
     color: #494967;
 }
-.left {
-    text-align: left;
-}
-.right {
-    text-align: right;
-}
-.center {
-    text-align: center;
-}
+
 .left {
     text-align: left;
 }
