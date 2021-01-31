@@ -48,19 +48,7 @@ const v_accordion_grid_tbody = {
                                 "#494967",
                                 "#494967"
                             ],
-                            data: [
-                                this.item.num_of_perfect,
-                                this.item.num_of_fullCombo_1_good_5,
-                                this.item.num_of_fullCombo_6_good_20,
-                                this.item.num_of_fullCombo_21_good,
-                                this.item.num_of_clear_1_bad_5,
-                                this.item.num_of_clear_6_bad_20,
-                                this.item.num_of_clear_21_bad,
-                                this.item.num_of_easy,
-                                this.item.num_of_failed_15_gauge_16,
-                                this.item.num_of_failed_12_gauge_14,
-                                this.item.num_of_failed_0_gauge
-                            ],
+                            data: this.item.distribution_of_medal,
                         }],
                     },
                     options: {
@@ -115,22 +103,7 @@ const v_accordion_grid_tbody = {
                                 "#00873c",
                                 "#008a83"
                             ],
-                            data: [
-                                this.item.num_of_100k,
-                                this.item.num_of_99k,
-                                this.item.num_of_98k,
-                                this.item.num_of_97k,
-                                this.item.num_of_96k,
-                                this.item.num_of_95k,
-                                this.item.num_of_94k,
-                                this.item.num_of_93k,
-                                this.item.num_of_92k,
-                                this.item.num_of_91k,
-                                this.item.num_of_90k,
-                                this.item.num_of_86k_89k,
-                                this.item.num_of_82k_85k,
-                                this.item.num_of_0k_81k
-                            ],
+                            data: this.item.distribution_of_score,
                         }],
                     },
                     options: {
@@ -170,17 +143,17 @@ const v_accordion_grid_tbody = {
                         datasets: [
                             {
                                 label: "max",
-                                data: this.item.avg_scores_group_by_popn_class.map(i => i.top_score),
+                                data: this.item.group_by_popn_class.map(i => i.scores[0]),
                                 borderColor: '#ff6384',
                             },
                             {
                                 label: "median",
-                                data: this.item.avg_scores_group_by_popn_class.map(i => Math.round(i.median_score)),
+                                data: this.item.group_by_popn_class.map(i => i.scores[1]),
                                 borderColor: '#4bc0c0',
                             },
                             {
                                 label: "avg",
-                                data: this.item.avg_scores_group_by_popn_class.map(i => Math.round(i.avg_score)),
+                                data: this.item.group_by_popn_class.map(i => i.scores[2]),
                                 borderColor: '#ff9f40',
                             },
                         ],
@@ -269,14 +242,14 @@ const v_accordion_grid = {
             let items = this.items;
 
             if (sortKey) {
-                items = items.slice().sort(
+                items.sort(
                     function(a, b) {
-                        if(~['lv', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score'].indexOf(sortKey)){
+                        if(~['ver_order', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score'].indexOf(sortKey)){
                             a = Number(a[sortKey]);
                             b = Number(b[sortKey]);
                         }else{
                             a = a[sortKey];
-                            b = b[sortKey];    
+                            b = b[sortKey];
                         }
                         return (a === b ? 0 : a > b ? 1 : -1) * order;
                     }
@@ -299,13 +272,14 @@ const app = new Vue({
         'v-accordion-grid': v_accordion_grid,
     },
     data: {
-        dataSrcKey: null, 
+        dataSrcKeys: [42, 43, 44, 45, 46, 47, 48, 49, 50],
+        selectedDataSrcKey: null,
         gridItems: null,
-        gridColumns: ['lv', 'version', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score', 'top_medal'],
+        gridColumns: ['ver_order', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score', 'top_medal'],
     },
     methods: {
         getData: function(lv) {
-            this.dataSrcKey = lv;
+            this.selectedDataSrcKey = lv;
             fetch(`https://aiwoiwa.github.io/popavg/vue/src/data${lv}.json`)
             .then(response => response.json())
             .then(data => this.gridItems = data);
