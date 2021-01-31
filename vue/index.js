@@ -67,7 +67,7 @@ const v_accordion_grid_tbody = {
                 });
 
                 const canvas_for_pie_score = document.getElementById(`canvas-pie-score-${this.item.id}`);
-                this.pie_medal = new Chart(canvas_for_pie_score, {
+                this.pie_score = new Chart(canvas_for_pie_score, {
                     type: 'pie',
                     data: {
                         labels: [
@@ -238,8 +238,6 @@ const v_accordion_grid = {
     computed: {
         sortedItems: function() {
             const sortKey = this.sortKey;
-            console.log(this.sortOrders[sortKey]);
-            console.log(this.sortOrders[sortKey] || 1);
             const order = this.sortOrders[sortKey] || 1;
             let items = this.items;
 
@@ -288,6 +286,6 @@ const app = new Vue({
         },
     },
     mounted: function() {
-        this.getData(50);
+        this.getData(49);
     },
 });
