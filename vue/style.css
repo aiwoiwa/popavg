@@ -45,15 +45,19 @@ canvas {
 
 .UPPER {
     color: #dab300;
+    font-size: small;
 }
 .EX {
     color: #fba8c1;
+    font-size: small;
 }
 .HYPER {
     color: #efef51;
+    font-size: small;
 }
 .NORMAL {
     color: #21efef;
+    font-size: small;
 }
 
 .perfect {

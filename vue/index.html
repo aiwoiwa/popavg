@@ -17,17 +17,17 @@
                 <td class='left'>
                     {{ item.genre ?? item.song }}
                     <span class='UPPER' v-if='item.isUPPER'>(UPPER)</span>
-                    <span :class='item.difficulty'>({{ item.difficulty }})</span>
+                    <span :class='item.difficulty'>{{ `(${item.difficulty})` }}</span>
                 </td>
                 <td class='right rate percent'>{{ item.pf_rate }}</td>
                 <td class='right rate percent'>{{ item.fc_rate }}</td>
                 <td class='right rate percent'>{{ item.clear_rate }}</td>
                 <td class='right rate'>{{ item.top_score }}</td>
                 <td :class="['center',
-                             item.top_medal >= 10 ? 'perfect'
-                             : item.top_medal >= 7 ? 'fullCombo'
-                             : item.top_medal >= 4 ? 'clear'
-                             : item.top_medal >= 3 ? 'easy'
+                               item.top_medal >= 10 ? 'perfect'
+                             : item.top_medal >=  7 ? 'fullCombo'
+                             : item.top_medal >=  4 ? 'clear'
+                             : item.top_medal >=  3 ? 'easy'
                              : 'failed']">
                     {{
                         ~[10, 9, 6, 2].indexOf(item.top_medal) ? '★'
@@ -138,7 +138,7 @@
     </script>
 </head>
 <body>
-    <div id="app" class="app-center">
+    <div id="app" class="center">
         <table>
             <tr>
                 <th>Lv</th>
