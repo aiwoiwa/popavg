@@ -7,7 +7,7 @@
     <link rel="icon" href="./src/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="./src/apple-touch-icon.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style.min.css">
 
     <script type="text/x-template" id="v-accordion-grid-tbody-template">
         <tbody>
@@ -69,12 +69,14 @@
                 <tr>
                     <th @click="sortBy('ver_order')"
                         :class="['indicator',
+                                 'width10',
                                  sortOrders['ver_order'] > 0 ? 'asc' : 'desc',
                                  {active: sortKey==='ver_order'}]">
                         Ver
                     </th>
                     <th @click="sortBy('genre')"
                         :class="['indicator',
+                                 'width35',
                                  sortOrders['genre'] > 0 ? 'asc' : 'desc',
                                  {active: sortKey==='genre'}]">
                         Title
@@ -82,23 +84,26 @@
                     <th title="no bad & no good"
                         @click="sortBy('pf_rate')"
                         :class="['indicator',
+                                 'width10',
                                  'center',
                                  'rate',
                                  sortOrders['pf_rate'] > 0 ? 'asc' : 'desc',
                                  {active: sortKey==='pf_rate'}]">
-                        Perfect
+                        PF
                     </th>
                     <th title="no bad"
                         @click="sortBy('fc_rate')"
                         :class="['indicator',
+                                 'width10',
                                  'center',
                                  'rate',
                                  sortOrders['fc_rate'] > 0 ? 'asc' : 'desc',
                                  {active: sortKey==='fc_rate'}]">
-                        Full<br/>Combo
+                        FC
                     </th>
                     <th @click="sortBy('clear_rate')"
                         :class="['indicator',
+                                 'width10',
                                  'center',
                                  'rate',
                                  sortOrders['clear_rate'] > 0 ? 'asc' : 'desc',
@@ -107,6 +112,7 @@
                     </th>
                     <th @click="sortBy('top_score')"
                         :class="['indicator',
+                                 'width10',
                                  'center',
                                  'rate',
                                  sortOrders['top_score'] > 0 ? 'asc' : 'desc',
@@ -115,12 +121,13 @@
                     </th>
                     <th @click="sortBy('top_medal')"
                         :class="['indicator',
+                                 'width10',
                                  'center',
                                  sortOrders['top_medal'] > 0 ? 'asc' : 'desc',
                                  {active: sortKey==='top_medal'}]">
                         Top<br/>Medal
                     </th>
-                    <th></th>
+                    <th class='width5'></th>
                 </tr>
             </thead>
             <tbody is="v-accordion-grid-tbody"
@@ -156,8 +163,8 @@
         </v-accordion-grid>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
-    <script src="./index.js"></script>
+    <script src="./index.min.js"></script>
 </body>
 </html>

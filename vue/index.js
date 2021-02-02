@@ -286,6 +286,6 @@ const app = new Vue({
         },
     },
     mounted: function() {
-        this.getData(49);
+        this.getData(50);
     },
 });
