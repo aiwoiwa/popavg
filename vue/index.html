@@ -70,6 +70,7 @@
                     <th @click="sortBy('ver_order')"
                         :class="['indicator',
                                  'width10',
+                                 'center',
                                  sortOrders['ver_order'] > 0 ? 'asc' : 'desc',
                                  {active: sortKey==='ver_order'}]">
                         Ver
@@ -77,6 +78,7 @@
                     <th @click="sortBy('genre')"
                         :class="['indicator',
                                  'width35',
+                                 'center',
                                  sortOrders['genre'] > 0 ? 'asc' : 'desc',
                                  {active: sortKey==='genre'}]">
                         Title
