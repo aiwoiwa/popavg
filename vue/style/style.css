@@ -115,6 +115,20 @@ canvas {
 }
 
 /* selector */
+.pClass-selector {
+    border-color: #434857;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 8px 16px;
+    white-space: nowrap;
+}
+.active.pClass-selector {
+    border-color: #eee;
+    color: #eee;
+}
+
 .dataSrc-selector {
     border-color: #434857;
     border-style: solid;

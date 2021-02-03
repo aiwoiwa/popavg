@@ -150,6 +150,42 @@
     <div id="app" class="center">
         <table>
             <tr>
+                <th rowspan="3">Range</th>
+                <td rowspan="3"
+                    @click="setPClass('All')"
+                    :class="['pClass-selector',
+                             {active: selectedPClass==='All'}]">
+                    All
+                </td>
+                <template v-for="item in pClasses_r1">
+                    <td @click="setPClass(item)"
+                        :class="['pClass-selector',
+                                 {active: selectedPClass===item}]">
+                        {{ item }}
+                    </td>
+                </template>
+            </tr>
+            <tr>
+                <template v-for="item in pClasses_r2">
+                    <td @click="setPClass(item)"
+                        :class="['pClass-selector',
+                                 {active: selectedPClass===item}]">
+                        {{ item }}
+                    </td>
+                </template>
+            </tr>
+            <tr>
+                <template v-for="item in pClasses_r3">
+                    <td @click="setPClass(item)"
+                        :class="['pClass-selector',
+                                 {active: selectedPClass===item}]">
+                        {{ item }}
+                    </td>
+                </template>
+            </tr>
+        </table>
+        <table>
+            <tr>
                 <th>Lv</th>
                 <template v-for="item in dataSrcKeys">
                     <td @click="getData(item)"

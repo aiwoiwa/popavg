@@ -272,17 +272,65 @@ const app = new Vue({
         'v-accordion-grid': v_accordion_grid,
     },
     data: {
+        pClasses_r1: [
+            "99.0",
+            "99.1",
+            "99.2",
+            "99.3",
+            "99.4"
+        ],
+        pClasses_r2: [
+            "99.5",
+            "99.6",
+            "99.7",
+            "99.8",
+            "99.9"
+        ],
+        pClasses_r3: [
+            "100.0",
+            "100.1",
+            "100.2gte"
+        ],
         dataSrcKeys: [42, 43, 44, 45, 46, 47, 48, 49, 50],
+        selectedPClass: "All",
         selectedDataSrcKey: null,
         gridItems: null,
         gridColumns: ['ver_order', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score', 'top_medal'],
     },
     methods: {
+        setPClass: function(pClass) {
+            this.selectedPClass = pClass;
+            this.getData(this.selectedDataSrcKey);
+        },
         getData: function(lv) {
             this.selectedDataSrcKey = lv;
             fetch(`https://aiwoiwa.github.io/popavg/vue/src/data${lv}.json`)
             .then(response => response.json())
-            .then(data => this.gridItems = data);
+            .then(data => this.setGridItems(data));
+        },
+        setGridItems: function(data) {
+            this.gridItems = data.map(
+                item => ({
+                    id: item.id,
+                    lv: item.lv,
+                    genre: item.genre,
+                    song: item.song,
+                    isUPPER: item.isUPPER,
+                    difficulty: item.difficulty,
+                    ver: item.ver,
+                    ver_order: item.ver_order,
+                    pf_rate: item.pf_rate,
+                    fc_rate: item.fc_rate,
+                    top_score: this.selectedPClass === 'All'  ? item.top_score
+                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass).scores[0],
+                    top_medal: this.selectedPClass === 'All'  ? item.top_medal
+                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass).top_medal,
+                    clear_rate: item.clear_rate,
+                    distribution_of_medal: item.distribution_of_medal,
+                    distribution_of_score: item.distribution_of_score,
+                    group_by_popn_class: item.group_by_popn_class
+                })
+            );
         },
     },
     mounted: function() {
