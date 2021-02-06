@@ -321,10 +321,10 @@ const app = new Vue({
                     ver_order: item.ver_order,
                     pf_rate: item.pf_rate,
                     fc_rate: item.fc_rate,
-                    top_score: this.selectedPClass === 'All'  ? item.top_score
-                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass).scores[0],
-                    top_medal: this.selectedPClass === 'All'  ? item.top_medal
-                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass).top_medal,
+                    top_score: this.selectedPClass === 'All' ? item.top_score
+                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass)?.scores[0] ?? 0,
+                    top_medal: this.selectedPClass === 'All' ? item.top_medal
+                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass)?.top_medal ?? -1,
                     clear_rate: item.clear_rate,
                     distribution_of_medal: item.distribution_of_medal,
                     distribution_of_score: item.distribution_of_score,

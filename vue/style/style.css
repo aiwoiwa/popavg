@@ -103,6 +103,9 @@ canvas {
 .failed {
     color: #494967;
 }
+.no-play {
+    font-size: small;
+}
 
 .left {
     text-align: left;
