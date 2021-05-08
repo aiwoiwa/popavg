@@ -7,6 +7,7 @@
     <link rel="icon" href="src/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="src/apple-touch-icon.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sanitize.css/2.0.0/sanitize.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vue-slider-component@latest/theme/default.css">
     <link rel="stylesheet" href="style/style.css">
 
     <script type="text/x-template" id="v-accordion-grid-tbody-template">
@@ -151,6 +152,27 @@
     <div id="app" class="center">
         <table>
             <tr>
+                <th>Range</th>
+                <td :class="['width100', 'pClass-selector']">
+                    <vue-slider class="pClass-slider"
+                                ref="pClassSlider"
+                                v-model="selector"
+                                :data="pClasses"
+                                :marks="marks"
+                                :process="process"
+                                :adsorb="true"
+                                :tooltip="'always'"
+                                :tooltip-placement="['top', 'bottom']">
+                        <template v-slot:step="{label, active}">
+                            <div :class="['custom-step', {active}]">
+                            </div>
+                        </template>
+                    </vue-slider>
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
                 <th rowspan="3">Range</th>
                 <td rowspan="3"
                     @click="setPClass('All')"
@@ -203,6 +225,7 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-slider-component@3.2.11/dist/vue-slider-component.umd.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
     <script src="index.js"></script>
 </body>

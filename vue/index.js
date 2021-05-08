@@ -269,9 +269,42 @@ const v_accordion_grid = {
 const app = new Vue({
     el: '#app',
     components: {
-        'v-accordion-grid': v_accordion_grid,
+        'vueSlider': window['vue-slider-component'],
+        'v-accordion-grid': v_accordion_grid
     },
     data: {
+        selector: ['99.0未満','100.2以上'],
+        pClasses:[
+            '99.0未満',
+            '99.0',
+            99.1,
+            99.2,
+            99.3,
+            99.4,
+            99.5,
+            99.6,
+            99.7,
+            99.8,
+            99.9,
+            '100.0',
+            100.1,
+            '100.2以上'
+        ],
+        marks: val => ({
+            label: val,
+            labelStyle: {
+                opacity: val === '99.0未満' ? 0
+                       : val === '100.2以上' ? 0
+                       : val * 10 % 5 === 0 ? 1
+                       : 0
+            },
+            //labelActiveStyle: {
+            //    color: '#3498db'
+            //},
+        }),
+        process: dotsPos => [
+            [dotsPos[0], dotsPos[1], { backgroundColor: '#3498db' }]
+        ],
         pClasses_r1: [
             "99.0",
             "99.1",

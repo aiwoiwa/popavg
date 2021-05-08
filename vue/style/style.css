@@ -53,11 +53,29 @@ th.width40 {
 td {
     padding: 8px;
 }
+td.width100 {
+    width: 100%;
+}
 td.rate {
     color: #21EFEF;
 }
 canvas {
     padding: 8px 0px;
+}
+
+.pClass-slider {
+    margin: 40px;
+}
+.custom-step {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px #ccc;
+    background-color: #fff;
+}
+.custom-step.active {
+    box-shadow: 0 0 0 3px #3498db;
+    background-color: #3498db;
 }
 
 .percent::after {
