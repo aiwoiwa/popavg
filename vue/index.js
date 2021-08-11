@@ -273,28 +273,26 @@ const app = new Vue({
         'v-accordion-grid': v_accordion_grid
     },
     data: {
-        selector: ['99.0未満','100.2以上'],
+        selector: ['99.0','100.2以上'],
         pClasses:[
-            '99.0未満',
             '99.0',
-            99.1,
-            99.2,
-            99.3,
-            99.4,
-            99.5,
-            99.6,
-            99.7,
-            99.8,
-            99.9,
+            '99.1',
+            '99.2',
+            '99.3',
+            '99.4',
+            '99.5',
+            '99.6',
+            '99.7',
+            '99.8',
+            '99.9',
             '100.0',
-            100.1,
+            '100.1',
             '100.2以上'
         ],
         marks: val => ({
             label: val,
             labelStyle: {
-                opacity: val === '99.0未満' ? 0
-                       : val === '100.2以上' ? 0
+                opacity: val === '100.2以上' ? 0
                        : val * 10 % 5 === 0 ? 1
                        : 0
             },
@@ -305,25 +303,6 @@ const app = new Vue({
         process: dotsPos => [
             [dotsPos[0], dotsPos[1], { backgroundColor: '#3498db' }]
         ],
-        pClasses_r1: [
-            "99.0",
-            "99.1",
-            "99.2",
-            "99.3",
-            "99.4"
-        ],
-        pClasses_r2: [
-            "99.5",
-            "99.6",
-            "99.7",
-            "99.8",
-            "99.9"
-        ],
-        pClasses_r3: [
-            "100.0",
-            "100.1",
-            "100.2gte"
-        ],
         dataSrcKeys: [42, 43, 44, 45, 46, 47, 48, 49, 50],
         selectedPClass: "All",
         selectedDataSrcKey: null,
@@ -331,7 +310,29 @@ const app = new Vue({
         gridColumns: ['ver_order', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score', 'top_medal'],
     },
     methods: {
+        changePClass: function() {
+            clearInterval(this.intervalId);
+            this.intervalId = setInterval(() => {
+                const _selectedVal = this.$refs.pClassSlider.getValue();
+                const _selectedIdx = this.$refs.pClassSlider.getIndex();
+
+                console.log(_selectedVal[0]);
+                console.log(_selectedIdx[0]);
+
+                console.log(_selectedVal[1]);
+                console.log(_selectedIdx[1]);
+
+                this.setPClass(
+                    (_selectedIdx[0] === 0 && _selectedIdx[1] === 12) ? 'All'
+                    : (_selectedVal[0] === '100.2以上') ? '100.2gte'
+                    : _selectedVal[0]
+                );
+
+                clearInterval(this.intervalId);
+            }, 800);
+        },
         setPClass: function(pClass) {
+            console.log(pClass);
             this.selectedPClass = pClass;
             this.getData(this.selectedDataSrcKey);
         },

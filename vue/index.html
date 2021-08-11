@@ -162,49 +162,14 @@
                                 :process="process"
                                 :adsorb="true"
                                 :tooltip="'always'"
-                                :tooltip-placement="['top', 'bottom']">
+                                :tooltip-placement="['top', 'bottom']"
+                                @change="changePClass()">
                         <template v-slot:step="{label, active}">
                             <div :class="['custom-step', {active}]">
                             </div>
                         </template>
                     </vue-slider>
                 </td>
-            </tr>
-        </table>
-        <table>
-            <tr>
-                <th rowspan="3">Range</th>
-                <td rowspan="3"
-                    @click="setPClass('All')"
-                    :class="['pClass-selector',
-                             {active: selectedPClass==='All'}]">
-                    All
-                </td>
-                <template v-for="item in pClasses_r1">
-                    <td @click="setPClass(item)"
-                        :class="['pClass-selector',
-                                 {active: selectedPClass===item}]">
-                        {{ item }}
-                    </td>
-                </template>
-            </tr>
-            <tr>
-                <template v-for="item in pClasses_r2">
-                    <td @click="setPClass(item)"
-                        :class="['pClass-selector',
-                                 {active: selectedPClass===item}]">
-                        {{ item }}
-                    </td>
-                </template>
-            </tr>
-            <tr>
-                <template v-for="item in pClasses_r3">
-                    <td @click="setPClass(item)"
-                        :class="['pClass-selector',
-                                 {active: selectedPClass===item}]">
-                        {{ item }}
-                    </td>
-                </template>
             </tr>
         </table>
         <table>
