@@ -274,7 +274,7 @@ const app = new Vue({
     },
     data: {
         selector: ['99.0','100.2以上'],
-        pClasses:[
+        pClassesForVueSlider: [
             '99.0',
             '99.1',
             '99.2',
@@ -289,6 +289,36 @@ const app = new Vue({
             '100.1',
             '100.2以上'
         ],
+        pClasses: [
+            '99.0',
+            '99.1',
+            '99.2',
+            '99.3',
+            '99.4',
+            '99.5',
+            '99.6',
+            '99.7',
+            '99.8',
+            '99.9',
+            '100.0',
+            '100.1',
+            '100.2gte'
+        ],
+        population: [
+            9,
+            13,
+            7,
+            11,
+            9,
+            13,
+            14,
+            10,
+            3,
+            8,
+            10,
+            4,
+            11
+        ],
         marks: val => ({
             label: val,
             labelStyle: {
@@ -296,15 +326,12 @@ const app = new Vue({
                        : val * 10 % 5 === 0 ? 1
                        : 0
             },
-            //labelActiveStyle: {
-            //    color: '#3498db'
-            //},
         }),
         process: dotsPos => [
             [dotsPos[0], dotsPos[1], { backgroundColor: '#3498db' }]
         ],
         dataSrcKeys: [42, 43, 44, 45, 46, 47, 48, 49, 50],
-        selectedPClass: "All",
+        selectedPClassRange: 'All',
         selectedDataSrcKey: null,
         gridItems: null,
         gridColumns: ['ver_order', 'genre', 'pf_rate', 'fc_rate', 'clear_rate', 'top_score', 'top_medal'],
@@ -313,27 +340,15 @@ const app = new Vue({
         changePClass: function() {
             clearInterval(this.intervalId);
             this.intervalId = setInterval(() => {
-                const _selectedVal = this.$refs.pClassSlider.getValue();
                 const _selectedIdx = this.$refs.pClassSlider.getIndex();
-
-                console.log(_selectedVal[0]);
-                console.log(_selectedIdx[0]);
-
-                console.log(_selectedVal[1]);
-                console.log(_selectedIdx[1]);
-
-                this.setPClass(
-                    (_selectedIdx[0] === 0 && _selectedIdx[1] === 12) ? 'All'
-                    : (_selectedVal[0] === '100.2以上') ? '100.2gte'
-                    : _selectedVal[0]
-                );
+                this.setPClassRange(this.pClasses.slice(_selectedIdx[0], _selectedIdx[1] + 1));
 
                 clearInterval(this.intervalId);
             }, 800);
         },
-        setPClass: function(pClass) {
-            console.log(pClass);
-            this.selectedPClass = pClass;
+        setPClassRange: function(pClassRange) {
+            this.selectedPClassRange = pClassRange.length === this.pClasses.length ? 'All' : pClassRange;
+            console.log(this.selectedPClassRange);
             this.getData(this.selectedDataSrcKey);
         },
         getData: function(lv) {
@@ -355,14 +370,13 @@ const app = new Vue({
                     ver_order: item.ver_order,
                     pf_rate: item.pf_rate,
                     fc_rate: item.fc_rate,
-                    top_score: this.selectedPClass === 'All' ? item.top_score
-                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass)?.scores[0] ?? 0,
-                    top_medal: this.selectedPClass === 'All' ? item.top_medal
-                             : item.group_by_popn_class.find(i => i.popn_class === this.selectedPClass)?.top_medal ?? -1,
+                    top_score: this.selectedPClassRange === 'All' ? item.top_score
+                             : item.group_by_popn_class.filter(i => this.selectedPClassRange.includes(i.popn_class)).map(i => i?.scores[0] ?? 0).reduce((a, b) => a > b ? a : b),
+                    top_medal: this.selectedPClassRange === 'All' ? item.top_medal
+                             : item.group_by_popn_class.filter(i => this.selectedPClassRange.includes(i.popn_class)).map(i => i?.top_medal ?? -1).reduce((a, b) => a > b ? a : b),
                     clear_rate: item.clear_rate,
                     distribution_of_medal: item.distribution_of_medal,
-                    distribution_of_score: item.distribution_of_score,
-                    group_by_popn_class: item.group_by_popn_class
+                    distribution_of_score: item.distribution_of_score
                 })
             );
         },
