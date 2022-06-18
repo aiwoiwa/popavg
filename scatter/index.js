@@ -3,7 +3,7 @@ const myScatterChart = new Chart(
     ctx
     ,{
         type: 'scatter'
-        ,data: { 
+        ,data: {
             datasets: [
                 {
                     label: '42'
@@ -87,7 +87,7 @@ const myScatterChart = new Chart(
                     {
                         scaleLabel: {
                             display: true
-                            ,labelString: 'perfect rate (no bad & no good)' 
+                            ,labelString: 'perfect rate (no bad & no good)'
                         }
                         ,ticks: {
                             suggestedMax: 1
@@ -104,13 +104,13 @@ const myScatterChart = new Chart(
 
 const chg = () => {
     const all = [data42, data43, data44, data45, data46, data47, data48, data49, data50];
-    
+
     all.forEach(arr =>
         arr.filter(item => item.isVisible)
         .forEach(item => item.isVisible = false)
     );
 
-    const [isChecked_HYPER, isChecked_EX] = 
+    const [isChecked_HYPER, isChecked_EX] =
           ['chkHYPER', 'chkEX'].map(i => document.getElementById(i).checked);
 
     const [isChecked_General, isChecked_UPPER, isChecked_Ura] =
@@ -121,14 +121,14 @@ const chg = () => {
            isChecked_SP, isChecked_LT, isChecked_Ecl, isChecked_Usa, isChecked_Pe, isChecked_Rid,
            isChecked_CS1, isChecked_CS2, isChecked_CS3, isChecked_CS4, isChecked_CS5, isChecked_CS6, isChecked_CS7, isChecked_CS8, isChecked_CS9, isChecked_CS10,
            isChecked_CS11, isChecked_CS12, isChecked_CS13, isChecked_CS14, isChecked_CSBest, isChecked_PMP, isChecked_PMP2,
-           isChecked_ee, isChecked_ee2, isChecked_Hanken, isChecked_HankenRid] = 
+           isChecked_ee, isChecked_ee2, isChecked_Hanken, isChecked_HankenRid] =
            ['chk1', 'chk2', 'chk3', 'chk4', 'chk5', 'chk6', 'chk7', 'chk8', 'chk9', 'chk10',
             'chk11', 'chk12', 'chk13', 'chk14', 'chk15', 'chk16', 'chk17', 'chk18', 'chk19', 'chk20',
             'chkSP', 'chkLT', 'chkEcl', 'chkUsa', 'chkPe', 'chkRid',
             'chkCS1', 'chkCS2', 'chkCS3', 'chkCS4', 'chkCS5', 'chkCS6', 'chkCS7', 'chkCS8', 'chkCS9', 'chkCS10',
             'chkCS11', 'chkCS12', 'chkCS13', 'chkCS14', 'chkCSBest', 'chkPMP', 'chkPMP2',
             'chkee', 'chkee2', 'chkHanken', 'chkHankenRid'].map(i => document.getElementById(i).checked);
-        
+
     if((isChecked_HYPER || isChecked_EX)
     && (isChecked_General || isChecked_UPPER || isChecked_Ura)
     && (isChecked_1  || isChecked_2  || isChecked_3  || isChecked_4  || isChecked_5  || isChecked_6  || isChecked_7  || isChecked_8  || isChecked_9  || isChecked_10
@@ -140,28 +140,28 @@ const chg = () => {
 
         const getVisibleSongs = (isChecked_HYPER && isChecked_EX && isChecked_General && isChecked_UPPER && isChecked_Ura) ? i => true
                               : (isChecked_HYPER && isChecked_EX && isChecked_General && isChecked_UPPER)                  ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && !i.isUra
-                              : (isChecked_HYPER && isChecked_EX && isChecked_General && isChecked_Ura)                    ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && !i.isUPPER 
-                              : (isChecked_HYPER && isChecked_EX && isChecked_UPPER   && isChecked_Ura)                    ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && (i.isUPPER || i.isUra) 
-                              : (isChecked_HYPER && isChecked_EX && isChecked_General)                                     ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && !i.isUPPER && !i.isUra 
+                              : (isChecked_HYPER && isChecked_EX && isChecked_General && isChecked_Ura)                    ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && !i.isUPPER
+                              : (isChecked_HYPER && isChecked_EX && isChecked_UPPER   && isChecked_Ura)                    ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && (i.isUPPER || i.isUra)
+                              : (isChecked_HYPER && isChecked_EX && isChecked_General)                                     ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && !i.isUPPER && !i.isUra
                               : (isChecked_HYPER && isChecked_EX && isChecked_UPPER)                                       ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && i.isUPPER  && !i.isUra
                               : (isChecked_HYPER && isChecked_EX && isChecked_Ura)                                         ? i => (i.difficulty === 'HYPER' || i.difficulty === 'EX') && !i.isUPPER && i.isUra
 
                               : (isChecked_HYPER && isChecked_General && isChecked_UPPER && isChecked_Ura) ? i => i.difficulty === 'HYPER'
                               : (isChecked_HYPER && isChecked_General && isChecked_UPPER)                  ? i => i.difficulty === 'HYPER' && !i.isUra
-                              : (isChecked_HYPER && isChecked_General && isChecked_Ura)                    ? i => i.difficulty === 'HYPER' && !i.isUPPER 
-                              : (isChecked_HYPER && isChecked_UPPER   && isChecked_Ura)                    ? i => i.difficulty === 'HYPER' && (i.isUPPER || i.isUra) 
-                              : (isChecked_HYPER && isChecked_General)                                     ? i => i.difficulty === 'HYPER' && !i.isUPPER && !i.isUra 
+                              : (isChecked_HYPER && isChecked_General && isChecked_Ura)                    ? i => i.difficulty === 'HYPER' && !i.isUPPER
+                              : (isChecked_HYPER && isChecked_UPPER   && isChecked_Ura)                    ? i => i.difficulty === 'HYPER' && (i.isUPPER || i.isUra)
+                              : (isChecked_HYPER && isChecked_General)                                     ? i => i.difficulty === 'HYPER' && !i.isUPPER && !i.isUra
                               : (isChecked_HYPER && isChecked_UPPER)                                       ? i => i.difficulty === 'HYPER' && i.isUPPER  && !i.isUra
                               : (isChecked_HYPER && isChecked_Ura)                                         ? i => i.difficulty === 'HYPER' && !i.isUPPER && i.isUra
 
                               : (isChecked_EX && isChecked_General && isChecked_UPPER && isChecked_Ura) ? i => i.difficulty === 'EX'
                               : (isChecked_EX && isChecked_General && isChecked_UPPER)                  ? i => i.difficulty === 'EX' && !i.isUra
-                              : (isChecked_EX && isChecked_General && isChecked_Ura)                    ? i => i.difficulty === 'EX' && !i.isUPPER 
-                              : (isChecked_EX && isChecked_UPPER   && isChecked_Ura)                    ? i => i.difficulty === 'EX' && (i.isUPPER || i.isUra) 
-                              : (isChecked_EX && isChecked_General)                                     ? i => i.difficulty === 'EX' && !i.isUPPER && !i.isUra 
+                              : (isChecked_EX && isChecked_General && isChecked_Ura)                    ? i => i.difficulty === 'EX' && !i.isUPPER
+                              : (isChecked_EX && isChecked_UPPER   && isChecked_Ura)                    ? i => i.difficulty === 'EX' && (i.isUPPER || i.isUra)
+                              : (isChecked_EX && isChecked_General)                                     ? i => i.difficulty === 'EX' && !i.isUPPER && !i.isUra
                               : (isChecked_EX && isChecked_UPPER)                                       ? i => i.difficulty === 'EX' && i.isUPPER  && !i.isUra
                               : (isChecked_EX && isChecked_Ura)                                         ? i => i.difficulty === 'EX' && !i.isUPPER && i.isUra
-                              
+
                               : i => false;
 
         //console.log(getVisibleSongs);
@@ -223,10 +223,10 @@ const chg = () => {
         );
     }
 
-    all.forEach((arr, index) => 
+    all.forEach((arr, index) =>
         myScatterChart.data.datasets[index].data = arr.filter(i => i.isVisible)
     );
-    
+
     myScatterChart.update();
 };
 

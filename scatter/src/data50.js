@@ -1,7 +1,7 @@
 const data50 = 
 [
 	{
-		"x" : 0.005319148936170213,
+		"x" : 0.0036496350364963502,
 		"y" : 0,
 		"genre" : "25 o'clock the WORLD(EX)",
 		"song" : "25 o'clock the WORLD",
@@ -12,7 +12,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.0051813471502590676,
+		"x" : 0.007042253521126761,
 		"y" : 0,
 		"genre" : "Chaos:Q(EX)",
 		"song" : "Chaos:Q",
@@ -23,7 +23,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.009389671361502348,
+		"x" : 0.010344827586206896,
 		"y" : 0,
 		"genre" : "L-an!ma(EX)",
 		"song" : "L-an!ma",
@@ -34,7 +34,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.005235602094240838,
+		"x" : 0.0036496350364963502,
 		"y" : 0,
 		"genre" : "Popperz Chronicle(EX)",
 		"song" : "Popperz Chronicle",
@@ -45,7 +45,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.006711409395973154,
+		"x" : 0.004608294930875576,
 		"y" : 0,
 		"genre" : "Popperz Chronicle(UPPER)(EX)",
 		"song" : "Popperz Chronicle",
@@ -56,7 +56,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.004629629629629629,
+		"x" : 0.006825938566552901,
 		"y" : 0,
 		"genre" : "o†o(EX)",
 		"song" : "o†o",
@@ -67,7 +67,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.0058823529411764705,
+		"x" : 0.004081632653061225,
 		"y" : 0,
 		"genre" : "perditus†paradisus(UPPER)(EX)",
 		"song" : "perditus†paradisus",
@@ -78,8 +78,19 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.02252252252252252,
-		"y" : 0.0045045045045045045,
+		"x" : 0.02843601895734597,
+		"y" : 0.004739336492890996,
+		"genre" : "ΔΟΓΜΑ(EX)",
+		"song" : "ΔΟΓΜΑ",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.024844720496894408,
+		"y" : 0.003105590062111801,
 		"genre" : "НУМЛ(EX)",
 		"song" : "НУМЛ",
 		"difficulty" : "EX",
@@ -89,8 +100,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.024154589371980676,
-		"y" : 0.004830917874396135,
+		"x" : 0.017543859649122806,
+		"y" : 0.0035087719298245615,
 		"genre" : "ふること(UPPER)(EX)",
 		"song" : "序",
 		"difficulty" : "EX",
@@ -100,8 +111,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.010869565217391304,
-		"y" : 0.005434782608695652,
+		"x" : 0.021505376344086023,
+		"y" : 0.007168458781362007,
 		"genre" : "インボルク(UPPER)(EX)",
 		"song" : "生命の焔纏いて",
 		"difficulty" : "EX",
@@ -111,8 +122,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.08403361344537816,
-		"y" : 0.01680672268907563,
+		"x" : 0.07142857142857142,
+		"y" : 0.011904761904761904,
 		"genre" : "エンジェリオン(EX)",
 		"song" : "生命の環を紡いで",
 		"difficulty" : "EX",
@@ -122,8 +133,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.056338028169014086,
-		"y" : 0.004694835680751174,
+		"x" : 0.050505050505050504,
+		"y" : 0.003367003367003367,
 		"genre" : "カウボーイ(UPPER)(EX)",
 		"song" : "Blue River",
 		"difficulty" : "EX",
@@ -133,7 +144,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.01485148514851485,
+		"x" : 0.013986013986013986,
 		"y" : 0,
 		"genre" : "コアダストビート(UPPER)(EX)",
 		"song" : "真超深ＴＩＯＮ",
@@ -144,7 +155,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.0045045045045045045,
+		"x" : 0.00946372239747634,
 		"y" : 0,
 		"genre" : "サイレント(EX)",
 		"song" : "音楽",
@@ -155,7 +166,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.0044444444444444444,
+		"x" : 0.006389776357827476,
 		"y" : 0,
 		"genre" : "ダージュ(EX)",
 		"song" : "ピアノ協奏曲第１番”蠍火”",
@@ -166,7 +177,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.008620689655172414,
+		"x" : 0.009009009009009009,
 		"y" : 0,
 		"genre" : "トイコンテンポラリー(EX)",
 		"song" : "シュレーディンガーの猫",
@@ -177,7 +188,7 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.008771929824561403,
+		"x" : 0.012461059190031152,
 		"y" : 0,
 		"genre" : "ムラクモ(EX)",
 		"song" : "少年は空を辿る",
@@ -188,8 +199,8 @@ const data50 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.004761904761904762,
-		"y" : 0.004761904761904762,
+		"x" : 0.0034482758620689655,
+		"y" : 0.0034482758620689655,
 		"genre" : "辿る君を超えて(EX)",
 		"song" : "辿る君を超えて",
 		"difficulty" : "EX",

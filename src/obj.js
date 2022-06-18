@@ -1,7 +1,7 @@
 const obj = 
 {
-	"num_of_players" : 281,
-	"avg_popn_class" : 94.98627686832741,
-	"timestump" : "2021/01/08 00:05:47"
+	"num_of_players" : 565,
+	"avg_popn_class" : 92.88294017699116,
+	"timestump" : "2022/06/19 02:04:21"
 }
 ; 

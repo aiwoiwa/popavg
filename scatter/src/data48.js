@@ -1,8 +1,8 @@
 const data48 = 
 [
 	{
-		"x" : 0.34545454545454546,
-		"y" : 0.11363636363636363,
+		"x" : 0.3003003003003003,
+		"y" : 0.10510510510510511,
 		"genre" : "ANNIVERSARY ∴∵∴ ←↓↑→(EX)",
 		"song" : "ANNIVERSARY ∴∵∴ ←↓↑→",
 		"difficulty" : "EX",
@@ -12,8 +12,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3492822966507177,
-		"y" : 0.21052631578947367,
+		"x" : 0.30606060606060603,
+		"y" : 0.19393939393939394,
 		"genre" : "Celsus Ⅱ(EX)",
 		"song" : "Celsus Ⅱ",
 		"difficulty" : "EX",
@@ -23,8 +23,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2145748987854251,
-		"y" : 0.10931174089068826,
+		"x" : 0.1806615776081425,
+		"y" : 0.07888040712468193,
 		"genre" : "Chronoxia(EX)",
 		"song" : "Chronoxia",
 		"difficulty" : "EX",
@@ -34,8 +34,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1783783783783784,
-		"y" : 0.04864864864864865,
+		"x" : 0.25225225225225223,
+		"y" : 0.12162162162162163,
+		"genre" : "DUAL STRIKER(EX)",
+		"song" : "DUAL STRIKER",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.18394648829431437,
+		"y" : 0.05016722408026756,
 		"genre" : "Dracophobia(EX)",
 		"song" : "Dracophobia",
 		"difficulty" : "EX",
@@ -45,8 +56,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2073170731707317,
-		"y" : 0.10569105691056911,
+		"x" : 0.17783505154639176,
+		"y" : 0.07989690721649484,
 		"genre" : "Funky sonic World(EX)",
 		"song" : "Funky sonic World",
 		"difficulty" : "EX",
@@ -56,8 +67,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2644628099173554,
-		"y" : 0.14049586776859505,
+		"x" : 0.23641304347826086,
+		"y" : 0.12228260869565218,
 		"genre" : "GOLDEN CROSS(EX)",
 		"song" : "GOLDEN CROSS",
 		"difficulty" : "EX",
@@ -67,8 +78,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.19230769230769232,
-		"y" : 0.07264957264957266,
+		"x" : 0.09170305676855896,
+		"y" : 0.034934497816593885,
+		"genre" : "Globe Glitter(EX)",
+		"song" : "Globe Glitter",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.1780821917808219,
+		"y" : 0.0684931506849315,
 		"genre" : "Grand Chariot(EX)",
 		"song" : "Grand Chariot",
 		"difficulty" : "EX",
@@ -78,8 +100,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.29411764705882354,
-		"y" : 0.14901960784313725,
+		"x" : 0.24634146341463414,
+		"y" : 0.11951219512195121,
 		"genre" : "Idola(EX)",
 		"song" : "Idola",
 		"difficulty" : "EX",
@@ -89,8 +111,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.03361344537815126,
-		"y" : 0.004201680672268907,
+		"x" : 0.02406417112299465,
+		"y" : 0.00267379679144385,
 		"genre" : "LEAD Gravity（M）(EX)",
 		"song" : "LEAD Gravity（M）",
 		"difficulty" : "EX",
@@ -100,8 +122,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.14035087719298245,
-		"y" : 0.043859649122807015,
+		"x" : 0.12857142857142856,
+		"y" : 0.03142857142857143,
 		"genre" : "La fame di Adria(EX)",
 		"song" : "La fame di Adria",
 		"difficulty" : "EX",
@@ -111,8 +133,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.21238938053097345,
-		"y" : 0.05309734513274336,
+		"x" : 0.06177606177606178,
+		"y" : 0.023166023166023165,
+		"genre" : "Leaf(EX)",
+		"song" : "Leaf",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.17231638418079095,
+		"y" : 0.0480225988700565,
 		"genre" : "Life is beautiful(EX)",
 		"song" : "Life is beautiful",
 		"difficulty" : "EX",
@@ -122,8 +155,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18859649122807018,
-		"y" : 0.039473684210526314,
+		"x" : 0.16526610644257703,
+		"y" : 0.03081232492997199,
 		"genre" : "MADSPEED狂信道(EX)",
 		"song" : "MADSPEED狂信道",
 		"difficulty" : "EX",
@@ -133,8 +166,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18972332015810275,
-		"y" : 0.04743083003952569,
+		"x" : 0.15636363636363637,
+		"y" : 0.09454545454545454,
+		"genre" : "Majestaria(EX)",
+		"song" : "Majestaria",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.15196078431372548,
+		"y" : 0.031862745098039214,
 		"genre" : "Metamorphose(EX)",
 		"song" : "Metamorphose",
 		"difficulty" : "EX",
@@ -144,8 +188,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2777777777777778,
-		"y" : 0.1111111111111111,
+		"x" : 0.2299168975069252,
+		"y" : 0.09141274238227147,
 		"genre" : "Mirage Age(EX)",
 		"song" : "Mirage Age",
 		"difficulty" : "EX",
@@ -155,8 +199,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1859504132231405,
-		"y" : 0.05371900826446281,
+		"x" : 0.14,
+		"y" : 0.04,
 		"genre" : "PSGブレイクコア(EX)",
 		"song" : "CHIP'N'RIDDIM",
 		"difficulty" : "EX",
@@ -166,8 +210,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.17857142857142858,
-		"y" : 0.06696428571428571,
+		"x" : 0.15963855421686746,
+		"y" : 0.05120481927710843,
 		"genre" : "Puberty Dysthymia(EX)",
 		"song" : "Puberty Dysthymia",
 		"difficulty" : "EX",
@@ -177,8 +221,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.235,
-		"y" : 0.115,
+		"x" : 0.2621951219512195,
+		"y" : 0.13719512195121952,
 		"genre" : "Russian Caravan Rhapsody(UPPER)(EX)",
 		"song" : "Russian Caravan Rhapsody",
 		"difficulty" : "EX",
@@ -188,8 +232,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.12184873949579832,
-		"y" : 0.03361344537815126,
+		"x" : 0.10326086956521739,
+		"y" : 0.02717391304347826,
 		"genre" : "SYMPHONY FROM ZERO(EX)",
 		"song" : "SYMPHONY FROM ZERO",
 		"difficulty" : "EX",
@@ -199,8 +243,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1341991341991342,
-		"y" : 0.025974025974025976,
+		"x" : 0.11944444444444445,
+		"y" : 0.022222222222222223,
 		"genre" : "Trixxxter(EX)",
 		"song" : "Trixxxter",
 		"difficulty" : "EX",
@@ -210,8 +254,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.26609442060085836,
-		"y" : 0.09871244635193133,
+		"x" : 0.2413793103448276,
+		"y" : 0.09482758620689655,
 		"genre" : "Warriors Aboot(EX)",
 		"song" : "Warriors Aboot",
 		"difficulty" : "EX",
@@ -221,8 +265,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2145748987854251,
-		"y" : 0.05263157894736842,
+		"x" : 0.163727959697733,
+		"y" : 0.03526448362720403,
 		"genre" : "ZADAMGA(EX)",
 		"song" : "ZADAMGA",
 		"difficulty" : "EX",
@@ -232,8 +276,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1829787234042553,
-		"y" : 0.03829787234042553,
+		"x" : 0.14470284237726097,
+		"y" : 0.028423772609819122,
 		"genre" : "asteer(EX)",
 		"song" : "asteer",
 		"difficulty" : "EX",
@@ -243,8 +287,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.28888888888888886,
-		"y" : 0.16,
+		"x" : 0.2434017595307918,
+		"y" : 0.14076246334310852,
 		"genre" : "forever under construction(EX)",
 		"song" : "forever under construction",
 		"difficulty" : "EX",
@@ -254,8 +298,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2833333333333333,
-		"y" : 0.12916666666666668,
+		"x" : 0.23575129533678757,
+		"y" : 0.10880829015544041,
 		"genre" : "good night , mommy(EX)",
 		"song" : "good night , mommy",
 		"difficulty" : "EX",
@@ -265,8 +309,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.09134615384615384,
-		"y" : 0.03365384615384615,
+		"x" : 0.08333333333333333,
+		"y" : 0.02564102564102564,
 		"genre" : "nostos(UPPER)(EX)",
 		"song" : "nostos",
 		"difficulty" : "EX",
@@ -276,8 +320,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3157894736842105,
-		"y" : 0.11842105263157894,
+		"x" : 0.27624309392265195,
+		"y" : 0.10773480662983426,
 		"genre" : "saQrifice(EX)",
 		"song" : "saQrifice",
 		"difficulty" : "EX",
@@ -287,8 +331,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.09482758620689655,
-		"y" : 0.03879310344827586,
+		"x" : 0.08529411764705883,
+		"y" : 0.03235294117647059,
 		"genre" : "voltississimo(EX)",
 		"song" : "voltississimo",
 		"difficulty" : "EX",
@@ -298,8 +342,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3201754385964912,
-		"y" : 0.14912280701754385,
+		"x" : 0.2693333333333333,
+		"y" : 0.13333333333333333,
 		"genre" : "たまごの物理科学的 及び調理特性に関しての調査、そしてその考察(EX)",
 		"song" : "たまごの物理科学的 及び調理特性に関しての調査、そしてその考察",
 		"difficulty" : "EX",
@@ -309,8 +353,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.19838056680161945,
-		"y" : 0.06882591093117409,
+		"x" : 0.1525,
+		"y" : 0.0525,
 		"genre" : "ふること(EX)",
 		"song" : "序",
 		"difficulty" : "EX",
@@ -320,8 +364,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3492063492063492,
-		"y" : 0.18253968253968253,
+		"x" : 0.28992628992628994,
+		"y" : 0.15724815724815724,
 		"genre" : "アートコア(EX)",
 		"song" : "Valanga",
 		"difficulty" : "EX",
@@ -331,8 +375,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.48616600790513836,
-		"y" : 0.2608695652173913,
+		"x" : 0.36879432624113473,
+		"y" : 0.20803782505910165,
 		"genre" : "エッセンシャリー(EX)",
 		"song" : "True Blue",
 		"difficulty" : "EX",
@@ -342,8 +386,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.40625,
-		"y" : 0.21484375,
+		"x" : 0.3157894736842105,
+		"y" : 0.17162471395881007,
 		"genre" : "エピックプログレ(EX)",
 		"song" : "量子の海のリントヴルム",
 		"difficulty" : "EX",
@@ -353,8 +397,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.421875,
-		"y" : 0.19921875,
+		"x" : 0.33853006681514475,
+		"y" : 0.15812917594654788,
 		"genre" : "オリエンタルミソロジー(EX)",
 		"song" : "蛇神",
 		"difficulty" : "EX",
@@ -364,8 +408,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.456,
-		"y" : 0.196,
+		"x" : 0.37115839243498816,
+		"y" : 0.1536643026004728,
 		"genre" : "カグランジ(EX)",
 		"song" : "生きてこそ～特別版～",
 		"difficulty" : "EX",
@@ -375,8 +419,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2170212765957447,
-		"y" : 0.08085106382978724,
+		"x" : 0.17875647668393782,
+		"y" : 0.06476683937823834,
 		"genre" : "カラフルトイズ・ワンダーランド(EX)",
 		"song" : "カラフルトイズ・ワンダーランド",
 		"difficulty" : "EX",
@@ -386,8 +430,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.16597510373443983,
-		"y" : 0.05394190871369295,
+		"x" : 0.12195121951219512,
+		"y" : 0.036585365853658534,
 		"genre" : "クラシック１０(EX)",
 		"song" : "Doll's sight",
 		"difficulty" : "EX",
@@ -397,8 +441,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3254901960784314,
-		"y" : 0.03529411764705882,
+		"x" : 0.25057471264367814,
+		"y" : 0.027586206896551724,
 		"genre" : "クラシック４(H)",
 		"song" : "Concertare",
 		"difficulty" : "HYPER",
@@ -408,8 +452,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.09523809523809523,
-		"y" : 0.023809523809523808,
+		"x" : 0.07125307125307126,
+		"y" : 0.019656019656019656,
 		"genre" : "クリエイター(EX)",
 		"song" : "創世ノート",
 		"difficulty" : "EX",
@@ -419,8 +463,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1417004048582996,
-		"y" : 0.04048582995951417,
+		"x" : 0.10643564356435643,
+		"y" : 0.0297029702970297,
 		"genre" : "グランヂデス(EX)",
 		"song" : "ULTRA BUTTERFLY(坤剛力)",
 		"difficulty" : "EX",
@@ -430,8 +474,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.22983870967741934,
-		"y" : 0.06854838709677419,
+		"x" : 0.18604651162790697,
+		"y" : 0.059431524547803614,
 		"genre" : "グラヴィオール(EX)",
 		"song" : "STULTI",
 		"difficulty" : "EX",
@@ -441,8 +485,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.20080321285140562,
-		"y" : 0.05220883534136546,
+		"x" : 0.14150943396226415,
+		"y" : 0.0330188679245283,
 		"genre" : "グロッソラリア(EX)",
 		"song" : "万物快楽理論",
 		"difficulty" : "EX",
@@ -452,8 +496,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2066115702479339,
-		"y" : 0.049586776859504134,
+		"x" : 0.14786967418546365,
+		"y" : 0.03759398496240601,
 		"genre" : "サイバーガガク(EX)",
 		"song" : "Vairocana",
 		"difficulty" : "EX",
@@ -463,8 +507,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2301255230125523,
-		"y" : 0.03347280334728033,
+		"x" : 0.17543859649122806,
+		"y" : 0.02506265664160401,
 		"genre" : "サイバーフラメンコ(EX)",
 		"song" : "hora de verdad",
 		"difficulty" : "EX",
@@ -474,8 +518,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.15447154471544716,
-		"y" : 0.024390243902439025,
+		"x" : 0.12128712871287128,
+		"y" : 0.022277227722772276,
 		"genre" : "シンフォニックメタルop.２(EX)",
 		"song" : "Sanctum Crusade",
 		"difficulty" : "EX",
@@ -485,8 +529,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3333333333333333,
-		"y" : 0.09019607843137255,
+		"x" : 0.25565610859728505,
+		"y" : 0.07013574660633484,
 		"genre" : "スターリートランス(EX)",
 		"song" : "Southern Cross",
 		"difficulty" : "EX",
@@ -496,8 +540,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.168,
-		"y" : 0.056,
+		"x" : 0.1179245283018868,
+		"y" : 0.04009433962264151,
 		"genre" : "スパイラルステアーズ(EX)",
 		"song" : "BabeL ～Grand Story～",
 		"difficulty" : "EX",
@@ -507,8 +551,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.23293172690763053,
-		"y" : 0.0642570281124498,
+		"x" : 0.1867612293144208,
+		"y" : 0.04491725768321513,
 		"genre" : "スピードコア(EX)",
 		"song" : "MVA",
 		"difficulty" : "EX",
@@ -518,8 +562,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.208,
-		"y" : 0.064,
+		"x" : 0.15422885572139303,
+		"y" : 0.04228855721393035,
 		"genre" : "スピードダンス(EX)",
 		"song" : "GAIA",
 		"difficulty" : "EX",
@@ -529,8 +573,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.07531380753138076,
-		"y" : 0.012552301255230125,
+		"x" : 0.27848101265822783,
+		"y" : 0.12658227848101267,
+		"genre" : "スーパー戦湯ババンバーン(EX)",
+		"song" : "スーパー戦湯ババンバーン",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.05172413793103448,
+		"y" : 0.007389162561576354,
 		"genre" : "デスレゲエ(EX)",
 		"song" : "夜間行",
 		"difficulty" : "EX",
@@ -540,8 +595,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.20909090909090908,
-		"y" : 0.10909090909090909,
+		"x" : 0.20481927710843373,
+		"y" : 0.11144578313253012,
 		"genre" : "トランスコア(UPPER)(EX)",
 		"song" : "FLOWER",
 		"difficulty" : "EX",
@@ -551,8 +606,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.04424778761061947,
-		"y" : 0.008849557522123894,
+		"x" : 0.03724928366762178,
+		"y" : 0.0057306590257879654,
 		"genre" : "ドラムンフライ(EX)",
 		"song" : "テンプラ揚三",
 		"difficulty" : "EX",
@@ -562,8 +617,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18067226890756302,
-		"y" : 0.09663865546218488,
+		"x" : 0.2924187725631769,
+		"y" : 0.148014440433213,
+		"genre" : "ドリームゲイザー(UPPER)(EX)",
+		"song" : "Little prayer",
+		"difficulty" : "EX",
+		"isUPPER" : true,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.14728682170542637,
+		"y" : 0.07493540051679587,
 		"genre" : "ドリームチャンプル(EX)",
 		"song" : "Dimensiva Vulnus",
 		"difficulty" : "EX",
@@ -573,8 +639,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.291497975708502,
-		"y" : 0.11336032388663968,
+		"x" : 0.2255125284738041,
+		"y" : 0.08428246013667426,
 		"genre" : "ナイトメアカルーセル(EX)",
 		"song" : "カーニバルの主題による人形のためのいびつな狂想曲",
 		"difficulty" : "EX",
@@ -584,8 +650,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18143459915611815,
-		"y" : 0.0759493670886076,
+		"x" : 0.14285714285714285,
+		"y" : 0.0582010582010582,
 		"genre" : "ナイトメアメタル(EX)",
 		"song" : "背徳と邪悪のエピタフ",
 		"difficulty" : "EX",
@@ -595,8 +661,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.39303482587064675,
-		"y" : 0.1791044776119403,
+		"x" : 0.36075949367088606,
+		"y" : 0.18670886075949367,
 		"genre" : "ネオクラシカル・ヘヴィメタル(UPPER)(EX)",
 		"song" : "Aithon",
 		"difficulty" : "EX",
@@ -606,8 +672,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.07630522088353414,
-		"y" : 0.012048192771084338,
+		"x" : 0.05647058823529412,
+		"y" : 0.009411764705882352,
 		"genre" : "ノマディックネイション(EX)",
 		"song" : "カラルの月",
 		"difficulty" : "EX",
@@ -617,8 +683,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.23293172690763053,
-		"y" : 0.08032128514056225,
+		"x" : 0.1820388349514563,
+		"y" : 0.06796116504854369,
 		"genre" : "ノマディックネイション２(EX)",
 		"song" : "Esperanza",
 		"difficulty" : "EX",
@@ -628,8 +694,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.12698412698412698,
-		"y" : 0.007936507936507936,
+		"x" : 0.09154929577464789,
+		"y" : 0.007042253521126761,
 		"genre" : "ハードPf+(EX)",
 		"song" : "fffff op.2",
 		"difficulty" : "EX",
@@ -639,8 +705,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18181818181818182,
-		"y" : 0.09090909090909091,
+		"x" : 0.1580246913580247,
+		"y" : 0.07160493827160494,
 		"genre" : "ハードルネッサンス２(EX)",
 		"song" : "Evans",
 		"difficulty" : "EX",
@@ -650,8 +716,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.22040816326530613,
-		"y" : 0.05714285714285714,
+		"x" : 0.17647058823529413,
+		"y" : 0.03836317135549872,
 		"genre" : "ハードルネッサンス３(EX)",
 		"song" : "JOMANDA",
 		"difficulty" : "EX",
@@ -661,8 +727,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2766798418972332,
-		"y" : 0.07509881422924901,
+		"x" : 0.20833333333333334,
+		"y" : 0.05092592592592592,
 		"genre" : "ハードＰｆ(EX)",
 		"song" : "fffff",
 		"difficulty" : "EX",
@@ -672,8 +738,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.06072874493927125,
-		"y" : 0.004048582995951417,
+		"x" : 0.039603960396039604,
+		"y" : 0.007425742574257425,
 		"genre" : "バイキング(EX)",
 		"song" : "バイキングマン",
 		"difficulty" : "EX",
@@ -683,8 +749,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.07555555555555556,
-		"y" : 0.035555555555555556,
+		"x" : 0.06705539358600583,
+		"y" : 0.03206997084548105,
 		"genre" : "バトルダンス(UPPER)(EX)",
 		"song" : "シャムシールの舞",
 		"difficulty" : "EX",
@@ -694,8 +760,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3155737704918033,
-		"y" : 0.12704918032786885,
+		"x" : 0.24427480916030533,
+		"y" : 0.10178117048346055,
 		"genre" : "ヒップロック３(EX)",
 		"song" : "雪上断火",
 		"difficulty" : "EX",
@@ -705,8 +771,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3805668016194332,
-		"y" : 0.145748987854251,
+		"x" : 0.17254901960784313,
+		"y" : 0.09019607843137255,
+		"genre" : "ヒップロック４ (EX)",
+		"song" : "路男",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.2882882882882883,
+		"y" : 0.10810810810810811,
 		"genre" : "ヒップロック５(EX)",
 		"song" : "一激必翔",
 		"difficulty" : "EX",
@@ -716,8 +793,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18930041152263374,
-		"y" : 0.102880658436214,
+		"x" : 0.13924050632911392,
+		"y" : 0.0810126582278481,
 		"genre" : "ビーストメタル(EX)",
 		"song" : "野獣ワイルド",
 		"difficulty" : "EX",
@@ -727,8 +804,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.23481781376518218,
-		"y" : 0.10931174089068826,
+		"x" : 0.18446601941747573,
+		"y" : 0.08980582524271845,
 		"genre" : "ピアノコンテンポラリー(EX)",
 		"song" : "Macuilxochitl",
 		"difficulty" : "EX",
@@ -738,8 +815,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.17338709677419356,
-		"y" : 0.036290322580645164,
+		"x" : 0.13022113022113022,
+		"y" : 0.0343980343980344,
 		"genre" : "フィーバーロボ(EX)",
 		"song" : "踊るフィーバーロボ",
 		"difficulty" : "EX",
@@ -749,8 +826,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.15725806451612903,
-		"y" : 0.04435483870967742,
+		"x" : 0.12846347607052896,
+		"y" : 0.027707808564231738,
 		"genre" : "ブラックアルバム(EX)",
 		"song" : "OVERHEAT -Type P-",
 		"difficulty" : "EX",
@@ -760,8 +837,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.13385826771653545,
-		"y" : 0.03543307086614173,
+		"x" : 0.09905660377358491,
+		"y" : 0.025943396226415096,
 		"genre" : "ブロークンサンバブレイク(EX)",
 		"song" : "灼熱Beach Side Bunny",
 		"difficulty" : "EX",
@@ -771,8 +848,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.11165048543689321,
-		"y" : 0.0048543689320388345,
+		"x" : 0.11890243902439024,
+		"y" : 0.003048780487804878,
 		"genre" : "プログレ(UPPER)(EX)",
 		"song" : "子供の落書き帳",
 		"difficulty" : "EX",
@@ -782,8 +859,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1862348178137652,
-		"y" : 0.08097165991902834,
+		"x" : 0.1325,
+		"y" : 0.0775,
 		"genre" : "プログレタンゴ(EX)",
 		"song" : "Red Roses",
 		"difficulty" : "EX",
@@ -793,8 +870,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.26693227091633465,
-		"y" : 0.11952191235059761,
+		"x" : 0.21103117505995203,
+		"y" : 0.08393285371702638,
 		"genre" : "プログレッシブ(EX)",
 		"song" : "Concertino In Blue",
 		"difficulty" : "EX",
@@ -804,8 +881,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.484251968503937,
-		"y" : 0.2125984251968504,
+		"x" : 0.35604395604395606,
+		"y" : 0.16263736263736264,
 		"genre" : "プログレッシブ(EX)",
 		"song" : "The Least 100 sec",
 		"difficulty" : "EX",
@@ -815,8 +892,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2755905511811024,
-		"y" : 0.11023622047244094,
+		"x" : 0.22037914691943128,
+		"y" : 0.08056872037914692,
 		"genre" : "ベースボールヒロイン(EX)",
 		"song" : "轟け！恋のビーンボール！！",
 		"difficulty" : "EX",
@@ -826,8 +903,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3968253968253968,
-		"y" : 0.1626984126984127,
+		"x" : 0.29330254041570436,
+		"y" : 0.12471131639722864,
 		"genre" : "モダンパンク(EX)",
 		"song" : "夢について　TYPE C",
 		"difficulty" : "EX",
@@ -837,8 +914,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18110236220472442,
-		"y" : 0.047244094488188976,
+		"x" : 0.12415349887133183,
+		"y" : 0.033860045146726865,
 		"genre" : "ラメント(EX)",
 		"song" : "雫",
 		"difficulty" : "EX",
@@ -848,8 +925,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.17647058823529413,
-		"y" : 0.05042016806722689,
+		"x" : 0.15013404825737264,
+		"y" : 0.04289544235924933,
 		"genre" : "リリーゼと炎龍レーヴァテイン(EX)",
 		"song" : "リリーゼと炎龍レーヴァテイン",
 		"difficulty" : "EX",
@@ -859,8 +936,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.07860262008733625,
-		"y" : 0.008733624454148471,
+		"x" : 0.062146892655367235,
+		"y" : 0.00847457627118644,
 		"genre" : "レッスン(EX)",
 		"song" : "POP-STEP-UP",
 		"difficulty" : "EX",
@@ -870,8 +947,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.27380952380952384,
-		"y" : 0.11904761904761904,
+		"x" : 0.22705314009661837,
+		"y" : 0.0821256038647343,
 		"genre" : "ワラベステップ(EX)",
 		"song" : "コドモライブ",
 		"difficulty" : "EX",
@@ -881,8 +958,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.31746031746031744,
-		"y" : 0.10317460317460317,
+		"x" : 0.23963133640552994,
+		"y" : 0.07834101382488479,
 		"genre" : "亜空間ジャズ(EX)",
 		"song" : "Ergosphere",
 		"difficulty" : "EX",
@@ -892,8 +969,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2077922077922078,
-		"y" : 0.06493506493506493,
+		"x" : 0.18181818181818182,
+		"y" : 0.05234159779614325,
 		"genre" : "人妖絵巻其の三「鴉天狗」～ 鞍馬のHAYATE ～(EX)",
 		"song" : "人妖絵巻其の三「鴉天狗」～ 鞍馬のHAYATE ～",
 		"difficulty" : "EX",
@@ -903,8 +980,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.16363636363636364,
-		"y" : 0.04090909090909091,
+		"x" : 0.1543026706231454,
+		"y" : 0.03560830860534125,
 		"genre" : "令和の国(EX)",
 		"song" : "令和の国",
 		"difficulty" : "EX",
@@ -914,8 +991,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.15813953488372093,
-		"y" : 0.023255813953488372,
+		"x" : 0.15207373271889402,
+		"y" : 0.06451612903225806,
+		"genre" : "天ぷらイントロドン！！(EX)",
+		"song" : "天ぷらイントロドン！！",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.13864306784660768,
+		"y" : 0.029498525073746312,
 		"genre" : "少女と時の花(EX)",
 		"song" : "少女と時の花",
 		"difficulty" : "EX",
@@ -925,8 +1013,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.21518987341772153,
-		"y" : 0.06751054852320675,
+		"x" : 0.16666666666666666,
+		"y" : 0.05555555555555555,
 		"genre" : "御千手メディテーション(EX)",
 		"song" : "御千手メディテーション",
 		"difficulty" : "EX",
@@ -936,8 +1024,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1483050847457627,
-		"y" : 0.029661016949152543,
+		"x" : 0.10242587601078167,
+		"y" : 0.02425876010781671,
 		"genre" : "忍者メタル　ポプコネ(EX)",
 		"song" : "背水之陣 (Kagutsuchi Remix)",
 		"difficulty" : "EX",
@@ -947,8 +1035,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.35294117647058826,
-		"y" : 0.19327731092436976,
+		"x" : 0.27383863080684595,
+		"y" : 0.14180929095354522,
 		"genre" : "戦乱絵巻(EX)",
 		"song" : "西軍||∴⊂SEKIGAHARA⊃∴||東軍",
 		"difficulty" : "EX",
@@ -958,7 +1046,7 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.21428571428571427,
+		"x" : 0.165374677002584,
 		"y" : 0,
 		"genre" : "敬老パンク(EX)",
 		"song" : "進め！爺ちゃん！",
@@ -969,8 +1057,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2711864406779661,
-		"y" : 0.08898305084745763,
+		"x" : 0.22279792746113988,
+		"y" : 0.06476683937823834,
 		"genre" : "流離(EX)",
 		"song" : "流離",
 		"difficulty" : "EX",
@@ -980,8 +1068,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.46825396825396826,
-		"y" : 0.2619047619047619,
+		"x" : 0.36729857819905215,
+		"y" : 0.22511848341232227,
 		"genre" : "海神(EX)",
 		"song" : "海神",
 		"difficulty" : "EX",
@@ -991,8 +1079,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.18552036199095023,
-		"y" : 0.04524886877828054,
+		"x" : 0.16467065868263472,
+		"y" : 0.03293413173652695,
 		"genre" : "混乱少女♥そふらんちゃん!!(EX)",
 		"song" : "混乱少女♥そふらんちゃん!!",
 		"difficulty" : "EX",
@@ -1002,8 +1090,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2764227642276423,
-		"y" : 0.12601626016260162,
+		"x" : 0.2182741116751269,
+		"y" : 0.09390862944162437,
 		"genre" : "火風陸空(EX)",
 		"song" : "火風陸空",
 		"difficulty" : "EX",
@@ -1013,8 +1101,19 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.22608695652173913,
-		"y" : 0.043478260869565216,
+		"x" : 0.14225941422594143,
+		"y" : 0.058577405857740586,
+		"genre" : "煉獄事変(EX)",
+		"song" : "煉獄事変",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.19498607242339833,
+		"y" : 0.03899721448467967,
 		"genre" : "現代のヘイヨエ祭り(EX)",
 		"song" : "現代のヘイヨエ祭り",
 		"difficulty" : "EX",
@@ -1024,8 +1123,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.10775862068965517,
-		"y" : 0.034482758620689655,
+		"x" : 0.09090909090909091,
+		"y" : 0.024793388429752067,
 		"genre" : "蟲の棲む処(EX)",
 		"song" : "蟲の棲む処",
 		"difficulty" : "EX",
@@ -1035,8 +1134,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.49800796812749004,
-		"y" : 0.2908366533864542,
+		"x" : 0.3883495145631068,
+		"y" : 0.23300970873786409,
 		"genre" : "謀叛トランス(EX)",
 		"song" : "NOBUNAGA",
 		"difficulty" : "EX",
@@ -1046,8 +1145,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2687224669603524,
-		"y" : 0.0881057268722467,
+		"x" : 0.22950819672131148,
+		"y" : 0.07650273224043716,
 		"genre" : "賢聖シリウスの采配(EX)",
 		"song" : "賢聖シリウスの采配",
 		"difficulty" : "EX",
@@ -1057,8 +1156,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.1885245901639344,
-		"y" : 0.10245901639344263,
+		"x" : 0.14814814814814814,
+		"y" : 0.0873015873015873,
 		"genre" : "金縛りの逢を(EX)",
 		"song" : "金縛りの逢を",
 		"difficulty" : "EX",
@@ -1068,8 +1167,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.3389121338912134,
-		"y" : 0.09205020920502092,
+		"x" : 0.2541966426858513,
+		"y" : 0.06474820143884892,
 		"genre" : "陣旗プログレッシブ(EX)",
 		"song" : "風林火山",
 		"difficulty" : "EX",
@@ -1079,8 +1178,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.21428571428571427,
-		"y" : 0.08035714285714286,
+		"x" : 0.17582417582417584,
+		"y" : 0.06868131868131869,
 		"genre" : "霊魂爆砕 -SOUL EXPLOSION-(EX)",
 		"song" : "霊魂爆砕 -SOUL EXPLOSION-",
 		"difficulty" : "EX",
@@ -1090,8 +1189,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.20588235294117646,
-		"y" : 0.04201680672268908,
+		"x" : 0.15342465753424658,
+		"y" : 0.0410958904109589,
 		"genre" : "霖が哭く(EX)",
 		"song" : "霖が哭く",
 		"difficulty" : "EX",
@@ -1101,8 +1200,30 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.2459016393442623,
-		"y" : 0.01639344262295082,
+		"x" : 0,
+		"y" : 0,
+		"genre" : "龍王の霊廟(EX)",
+		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.3463203463203463,
+		"y" : 0.19913419913419914,
+		"genre" : "龍王の霊廟(Mausoleum Of The Primal Dragon)(EX)",
+		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
+		"difficulty" : "EX",
+		"isUPPER" : false,
+		"isUra" : false,
+		"version" : "none",
+		"isVisible" : true
+	},
+	{
+		"x" : 0.17794486215538846,
+		"y" : 0.010025062656641603,
 		"genre" : "ＤＤＲ(EX)",
 		"song" : "DDR MEGAMIX",
 		"difficulty" : "EX",
@@ -1112,8 +1233,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0.28627450980392155,
-		"y" : 0.09803921568627451,
+		"x" : 0.21363636363636362,
+		"y" : 0.075,
 		"genre" : "ＩＤＭ(EX)",
 		"song" : "ZETA～素数の世界と超越者～",
 		"difficulty" : "EX",
