@@ -150,10 +150,10 @@ const myBarChart50 = new Chart(ctx50, {
               if(val.length > 10){
                 return [val.substr(0, 10), val.substr(10)]
               }else{
-                return val;                
+                return val;
               }
             }
-          }          
+          }
         }],
         yAxes: [{
           ticks: {
@@ -259,7 +259,7 @@ const myBarChart49 = new Chart(ctx49, {
                 return val;
               }
             }
-          }          
+          }
         }],
         yAxes: [{
           ticks: {
@@ -365,7 +365,7 @@ const myBarChart48 = new Chart(ctx48, {
                 return val;
               }
             }
-          }          
+          }
         }],
         yAxes: [{
           ticks: {
