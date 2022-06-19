@@ -162,7 +162,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "pe",
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -184,7 +184,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "pe",
+		"version" : "écl",
 		"isVisible" : true
 	},
 	{
@@ -217,7 +217,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true
 	},
 	{
@@ -261,7 +261,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "pe",
+		"version" : "LT",
 		"isVisible" : true
 	},
 	{
@@ -272,7 +272,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "pe",
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -283,7 +283,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "pe",
+		"version" : "écl",
 		"isVisible" : true
 	},
 	{
@@ -580,7 +580,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true
 	},
 	{
@@ -591,7 +591,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true
 	},
 	{
@@ -602,7 +602,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true
 	},
 	{
@@ -679,7 +679,7 @@ const data49 =
 		"difficulty" : "EX",
 		"isUPPER" : true,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true
 	}
 ]
