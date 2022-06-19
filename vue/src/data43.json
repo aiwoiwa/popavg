@@ -170,15 +170,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "版権",
-		"pf_rate" : "36.60",
-		"fc_rate" : "55.55",
+		"pf_rate" : "36.48",
+		"fc_rate" : "55.37",
 		"clear_rate" : "100.00",
 		"distribution_of_medal" : [
 			112,
 			37,
 			20,
 			1,
-			79,
+			80,
 			46,
 			11,
 			0,
@@ -190,7 +190,7 @@
 			0,
 			29,
 			67,
-			35,
+			36,
 			24,
 			20,
 			25,
@@ -289,8 +289,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99202,
-					98499,
-					98491
+					98460,
+					98415
 				]
 			},
 			{
@@ -822,11 +822,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "版権",
-		"pf_rate" : "21.70",
-		"fc_rate" : "46.04",
-		"clear_rate" : "97.65",
+		"pf_rate" : "21.92",
+		"fc_rate" : "46.19",
+		"clear_rate" : "97.66",
 		"distribution_of_medal" : [
-			74,
+			75,
 			68,
 			14,
 			1,
@@ -840,7 +840,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			56,
+			57,
 			58,
 			44,
 			33,
@@ -942,7 +942,7 @@
 				"scores" : [
 					99706,
 					99099,
-					99051
+					99100
 				]
 			},
 			{
@@ -1311,11 +1311,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "LT",
-		"pf_rate" : "26.68",
-		"fc_rate" : "48.18",
+		"pf_rate" : "26.87",
+		"fc_rate" : "48.32",
 		"clear_rate" : "99.74",
 		"distribution_of_medal" : [
-			103,
+			104,
 			53,
 			28,
 			2,
@@ -1331,7 +1331,7 @@
 			0,
 			31,
 			61,
-			42,
+			43,
 			31,
 			23,
 			31,
@@ -1430,8 +1430,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99425,
-					98706,
-					98657
+					98634,
+					98580
 				]
 			},
 			{
@@ -1636,7 +1636,7 @@
 		"song" : "Mel",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "解",
 		"pf_rate" : "57.00",
 		"fc_rate" : "75.36",
 		"clear_rate" : "100.00",
@@ -1788,7 +1788,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 26,
 		"top_score" : 100000,
 		"top_medal" : 10
 	},
@@ -1963,11 +1963,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "pe",
-		"pf_rate" : "32.44",
-		"fc_rate" : "50.59",
+		"pf_rate" : "32.64",
+		"fc_rate" : "50.74",
 		"clear_rate" : "98.21",
 		"distribution_of_medal" : [
-			109,
+			110,
 			42,
 			17,
 			2,
@@ -1982,7 +1982,7 @@
 		"distribution_of_score" : [
 			0,
 			50,
-			54,
+			55,
 			38,
 			34,
 			25,
@@ -2082,8 +2082,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99528,
-					99168,
-					99065
+					99140,
+					99058
 				]
 			},
 			{
@@ -2126,11 +2126,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "版権",
-		"pf_rate" : "50.00",
-		"fc_rate" : "64.86",
-		"clear_rate" : "99.72",
+		"pf_rate" : "50.13",
+		"fc_rate" : "64.95",
+		"clear_rate" : "99.73",
 		"distribution_of_medal" : [
-			185,
+			186,
 			43,
 			12,
 			0,
@@ -2145,7 +2145,7 @@
 		"distribution_of_score" : [
 			5,
 			103,
-			76,
+			77,
 			43,
 			33,
 			19,
@@ -2245,8 +2245,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99783,
-					99585,
-					99460
+					99494,
+					99413
 				]
 			},
 			{
@@ -2289,11 +2289,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "LT",
-		"pf_rate" : "42.95",
-		"fc_rate" : "64.20",
+		"pf_rate" : "43.08",
+		"fc_rate" : "64.28",
 		"clear_rate" : "99.55",
 		"distribution_of_medal" : [
-			192,
+			193,
 			61,
 			27,
 			7,
@@ -2307,7 +2307,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			102,
+			103,
 			64,
 			49,
 			38,
@@ -2409,7 +2409,7 @@
 				"scores" : [
 					99759,
 					99331,
-					99284
+					99288
 				]
 			},
 			{
@@ -2452,15 +2452,15 @@
 		"isUPPER" : false,
 		"difficulty" : "HYPER",
 		"ver" : "écl",
-		"pf_rate" : "14.53",
-		"fc_rate" : "31.27",
-		"clear_rate" : "96.91",
+		"pf_rate" : "14.47",
+		"fc_rate" : "31.14",
+		"clear_rate" : "96.92",
 		"distribution_of_medal" : [
 			33,
 			22,
 			15,
 			1,
-			56,
+			57,
 			58,
 			35,
 			0,
@@ -2472,7 +2472,7 @@
 			0,
 			4,
 			22,
-			20,
+			21,
 			12,
 			14,
 			18,
@@ -2571,8 +2571,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					98900,
-					98362,
-					98178
+					98178,
+					98129
 				]
 			},
 			{
@@ -2615,15 +2615,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "LT",
-		"pf_rate" : "35.89",
-		"fc_rate" : "59.17",
-		"clear_rate" : "99.17",
+		"pf_rate" : "35.79",
+		"fc_rate" : "59.01",
+		"clear_rate" : "99.18",
 		"distribution_of_medal" : [
 			131,
 			47,
 			31,
 			7,
-			87,
+			88,
 			49,
 			10,
 			0,
@@ -2635,7 +2635,7 @@
 			0,
 			54,
 			62,
-			32,
+			33,
 			33,
 			32,
 			22,
@@ -2734,8 +2734,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99646,
-					98275,
-					97186
+					97695,
+					97180
 				]
 			},
 			{
@@ -2941,11 +2941,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "écl",
-		"pf_rate" : "42.27",
-		"fc_rate" : "65.44",
-		"clear_rate" : "98.89",
+		"pf_rate" : "42.49",
+		"fc_rate" : "65.56",
+		"clear_rate" : "98.90",
 		"distribution_of_medal" : [
-			115,
+			116,
 			42,
 			19,
 			2,
@@ -2959,7 +2959,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			63,
+			64,
 			53,
 			36,
 			20,
@@ -3060,8 +3060,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99754,
-					99402,
-					99085
+					99386,
+					99104
 				]
 			},
 			{
@@ -3430,11 +3430,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "うさ",
-		"pf_rate" : "47.55",
-		"fc_rate" : "60.05",
+		"pf_rate" : "47.69",
+		"fc_rate" : "60.16",
 		"clear_rate" : "99.18",
 		"distribution_of_medal" : [
-			175,
+			176,
 			37,
 			9,
 			0,
@@ -3448,7 +3448,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			129,
+			130,
 			73,
 			32,
 			30,
@@ -3549,8 +3549,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99877,
-					99603,
-					99457
+					99633,
+					99473
 				]
 			},
 			{
@@ -3593,11 +3593,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "pe",
-		"pf_rate" : "25.08",
-		"fc_rate" : "40.13",
-		"clear_rate" : "98.32",
+		"pf_rate" : "25.33",
+		"fc_rate" : "40.33",
+		"clear_rate" : "98.33",
 		"distribution_of_medal" : [
-			75,
+			76,
 			36,
 			8,
 			1,
@@ -3612,7 +3612,7 @@
 		"distribution_of_score" : [
 			0,
 			45,
-			62,
+			63,
 			45,
 			26,
 			30,
@@ -3712,8 +3712,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99419,
-					98802,
-					98832
+					98793,
+					98768
 				]
 			},
 			{
@@ -3756,11 +3756,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "LT",
-		"pf_rate" : "34.92",
-		"fc_rate" : "55.82",
-		"clear_rate" : "97.61",
+		"pf_rate" : "35.09",
+		"fc_rate" : "55.93",
+		"clear_rate" : "97.62",
 		"distribution_of_medal" : [
-			132,
+			133,
 			50,
 			26,
 			3,
@@ -3775,7 +3775,7 @@
 		"distribution_of_score" : [
 			0,
 			53,
-			64,
+			65,
 			34,
 			32,
 			28,
@@ -3875,8 +3875,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99341,
-					98796,
-					98433
+					98834,
+					98464
 				]
 			},
 			{
@@ -3919,11 +3919,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "pe",
-		"pf_rate" : "36.31",
-		"fc_rate" : "56.84",
+		"pf_rate" : "36.48",
+		"fc_rate" : "56.95",
 		"clear_rate" : "98.68",
 		"distribution_of_medal" : [
-			138,
+			139,
 			48,
 			23,
 			7,
@@ -3938,7 +3938,7 @@
 		"distribution_of_score" : [
 			1,
 			74,
-			51,
+			52,
 			47,
 			32,
 			35,
@@ -4038,8 +4038,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99941,
-					99317,
-					99270
+					99273,
+					99221
 				]
 			},
 			{
@@ -4082,11 +4082,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "SP",
-		"pf_rate" : "41.53",
-		"fc_rate" : "68.44",
+		"pf_rate" : "41.66",
+		"fc_rate" : "68.51",
 		"clear_rate" : "99.07",
 		"distribution_of_medal" : [
-			179,
+			180,
 			68,
 			43,
 			5,
@@ -4100,7 +4100,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			87,
+			88,
 			74,
 			42,
 			35,
@@ -4201,8 +4201,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99764,
-					99092,
-					99175
+					99126,
+					99190
 				]
 			},
 			{
@@ -4734,11 +4734,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "5",
-		"pf_rate" : "31.14",
-		"fc_rate" : "44.26",
+		"pf_rate" : "31.30",
+		"fc_rate" : "44.39",
 		"clear_rate" : "99.06",
 		"distribution_of_medal" : [
-			133,
+			134,
 			41,
 			15,
 			0,
@@ -4753,7 +4753,7 @@
 		"distribution_of_score" : [
 			1,
 			82,
-			69,
+			70,
 			37,
 			27,
 			27,
@@ -4853,8 +4853,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99845,
-					99364,
-					98913
+					99344,
+					98903
 				]
 			},
 			{
@@ -5060,11 +5060,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "SP",
-		"pf_rate" : "36.29",
-		"fc_rate" : "64.97",
-		"clear_rate" : "99.23",
+		"pf_rate" : "36.45",
+		"fc_rate" : "65.06",
+		"clear_rate" : "99.24",
 		"distribution_of_medal" : [
-			143,
+			144,
 			64,
 			40,
 			9,
@@ -5078,7 +5078,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			62,
+			63,
 			64,
 			51,
 			27,
@@ -5179,8 +5179,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99461,
-					99058,
-					98937
+					99125,
+					98958
 				]
 			},
 			{
@@ -5223,15 +5223,15 @@
 		"isUPPER" : false,
 		"difficulty" : "HYPER",
 		"ver" : "SP",
-		"pf_rate" : "19.56",
-		"fc_rate" : "34.05",
-		"clear_rate" : "96.13",
+		"pf_rate" : "19.51",
+		"fc_rate" : "33.97",
+		"clear_rate" : "96.14",
 		"distribution_of_medal" : [
 			81,
 			33,
 			27,
 			0,
-			108,
+			109,
 			108,
 			41,
 			1,
@@ -5244,7 +5244,7 @@
 			26,
 			34,
 			28,
-			30,
+			31,
 			23,
 			26,
 			14,
@@ -5342,8 +5342,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99305,
-					98023,
-					96645
+					97488,
+					96671
 				]
 			},
 			{
@@ -5386,11 +5386,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "11",
-		"pf_rate" : "13.22",
-		"fc_rate" : "30.52",
-		"clear_rate" : "99.27",
+		"pf_rate" : "13.42",
+		"fc_rate" : "30.69",
+		"clear_rate" : "99.28",
 		"distribution_of_medal" : [
-			55,
+			56,
 			37,
 			20,
 			15,
@@ -5406,7 +5406,7 @@
 			0,
 			2,
 			39,
-			57,
+			58,
 			38,
 			30,
 			16,
@@ -5505,8 +5505,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					98902,
-					98146,
-					97990
+					98083,
+					97938
 				]
 			},
 			{
@@ -5875,15 +5875,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "SP",
-		"pf_rate" : "29.29",
-		"fc_rate" : "45.07",
+		"pf_rate" : "29.21",
+		"fc_rate" : "44.94",
 		"clear_rate" : "98.59",
 		"distribution_of_medal" : [
 			104,
 			43,
 			13,
 			0,
-			104,
+			105,
 			66,
 			20,
 			0,
@@ -5894,7 +5894,7 @@
 		"distribution_of_score" : [
 			0,
 			69,
-			54,
+			55,
 			36,
 			30,
 			19,
@@ -5994,8 +5994,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99719,
-					99336,
-					99289
+					99260,
+					99192
 				]
 			},
 			{
@@ -6202,11 +6202,11 @@
 		"difficulty" : "EX",
 		"ver" : "9",
 		"pf_rate" : "3.36",
-		"fc_rate" : "48.00",
+		"fc_rate" : "48.10",
 		"clear_rate" : "99.57",
 		"distribution_of_medal" : [
 			16,
-			65,
+			66,
 			74,
 			73,
 			110,
@@ -6220,7 +6220,7 @@
 		"distribution_of_score" : [
 			0,
 			19,
-			63,
+			64,
 			58,
 			30,
 			39,
@@ -6320,8 +6320,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99000,
-					98441,
-					98290
+					98471,
+					98327
 				]
 			},
 			{
@@ -6853,11 +6853,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "20",
-		"pf_rate" : "17.85",
-		"fc_rate" : "45.47",
+		"pf_rate" : "18.05",
+		"fc_rate" : "45.60",
 		"clear_rate" : "99.04",
 		"distribution_of_medal" : [
-			75,
+			76,
 			57,
 			50,
 			9,
@@ -6872,7 +6872,7 @@
 		"distribution_of_score" : [
 			0,
 			6,
-			28,
+			29,
 			34,
 			32,
 			36,
@@ -6972,8 +6972,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					98432,
-					97210,
-					97061
+					97252,
+					97144
 				]
 			},
 			{
@@ -7179,11 +7179,11 @@
 		"isUPPER" : false,
 		"difficulty" : "HYPER",
 		"ver" : "SP",
-		"pf_rate" : "12.28",
-		"fc_rate" : "32.43",
-		"clear_rate" : "96.80",
+		"pf_rate" : "12.50",
+		"fc_rate" : "32.59",
+		"clear_rate" : "96.81",
 		"distribution_of_medal" : [
-			50,
+			51,
 			40,
 			34,
 			8,
@@ -7199,7 +7199,7 @@
 			0,
 			3,
 			15,
-			17,
+			18,
 			33,
 			22,
 			22,
@@ -7298,8 +7298,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					98449,
-					96328,
-					96348
+					96668,
+					96403
 				]
 			},
 			{
@@ -8157,11 +8157,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "10",
-		"pf_rate" : "7.11",
-		"fc_rate" : "34.30",
+		"pf_rate" : "7.30",
+		"fc_rate" : "34.44",
 		"clear_rate" : "98.32",
 		"distribution_of_medal" : [
-			34,
+			35,
 			39,
 			45,
 			46,
@@ -8175,7 +8175,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			45,
+			46,
 			47,
 			38,
 			31,
@@ -8276,8 +8276,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99569,
-					98951,
-					98609
+					99006,
+					98655
 				]
 			},
 			{
@@ -8320,12 +8320,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "10",
-		"pf_rate" : "20.46",
-		"fc_rate" : "40.46",
+		"pf_rate" : "20.41",
+		"fc_rate" : "40.60",
 		"clear_rate" : "98.83",
 		"distribution_of_medal" : [
 			88,
-			44,
+			45,
 			16,
 			26,
 			94,
@@ -8339,7 +8339,7 @@
 		"distribution_of_score" : [
 			0,
 			47,
-			62,
+			63,
 			34,
 			43,
 			23,
@@ -8439,8 +8439,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99505,
-					98816,
-					93441
+					98733,
+					93824
 				]
 			},
 			{
@@ -8483,11 +8483,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "9",
-		"pf_rate" : "31.85",
-		"fc_rate" : "56.13",
+		"pf_rate" : "32.03",
+		"fc_rate" : "56.25",
 		"clear_rate" : "99.73",
 		"distribution_of_medal" : [
-			122,
+			123,
 			43,
 			18,
 			32,
@@ -8502,7 +8502,7 @@
 		"distribution_of_score" : [
 			0,
 			38,
-			56,
+			57,
 			32,
 			19,
 			25,
@@ -8602,8 +8602,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99498,
-					98644,
-					98549
+					98650,
+					98560
 				]
 			},
 			{
@@ -8646,12 +8646,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "13",
-		"pf_rate" : "27.55",
-		"fc_rate" : "48.66",
-		"clear_rate" : "98.88",
+		"pf_rate" : "27.49",
+		"fc_rate" : "48.78",
+		"clear_rate" : "98.89",
 		"distribution_of_medal" : [
 			124,
-			45,
+			46,
 			23,
 			27,
 			86,
@@ -8666,7 +8666,7 @@
 			0,
 			47,
 			51,
-			43,
+			44,
 			30,
 			27,
 			31,
@@ -8765,8 +8765,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99428,
-					98785,
-					98547
+					98611,
+					98424
 				]
 			},
 			{
@@ -8809,11 +8809,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "ee",
-		"pf_rate" : "12.50",
-		"fc_rate" : "23.52",
+		"pf_rate" : "12.71",
+		"fc_rate" : "23.71",
 		"clear_rate" : "99.26",
 		"distribution_of_medal" : [
-			51,
+			52,
 			25,
 			8,
 			12,
@@ -8827,7 +8827,7 @@
 		],
 		"distribution_of_score" : [
 			1,
-			72,
+			73,
 			74,
 			41,
 			37,
@@ -8928,8 +8928,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99668,
-					99215,
-					98880
+					99225,
+					98926
 				]
 			},
 			{
@@ -9298,11 +9298,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "12",
-		"pf_rate" : "28.13",
-		"fc_rate" : "54.18",
-		"clear_rate" : "99.06",
+		"pf_rate" : "28.30",
+		"fc_rate" : "54.29",
+		"clear_rate" : "99.07",
 		"distribution_of_medal" : [
-			121,
+			122,
 			48,
 			32,
 			32,
@@ -9317,7 +9317,7 @@
 		"distribution_of_score" : [
 			0,
 			33,
-			50,
+			51,
 			43,
 			36,
 			25,
@@ -9417,8 +9417,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99446,
-					98611,
-					97911
+					98417,
+					97936
 				]
 			},
 			{
@@ -9461,11 +9461,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "17",
-		"pf_rate" : "19.53",
-		"fc_rate" : "38.04",
+		"pf_rate" : "19.74",
+		"fc_rate" : "38.20",
 		"clear_rate" : "98.97",
 		"distribution_of_medal" : [
-			76,
+			77,
 			38,
 			10,
 			24,
@@ -9481,7 +9481,7 @@
 			0,
 			18,
 			40,
-			47,
+			48,
 			31,
 			18,
 			20,
@@ -9580,8 +9580,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					98917,
-					98240,
-					91297
+					97954,
+					91808
 				]
 			},
 			{
@@ -9787,11 +9787,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "19",
-		"pf_rate" : "34.63",
-		"fc_rate" : "58.90",
+		"pf_rate" : "34.76",
+		"fc_rate" : "58.98",
 		"clear_rate" : "99.21",
 		"distribution_of_medal" : [
-			177,
+			178,
 			60,
 			32,
 			32,
@@ -9805,7 +9805,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			73,
+			74,
 			96,
 			47,
 			44,
@@ -9906,8 +9906,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99682,
-					99241,
-					99254
+					99144,
+					99240
 				]
 			},
 			{
@@ -9950,13 +9950,13 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "7",
-		"pf_rate" : "7.49",
-		"fc_rate" : "47.54",
-		"clear_rate" : "98.70",
+		"pf_rate" : "7.47",
+		"fc_rate" : "47.68",
+		"clear_rate" : "98.71",
 		"distribution_of_medal" : [
 			29,
 			31,
-			50,
+			51,
 			74,
 			75,
 			58,
@@ -9971,7 +9971,7 @@
 			15,
 			29,
 			25,
-			28,
+			29,
 			23,
 			25,
 			13,
@@ -10069,8 +10069,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99350,
-					97987,
-					96809
+					97316,
+					96782
 				]
 			},
 			{
@@ -10756,15 +10756,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "12",
-		"pf_rate" : "12.11",
-		"fc_rate" : "31.44",
+		"pf_rate" : "12.08",
+		"fc_rate" : "31.36",
 		"clear_rate" : "97.68",
 		"distribution_of_medal" : [
 			47,
 			29,
 			19,
 			27,
-			79,
+			80,
 			67,
 			111,
 			0,
@@ -10776,7 +10776,7 @@
 			0,
 			11,
 			32,
-			23,
+			24,
 			28,
 			21,
 			20,
@@ -10875,8 +10875,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99195,
-					98123,
-					97391
+					98078,
+					97400
 				]
 			},
 			{
@@ -11245,15 +11245,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "17",
-		"pf_rate" : "29.49",
-		"fc_rate" : "52.51",
+		"pf_rate" : "29.42",
+		"fc_rate" : "52.39",
 		"clear_rate" : "99.52",
 		"distribution_of_medal" : [
 			123,
 			43,
 			22,
 			31,
-			68,
+			69,
 			54,
 			74,
 			0,
@@ -11272,7 +11272,7 @@
 			12,
 			14,
 			10,
-			18,
+			19,
 			47,
 			26,
 			85
@@ -11364,8 +11364,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99329,
-					98623,
-					98241
+					98552,
+					97581
 				]
 			},
 			{
@@ -11571,11 +11571,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "16",
-		"pf_rate" : "42.00",
-		"fc_rate" : "62.44",
+		"pf_rate" : "42.12",
+		"fc_rate" : "62.52",
 		"clear_rate" : "98.66",
 		"distribution_of_medal" : [
-			189,
+			190,
 			47,
 			20,
 			25,
@@ -11590,7 +11590,7 @@
 		"distribution_of_score" : [
 			0,
 			78,
-			69,
+			70,
 			54,
 			30,
 			27,
@@ -11690,8 +11690,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99772,
-					99318,
-					98146
+					99176,
+					98196
 				]
 			},
 			{
@@ -11897,15 +11897,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "CS13",
-		"pf_rate" : "39.32",
-		"fc_rate" : "49.47",
+		"pf_rate" : "39.24",
+		"fc_rate" : "49.36",
 		"clear_rate" : "99.57",
 		"distribution_of_medal" : [
 			186,
 			34,
 			4,
 			10,
-			107,
+			108,
 			63,
 			67,
 			0,
@@ -11916,7 +11916,7 @@
 		"distribution_of_score" : [
 			5,
 			150,
-			83,
+			84,
 			40,
 			38,
 			24,
@@ -12016,8 +12016,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99908,
-					99797,
-					99461
+					99792,
+					99421
 				]
 			},
 			{
@@ -12386,11 +12386,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "17",
-		"pf_rate" : "59.82",
-		"fc_rate" : "78.63",
+		"pf_rate" : "59.91",
+		"fc_rate" : "78.67",
 		"clear_rate" : "99.78",
 		"distribution_of_medal" : [
-			280,
+			281,
 			50,
 			15,
 			23,
@@ -12404,7 +12404,7 @@
 		],
 		"distribution_of_score" : [
 			4,
-			183,
+			184,
 			89,
 			35,
 			36,
@@ -12505,8 +12505,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99925,
-					99660,
-					99689
+					99668,
+					99698
 				]
 			},
 			{
@@ -12549,13 +12549,13 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "19",
-		"pf_rate" : "38.21",
-		"fc_rate" : "62.01",
-		"clear_rate" : "98.62",
+		"pf_rate" : "38.12",
+		"fc_rate" : "62.10",
+		"clear_rate" : "98.63",
 		"distribution_of_medal" : [
 			167,
 			48,
-			23,
+			24,
 			33,
 			67,
 			42,
@@ -12570,7 +12570,7 @@
 			47,
 			67,
 			47,
-			32,
+			33,
 			26,
 			25,
 			24,
@@ -12668,8 +12668,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99538,
-					98768,
-					98361
+					98678,
+					98207
 				]
 			},
 			{
@@ -13038,12 +13038,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "CS7",
-		"pf_rate" : "21.65",
-		"fc_rate" : "38.23",
+		"pf_rate" : "21.60",
+		"fc_rate" : "38.40",
 		"clear_rate" : "99.46",
 		"distribution_of_medal" : [
 			81,
-			37,
+			38,
 			8,
 			17,
 			80,
@@ -13056,7 +13056,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			52,
+			53,
 			49,
 			33,
 			21,
@@ -13157,8 +13157,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99623,
-					98587,
-					97785
+					98626,
+					97893
 				]
 			},
 			{
@@ -13201,11 +13201,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "12",
-		"pf_rate" : "49.39",
-		"fc_rate" : "56.65",
-		"clear_rate" : "98.78",
+		"pf_rate" : "49.51",
+		"fc_rate" : "56.76",
+		"clear_rate" : "98.79",
 		"distribution_of_medal" : [
-			204,
+			205,
 			15,
 			1,
 			14,
@@ -13219,7 +13219,7 @@
 		],
 		"distribution_of_score" : [
 			7,
-			125,
+			126,
 			74,
 			31,
 			28,
@@ -13320,8 +13320,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99950,
-					99729,
-					99647
+					99704,
+					99622
 				]
 			},
 			{
@@ -13364,11 +13364,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "16",
-		"pf_rate" : "33.33",
-		"fc_rate" : "51.39",
+		"pf_rate" : "33.47",
+		"fc_rate" : "51.50",
 		"clear_rate" : "98.49",
 		"distribution_of_medal" : [
-			155,
+			156,
 			44,
 			15,
 			25,
@@ -13382,7 +13382,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			99,
+			100,
 			75,
 			43,
 			44,
@@ -13483,8 +13483,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99678,
-					99220,
-					99150
+					99259,
+					99174
 				]
 			},
 			{
@@ -13853,11 +13853,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "17",
-		"pf_rate" : "37.80",
-		"fc_rate" : "56.82",
+		"pf_rate" : "37.95",
+		"fc_rate" : "56.93",
 		"clear_rate" : "99.75",
 		"distribution_of_medal" : [
-			155,
+			156,
 			31,
 			16,
 			31,
@@ -13872,7 +13872,7 @@
 		"distribution_of_score" : [
 			0,
 			54,
-			66,
+			67,
 			47,
 			26,
 			23,
@@ -13972,8 +13972,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99565,
-					98968,
-					98881
+					98955,
+					98886
 				]
 			},
 			{
@@ -14179,15 +14179,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "SP",
-		"pf_rate" : "40.89",
-		"fc_rate" : "57.10",
+		"pf_rate" : "40.79",
+		"fc_rate" : "56.96",
 		"clear_rate" : "98.25",
 		"distribution_of_medal" : [
 			164,
 			44,
 			20,
 			1,
-			88,
+			89,
 			57,
 			20,
 			0,
@@ -14199,7 +14199,7 @@
 			2,
 			104,
 			62,
-			50,
+			51,
 			22,
 			23,
 			22,
@@ -14298,8 +14298,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99894,
-					99577,
-					99377
+					99551,
+					99212
 				]
 			},
 			{
@@ -14505,12 +14505,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "13",
-		"pf_rate" : "30.99",
-		"fc_rate" : "46.09",
+		"pf_rate" : "30.91",
+		"fc_rate" : "46.23",
 		"clear_rate" : "99.73",
 		"distribution_of_medal" : [
 			115,
-			23,
+			24,
 			7,
 			26,
 			61,
@@ -14523,7 +14523,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			70,
+			71,
 			57,
 			32,
 			24,
@@ -14624,8 +14624,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99728,
-					98693,
-					98724
+					98914,
+					98765
 				]
 			},
 			{
@@ -14668,11 +14668,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "20",
-		"pf_rate" : "35.79",
-		"fc_rate" : "59.73",
-		"clear_rate" : "99.32",
+		"pf_rate" : "35.93",
+		"fc_rate" : "59.82",
+		"clear_rate" : "99.33",
 		"distribution_of_medal" : [
-			160,
+			161,
 			73,
 			29,
 			5,
@@ -14687,7 +14687,7 @@
 		"distribution_of_score" : [
 			0,
 			98,
-			81,
+			82,
 			36,
 			38,
 			28,
@@ -14787,8 +14787,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99722,
-					99430,
-					99306
+					99353,
+					99262
 				]
 			},
 			{
@@ -14831,11 +14831,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "CS9",
-		"pf_rate" : "39.09",
-		"fc_rate" : "51.42",
-		"clear_rate" : "98.57",
+		"pf_rate" : "39.24",
+		"fc_rate" : "51.53",
+		"clear_rate" : "98.58",
 		"distribution_of_medal" : [
-			165,
+			166,
 			26,
 			8,
 			18,
@@ -14849,7 +14849,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			76,
+			77,
 			67,
 			38,
 			28,
@@ -14950,8 +14950,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99764,
-					98976,
-					98896
+					99047,
+					98918
 				]
 			},
 			{
@@ -14994,12 +14994,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "20",
-		"pf_rate" : "22.95",
-		"fc_rate" : "38.63",
+		"pf_rate" : "22.90",
+		"fc_rate" : "38.77",
 		"clear_rate" : "99.77",
 		"distribution_of_medal" : [
 			101,
-			49,
+			50,
 			19,
 			1,
 			135,
@@ -15012,7 +15012,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			48,
+			49,
 			67,
 			41,
 			35,
@@ -15113,8 +15113,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99500,
-					99059,
-					98513
+					99088,
+					98557
 				]
 			},
 			{
@@ -15320,13 +15320,13 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "2",
-		"pf_rate" : "18.96",
-		"fc_rate" : "45.86",
+		"pf_rate" : "18.90",
+		"fc_rate" : "46.04",
 		"clear_rate" : "98.62",
 		"distribution_of_medal" : [
 			55,
 			42,
-			31,
+			32,
 			5,
 			87,
 			55,
@@ -15339,7 +15339,7 @@
 		"distribution_of_score" : [
 			0,
 			72,
-			59,
+			60,
 			27,
 			24,
 			23,
@@ -15439,8 +15439,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99786,
-					99361,
-					99164
+					99325,
+					99117
 				]
 			},
 			{
@@ -15809,11 +15809,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "écl",
-		"pf_rate" : "45.13",
-		"fc_rate" : "61.86",
+		"pf_rate" : "45.34",
+		"fc_rate" : "62.01",
 		"clear_rate" : "99.22",
 		"distribution_of_medal" : [
-			116,
+			117,
 			40,
 			3,
 			0,
@@ -15827,7 +15827,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			83,
+			84,
 			55,
 			24,
 			24,
@@ -15928,8 +15928,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99886,
-					99302,
-					99360
+					99316,
+					99356
 				]
 			},
 			{
@@ -15972,15 +15972,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "13",
-		"pf_rate" : "36.98",
-		"fc_rate" : "60.83",
+		"pf_rate" : "36.89",
+		"fc_rate" : "60.69",
 		"clear_rate" : "98.90",
 		"distribution_of_medal" : [
 			169,
 			54,
 			23,
 			32,
-			70,
+			71,
 			44,
 			60,
 			0,
@@ -15991,7 +15991,7 @@
 		"distribution_of_score" : [
 			0,
 			58,
-			70,
+			71,
 			46,
 			35,
 			31,
@@ -16091,8 +16091,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99656,
-					98739,
-					98735
+					98481,
+					98682
 				]
 			},
 			{
@@ -16135,12 +16135,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "17",
-		"pf_rate" : "22.13",
-		"fc_rate" : "36.97",
-		"clear_rate" : "99.21",
+		"pf_rate" : "22.07",
+		"fc_rate" : "37.14",
+		"clear_rate" : "99.22",
 		"distribution_of_medal" : [
 			85,
-			30,
+			31,
 			9,
 			18,
 			66,
@@ -16154,7 +16154,7 @@
 		"distribution_of_score" : [
 			0,
 			54,
-			57,
+			58,
 			37,
 			32,
 			14,
@@ -16254,8 +16254,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99531,
-					98828,
-					98469
+					98769,
+					98475
 				]
 			},
 			{
@@ -16461,13 +16461,13 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "5",
-		"pf_rate" : "4.59",
-		"fc_rate" : "32.14",
-		"clear_rate" : "97.44",
+		"pf_rate" : "4.58",
+		"fc_rate" : "32.31",
+		"clear_rate" : "97.45",
 		"distribution_of_medal" : [
 			18,
 			24,
-			25,
+			26,
 			59,
 			76,
 			82,
@@ -16481,7 +16481,7 @@
 			0,
 			12,
 			28,
-			22,
+			23,
 			8,
 			23,
 			16,
@@ -16580,8 +16580,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					98798,
-					97636,
-					96839
+					97612,
+					96873
 				]
 			},
 			{
@@ -17276,12 +17276,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "ee",
-		"pf_rate" : "7.29",
-		"fc_rate" : "36.00",
+		"pf_rate" : "7.28",
+		"fc_rate" : "36.16",
 		"clear_rate" : "99.75",
 		"distribution_of_medal" : [
 			30,
-			35,
+			36,
 			38,
 			45,
 			86,
@@ -17295,7 +17295,7 @@
 		"distribution_of_score" : [
 			0,
 			21,
-			45,
+			46,
 			34,
 			31,
 			21,
@@ -17395,8 +17395,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99140,
-					98532,
-					97830
+					98443,
+					97883
 				]
 			},
 			{
@@ -17602,12 +17602,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "ee2",
-		"pf_rate" : "4.24",
-		"fc_rate" : "32.36",
+		"pf_rate" : "4.23",
+		"fc_rate" : "32.51",
 		"clear_rate" : "98.66",
 		"distribution_of_medal" : [
 			19,
-			36,
+			37,
 			52,
 			38,
 			118,
@@ -17622,7 +17622,7 @@
 			0,
 			19,
 			38,
-			33,
+			34,
 			34,
 			28,
 			22,
@@ -17721,8 +17721,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99420,
-					98023,
-					97918
+					97949,
+					97914
 				]
 			},
 			{
@@ -18417,11 +18417,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "5",
-		"pf_rate" : "8.73",
-		"fc_rate" : "44.17",
+		"pf_rate" : "8.97",
+		"fc_rate" : "44.32",
 		"clear_rate" : "99.47",
 		"distribution_of_medal" : [
-			33,
+			34,
 			55,
 			33,
 			46,
@@ -18435,7 +18435,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			50,
+			51,
 			48,
 			23,
 			28,
@@ -18536,8 +18536,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99440,
-					98748,
-					98612
+					98897,
+					98655
 				]
 			},
 			{
@@ -18580,11 +18580,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "版権",
-		"pf_rate" : "55.51",
-		"fc_rate" : "71.10",
-		"clear_rate" : "99.61",
+		"pf_rate" : "55.68",
+		"fc_rate" : "71.21",
+		"clear_rate" : "99.62",
 		"distribution_of_medal" : [
-			146,
+			147,
 			34,
 			7,
 			0,
@@ -18598,7 +18598,7 @@
 		],
 		"distribution_of_score" : [
 			1,
-			103,
+			104,
 			54,
 			20,
 			26,
@@ -18699,8 +18699,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99895,
-					99400,
-					99498
+					99374,
+					99464
 				]
 			},
 			{
@@ -18743,11 +18743,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "ee2",
-		"pf_rate" : "34.17",
-		"fc_rate" : "54.02",
+		"pf_rate" : "34.33",
+		"fc_rate" : "54.13",
 		"clear_rate" : "98.99",
 		"distribution_of_medal" : [
-			136,
+			137,
 			40,
 			3,
 			36,
@@ -18761,7 +18761,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			103,
+			104,
 			57,
 			30,
 			23,
@@ -18862,8 +18862,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99921,
-					99608,
-					99018
+					99582,
+					99060
 				]
 			},
 			{
@@ -19884,11 +19884,11 @@
 		"isUPPER" : false,
 		"difficulty" : "HYPER",
 		"ver" : "8",
-		"pf_rate" : "7.27",
-		"fc_rate" : "39.31",
+		"pf_rate" : "7.48",
+		"fc_rate" : "39.45",
 		"clear_rate" : "98.63",
 		"distribution_of_medal" : [
-			32,
+			33,
 			42,
 			51,
 			48,
@@ -19902,7 +19902,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			32,
+			33,
 			46,
 			35,
 			41,
@@ -20003,8 +20003,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99296,
-					98517,
-					96921
+					98606,
+					97084
 				]
 			},
 			{
@@ -20210,12 +20210,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "13",
-		"pf_rate" : "22.34",
-		"fc_rate" : "42.25",
+		"pf_rate" : "22.29",
+		"fc_rate" : "42.38",
 		"clear_rate" : "99.11",
 		"distribution_of_medal" : [
 			101,
-			37,
+			38,
 			13,
 			40,
 			113,
@@ -20229,7 +20229,7 @@
 		"distribution_of_score" : [
 			0,
 			36,
-			50,
+			51,
 			34,
 			36,
 			35,
@@ -20329,8 +20329,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99339,
-					98588,
-					98075
+					98382,
+					98088
 				]
 			},
 			{
@@ -20373,11 +20373,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "16",
-		"pf_rate" : "30.39",
-		"fc_rate" : "46.47",
-		"clear_rate" : "98.67",
+		"pf_rate" : "30.54",
+		"fc_rate" : "46.59",
+		"clear_rate" : "98.68",
 		"distribution_of_medal" : [
-			138,
+			139,
 			47,
 			9,
 			17,
@@ -20391,7 +20391,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			78,
+			79,
 			80,
 			52,
 			36,
@@ -20493,7 +20493,7 @@
 				"scores" : [
 					99853,
 					99315,
-					99304
+					99305
 				]
 			},
 			{
@@ -20699,11 +20699,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "18",
-		"pf_rate" : "26.38",
-		"fc_rate" : "45.31",
+		"pf_rate" : "26.53",
+		"fc_rate" : "45.43",
 		"clear_rate" : "98.51",
 		"distribution_of_medal" : [
-			124,
+			125,
 			48,
 			17,
 			24,
@@ -20718,7 +20718,7 @@
 		"distribution_of_score" : [
 			0,
 			38,
-			59,
+			60,
 			50,
 			33,
 			31,
@@ -20818,8 +20818,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99591,
-					98809,
-					98661
+					98843,
+					98679
 				]
 			},
 			{
@@ -21025,15 +21025,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "14",
-		"pf_rate" : "48.82",
-		"fc_rate" : "66.52",
+		"pf_rate" : "48.72",
+		"fc_rate" : "66.38",
 		"clear_rate" : "99.78",
 		"distribution_of_medal" : [
 			229,
 			27,
 			26,
 			30,
-			73,
+			74,
 			30,
 			53,
 			0,
@@ -21045,7 +21045,7 @@
 			1,
 			106,
 			76,
-			33,
+			34,
 			34,
 			26,
 			17,
@@ -21144,8 +21144,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99850,
-					99553,
-					99513
+					99493,
+					99391
 				]
 			},
 			{
@@ -21514,11 +21514,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "18",
-		"pf_rate" : "46.20",
-		"fc_rate" : "69.59",
+		"pf_rate" : "46.30",
+		"fc_rate" : "69.66",
 		"clear_rate" : "99.20",
 		"distribution_of_medal" : [
-			231,
+			232,
 			72,
 			21,
 			24,
@@ -21532,7 +21532,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			132,
+			133,
 			100,
 			57,
 			44,
@@ -21633,8 +21633,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99775,
-					99537,
-					99546
+					99523,
+					99542
 				]
 			},
 			{
@@ -21677,11 +21677,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "うさ",
-		"pf_rate" : "23.40",
-		"fc_rate" : "43.46",
+		"pf_rate" : "23.63",
+		"fc_rate" : "43.63",
 		"clear_rate" : "97.87",
 		"distribution_of_medal" : [
-			77,
+			78,
 			51,
 			14,
 			1,
@@ -21695,7 +21695,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			49,
+			50,
 			74,
 			40,
 			23,
@@ -21796,8 +21796,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99552,
-					99263,
-					98984
+					99210,
+					98996
 				]
 			},
 			{
@@ -21840,11 +21840,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "17",
-		"pf_rate" : "19.16",
-		"fc_rate" : "37.10",
+		"pf_rate" : "19.36",
+		"fc_rate" : "37.25",
 		"clear_rate" : "98.28",
 		"distribution_of_medal" : [
-			78,
+			79,
 			32,
 			15,
 			26,
@@ -21859,7 +21859,7 @@
 		"distribution_of_score" : [
 			0,
 			50,
-			67,
+			68,
 			49,
 			37,
 			20,
@@ -21959,8 +21959,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99699,
-					98665,
-					97860
+					98761,
+					97943
 				]
 			},
 			{
@@ -22166,11 +22166,11 @@
 		"isUPPER" : true,
 		"difficulty" : "EX",
 		"ver" : "解版",
-		"pf_rate" : "38.53",
-		"fc_rate" : "56.14",
-		"clear_rate" : "98.00",
+		"pf_rate" : "38.74",
+		"fc_rate" : "56.29",
+		"clear_rate" : "98.01",
 		"distribution_of_medal" : [
-			116,
+			117,
 			36,
 			13,
 			4,
@@ -22186,7 +22186,7 @@
 			0,
 			35,
 			58,
-			35,
+			36,
 			30,
 			21,
 			19,
@@ -22286,7 +22286,7 @@
 				"scores" : [
 					99385,
 					98609,
-					98657
+					98564
 				]
 			},
 			{
@@ -22492,15 +22492,15 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "版権",
-		"pf_rate" : "30.89",
-		"fc_rate" : "45.28",
-		"clear_rate" : "98.34",
+		"pf_rate" : "30.82",
+		"fc_rate" : "45.17",
+		"clear_rate" : "98.35",
 		"distribution_of_medal" : [
 			131,
 			44,
 			17,
 			0,
-			117,
+			118,
 			83,
 			25,
 			1,
@@ -22511,7 +22511,7 @@
 		"distribution_of_score" : [
 			0,
 			62,
-			75,
+			76,
 			45,
 			39,
 			28,
@@ -22611,8 +22611,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99625,
-					99171,
-					98852
+					99104,
+					98827
 				]
 			},
 			{
@@ -22818,11 +22818,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "うさ",
-		"pf_rate" : "44.98",
-		"fc_rate" : "67.47",
+		"pf_rate" : "45.15",
+		"fc_rate" : "67.57",
 		"clear_rate" : "98.48",
 		"distribution_of_medal" : [
-			148,
+			149,
 			43,
 			27,
 			4,
@@ -22837,7 +22837,7 @@
 		"distribution_of_score" : [
 			0,
 			54,
-			67,
+			68,
 			36,
 			30,
 			28,
@@ -22937,8 +22937,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99626,
-					99007,
-					98938
+					98964,
+					98904
 				]
 			},
 			{
@@ -23796,13 +23796,13 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "LT",
-		"pf_rate" : "21.80",
-		"fc_rate" : "43.60",
-		"clear_rate" : "97.15",
+		"pf_rate" : "21.74",
+		"fc_rate" : "43.73",
+		"clear_rate" : "97.16",
 		"distribution_of_medal" : [
 			92,
 			54,
-			34,
+			35,
 			4,
 			105,
 			98,
@@ -23816,7 +23816,7 @@
 			0,
 			31,
 			59,
-			47,
+			48,
 			30,
 			35,
 			31,
@@ -23915,8 +23915,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99548,
-					98645,
-					98538
+					98588,
+					98488
 				]
 			},
 			{
@@ -23959,13 +23959,13 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "écl",
-		"pf_rate" : "27.44",
-		"fc_rate" : "49.84",
+		"pf_rate" : "27.35",
+		"fc_rate" : "50.00",
 		"clear_rate" : "99.68",
 		"distribution_of_medal" : [
 			87,
 			48,
-			23,
+			24,
 			0,
 			94,
 			36,
@@ -23979,7 +23979,7 @@
 			0,
 			36,
 			67,
-			32,
+			33,
 			30,
 			31,
 			18,
@@ -24078,8 +24078,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99326,
-					99069,
-					98574
+					98909,
+					98516
 				]
 			},
 			{
@@ -24122,12 +24122,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "ee2",
-		"pf_rate" : "3.48",
-		"fc_rate" : "50.74",
+		"pf_rate" : "3.47",
+		"fc_rate" : "50.86",
 		"clear_rate" : "99.25",
 		"distribution_of_medal" : [
 			14,
-			52,
+			53,
 			69,
 			69,
 			76,
@@ -24141,7 +24141,7 @@
 		"distribution_of_score" : [
 			0,
 			14,
-			49,
+			50,
 			42,
 			30,
 			26,
@@ -24241,8 +24241,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					98848,
-					98383,
-					97685
+					98311,
+					97724
 				]
 			},
 			{
@@ -24285,11 +24285,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "19",
-		"pf_rate" : "40.83",
-		"fc_rate" : "64.79",
+		"pf_rate" : "40.95",
+		"fc_rate" : "64.86",
 		"clear_rate" : "99.37",
 		"distribution_of_medal" : [
-			196,
+			197,
 			63,
 			32,
 			20,
@@ -24303,7 +24303,7 @@
 		],
 		"distribution_of_score" : [
 			1,
-			119,
+			120,
 			75,
 			59,
 			39,
@@ -24405,7 +24405,7 @@
 				"scores" : [
 					99733,
 					99527,
-					99482
+					99492
 				]
 			},
 			{
@@ -24611,11 +24611,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "15",
-		"pf_rate" : "35.20",
-		"fc_rate" : "63.54",
+		"pf_rate" : "35.34",
+		"fc_rate" : "63.61",
 		"clear_rate" : "99.58",
 		"distribution_of_medal" : [
-			169,
+			170,
 			74,
 			19,
 			43,
@@ -24629,7 +24629,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			115,
+			116,
 			100,
 			49,
 			35,
@@ -24730,8 +24730,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99856,
-					99340,
-					99182
+					99282,
+					99172
 				]
 			},
 			{
@@ -24774,11 +24774,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "pe",
-		"pf_rate" : "39.31",
-		"fc_rate" : "53.56",
+		"pf_rate" : "39.50",
+		"fc_rate" : "53.70",
 		"clear_rate" : "99.69",
 		"distribution_of_medal" : [
-			127,
+			128,
 			33,
 			12,
 			1,
@@ -24793,7 +24793,7 @@
 		"distribution_of_score" : [
 			0,
 			46,
-			54,
+			55,
 			37,
 			30,
 			28,
@@ -24893,8 +24893,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99527,
-					98676,
-					98498
+					98707,
+					98527
 				]
 			},
 			{
@@ -24937,12 +24937,12 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "18",
-		"pf_rate" : "38.73",
-		"fc_rate" : "61.66",
-		"clear_rate" : "99.20",
+		"pf_rate" : "38.65",
+		"fc_rate" : "61.73",
+		"clear_rate" : "99.21",
 		"distribution_of_medal" : [
 			196,
-			58,
+			59,
 			31,
 			27,
 			102,
@@ -24955,7 +24955,7 @@
 		],
 		"distribution_of_score" : [
 			0,
-			106,
+			107,
 			83,
 			54,
 			29,
@@ -25056,8 +25056,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99745,
-					99504,
-					99506
+					99490,
+					99485
 				]
 			},
 			{
@@ -25915,11 +25915,11 @@
 		"isUPPER" : false,
 		"difficulty" : "EX",
 		"ver" : "13",
-		"pf_rate" : "34.32",
-		"fc_rate" : "53.77",
+		"pf_rate" : "34.47",
+		"fc_rate" : "53.88",
 		"clear_rate" : "99.08",
 		"distribution_of_medal" : [
-			150,
+			151,
 			37,
 			14,
 			34,
@@ -25934,7 +25934,7 @@
 		"distribution_of_score" : [
 			0,
 			53,
-			68,
+			69,
 			43,
 			28,
 			22,
@@ -26034,8 +26034,8 @@
 				"top_medal" : 10,
 				"scores" : [
 					99575,
-					99049,
-					98842
+					99009,
+					98853
 				]
 			},
 			{
