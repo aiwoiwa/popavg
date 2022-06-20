@@ -10203,7 +10203,7 @@ const data47 =
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"max" : 99120,
-				"avg" : 98649.38461538461,
+				"avg" : 98661.76923076923,
 				"min" : 97448,
 				"count" : 13
 			},
@@ -12767,7 +12767,7 @@ const data47 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -17573,8 +17573,8 @@ const data47 =
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"max" : 98909,
-				"avg" : 97644.76923076923,
-				"min" : 95478,
+				"avg" : 97783.92307692308,
+				"min" : 95984,
 				"count" : 13
 			},
 			{

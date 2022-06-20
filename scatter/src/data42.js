@@ -111,25 +111,14 @@ const data42 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0,
-		"y" : 0,
+		"x" : 0.6396396396396397,
+		"y" : 0.36486486486486486,
 		"genre" : "Homesick Pt.2&3 -kudo version-(EX)",
 		"song" : "Homesick Pt.2&3 -kudo version-",
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
 		"version" : "解",
-		"isVisible" : true
-	},
-	{
-		"x" : 0.6425339366515838,
-		"y" : 0.3665158371040724,
-		"genre" : "Homesick Pt.2&3 -kudo version-(EX)",
-		"song" : "Homesick Pt.2&3 -kudo version-",
-		"difficulty" : "EX",
-		"isUPPER" : false,
-		"isUra" : false,
-		"version" : "none",
 		"isVisible" : true
 	},
 	{
@@ -327,7 +316,7 @@ const data42 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true
 	},
 	{
@@ -921,7 +910,7 @@ const data42 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "CS5",
 		"isVisible" : true
 	},
 	{

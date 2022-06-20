@@ -4570,7 +4570,7 @@
 		"song" : "biosphere　～天国の花～",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "pe",
 		"pf_rate" : "17.92",
 		"fc_rate" : "35.84",
 		"clear_rate" : "99.28",
@@ -4722,7 +4722,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 25,
 		"top_score" : 99719,
 		"top_medal" : 10
 	},
@@ -9623,7 +9623,7 @@
 		"song" : "ギンギンパーレー！！",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "うさ",
 		"pf_rate" : "29.39",
 		"fc_rate" : "49.82",
 		"clear_rate" : "98.92",
@@ -9775,7 +9775,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 24,
 		"top_score" : 99790,
 		"top_medal" : 10
 	},
@@ -11742,7 +11742,7 @@
 		"song" : "Bubble Bagpipe Hour",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "6",
 		"pf_rate" : "26.46",
 		"fc_rate" : "61.85",
 		"clear_rate" : "99.31",
@@ -11894,7 +11894,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 6,
 		"top_score" : 99905,
 		"top_medal" : 10
 	},
@@ -24788,8 +24788,8 @@
 		"clear_rate" : "98.58",
 		"distribution_of_medal" : [
 			36,
-			47,
-			38,
+			48,
+			37,
 			20,
 			80,
 			48,
@@ -24802,9 +24802,9 @@
 		"distribution_of_score" : [
 			0,
 			39,
-			49,
+			50,
 			28,
-			22,
+			21,
 			22,
 			20,
 			8,
@@ -24903,7 +24903,7 @@
 				"scores" : [
 					99497,
 					98593,
-					98082
+					98281
 				]
 			},
 			{

@@ -20372,7 +20372,7 @@
 		"song" : "夕陽のダンディー",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "pe",
 		"pf_rate" : "20.68",
 		"fc_rate" : "36.78",
 		"clear_rate" : "97.31",
@@ -20524,7 +20524,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 25,
 		"top_score" : 99531,
 		"top_medal" : 10
 	},

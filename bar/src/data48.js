@@ -11007,7 +11007,7 @@ const data48 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -11997,7 +11997,7 @@ const data48 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -12016,7 +12016,7 @@ const data48 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "解",
+		"version" : "none",
 		"isVisible" : true,
 		"data" : [
 			{

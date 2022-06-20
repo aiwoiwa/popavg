@@ -16306,7 +16306,7 @@
 		"song" : "煉獄事変",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "解",
 		"pf_rate" : "5.83",
 		"fc_rate" : "14.16",
 		"clear_rate" : "97.08",
@@ -16458,7 +16458,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 26,
 		"top_score" : 99280,
 		"top_medal" : 10
 	},
@@ -17773,7 +17773,7 @@
 		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "解",
 		"pf_rate" : "0.00",
 		"fc_rate" : "0.00",
 		"clear_rate" : "100.00",
@@ -17817,7 +17817,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 26,
 		"top_score" : 97882,
 		"top_medal" : 6
 	},
@@ -17828,7 +17828,7 @@
 		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "解",
+		"ver" : "none",
 		"pf_rate" : "20.25",
 		"fc_rate" : "34.91",
 		"clear_rate" : "98.27",
@@ -17980,7 +17980,7 @@
 				]
 			}
 		],
-		"ver_order" : 26,
+		"ver_order" : undefined,
 		"top_score" : 99717,
 		"top_medal" : 10
 	},

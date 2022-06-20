@@ -13750,7 +13750,7 @@ const data44 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "pe",
 		"isVisible" : true,
 		"data" : [
 			{

@@ -3087,7 +3087,7 @@ const data45 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "pe",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -6497,7 +6497,7 @@ const data45 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "うさ",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -7927,7 +7927,7 @@ const data45 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "6",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -16803,7 +16803,7 @@ const data45 =
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"max" : 99497,
-				"avg" : 98081.81818181818,
+				"avg" : 98280.72727272728,
 				"min" : 94598,
 				"count" : 11
 			},

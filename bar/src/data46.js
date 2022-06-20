@@ -11117,7 +11117,7 @@ const data46 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "12",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -12767,7 +12767,7 @@ const data46 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "6",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -13207,7 +13207,7 @@ const data46 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "8",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -13977,7 +13977,7 @@ const data46 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "8",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -17717,7 +17717,7 @@ const data46 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "pe",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -18047,7 +18047,7 @@ const data46 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "うさ",
+		"version" : "6",
 		"isVisible" : true,
 		"data" : [
 			{

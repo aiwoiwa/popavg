@@ -16469,7 +16469,7 @@
 		"song" : "Into The Light",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "12",
 		"pf_rate" : "44.23",
 		"fc_rate" : "57.21",
 		"clear_rate" : "99.03",
@@ -16621,7 +16621,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 12,
 		"top_score" : 99947,
 		"top_medal" : 10
 	},
@@ -18914,7 +18914,7 @@
 		"song" : "電波の暮らし",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "6",
 		"pf_rate" : "17.32",
 		"fc_rate" : "50.98",
 		"clear_rate" : "96.73",
@@ -19066,7 +19066,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 6,
 		"top_score" : 99883,
 		"top_medal" : 10
 	},
@@ -19566,7 +19566,7 @@
 		"song" : "Linus",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "8",
 		"pf_rate" : "3.67",
 		"fc_rate" : "32.35",
 		"clear_rate" : "95.22",
@@ -19718,7 +19718,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 8,
 		"top_score" : 99683,
 		"top_medal" : 10
 	},
@@ -20707,7 +20707,7 @@
 		"song" : "Miracle 4",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "8",
 		"pf_rate" : "7.84",
 		"fc_rate" : "30.71",
 		"clear_rate" : "97.61",
@@ -20859,7 +20859,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 8,
 		"top_score" : 99526,
 		"top_medal" : 10
 	},
@@ -26249,7 +26249,7 @@
 		"song" : "狂水一華",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "pe",
 		"pf_rate" : "35.63",
 		"fc_rate" : "57.81",
 		"clear_rate" : "99.27",
@@ -26401,7 +26401,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 25,
 		"top_score" : 99688,
 		"top_medal" : 10
 	},
@@ -26738,7 +26738,7 @@
 		"song" : "空想モダニズム",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "うさ",
+		"ver" : "6",
 		"pf_rate" : "41.44",
 		"fc_rate" : "51.60",
 		"clear_rate" : "96.52",
@@ -26890,7 +26890,7 @@
 				]
 			}
 		],
-		"ver_order" : 24,
+		"ver_order" : 6,
 		"top_score" : 99975,
 		"top_medal" : 10
 	},

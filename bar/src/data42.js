@@ -1111,25 +1111,6 @@ const data42 =
 		"isVisible" : true,
 		"data" : [
 			{
-				"popn_class" : "099.90_<=_x_<_100.00",
-				"max" : 99159,
-				"avg" : 99159,
-				"min" : 99159,
-				"count" : 1
-			}
-		]
-	},
-	{
-		"lv" : 42,
-		"genre" : "Homesick Pt.2&3 -kudo version-",
-		"song" : "Homesick Pt.2&3 -kudo version-",
-		"difficulty" : "EX",
-		"isUPPER" : false,
-		"isUra" : false,
-		"version" : "none",
-		"isVisible" : true,
-		"data" : [
-			{
 				"popn_class" : "000.00_<=_x_<_099.00",
 				"max" : 99533,
 				"avg" : 96109.50387596899,
@@ -1202,9 +1183,9 @@ const data42 =
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"max" : 99719,
-				"avg" : 99546,
-				"min" : 99253,
-				"count" : 7
+				"avg" : 99497.625,
+				"min" : 99159,
+				"count" : 8
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
@@ -3064,7 +3045,7 @@ const data42 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -8997,7 +8978,7 @@ const data42 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "CS5",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -12888,7 +12869,7 @@ const data42 =
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"max" : 99634,
-				"avg" : 98952.11111111111,
+				"avg" : 98956.22222222222,
 				"min" : 98426,
 				"count" : 9
 			},

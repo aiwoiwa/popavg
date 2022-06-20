@@ -723,7 +723,7 @@ const data43 =
 		"difficulty" : "HYPER",
 		"isUPPER" : true,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{

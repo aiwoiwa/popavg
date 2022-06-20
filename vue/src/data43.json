@@ -10601,7 +10601,7 @@
 		"song" : "真超深ＴＩＯＮ",
 		"isUPPER" : true,
 		"difficulty" : "HYPER",
-		"ver" : "none",
+		"ver" : "pe",
 		"pf_rate" : "14.93",
 		"fc_rate" : "29.87",
 		"clear_rate" : "98.05",
@@ -10744,7 +10744,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 25,
 		"top_score" : 99356,
 		"top_medal" : 10
 	},

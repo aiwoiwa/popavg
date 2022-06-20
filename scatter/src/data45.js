@@ -316,7 +316,7 @@ const data45 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "pe",
 		"isVisible" : true
 	},
 	{
@@ -657,7 +657,7 @@ const data45 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "うさ",
 		"isVisible" : true
 	},
 	{
@@ -800,7 +800,7 @@ const data45 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "6",
 		"isVisible" : true
 	},
 	{
