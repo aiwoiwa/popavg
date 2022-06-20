@@ -7702,12 +7702,12 @@ const data48 =
 	},
 	{
 		"lv" : 48,
-		"genre" : "ヒップロック４ ",
+		"genre" : "ヒップロック４",
 		"song" : "路男",
 		"difficulty" : "EX",
-		"isUPPER" : false,
+		"isUPPER" : true,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true,
 		"data" : [
 			{
@@ -11997,7 +11997,7 @@ const data48 =
 		"difficulty" : "EX",
 		"isUPPER" : false,
 		"isUra" : false,
-		"version" : "none",
+		"version" : "解",
 		"isVisible" : true,
 		"data" : [
 			{

@@ -11412,11 +11412,11 @@
 	{
 		"id" : 70,
 		"lv" : 48,
-		"genre" : "ヒップロック４ ",
+		"genre" : "ヒップロック４",
 		"song" : "路男",
-		"isUPPER" : false,
+		"isUPPER" : true,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "解",
 		"pf_rate" : "8.98",
 		"fc_rate" : "17.57",
 		"clear_rate" : "87.10",
@@ -11568,7 +11568,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 26,
 		"top_score" : 99850,
 		"top_medal" : 10
 	},
@@ -17773,7 +17773,7 @@
 		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
 		"isUPPER" : false,
 		"difficulty" : "EX",
-		"ver" : "none",
+		"ver" : "解",
 		"pf_rate" : "20.17",
 		"fc_rate" : "34.76",
 		"clear_rate" : "98.28",
@@ -17925,7 +17925,7 @@
 				]
 			}
 		],
-		"ver_order" : undefined,
+		"ver_order" : 26,
 		"top_score" : 99717,
 		"top_medal" : 10
 	},
