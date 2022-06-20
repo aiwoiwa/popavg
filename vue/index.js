@@ -395,6 +395,7 @@ const app = new Vue({
                     ver_order: item.ver_order,
                     pf_rate: item.pf_rate,
                     fc_rate: item.fc_rate,
+                    group_by_popn_class: item.group_by_popn_class,
                     top_score: this.selectedPClassRange === 'All' ? item.top_score
                              : item.group_by_popn_class.filter(i => this.selectedPClassRange.includes(i.popn_class)).map(i => i?.scores[0] ?? 0).reduce((a, b) => a > b ? a : b),
                     top_medal: this.selectedPClassRange === 'All' ? item.top_medal
