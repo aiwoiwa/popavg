@@ -67,8 +67,9 @@ const v_accordion_grid_tbody = {
                             mode: 'point'
                             ,callbacks: {
                                 label: function(tooltipItem, data) {
+                                    const l = ["★", "★", "◆", "●", "★", "◆", "●", "EASY", "★", "◆", "●"];
                                     const p = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
-                                    return `${p}%`;
+                                    return `${l[tooltipItem.index]}: ${p}%`;
                                 }
                             }
                         },
@@ -131,8 +132,24 @@ const v_accordion_grid_tbody = {
                             mode: 'point'
                             ,callbacks: {
                                 label: function(tooltipItem, data) {
+                                    const l = [
+                                        "100k",
+                                        "99k",
+                                        "98k",
+                                        "97k",
+                                        "96k",
+                                        "95k",
+                                        "94k",
+                                        "93k",
+                                        "92k",
+                                        "91k",
+                                        "90k",
+                                        "86k-89k",
+                                        "82k-85k",
+                                        "0k-81k",
+                                    ];
                                     const p = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
-                                    return `${p}%`;
+                                    return `${l[tooltipItem.index]}: ${p}%`;
                                 }
                             }
                         },
@@ -366,7 +383,6 @@ const app = new Vue({
         },
         setPClassRange: function(pClassRange) {
             this.selectedPClassRange = pClassRange.length === this.pClasses.length ? 'All' : pClassRange;
-            console.log(this.selectedPClassRange);
             this.getData(this.selectedDataSrcKey);
         },
         getData: function(lv) {
