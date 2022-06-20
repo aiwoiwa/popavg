@@ -1200,19 +1200,8 @@ const data48 =
 		"isVisible" : true
 	},
 	{
-		"x" : 0,
-		"y" : 0,
-		"genre" : "龍王の霊廟(EX)",
-		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
-		"difficulty" : "EX",
-		"isUPPER" : false,
-		"isUra" : false,
-		"version" : "解",
-		"isVisible" : true
-	},
-	{
-		"x" : 0.34913793103448276,
-		"y" : 0.2025862068965517,
+		"x" : 0.34763948497854075,
+		"y" : 0.2017167381974249,
 		"genre" : "龍王の霊廟(Mausoleum Of The Primal Dragon)(EX)",
 		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
 		"difficulty" : "EX",

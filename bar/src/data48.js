@@ -11992,25 +11992,6 @@ const data48 =
 	},
 	{
 		"lv" : 48,
-		"genre" : "龍王の霊廟",
-		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
-		"difficulty" : "EX",
-		"isUPPER" : false,
-		"isUra" : false,
-		"version" : "解",
-		"isVisible" : true,
-		"data" : [
-			{
-				"popn_class" : "099.90_<=_x_<_100.00",
-				"max" : 97882,
-				"avg" : 97882,
-				"min" : 97882,
-				"count" : 1
-			}
-		]
-	},
-	{
-		"lv" : 48,
 		"genre" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
 		"song" : "龍王の霊廟(Mausoleum Of The Primal Dragon)",
 		"difficulty" : "EX",
@@ -12092,9 +12073,9 @@ const data48 =
 			{
 				"popn_class" : "099.90_<=_x_<_100.00",
 				"max" : 99064,
-				"avg" : 98300.66666666667,
+				"avg" : 98268.46153846153,
 				"min" : 96845,
-				"count" : 12
+				"count" : 13
 			},
 			{
 				"popn_class" : "100.00_<=_x_<_100.10",
