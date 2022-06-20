@@ -63,6 +63,15 @@ const v_accordion_grid_tbody = {
                                 fontSize: 12,
                             },
                         },
+                        tooltips: {
+                            mode: 'point'
+                            ,callbacks: {
+                                label: function(tooltipItem, data) {
+                                    const p = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
+                                    return `${p}%`;
+                                }
+                            }
+                        },
                     },
                 });
 
@@ -117,6 +126,15 @@ const v_accordion_grid_tbody = {
                                 fontColor: '#cfd2da',
                                 fontSize: 12,
                             },
+                        },
+                        tooltips: {
+                            mode: 'point'
+                            ,callbacks: {
+                                label: function(tooltipItem, data) {
+                                    const p = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
+                                    return `${p}%`;
+                                }
+                            }
                         },
                     },
                 });
@@ -358,6 +376,13 @@ const app = new Vue({
             .then(data => this.setGridItems(data));
         },
         setGridItems: function(data) {
+            data.forEach(
+                item => {
+                    item.sum_distribution_of_medal = item.distribution_of_medal.reduce((sum, element) => sum + element, 0);
+                    item.sum_distribution_of_score = item.distribution_of_score.reduce((sum, element) => sum + element, 0);
+                }
+            );
+
             this.gridItems = data.map(
                 item => ({
                     id: item.id,
@@ -375,8 +400,8 @@ const app = new Vue({
                     top_medal: this.selectedPClassRange === 'All' ? item.top_medal
                              : item.group_by_popn_class.filter(i => this.selectedPClassRange.includes(i.popn_class)).map(i => i?.top_medal ?? -1).reduce((a, b) => a > b ? a : b),
                     clear_rate: item.clear_rate,
-                    distribution_of_medal: item.distribution_of_medal,
-                    distribution_of_score: item.distribution_of_score
+                    distribution_of_medal: item.distribution_of_medal.map(i => (Math.floor((i / item.sum_distribution_of_medal)*10000)/100).toFixed(2)),
+                    distribution_of_score: item.distribution_of_score.map(i => (Math.floor((i / item.sum_distribution_of_score)*10000)/100).toFixed(2))
                 })
             );
         },
